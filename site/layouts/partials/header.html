@@ -1,0 +1,21 @@
+Main Navigation
+<ul>
+  {{ $currentPage := . }}
+  <!-- prettier-ignore -->
+  {{ range.Site.Menus.main }}
+  <li>
+    <a href="{{ .URL }}"> {{ .Name }} </a>
+  </li>
+  <!-- prettier-ignore -->
+  {{ end }}
+</ul>
+
+Language Navigation
+<ul>
+  {{ range $.Site.Home.AllTranslations }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+  </li>
+  <!-- prettier-ignore -->
+  {{ end }}
+</ul>

@@ -1,0 +1,48 @@
+# baseurl: /
+DefaultContentLanguage: de
+# languageCode: de-ch
+# languageLang: de
+languages:
+  de:
+    languageName: Deutsch
+    weight: 2
+    contentDir: content/german
+    menu:
+      main:
+        - name: Startseite
+          url: /
+        - name: Kontakt
+          url: /kontakt/
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/english
+    menu:
+      main:
+        - name: Home
+          url: /en/
+        - name: Contact
+          url: /en/contact/
+# [lanugagues.de.menu]
+#   [[menu.main]]
+#     identifier = "home"
+#     name = "Startseite"
+#     url = "/"
+#     weight = 0
+#   [[menu.main]]
+#     identifier = "contact"
+#     name = "Kontakt"
+#     url = "/kontakt"
+#     weight = 10
+# [languages.en.menu]
+#   [[menu.main]]
+#     identifier = "home"
+#     name = "Home"
+#     url = "/en/"
+#     weight = 0
+#   [[menu.main]]
+#     identifier = "contact"
+#     name = "Contact"
+#     url = "/contact"
+#     weight = 10
+title: Skribble
