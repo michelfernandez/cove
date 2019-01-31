@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<main class="main">
+  <div
+    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
+  >
+    [Intro]
+  </div>
+
+  <!-- prettier-ignore -->
+  {{ range .Params.blocks }} {{ partial "block" . }} {{ end }}
+
+  <div
+    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
+  >
+    [Compliance]
+  </div>
+
+  <div
+    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
+  >
+    [Recommendation]
+  </div>
+
+  <div
+    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
+  >
+    [Pricing]
+  </div>
+
+  <div
+    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
+  >
+    [Newsletter]
+  </div>
+</main>
+
+{{ end }}

@@ -1,0 +1,23 @@
+# baseurl: /
+DefaultContentLanguage: de
+# languageCode: de-ch
+# languageLang: de
+languages:
+  de:
+    languageName: Deutsch
+    weight: 2
+    contentDir: content/german
+    menu:
+      main:
+        - name: Kontakt
+          url: /kontakt/
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/english
+    menu:
+      main:
+        - name: Contact
+          url: /en/contact/
+
+title: Skribble

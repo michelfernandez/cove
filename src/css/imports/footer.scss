@@ -1,0 +1,44 @@
+.footer {
+  width: 100%;
+  border-top: 1px solid #dadee6;
+
+  a {
+    text-decoration: none;
+  }
+
+  &__container {
+    @include set-site-width;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+  }
+
+  &__left {
+    display: flex;
+    align-items: center;
+  }
+
+  &__logo {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 3rem;
+    color: var(--c-text-dark);
+
+    svg {
+      margin-right: 3px;
+    }
+  }
+
+  &__nav {
+    @include reset-list-styling;
+    display: flex;
+
+    a {
+      padding: 10px;
+      color: var(--c-text);
+    }
+  }
+}

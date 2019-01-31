@@ -1,0 +1,10 @@
+.lan-nav {
+  a {
+    padding: 10px;
+    text-decoration: none;
+    color: var(--c-text);
+  }
+
+  @include reset-list-styling;
+  display: flex;
+}

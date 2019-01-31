@@ -1,0 +1,21 @@
+{
+  "main": {
+    "css": "main.css",
+    "js": "main.js"
+  },
+  "": {
+    "": "fonts/.keep",
+    "woff2": [
+      "fonts/averta-extra-bold.woff2",
+      "fonts/averta-regular.woff2"
+    ],
+    "eot": [
+      "fonts/hinted-averta-extrabold.eot",
+      "fonts/hinted-averta-regular.eot"
+    ],
+    "woff": [
+      "fonts/hinted-averta-extrabold.woff",
+      "fonts/hinted-averta-regular.woff"
+    ]
+  }
+}

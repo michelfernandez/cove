@@ -1,0 +1,52 @@
+/*
+  You can use import statements to include partials:
+ */
+@import 'imports/reset';
+
+@font-face {
+  font-family: 'Averta';
+  src: url('/fonts/hinted-averta-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Averta';
+  src: url('/fonts/hinted-averta-extrabold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@import 'imports/vars';
+@import 'imports/mixins';
+
+@import 'imports/btn';
+
+@import 'imports/block';
+@import 'imports/footer';
+@import 'imports/header';
+@import 'imports/lan-nav';
+
+html {
+  font-size: 10px;
+}
+
+/*
+  Or add your statements here:
+ */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2rem;
+  line-height: 1.4;
+  font-family: var(--averta);
+  color: var(--c-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.main {
+  position: relative;
+  padding-top: 90px;
+}
