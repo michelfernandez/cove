@@ -22,6 +22,8 @@
 
 @import 'imports/btn';
 
+@import 'imports/collapsible';
+@import 'imports/compliance';
 @import 'imports/block';
 @import 'imports/footer';
 @import 'imports/header';
