@@ -15,17 +15,7 @@
     {{ partial "block" . }}
   {{ end }}
 
-  <div
-    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
-  >
-    [Recommendation]
-  </div>
-
-  <div
-    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
-  >
-    [Pricing]
-  </div>
+  {{ partial "pricing" .Params.pricing }}
 
   <div
     style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
