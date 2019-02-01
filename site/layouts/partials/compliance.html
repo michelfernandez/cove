@@ -1,6 +1,8 @@
 <div class="compliance">
-  <h1 class="compliance__title">{{ .title }}</h1>
-  <p  class="compliance__text">{{ .text }}</p>
+
+  <!-- pass on the arguments to title-subtitle module -->
+  {{ partial "title-subtitle" . }}
+
   <div class="compliance__collapsibles collapsibles">
     {{ range $i, $el :=.items }}
 

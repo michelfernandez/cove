@@ -1,6 +1,8 @@
 <div class="pricing">
-  <h1 class="pricing__title">{{ .title }}</h1>
-  <p  class="pricing__text">{{ .text }}</p>
+
+  <!-- pass on the arguments to title-subtitle module -->
+  {{ partial "title-subtitle" . }}
+
   <div class="pricing__plans">
 
     {{ range .plans }}
