@@ -1,11 +1,7 @@
 {{ define "main" }}
 
 <main class="main">
-  <div
-    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
-  >
-    [Intro]
-  </div>
+  {{ partial "intro" .Params.intro }}
 
   <!-- prettier-ignore -->
   {{ range .Params.blocks }} {{ partial "block" . }} {{ end }}
