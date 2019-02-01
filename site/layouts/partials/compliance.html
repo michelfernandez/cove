@@ -1,0 +1,30 @@
+<div class="compliance">
+  <h1 class="compliance__title">{{ .title }}</h1>
+  <p  class="compliance__text">{{ .text }}</p>
+  <div class="compliance__collapsibles collapsibles">
+    {{ range $i, $el :=.items }}
+
+      <div class="collapsible">
+        <input id="c{{ $i }}" class="collapsible__toggle" type="checkbox">
+        <label class="collapsible__label" for="c{{ $i }}">
+          <svg
+            class="collapsible__icon"
+            width="30"
+            height="30"
+            version="1.1"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect width="30" height="30" fill="#FF531A" />
+          </svg>
+          {{ .title }}
+        </label>
+        <div class="collapsible__content">
+          {{ .text }}
+          <br>
+          <strong>{{ .bold }}</strong>
+        </div>
+      </div>
+
+    {{ end }}
+  </div>
+</div>
