@@ -21,6 +21,19 @@ blocks:
     text: Lade alle signierenden Personen per E-Mail  ein und lege die Reihenfolge fest.
     image: image.jpg
     alt: Image
+  - title: Rechtsgültig signieren
+    text: Zeit- und ortsungebunden Dokumente signieren - rechtsgültig per Knopfdruck.
+    image: image.jpg
+    alt: Image
+  - title: Skribble setzt auf rechtsgültige Swisscom Zertifikate
+    inverse: true
+    text: Skribble ist offizieller Partner vom Swisscom Signing Provider und bezieht sämtliche Signing-Zertifikate von Swisscom, um Dokumente rechtsgültig nach dem Schweizer & EU Gesetz  zu signieren.
+    image: image.jpg
+    alt: Image
+  - title: Skribble überprüft deine Identität damit du rechtsgültig mit (QES) signieren kannst
+    text: Ein Swisscom RA-Officer kann dich mit deiner Identitätskarte oder Pass identifizieren und eine digitale Identität von dir erstellen. So wird sichergestellt, dass deine Identität klar verifiziert wurde und nur du signierst.
+    image: image.jpg
+    alt: Image
 compliance:
   title: Skribble erfüllt die rechtlichen Bestimmungen
   text: Mit Skribble kannst du digital und rechtsgültig (QES) signieren - nach den folgenden Gesetzen.

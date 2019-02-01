@@ -3,10 +3,17 @@
 <main class="main">
   {{ partial "intro" .Params.intro }}
 
-  <!-- prettier-ignore -->
-  {{ range .Params.blocks }} {{ partial "block" . }} {{ end }}
+  <!-- output the first 3 blocks -->
+  {{ range first 3 .Params.blocks }}
+    {{ partial "block" . }}
+  {{ end }}
 
   {{ partial "compliance" .Params.compliance }}
+
+  <!-- output the remaining blocks -->
+  {{ range after 3 .Params.blocks }}
+    {{ partial "block" . }}
+  {{ end }}
 
   <div
     style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
@@ -28,3 +35,6 @@
 </main>
 
 {{ end }}
+
+
+
