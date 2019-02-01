@@ -5,7 +5,10 @@
       <p>{{ .text }}</p>
     </div>
     <div class="block__image">
-      <img src="{{ .image }}" alt="{{ .alt }}" />
+      <picture>
+        <source srcset="{{ .image }}.webp" alt="{{ .alt }}" />
+        <img src="{{ .image }}.jpg" alt="{{ .alt }}" />
+      </picture>
     </div>
   </div>
 </div>

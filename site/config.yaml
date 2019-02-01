@@ -1,20 +1,22 @@
 baseurl: /
 languages:
   de:
+    params:
+      description: Rechtsgültig elektronisch signieren mit Skribble
     languageName: Deutsch
     weight: 2
     contentDir: content/german
     menu:
       main:
         - name: Kontakt
-          url: /kontakt/
+          url: /de/kontakt/
   en:
+    params:
+      description: Sign...
     languageName: English
     weight: 1
     contentDir: content/english
     menu:
       main:
         - name: Contact
-          url: /en/contact/
-
-title: Skribble
+          url: /contact/
