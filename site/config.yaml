@@ -1,7 +1,4 @@
-# baseurl: /
-DefaultContentLanguage: de
-# languageCode: de-ch
-# languageLang: de
+baseurl: /
 languages:
   de:
     languageName: Deutsch
