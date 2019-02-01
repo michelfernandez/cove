@@ -1,0 +1,13 @@
+<div class="newsletter">
+  <div class="newsletter__image">
+    <img src="{{ .image }}" alt="{{ .alt }}" />
+  </div>
+  <div class="newsletter__text">
+
+    <!-- pass on the arguments to title-subtitle module -->
+    {{ partial "title-subtitle" . }}
+
+    <div style="display:block;margin: 0 auto;width:448px;height:180px;background:#FF531A;"></div>
+
+  </div>
+</div>

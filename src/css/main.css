@@ -29,6 +29,7 @@
 @import 'imports/header';
 @import 'imports/intro';
 @import 'imports/lan-nav';
+@import 'imports/newsletter';
 @import 'imports/price-plan';
 @import 'imports/pricing';
 @import 'imports/title-subtitle';
