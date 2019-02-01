@@ -74,4 +74,12 @@ pricing:
     price: '19.90'
     addendum: exkl. MWSt
     color: info
+
+# newsletter component
+# form will be generated with an external service
+newsletter:
+  title: Registriere dich noch heute!
+  text: Erhalte spannende Inhalte zu Digital Trust und Trends.
+  image: image8@2x.jpg
+  alt:
 ---

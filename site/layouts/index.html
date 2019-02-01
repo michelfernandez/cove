@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 <main class="main">
+
   {{ partial "intro" .Params.intro }}
 
   <!-- output the first 3 blocks -->
@@ -17,11 +18,8 @@
 
   {{ partial "pricing" .Params.pricing }}
 
-  <div
-    style="display:flex;width:calc(100% - 100px);justify-content:center;padding:50px;font-weight:bold;color:black;"
-  >
-    [Newsletter]
-  </div>
+  {{ partial "newsletter" .Params.newsletter }}
+
 </main>
 
 {{ end }}
