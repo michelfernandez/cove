@@ -1,0 +1,23 @@
+.pricing {
+  @include set-site-width;
+  margin: 70px auto;
+
+  &__title {
+    text-align: center;
+  }
+
+  &__text {
+    margin-bottom: 50px;
+    text-align: center;
+  }
+
+  &__plans {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+  }
+
+  &__price-plan {
+    margin: 16px;
+  }
+}

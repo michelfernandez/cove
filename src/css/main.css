@@ -29,6 +29,8 @@
 @import 'imports/header';
 @import 'imports/intro';
 @import 'imports/lan-nav';
+@import 'imports/price-plan';
+@import 'imports/pricing';
 
 html {
   font-size: 10px;
