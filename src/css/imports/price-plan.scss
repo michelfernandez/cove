@@ -1,6 +1,7 @@
 .price-plan {
   --price-plan-lateral-padding: 20px;
-  width: 328px;
+  $price-plan-width: 328px;
+  width: $price-plan-width;
   max-width: 100%;
   border-top: 7px solid transparent;
   border-radius: 2px;
@@ -57,5 +58,42 @@
 
   &--platinum {
     border-color: var(--c-info);
+  }
+
+  &__discounts {
+    margin: 10px 20px;
+    font-size: 1.4rem;
+    line-height: 1.14;
+    color: var(--c-text-dark);
+
+    &-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    tr {
+      &.first td {
+        padding-top: 10px;
+      }
+      &:last-child td {
+        padding-bottom: 10px;
+        border-bottom: 1px solid #D8D8D8;
+      }
+    }
+
+    th {
+      padding: 14px 0;
+      border-bottom: 1px solid #D8D8D8;
+      font-size: 1.6rem;
+      font-weight: bold;
+      text-align: left;
+    }
+
+    td {
+      padding: 4px 0;
+      &:last-child {
+        text-align: right;
+      }
+    }
   }
 }

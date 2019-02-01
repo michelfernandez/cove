@@ -15,9 +15,9 @@
     display: flex;
     justify-content: center;
     align-items: stretch;
-  }
 
-  &__price-plan {
-    margin: 16px;
+    &-wrapper {
+      margin: 16px;
+    }
   }
 }
