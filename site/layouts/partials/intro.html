@@ -1,0 +1,31 @@
+<div class="intro">
+  <div class="intro__image">
+    <svg
+      width="680"
+      height="416"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect width="680" height="416" fill="#FF531A" />
+    </svg>
+    <!-- <img src="{{ .image }}" alt="{{ .alt }}" /> -->
+  </div>
+  <div class="intro__text">
+    <h1>{{ .title }}</h1>
+    <p>{{ .text }}</p>
+    <a class="btn" href="{{ .link.href }}">{{ .link.text }}</a>
+    <div class="intro__partner">
+      <!-- <img class="intro__partner-img" src="{{ .partner.image }}" alt="{{ .partner.alt }}"> -->
+      <svg
+        class="intro__partner-img"
+        width="50"
+        height="50"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect width="50" height="50" fill="#FF531A" />
+      </svg>
+      <div class="intro__partner-text">{{ .partner.text }}</div>
+    </div>
+  </div>
+</div>

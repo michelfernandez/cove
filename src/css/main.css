@@ -25,6 +25,7 @@
 @import 'imports/block';
 @import 'imports/footer';
 @import 'imports/header';
+@import 'imports/intro';
 @import 'imports/lan-nav';
 
 html {
@@ -49,4 +50,9 @@ body {
 .main {
   position: relative;
   padding-top: 90px;
+}
+
+h1 {
+  font: bold 4rem/4.4rem var(--averta);
+  color: var(--c-text-dark);
 }
