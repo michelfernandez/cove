@@ -19,6 +19,7 @@
   }
 
   &__text {
+    max-width: 595px;
     padding: 0 30px;
   }
 
@@ -29,6 +30,7 @@
 
     &-img {
       flex: 1 0 auto;
+      max-width: 50px;
       margin-right: 10px;
     }
 

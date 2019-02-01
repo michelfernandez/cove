@@ -4,7 +4,9 @@ draft: false
 
 # intro component
 intro:
-  title: Rechtsgültig elektronisch signieren mit Skribble
+  title: >
+    Rechtsgültig
+    elektronisch signieren mit Skribble
   text: Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
   image: image1@2x.jpg
   alt:
@@ -12,9 +14,9 @@ intro:
     text: Jetzt Vormerken
     href: '#'
   partner:
-    image:
+    image: image17@2x.jpg
     alt:
-    text: Mit qualifizierte elektronischer Signatur (QES) von Swisscom AG
+    text: Mit qualifizierter elektronischer Signatur (QES) von Swisscom AG
 
 # block components
 # the first 3 are displayed before the compliance component, the rest is displayed after it
@@ -67,6 +69,33 @@ pricing:
     price: '2.10'
     addendum: exkl. MWSt
     color: warning
+    discounts:
+      title: Volumenbasierte Prepaidkosten
+      row:
+        - col1: ab 1
+          col2: Signatur
+          col3: CHF
+          col4: '2.10'
+        - col1: ab 10’000
+          col2: Signaturen
+          col3: CHF
+          col4: '1.50'
+        - col1: ab 25’000
+          col2: Signaturen
+          col3: CHF
+          col4: '1.40'
+        - col1: ab 50’000
+          col2: Signaturen
+          col3: CHF
+          col4: '1.30'
+        - col1: ab 100’000
+          col2: Signaturen
+          col3: CHF
+          col4: '1.15'
+        - col1: ab 250’000
+          col2: Signaturen
+          col3: CHF
+          col4: '2.00'
   - title: Flatrate
     description: Für unterschriftsberechtige, die viel unterzeichnen.
     per: Pro Nutzer / monatlich
