@@ -2,11 +2,7 @@
 title: Kontakt
 slug: kontakt
 draft: false
+description: Kontakt meta description
 ---
 
-<!-- [Startseite](/) -->
-
 Kontakt
-
-<!-- [Disclaimer](/disclaimer)
-[404](/blub) -->
