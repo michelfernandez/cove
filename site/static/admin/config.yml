@@ -6,7 +6,7 @@ collections:
   - name: "german"
     label: "Deutsch"
     files:
-      - file: "site/content/german/_index.md"
+      - file: "site/content/german/new.md"
         label: "Home Page"
         name: "home"
         fields:
