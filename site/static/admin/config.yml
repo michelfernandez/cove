@@ -10,18 +10,54 @@ collections:
         label: "Home Page"
         name: "home"
         fields:
-          - label: "Intro DE"
+          - label: "Intro (de)"
             name: "intro"
             widget: "object"
-            fields: 
-              - label: "Title DE"
+            fields:
+              - label: "Title (de)"
                 name: "title"
                 widget: "string"
-              - label: "Text DE"
+              - label: "Text (de)"
                 name: "text"
                 widget: "markdown"
+              - label: "Image (de)"
+                name: "image"
+                widget: "object"
+                fields:
+                  - name: "mobile"
+                    widget: "object"
+                    fields:
+                      - name: "filename"
+                        widget: "image"
+                  - name: "desktop"
+                    widget: "object"
+                    fields:
+                      - name: "filename"
+                        widget: "image"
+              - label: "Alt text (de)"
+                name: "alt_text"
+                widget: "string"
+              - label: "Link (de)"
+                name: "link"
+                widget: "object"
+                fields:
+                  - name: "text"
+                    widget: "string"
+                  - name: "href"
+                    widget: "string"
+              - label: "Partner (de)"
+                name: "parner"
+                widget: "object"
+                fields:
+                  - name: "image"
+                    widget: "image"
+                  - name: "text"
+                    widget: "string"
+                  - name: "alt_text"
+                    widget: "string"
+
   - name: "english"
-    label: "Englisch"
+    label: "English"
     files:
       - file: "site/content/english/_index.md"
         label: "Home Page"
@@ -30,7 +66,7 @@ collections:
           - label: "Intro"
             name: "intro"
             widget: "object"
-            fields: 
+            fields:
               - label: "Title"
                 name: "title"
                 widget: "string"
