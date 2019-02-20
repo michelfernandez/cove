@@ -3,10 +3,27 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 collections:
-  - name: "pages"
-    label: "Pages"
+  - name: "german"
+    label: "Deutsch"
     files:
       - file: "site/content/german/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - label: "Intro DE"
+            name: "intro"
+            widget: "object"
+            fields: 
+              - label: "Title DE"
+                name: "title"
+                widget: "string"
+              - label: "Text DE"
+                name: "text"
+                widget: "markdown"
+  - name: "english"
+    label: "Englisch"
+    files:
+      - file: "site/content/english/_index.md"
         label: "Home Page"
         name: "home"
         fields:
