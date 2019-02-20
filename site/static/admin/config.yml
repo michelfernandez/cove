@@ -27,7 +27,7 @@ collections:
                   - name: "mobile"
                     widget: "object"
                     fields:
-                      - name: "filename_web"
+                      - name: "filename_webp"
                         widget: "image"
                       - name: "filename_jpg"
                         widget: "image"
