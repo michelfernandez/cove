@@ -29,7 +29,7 @@ Easily handle digital signature processes – legally binding in accordance with
 
 {{< button
   "Try it now"
-  "https://www.skribble.com"
+  "https://my.skribble.com/signup"
   "_blank"
 >}}
 
