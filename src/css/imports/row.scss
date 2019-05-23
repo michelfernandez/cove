@@ -1,5 +1,7 @@
 .row {
+  @include half-padding;
   display: flex;
+  justify-content: center;
   @include max-width {
     flex-direction: column;
     align-items: center;
@@ -8,7 +10,20 @@
   .plan {
     @include min-width {
       margin: 16px;
+    }
+    @include min-width {
+      margin: 0 16px;
       align-self: stretch;
+      &:first-child {
+        margin-left: 0;
+      }
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+
+    &-inner {
+      height: 100%;
     }
   }
 }

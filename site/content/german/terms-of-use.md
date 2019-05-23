@@ -2,10 +2,10 @@
 title: Nutzungsbedingungen
 slug: nutzungsbedingungen
 draft: false
-type: narrow
 description: Nutzungsbedingungen meta description
 ---
 
+{{% content %}}
 {{% richtext %}}
 # Skribble Nutzungsbedingungen<br>von BlockSigner AG
 (Version 2018.10.18)
@@ -64,3 +64,4 @@ einzuhalten:
         Informationen zu verbreiten.</li>
 </ol>
 {{% /richtext %}}
+{{% /content %}}

@@ -30,14 +30,16 @@ map:
 {{< outro >}}
 {{< picture image8 414 >}}
 
-{{% content %}}
-# Jetzt Skribble unverbindlich ausprobieren!
+{{% richtext %}}
+{{% heading %}}
+# Jetzt Skribble ausprobieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /heading %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /content %}}
+{{% /richtext %}}
 {{< /outro >}}

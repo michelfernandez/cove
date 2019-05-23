@@ -1,30 +1,9 @@
 .content {
-  @include add-richtext-styling;
-  max-width: 100%;
-  text-align: left;
-  @include max-width {
-    margin-top: 10px;
-    margin-bottom: 20px;
-  }
+  @include site-width($narrow: true);
+  @include standard-padding;
+  padding-top: 88px;
 
-  a:not(.btn) {
-    color: $c-text;
-    text-decoration: none;
-    &:hover {
-      color: $c-primary;
-    }
-  }
-
-  h2 {
-    margin: 3rem 0 1rem;
-    font: bold 2.4rem/1.35 $averta;
-    color: $c-text-alt;
-    @include max-width {
-      font-size: 2rem;
-    }
-  }
-
-  strong {
-    color: $c-text-alt;
+  p:last-child {
+    margin-bottom: 0;
   }
 }

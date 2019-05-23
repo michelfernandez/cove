@@ -1,26 +1,53 @@
 .side-by-side {
-  @include site-width($narrow: true);
-  @include vertical-unit-margins;
+  @include standard-padding;
+  @include site-width;
   display: flex;
   align-items: center;
+  width: $side-by-side-width;
   @include max-width {
     flex-direction: column;
   }
 
-  .content {
+  .richtext {
     @include min-width {
       flex: 1 1 100%;
-      padding: 0 40px;
     }
     @include max-width {
       order: -1;
+    }
+    &:first-child {
+      @include min-width {
+        padding-right: 30px;
+      }
+    }
+    &:last-child {
+      @include min-width {
+        padding-left: 30px;
+      }
+    }
+
+    h2:first-child {
+      margin-top: 0;
     }
   }
 
   .picture {
     @include min-width {
       flex: 1 1 100%;
-      padding: 0 40px;
+    }
+    &:first-child {
+      @include min-width {
+        padding-right: 30px;
+      }
+    }
+    &:last-child {
+      @include min-width {
+        padding-left: 30px;
+      }
+    }
+
+    picture {
+      overflow: hidden;
     }
   }
 }

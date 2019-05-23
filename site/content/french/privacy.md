@@ -2,10 +2,10 @@
 title: Politique de Confidentialité
 slug: politique-de-confidentialite
 draft: false
-type: narrow
 description: Politique de Confidentialité méta-description
 ---
 
+{{% content %}}
 {{% richtext %}}
 # Politique de Confidentialité
 
@@ -42,12 +42,12 @@ Il se peut que nous fassions appel aux services de plusieurs Prestataires de Ser
 ### Personne Concernée (ou Utilisateur)
 Par Personne Concernée, on entend toute personne vivante qui utilise notre Service et est le sujet de Données à Caractère Personnel.
 
-# Collecte et utilisation des données
+## Collecte et utilisation des données
 Nous recueillons plusieurs types de données à différentes fins en vue de vous fournir notre Service et de l'améliorer.
 
-## Types de données recueillies
+### Types de données recueillies
 
-### Données à Caractère Personnel
+#### Données à Caractère Personnel
 Lorsque vous utilisez notre Service, il est possible que nous vous demandions de nous fournir certaines données personnelles nominatives qui peuvent servir à vous contacter ou à vous identifier ("Données à Caractère Personnel"). Les données personnelles nominatives peuvent comprendre, mais de manière non limitative:
 
 -	Adresse e-mail
@@ -57,14 +57,14 @@ Lorsque vous utilisez notre Service, il est possible que nous vous demandions de
 
 Nous pouvons utiliser vos Données à Caractère Personnel pour vous envoyer des bulletins d'information, des communications commerciales ou des promotions et d'autres informations susceptibles de vous intéresser. Vous pouvez choisir de ne recevoir aucune communication de notre part ou de ne recevoir que certaines communications en cliquant sur le lien de désabonnement ou en suivant les instructions qui figurent dans chacun des e-mails que nous envoyons.
 
-### Données d'Utilisation
+#### Données d'Utilisation
 Nous pouvons également recueillir des informations relatives au mode d'accès et d'utilisation du Service ("Données d'Utilisation"). Ces Données d'Utilisation peuvent comprendre des informations telles que l'adresse de protocole Internet (c.-à-d. l'adresse IP) de votre ordinateur, le type de navigateur, la version du navigateur, les pages de notre Service que vous consultez, la date et l'heure de votre visite, le temps passé sur ces pages, les identifiants uniques de dispositifs ainsi que d'autres données de diagnostic.
 
-### Données de localisation
+#### Données de localisation
 Nous pouvons utiliser et stocker des données concernant votre position géographique si vous nous y autorisez ("Données de Localisation"). Nous utilisons ces données pour fournir les fonctionnalités de notre Service et pour améliorer et personnaliser notre Service.
 Lorsque vous utilisez notre Service, vous pouvez activer ou désactiver les services de localisation à tout moment en utilisant les paramètres de votre dispositif.
 
-### Suivi et données de cookies
+#### Suivi et données de cookies
 Nous avons recours à des cookies et à d'autres technologies de suivi similaires pour effectuer un suivi des activités effectuées dans notre Service, et nous conservons certaines informations.
 Les cookies sont des fichiers à faible volume de données pouvant comporter un identifiant unique anonyme. Les cookies sont envoyés à votre navigateur depuis un site web et sont stockés sur votre dispositif. D'autres technologies de suivi telles que les pixels, les balises et les scripts sont également utilisées pour recueillir et suivre des informations et afin d'améliorer et d'analyser notre Service.
 
@@ -113,7 +113,7 @@ BlockSigner AG prendra toutes les mesures raisonnablement nécessaires pour fair
 ## Communication de données
 
 ### Opération commerciale
-Si BlockSigner AG est impliquée dans une fusion, une acquisition ou une vente d'actifs, il se peut que vos Données à Caractère Personnel soient transférées. Avant que vos Données à Caractère Personnel ne soient transférées et ne soient soumises à une Politique de Confidentialité différente, nous vous en aviserons.    
+Si BlockSigner AG est impliquée dans une fusion, une acquisition ou une vente d'actifs, il se peut que vos Données à Caractère Personnel soient transférées. Avant que vos Données à Caractère Personnel ne soient transférées et ne soient soumises à une Politique de Confidentialité différente, nous vous en aviserons.
 
 ### Communication de données aux forces de l'ordre
 Dans certaines circonstances, BlockSigner AG peut être tenue de communiquer vos Données à Caractère Personnel si la loi l'exige ou en réponse à des demandes valides émanant de pouvoirs publics (par ex. un tribunal ou un organisme gouvernemental).
@@ -151,7 +151,7 @@ Nous pouvons faire appel à des sociétés tierces et à des tierces personnes p
 Ces tiers n'ont accès à vos Données à Caractère Personnel que pour effectuer ces tâches en notre nom et il leur est interdit de les communiquer ou de les utiliser à quelle qu'autre fin.
 
 ### Analyses
-Nous pouvons faire appel à des Prestataires de Services tiers pour surveiller et analyser l'utilisation de notre Service.   
+Nous pouvons faire appel à des Prestataires de Services tiers pour surveiller et analyser l'utilisation de notre Service.
 
 ### Google Analytics
 Google Analytics est un service d'analyse web proposé par Google qui assure le suivi du trafic d'un site web et en rend compte. Google utilise les données recueillies pour suivre et surveiller l'utilisation de notre Service. Ces données sont partagées avec d'autres services Google. Google peut utiliser les données recueillies pour contextualiser et personnaliser les annonces de son propre réseau publicitaire.
@@ -161,7 +161,7 @@ Vous pouvez empêcher que vos activités dans le cadre du Service ne soient mise
 Pour plus de précisions sur les pratiques de confidentialité de Google, merci de consulter la page web Protection de la vie privée et conditions de Google: <a href="https://policies.google.com/privacy?hl=en" target="_blank">policies.google.com/privacy?hl=en</a>
 
 ## Remarketing comportemental
-BlockSigner AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.  
+BlockSigner AG fait appel à des services de remarketing pour vous présenter des annonces sur des sites de tiers après que vous ayez consulté notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour façonner, optimiser et diffuser des annonces en fonction de votre fréquentation antérieure de notre Service.
 
 ### Google Ads (AdWords)
 Le service de remarketing Google Ads (AdWords) est fourni par Google Inc.
@@ -214,3 +214,4 @@ Pour toute question relative à la présente Politique de Confidentialité, veui
 -	Par courrier électronique: <a href="mailto:info@skribble.com">info@skribble.com</a>
 -	En consultant cette page sur notre site web: <a href="https://www.skribble.com" target="_blank">www.skribble.com</a>
 {{% /richtext %}}
+{{% /content %}}

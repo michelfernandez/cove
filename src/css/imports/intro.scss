@@ -1,32 +1,52 @@
 .intro {
-  @include site-width($narrow: true);
-  @include vertical-unit-margins;
+  @include site-width;
+  @include double-padding;
   display: flex;
   align-items: center;
+  width: $intro-width;
   @include max-width {
     flex-direction: column-reverse;
   }
 
-  .content {
+  .btn {
+    @include max-width {
+      width: 100%;
+    }
+  }
+
+  .richtext {
     @include min-width {
-      flex: 1 1 100%;
-      padding: 0 40px;
+      flex: 1 1 0%;
+      padding: 0 40px 0 0;
+    }
+
+    + .hide-for-mobile {
+      padding-right: 0;
     }
   }
 
   .hide-for-mobile {
     @include min-width {
-      flex: 1 1 100%;
-      padding: 0 40px;
+      flex: 1 1 0%;
+      padding: 0 40px 0 0;
     }
     @include max-width {
       margin: 40px auto;
     }
+
+    + .richtext {
+      padding-right: 0;
+    }
   }
 
-  .btn {
+  .picture {
     @include max-width {
-      display: block;
+      margin-top: 22px;
+      margin-bottom: 44px;
+    }
+
+    picture {
+      overflow: hidden;
     }
   }
 

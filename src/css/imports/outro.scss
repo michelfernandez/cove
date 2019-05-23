@@ -1,13 +1,26 @@
 .outro {
-  @include site-width($narrow: true);
-  @include vertical-unit-margins;
-  display: flex;
-  align-items: center;
-  @include max-width {
-    flex-direction: column;
+  @include double-padding;
+  @include min-width {
+    padding-top: 120px;
   }
 
-  .content {
+  .btn {
+    @include max-width {
+      width: 100%;
+    }
+  }
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    width: $outro-width;
+    @include max-width {
+      flex-direction: column;
+    }
+  }
+
+  .richtext {
+    text-align: center;
     @include min-width {
       flex: 1 1 100%;
       padding: 0 40px;
