@@ -1,6 +1,9 @@
 # cove
 Skribble **co**rporate **ve**bsite
 
+## Status
+Deploy: 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d00ef7a-5c8b-4b90-912f-355470b7d23c/deploy-status)](https://app.netlify.com/sites/skribble/deploys)
 
 ## Use
 ### Prerequisites
