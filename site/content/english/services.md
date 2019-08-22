@@ -11,7 +11,7 @@ og_image: og/og-skribble-mission.jpg
 {{% content %}}
 {{% heading %}}
 # Pay per signature or as a flatrate <br class="hide-for-mobile">and save if you sign more
-Skribbles offer structure adapts to your needs.
+Skribble's pricing structure adapts to your needs
 {{% /heading %}}
 {{< picture image15 585 "A woman with long red hair chooses an offer" >}}
 
@@ -28,15 +28,15 @@ Suitable for regular signing with QES
 Can be flexibly combined
 : The two service models can be combined: For example, if Mr. Sample daily signs contracts with various external parties, we recommend the flat rate plan for Mr. Sample and the prepaid plan for the external parties.
 
-The more, the less expensive
+More signatures, better value
 : We have a volume-based pricing model: the more signatures you purchase in a prepaid plan, the lower the unit price. The more people you sign up for the flat rate plan, the lower the monthly flat rate per person.
 {{% /richtext %}}
 {{% /content %}}
 
 {{% cta
-  "Get offer now"
-  "mailto:info@skribble.com"
-  "_blank"
+  label="Get offer now"
+  href="mailto:info@skribble.com"
+  target="_blank"
 %}}
 {{% richtext %}}
 **Would you like to know more about our prices?**
@@ -63,8 +63,8 @@ Suitable if you use QES in a predefined circle of people.
 {{% /content %}}
 
 {{% cta
-  "More about identification"
-  "/identification"
+  label="More about identification"
+  href="/identification"
 %}}
 {{% richtext %}}
 **The identity check is carried out once upon personal contact with the ID app provided by Swisscom.**
@@ -78,7 +78,7 @@ Suitable if you use QES in a predefined circle of people.
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

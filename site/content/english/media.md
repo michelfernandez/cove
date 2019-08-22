@@ -20,10 +20,9 @@ Skribble, founded in March 2018, is a Swiss provider of electronic signatures wi
 {{% /content %}}
 
 {{% cta
-  "Contact"
-  "mailto:kira@skribble.com"
-  ""
-  "Media Contact"
+  label="Contact"
+  href="mailto:kira@skribble.com"
+  title="Media Contact"
 %}}
 
 {{< picture image13 100 "Kira Leuthold Content & Communications at Skribble" >}}
@@ -35,10 +34,9 @@ Communications & Public Relations
 {{% /cta %}}
 
 {{% cta
-  "Download"
-  "downloads/Skribble-Brand-Assets.zip"
-  ""
-  "Brand-Assets"
+  label="Download"
+  href="downloads/Skribble-Brand-Assets.zip"
+  title="Brand-Assets"
 %}}
 
 {{< picture image14 106 "Notebook with lots of information about skribble" >}}
@@ -77,7 +75,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

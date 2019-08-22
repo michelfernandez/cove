@@ -74,24 +74,45 @@ Vous signez légalement par simple pression <br class="hide-for-mobile">d'un bou
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
+"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
 # Skribble répond aux exigences légales
 Avec Skribble, vous pouvez signer numériquement et légalement (QES) <br class="hide-for-mobile">et satisfaire aux exigences légales suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "L'exigence de la forme écrite" %}}
+{{% collapsible 1 "L'exigence de la forme écrite" "check" %}}
 La QES équivaut à la signature manuscrite devant le droit suisse (art. 14, al. 2 bis CO) et européen (eIDAS n° 910/2014 art. 25, al. 2)
 {{% /collapsible %}}
 
-{{% collapsible 2 "La SCSE et l'eIDAS" %}}
+{{% collapsible 2 "La SCSE et l'eIDAS" "check" %}}
 Skribble obtient la QES auprès de Swisscom, un fournisseur de certificats électroniques reconnus par la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Exigences relatives à la protection des données en Suisse et dans l'UE" %}}
+{{% collapsible 3 "Exigences relatives à la protection des données en Suisse et dans l'UE" "check" %}}
 Skribble et ses partenaires (Swisscom) s'engagent à gérer les données conformément à la LPD et au RGPD.
 {{% /collapsible %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="Apprendre plus"
+  href="fr/qes-explique"
+  outlined="true"
+%}}
+
+{{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
+
+{{% richtext %}}
+**Pourquoi la signature électronique qualifiée (QES) fixe une norme numérique à la loi?**<br>
+{{% /richtext %}}
+{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -106,14 +127,40 @@ Les certificats numériques correspondants sont un élément important de la sig
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{% content %}}
+{{% heading %}}
+# Comment utiliser Skribble pour s'assurer de l'identité des signataires
+Les personnes ayant une e-ID vérifiée peuvent signer sur Skribble sans mesures supplémentaires. 
+**The following e-IDs allow you to sign with Skribble shortly:**
+{{% /heading %}}
 {{% richtext %}}
-## Skribble vérifie votre identité <br class="hide-for-mobile">afin que vous puissiez signer électroniquement en toute sécurité.
-Le signataire doit prouver son identité pour utiliser la signature électronique qualitfiée (QES). Les personnes possédant une e-ID vérifiée peuvent commencer sans mesures supplémentaires. Dans le cas contraire, Skribble offre un moyen d'identification adapté <br class="hide-for-mobile">à chaque contexte commercial.
 {{% /richtext %}}
 
-{{< picture image6 365 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
-{{< /side-by-side >}}
+{{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
+{{% center %}}L'intégration d'autres e-IDs suivra cette année.{{% / center %}}
+{{% richtext %}}
+{{% /richtext %}}
+{{% /content %}}
+{{% cta
+  label="Apprendre plus"
+  href="fr/identification"
+  title="Pour tous les autres, Skribble offre une solution d'identification adaptée."
+  outlined="true"
+%}}
+
+{{< picture identifizieren 112 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
+
+{{% richtext %}}
+**Identification avec Skribble**<br>
+Laissez Skribble vous identifier et commencez à signer immédiatement.
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
+"Skribble offre une solution conviviale <br class="hide-for-mobile">pour les signatures électroniques qualifiées en Suisse." 
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

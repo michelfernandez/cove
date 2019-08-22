@@ -52,11 +52,10 @@ The Validator service of the Swiss Federal Administration allows you to check wh
 {{% /content %}}
 
 {{% cta
-  "To the Validator"
-  "https://www.e-service.admin.ch/validator/upload/all/en"
-  "_blank"
-  ""
-  outline
+  label="To the Validator"
+  href="https://www.e-service.admin.ch/validator/upload/all/en"
+  target="_blank"
+  outlined="true"
 %}}
 {{< picture ch-logo 54 >}}
 {{% richtext %}}
@@ -71,7 +70,7 @@ The Validator service of the Swiss Federal Administration allows you to check wh
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally valid electronically!
+# Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /heading %}}
 

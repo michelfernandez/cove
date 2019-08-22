@@ -1,14 +1,13 @@
-<div class="cta">
-  {{ if (.Get 3) }}
-    <div class="cta__title">{{.Get 3}}</div>
+<div class="cta {{ cond (eq (.Get "floating") "true") "cta--floating" "" }}">
+  {{ if (.Get "title") }}
+    <div class="cta__title">{{.Get "title" }}</div>
   {{ end }}
   <div class="cta__content">
     <div class="cta__left">
       {{.Inner}}
     </div>
     <div class="cta__right">
-      <a class="cta__btn btn {{ cond (eq (.Get 4) "outline") "btn--outline" "" }}" target="{{.Get 2}}" href="{{.Get 1}}">{{.Get 0}}</a>
+      <a class="cta__btn btn {{ cond (eq (.Get "outlined") "true") "btn--outline" "" }}" target="{{.Get "target"}}" href="{{.Get "href"}}">{{.Get "label"}}</a>
     </div>
   </div>
 </div>
-
