@@ -91,10 +91,10 @@ groups:
       - name: Dominik Kumpf
         position: Engineering & Testing
         images:
-          regular_portrait: team/dominik-kumpf-p
-          retina_portrait: team/dominik-kumpf-p@2x
-          regular_landscape: team/dominik-kumpf-p
-          retina_landscape: team/dominik-kumpf-p@2x
+          regular_portrait: team/dominik-kumpf-l
+          retina_portrait: team/dominik-kumpf-l@2x
+          regular_landscape: team/dominik-kumpf-l
+          retina_landscape: team/dominik-kumpf-l@2x
       - name: Luc Lippuner
         position: Content & Communications
         images:
@@ -105,10 +105,10 @@ groups:
       - name: João Bárcia
         position: Engineering
         images:
-          regular_portrait: team/joao-barcia-l
-          retina_portrait: team/joao-barcia-l@2x
-          regular_landscape: team/joao-barcia-p
-          retina_landscape: team/joao-barcia-p@2x
+          regular_portrait: team/joao-barcia-p
+          retina_portrait: team/joao-barcia-p@2x
+          regular_landscape: team/joao-barcia-l
+          retina_landscape: team/joao-barcia-l@2x
       - name: Rainer Görmann
         position: Engineering
         images:
