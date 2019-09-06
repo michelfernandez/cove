@@ -138,8 +138,6 @@ An important component of qualified electronic signatures (QES) are digital cert
 Those who have a verified e-ID can sign on Skribble <br class="hide-for-mobile">without additional measures.<br><br>
 **Shortly you will be able to sign on Skribble with the following e-IDs:**
 {{% /heading %}}
-{{% richtext %}}
-{{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
 {{% richtext %}}

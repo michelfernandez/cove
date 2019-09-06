@@ -133,8 +133,6 @@ Les certificats numériques correspondants sont un élément important de la sig
 Les personnes ayant une e-ID vérifiée peuvent signer sur Skribble <br class="hide-for-mobile">sans mesures supplémentaires.<br><br>
 **The following e-IDs allow you to sign with Skribble shortly:**
 {{% /heading %}}
-{{% richtext %}}
-{{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
 {{% richtext %}}
