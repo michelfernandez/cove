@@ -174,10 +174,10 @@ Der Kunde verpflichtet sich zu Folgendem:
 2. An die Stelle der nichtigen, unwirksamen und/oder unvollständigen Bestimmung tritt die rechtsgültige Ersatzregelung, die der unwirksamen bzw. unvollständigen Bestimmung am nächsten kommt. 
 
 ### Gerichtsstand
-1. Wenn der Kundenvertrag gemäss Ziff. 1.2 mit Skribble AG abgeschlossen wurde, gilt folgendes:
+1. Wenn der Kundenvertrag gemäss Ziff. A.1.2. mit Skribble AG abgeschlossen wurde, gilt folgendes:
   1. Die unter diesen AGB bestehende Rechtsbeziehung zwischen Ihnen und Skribble untersteht dem schweizerischen Recht, unter Ausschluss des Übereinkommens der Vereinten Nationen über Verträge über den internationalen      Warenkauf vom 11. April 1980.
   2. Ausschliesslicher Gerichtsstand für alle Streitigkeiten mit Bezug zu diesen AGB ist Zürich, Schweiz. Skribble ist jedoch in jedem Fall berechtigt, das Gericht am Sitz des Kunden anzurufen.
-2. Wenn der Kundenvertrag gemäss Ziff. 1.2 mit Skribble Deutschland GmbH abgeschlossen wurde, gilt folgendes:
+2. Wenn der Kundenvertrag gemäss Ziff. A.1.2. mit Skribble Deutschland GmbH abgeschlossen wurde, gilt folgendes:
   1. Die unter diesen AGB bestehende Rechtsbeziehung zwischen Ihnen und Skribble untersteht dem deutschen Recht, unter Ausschluss des Übereinkommens der Vereinten Nationen über Verträge über den internationalen              Warenkauf vom 11. April 1980.
   2. Ausschliesslicher Gerichtsstand für alle Streitigkeiten mit Bezug zu diesen AGB ist Ettlingen, Deutschland. Skribble ist jedoch in jedem Fall berechtigt, das Gericht am Sitz des Kunden anzurufen.
 {{% /legal-list %}}

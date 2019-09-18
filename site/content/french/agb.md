@@ -176,10 +176,10 @@ Le Client s'engage à ce qui suit :
 2. La disposition invalide, inefficace et/ou incomplète est remplacée par une disposition de remplacement juridiquement valable qui se rapproche le plus possible de la disposition invalide ou incomplète.
 
 ### For juridique
-1. Si le contrat du client a été conclu avec Skribble SA conformément à l'article 1.2, les dispositions suivantes s'appliquent :
+1. Si le contrat du client a été conclu avec Skribble SA conformément à l'article A.1.2., les dispositions suivantes s'appliquent :
   1. Les relations juridiques entre vous et Skribble existant dans le cadre des présentes CG sont régies par le droit suisse, à l'exclusion de la Convention des Nations Unies sur les contrats de vente internationale de marchandises du 11 avril 1980.
   2. Le for exclusif pour tous les litiges relatifs aux présentes CG est Zurich, Suisse. Toutefois, Skribble est en tout état de cause en droit de faire valoir ses droits devant le tribunal du siège social du Client.
-2. Si le contrat du client a été conclu avec Skribble Deutschland GmbH conformément à l'article 1.2, les dispositions suivantes s'appliquent :
+2. Si le contrat du client a été conclu avec Skribble Deutschland GmbH conformément à l'article A.1.2., les dispositions suivantes s'appliquent :
   1. Les relations juridiques entre vous et Skribble existant dans le cadre des présentes CG sont régies par le droit allemand, à l'exclusion de la Convention des Nations Unies sur les contrats de vente internationale de marchandises du 11 avril 1980.
   2. Le for exclusif pour tous les litiges relatifs aux présentes CG est Ettlingen, Allemagne. Toutefois, Skribble est en tout état de cause en droit de faire valoir ses droits devant le tribunal du siège social du Client.
 

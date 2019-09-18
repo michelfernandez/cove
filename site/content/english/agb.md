@@ -174,12 +174,12 @@ Skribble Service provides the following accounts:
 2. The invalid, ineffective and/or incomplete provision shall be replaced by a legally valid replacement provision which comes as close as possible to the invalid or incomplete provision. 
 
 ### Place of Jurisdiction
-1. If the Customer Contract was concluded with Skribble AG in accordance with Clause 1.2, the following shall apply:
-  1. The legal relationship between the Customer and Skribble existing under these GTC is subject to Swiss law,    to the exclusion of the United Nations Convention on Contracts for the International Sale of Goods of 11      April 1980.
-  2. The exclusive place of jurisdiction for all disputes relating to these GTC is Zurich, Switzerland. However,   Skribble is entitled in any case to appeal to the court at the Customer's place of business.
-2. If the Customer Contract was concluded with Skribble Deutschland GmbH in accordance with Clause 1.2, the following shall apply:
-  1. The legal relationship between the Customer and Skribble existing under these GTC is subject to German law,   to the exclusion of the United Nations Convention on Contracts for the International Sale of Goods of 11      April 1980.
-  2. The exclusive place of jurisdiction for all disputes relating to these GTC is Ettlingen, Germany. However,    Skribble is entitled in any case to appeal to the court at the Customer's place of business.
+1. If the Customer Contract was concluded with Skribble AG in accordance with Clause A.1.2., the following shall apply:
+  1. The legal relationship between the Customer and Skribble existing under these GTC is subject to Swiss law, to the exclusion of the United Nations Convention on Contracts for the International Sale of Goods of 11      April 1980.
+  2. The exclusive place of jurisdiction for all disputes relating to these GTC is Zurich, Switzerland. However, Skribble is entitled in any case to appeal to the court at the Customer's place of business.
+2. If the Customer Contract was concluded with Skribble Deutschland GmbH in accordance with Clause A.1.2., the following shall apply:
+  1. The legal relationship between the Customer and Skribble existing under these GTC is subject to German law, to the exclusion of the United Nations Convention on Contracts for the International Sale of Goods of 11      April 1980.
+  2. The exclusive place of jurisdiction for all disputes relating to these GTC is Ettlingen, Germany. However, Skribble is entitled in any case to appeal to the court at the Customer's place of business.
 {{% /legal-list %}}
 ## * * *
 
