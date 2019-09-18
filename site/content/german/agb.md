@@ -1,6 +1,6 @@
 ---
 title: Allgemeine Geschäftsbedingungen (AGB) der Skribble 
-slug: agb-de
+slug: agb
 draft: false
 description: Allgemeine Geschäftsbedingungen (AGB) der Skribble 
 ---

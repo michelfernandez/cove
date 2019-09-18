@@ -1,6 +1,6 @@
 ---
 title: General Terms and Conditions (GTC) of Skribble
-slug: agb-en
+slug: gtc
 draft: false
 description: General Terms and Conditions (GTC) of Skribble
 

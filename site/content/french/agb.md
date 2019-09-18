@@ -1,6 +1,6 @@
 ---
 title: Conditions Générales (CG) de Skribble SA
-slug: agb-fr
+slug: cg
 draft: false
 description: Conditions Générales (CG) de Skribble SA
 
