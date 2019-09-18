@@ -19,7 +19,7 @@ The following applies to you as customer (You or Customer) of the Skribble e-sig
 1. These GTC are applicable to all the services that Skribble provides to the Customer.
 2. If you are a Customer with domicile or registered office in Switzerland or outside the EU, you are entering into a legal relationship with Skribble AG, Bahnhofstrasse 3, 8001 Zurich. If you are a customer with domicile or registered office in the EU, you enter into a legal relationship with Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany.
 3. The Customer agrees to the application of these GTC by accepting Skribble's offer, by signing the cover sheet of the contract or by concluding a contract through the Skribble Service, which results in a Customer Contract between the Customer and Skribble. Any legal conditions which the Customer may wish to apply in addition are hereby rejected and shall therefore not apply. An explicit deviating regulation is reserved if both parties sign it. 
-4. The use of the Skribble Service by the System Users is governed by separate provisions (see Section 5).
+4. The use of the Skribble Service by the System Users is governed by separate provisions (see Section B.3.).
 
 ### Subject Matter
 1. In order to sign a document electronically in an advanced or qualified manner, a strong authentication of the signatory and a signature created by a certified service, a certification authority, are required. 
@@ -50,8 +50,8 @@ Skribble Service provides the following accounts:
 1. Skribble undertakes to provide the Skribble Service under the Customer Contract. The services as well as the conditions of use are described in the Customer Contract. 
 
 ### Warranty
-1.  An insignificant defect shall not constitute a warranty claim; Section 7.2 shall apply in addition. If warranty claims exist, Skribble shall have the choice of the type of subsequent performance. A statute of limitation of one year from the transfer of risk shall apply, whereby the statute of limitation shall not begin to run again if Skribble makes a replacement delivery within the scope of the liability for defects. 
-2. In addition to Clause 7.1, the following shall apply: If Skribble forwards services or content from third parties within the scope of the Skribble Service, any warranty of Skribble is hereby excluded in its entirety. However, Skribble forwards to the Customer those warranties which Skribble receives from third parties with regard to such services. Skribble has no further warranty obligations.
+1.  An insignificant defect shall not constitute a warranty claim; Section C.2.2. shall apply in addition. If warranty claims exist, Skribble shall have the choice of the type of subsequent performance. A statute of limitation of one year from the transfer of risk shall apply, whereby the statute of limitation shall not begin to run again if Skribble makes a replacement delivery within the scope of the liability for defects. 
+2. In addition to Clause C.2.1., the following shall apply: If Skribble forwards services or content from third parties within the scope of the Skribble Service, any warranty of Skribble is hereby excluded in its entirety. However, Skribble forwards to the Customer those warranties which Skribble receives from third parties with regard to such services. Skribble has no further warranty obligations.
 {{% /legal-list %}}
 
 ## D - User Access
@@ -78,7 +78,7 @@ Skribble Service provides the following accounts:
 ### Right of use 
 1. The right to use the Skribble Service shall arise upon the full payment of the initial remuneration by the Customer and shall continue to exist as long as the Customer has continued to pay the remuneration owed until the due date.
 2. The right to use the Skribble Service shall enable System Users to an intended, non-exclusive, limited to the term, non-transferable and not sub-licensable use of the Skribble Service as agreed upon with the Customer. 
-3. Unless otherwise agreed in writing with Skribble, this section 12 conclusively regulates the use of the Skribble Service. Any further use of the Skribble Service is not permitted. 
+3. Unless otherwise agreed in writing with Skribble, this section F.1. conclusively regulates the use of the Skribble Service. Any further use of the Skribble Service is not permitted. 
 
 ### Intellectual Property
 1.  By opening a Customer Account, the Customer acknowledges that the rights to the Skribble Service platform belong to Skribble (or Skribble's contractual partners).
@@ -111,7 +111,7 @@ Skribble Service provides the following accounts:
 4. The procurement, installation, maintenance and operation of any necessary software and hardware shall be the sole responsibility of the System User. Skribble is in no way responsible or liable for the System User's internet access, including, but not limited to, any problems related to connection speed, bandwidth or latency that may affect the System User’s access or use of the Skribble Service.
 5. The Customer is obliged to notify Skribble immediately of any defects or technical malfunctions. In doing so, the Customer will take into account the information provided by Skribble for problem analysis within reasonable limits and forward to Skribble all information available that is necessary for remedying the fault.
 6. The Customer undertakes to indemnify Skribble and its representatives, employees and auxiliaries from all claims arising from the use of the Skribble Service by System Users without restriction and to defend them against such claims and to pay damages to Skribble (also for reasonable costs of legal defence). This applies in particular (but not only) to the following cases: (a) infringement of or violation of any provision of this Agreement, in particular misuse of the Skribble Service; (b) infringement of or violation of the applicable law and/or violation of the rights of third parties.
-7. The Customer shall comply with the warranties set out in clause 18.
+7. The Customer shall comply with the warranties set out in clause H.2..
 
 ### Customer warranties
 1. The Customer represents and warrants to comply with and to actively enforce the Terms of Use in relation to System Users.
@@ -125,18 +125,18 @@ Skribble Service provides the following accounts:
 2. The duration of the subscription results from the Customer Contract. 
 3. Unless otherwise agreed in the Customer Contract, the duration of the subscription shall be automatically extended by further consecutive periods corresponding to the original subscription (e.g., if the Customer has an annual plan, the subscription shall be extended by a further 12 months; if the Customer has a monthly plan, the subscription shall be extended by a further month). The contract can be terminated at the end of a subscription period or at the time agreed in the Customer Contract.
 4. Extraordinary terminations may be made earlier than at the end of a contract term in accordance with the following rules:
-  1. mit sofortiger Wirkung, nach den Bestimmungen von Ziffer 19.5;
-  2. auf den Zeitpunkt gemäss Ziffer 14.4, wenn der Kunde sein besonderes Kündigungsrecht im Fall von einseitig    von Skribble erklärten Erhöhungen von Vergütungen ausübt.
-  3. auf den Zeitpunkt gemäss Ziffer 23.2, wenn der Kunde sein besonderes Kündigungsrecht im Fall von              Anpassungen der AGB gemäss Ziffer 23.2 ausübt.
+  1. mit sofortiger Wirkung, nach den Bestimmungen von Ziffer I.1.5.;
+  2. auf den Zeitpunkt gemäss Ziffer G.1.4., wenn der Kunde sein besonderes Kündigungsrecht im Fall von einseitig    von Skribble erklärten Erhöhungen von Vergütungen ausübt.
+  3. auf den Zeitpunkt gemäss Ziffer J.2.2., wenn der Kunde sein besonderes Kündigungsrecht im Fall von              Anpassungen der AGB gemäss Ziffer J.2.2. ausübt.
   4. mit sofortiger Wirkung, wenn ein Anbieter von Zertifizierungsdiensten ("Certification Authority") ihre        Vertragsbeziehung mit Skribble beendet, resp. ihre Leistungen nicht erbringt, und Skribble dadurch ihre       Leistungen aus dem Kundenvertrag nicht und/oder nicht vollständig erbringen kann; in diesem Fall steht        Skribble alternativ die Möglichkeit zu, die Bereitstellung der Dienstleistung nach Benachrichtigung des       Kunden hierüber temporär zu unterbrechen.
 5. Skribble may terminate this contract at any time with immediate effect or interrupt the provision of the service after notifying the Customer if the Customer or his System Users have violated essential provisions of the Customer Contract and this violation either cannot be remedied or has not been remedied within a period of 10 days upon request. If the Customer is in default with the payment of remuneration, this shall be deemed a breach of a material provision of the Customer Contract.
 
 ### Suspension of the contractual relationship or of the access to the Skribble Service
 1. Skribble is entitled to suspend or to restrict the access of System Users to the Skribble Service:
     1. if the Customer is in default with the payment obligations;
-    2. if System Users of the Customer repeatedly violate the Customer Contract or the Terms of Use, in            particular the provisions in Section 15 of these GTC, insofar as Skribble has informed the Customer of      the possibility of suspension in the event of repetition;
+    2. if System Users of the Customer repeatedly violate the Customer Contract or the Terms of Use, in            particular the provisions in Section G.2. of these GTC, insofar as Skribble has informed the Customer of      the possibility of suspension in the event of repetition;
     3. if the undisturbed operation of the Skribble Service is endangered due to circumstances within the Customer's sphere of control.
-2.  Immediate termination for good cause (clause 19.5) remains possible even if Skribble has already suspended access to the Skribble Service.
+2.  Immediate termination for good cause (clause I.1.5.) remains possible even if Skribble has already suspended access to the Skribble Service.
 
 ### Effects of contract termination
 1. Upon termination of the contract, Skribble deletes the Customer Account, as well as all User Accounts, including data and documents which are in the User Accounts. 
@@ -147,12 +147,12 @@ Skribble Service provides the following accounts:
 ## J - Miscellaneous
 {{% legal-list %}}
 ### Liability
-1. Skribble shall be liable for all contractual, quasi-contractual and statutory claims, including claims in tort, for damages and reimbursement of expenses in accordance with the provisions in clauses 22.2 - 22.3. Any other liability of Skribble shall be excluded.
+1. Skribble shall be liable for all contractual, quasi-contractual and statutory claims, including claims in tort, for damages and reimbursement of expenses in accordance with the provisions in clauses J.1.2. - J.1.3. Any other liability of Skribble shall be excluded.
 2. Skribble shall be liable without limitation on any legal grounds whatsoever
   1. in case of intent or gross negligence,
   2. in the event of negligent or intentional injury to life, limb, or health,
   3. due to mandatory liability such as under the Product Liability Act.
-3. If Skribble negligently violates an essential contractual obligation, the liability shall be limited to the foreseeable damage typical for the contract, unless unlimited liability is assumed in accordance with Clause 22.2. Essential contractual obligations are, for example, obligations for the fulfilment of which is essential for the proper execution of the contract and on the observance of which the Customer may regularly rely. Essential contractual obligations are then those which the contract imposes on Skribble with the aim of precisely favouring the achievement of the purpose of the contract. 
+3. If Skribble negligently violates an essential contractual obligation, the liability shall be limited to the foreseeable damage typical for the contract, unless unlimited liability is assumed in accordance with Clause J.1.2. Essential contractual obligations are, for example, obligations for the fulfilment of which is essential for the proper execution of the contract and on the observance of which the Customer may regularly rely. Essential contractual obligations are then those which the contract imposes on Skribble with the aim of precisely favouring the achievement of the purpose of the contract. 
 4. The above liability provisions shall also apply with regard to the liability of Skribble for its vicarious agents and legal representatives. 
 5. Skribble is neither a provider of certification services nor a certification authority within the meaning of the Federal Electronic Signature Act (ZertES). Nor is Skribble a (qualified) trust service provider within the meaning of the Regulation of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS No. 910/2014). Skribble therefore excludes any liability for damages caused mainly or exclusively in connection with the services of the certification service provider or the certification authority.
 6. Skribble is not a provider of electronic identities. Skribble therefore excludes all liability for damage caused mainly or exclusively in connection with the services provided by the provider of electronic identities.

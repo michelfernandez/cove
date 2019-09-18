@@ -19,7 +19,7 @@ Ce qui suit s'applique entre vous en tant que client (Vous ou Client) de la plat
 1. Les présentes CG s'appliquent à tous les services fournis par Skribble au Client.
 2. Si vous êtes un Client ayant le domicile ou le siège en Suisse ou en dehors de l'UE, vous entrez en relation juridique avec Skribble AG, Bahnhofstrasse 3, 8001 Zurich. Si vous êtes un Client ayant le domicile ou le siège dans l'UE, vous entrez en relation juridique avec Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Allemagne.
 3. Le Client accepte l'application des présentes CG en acceptant l'offre de Skribble, en signant le contrat de couverture ou en concluant un contrat par le biais des Services Skribble, ce qui donne lieu au Contrat Client entre le Client et Skribble. Les conditions légales que le Client pourrait souhaiter appliquer en plus sont par la présente rejetées et ne s'appliquent pas. Un règlement dérogatoire explicite est réservé si les deux parties le signent. 
-4. L'utilisation des services Skribble par les Utilisateurs du Système est régie par des dispositions distinctes (voir point 5).
+4. L'utilisation des services Skribble par les Utilisateurs du Système est régie par des dispositions distinctes (voir point B.3.).
 
 ### Objet du contrat
 1. Pour signer des documents avec une signature électronique avancée ou qualifiée, une authentification du signataire ainsi qu’une signature créée par un service certifié, soit un fournisseur de services de certification ("Certification Authority"), sont nécessaires. 
@@ -50,8 +50,8 @@ Skribble fournit les comptes suivants :
 1. Skribble s'engage à fournir les Services Skribble au Client en tant que service principal dans le cadre du Contrat Client. Les Services Skribble et les conditions d'utilisation sont décrits dans le Contrat Client. 
 
 ### Garantie
-1. Un défaut insignifiant ne donne lieu à aucune réclamation pour défauts ; l'article 7.2 s'applique en sus ; en cas de réclamations pour défauts, Skribble a le choix du type d'exécution ultérieure. Un délai de prescription d'un an s'applique à compter du transfert du risque, le délai de prescription ne commençant pas à courir à nouveau si Skribble effectue une livraison de remplacement dans le cadre de la responsabilité pour défauts. 
-2. Les dispositions suivantes complètent la clause 7.1 : Si Skribble transmet des services ou contenus de tiers dans le cadre des services Skribble, la garantie de Skribble est exclue dans son intégralité. Toutefois, Skribble transmettra au Client les garanties que Skribble reçoit de tiers en relation avec ces services. Skribble n'a aucune autre obligation de garantie.
+1. Un défaut insignifiant ne donne lieu à aucune réclamation pour défauts ; l'article C.2.2. s'applique en sus ; en cas de réclamations pour défauts, Skribble a le choix du type d'exécution ultérieure. Un délai de prescription d'un an s'applique à compter du transfert du risque, le délai de prescription ne commençant pas à courir à nouveau si Skribble effectue une livraison de remplacement dans le cadre de la responsabilité pour défauts. 
+2. Les dispositions suivantes complètent la clause C.2.1. : Si Skribble transmet des services ou contenus de tiers dans le cadre des services Skribble, la garantie de Skribble est exclue dans son intégralité. Toutefois, Skribble transmettra au Client les garanties que Skribble reçoit de tiers en relation avec ces services. Skribble n'a aucune autre obligation de garantie.
 {{% /legal-list %}}
 
 ## D - Activation des Utilisateurs du Système
@@ -79,7 +79,7 @@ Skribble fournit les comptes suivants :
 ### Droit d’usage
 1. Le droit d’usage des Services Skribble naît du paiement intégral de la rémunération initiale par le Client et reste en vigueur aussi longtemps que le Client a continué à payer la rémunération due jusqu'à l'échéance.
 2. Le droit d’usage des Services Skribble permet aux Utilisateurs du Système d'utiliser les Services Skribble conformément à l'usage auxquels ils sont destinés, de façon non exclusive, limitée dans le temps, non transférable et non sous-licenciable en conformité avec l’abonnement souscrit.
-3. Sauf accord écrit contraire avec Skribble, le présent article 12 règle de manière définitive l'utilisation des Services Skribble. Toute autre utilisation des Services Skribble est interdite. 
+3. Sauf accord écrit contraire avec Skribble, le présent article F.1. règle de manière définitive l'utilisation des Services Skribble. Toute autre utilisation des Services Skribble est interdite. 
 
 ### Droits de propriété intellectuelle
 1.  En ouvrant un Compte Client, le Client reconnaît que les droits sur la plate-forme Skribble appartiennent à Skribble (ou à ses partenaires contractuels).
@@ -113,7 +113,7 @@ Le Client s'engage à ce qui suit :
 4. L'acquisition, l'installation, l'entretien et l'exploitation de tout logiciel et matériel nécessaire sont de la seule responsabilité de l'Utilisateur du Système. Skribble n'est en aucun cas responsable de l'accès Internet de l'Utilisateur du Système, y compris, mais sans s'y limiter, tout problème de vitesse de connexion, de bande passante ou de latence qui pourrait affecter l'accès ou l'utilisation des Services Skribble par l'Utilisateur du Système.
 5. Le Client est tenu de signaler immédiatement les défauts et dysfonctionnements techniques à Skribble. Pour ce faire, il tiendra compte, dans la mesure du raisonnable, des conseils de Skribble en matière d'analyse des problèmes et transmettra à Skribble toutes les informations dont il dispose et qui sont nécessaires pour remédier au défaut.
 6. Le Client s'engage à indemniser sans restriction Skribble et ses représentants, employés et auxiliaires de toutes les prétentions découlant de l'utilisation de Skribble par les Utilisateurs du Système et à les défendre contre de telles prétentions et à payer des dommages et intérêts à Skribble (y compris les frais raisonnables de défense juridique). Ceci s'applique en particulier (mais pas seulement) aux cas suivants : (a) violation ou violation de toute disposition du présent contrat, en particulier abus de Skribble ; (b) violation de la loi applicable et/ou violation des droits des tiers.
-7. Le Client doit se conformer aux garanties énoncées à l'article 18.
+7. Le Client doit se conformer aux garanties énoncées à l'article H.2..
 
 ### Garanties du Client
 1. Le Client garantit à Skribble qu'il respectera et appliquera activement les Conditions d'Utilisation dans ses relations avec les Utilisateurs du Système.
@@ -126,18 +126,18 @@ Le Client s'engage à ce qui suit :
 2. La durée de l'abonnement résulte du Contrat Client. 
 3. Sauf stipulation contraire dans le Contrat Client, la durée de l'abonnement est automatiquement prolongée de périodes consécutives supplémentaires correspondant à l'abonnement initial (par exemple, si le Client a un abonnement annuel, l'abonnement est prolongé de 12 mois supplémentaires ; si le Client a un abonnement mensuel, l'abonnement est prolongé d'un mois supplémentaire). Le contrat peut être résilié pour la fin d'une période d'abonnement ou au moment convenu dans le Contrat Client.
 4. Des préavis extraordinaires de résiliation peuvent être donnés avant la fin d'une durée de contrat conformément aux règles suivantes :
-    1. avec effet immédiat, conformément aux dispositions du point 19.5 ;
-    2. au moment prévu à l'article 14.4 si le Client exerce son droit spécial de résiliation en cas                d'augmentation de rémunération déclarée unilatéralement par Skribble.
-    3. le délai conformément à l'article 23.2 si le Client exerce son droit spécial de résiliation en cas de       modification des CG conformément à l'article 23.2.
+    1. avec effet immédiat, conformément aux dispositions du point I.1.5. ;
+    2. au moment prévu à l'article G.1.4. si le Client exerce son droit spécial de résiliation en cas                d'augmentation de rémunération déclarée unilatéralement par Skribble.
+    3. le délai conformément à l'article J.2.2. si le Client exerce son droit spécial de résiliation en cas de       modification des CG conformément à l'article J.2.2..
     4. avec effet immédiat si une autorité de certification met fin à sa relation contractuelle avec Skribble      ou cesse de fournir ses services et que par conséquent Skribble ne peut pas fournir ses services dans le    cadre du Contrat Client et/ou fournir ses services dans leur intégralité ; dans ce cas, Skribble peut       interrompre temporairement la fourniture du service après en avoir informé le Client.
 5. Skribble peut résilier le présent contrat à tout moment avec effet immédiat ou interrompre la fourniture du service après en avoir informé le Client si le Client ou ses Utilisateurs du Système ont violé des dispositions essentielles du Contrat Client et que cette violation ne peut être réparée ou n'a pas été réparée dans les 10 jours suivant la requête de Skribble. Si le Client est en défaut de paiement de la rémunération, cela sera considéré comme une violation d'une disposition importante du Contrat Client.
 
 ### Suspension de la relation contractuelle, resp. de l’accès aus Services Skribble
 1. Skribble a le droit de suspendre ou de restreindre l'accès des Utilisateurs du Système aux services Skribble.
     1. si le Client est en retard dans le paiement de la rémunération ;
-    2. si les Utilisateurs du Système du Client violent à plusieurs reprises le Contrat Client ou les              Conditions d'Utilisation, en particulier les dispositions de l'article 15 des présentes CG, dans la         mesure où Skribble a informé le Client de la possibilité d'une suspension en cas de répétition ;
+    2. si les Utilisateurs du Système du Client violent à plusieurs reprises le Contrat Client ou les              Conditions d'Utilisation, en particulier les dispositions de l'article G.2. des présentes CG, dans la         mesure où Skribble a informé le Client de la possibilité d'une suspension en cas de répétition ;
     3. si le fonctionnement ininterrompu de Skribble est mis en danger par des circonstances dans la sphère de risque du Client.
-2. La résiliation immédiate pour motif grave (Clause 19.5) reste possible même si Skribble a déjà suspendu l'accès à Skribble.
+2. La résiliation immédiate pour motif grave (Clause I.1.5.) reste possible même si Skribble a déjà suspendu l'accès à Skribble.
 
 ### Effets de la résiliation du contrat
 1. A la résiliation du contrat, Skribble supprimera le Compte Client et tous les Comptes Utilisateurs, y compris les données et documents contenus dans les Comptes Utilisateurs. 
@@ -148,12 +148,12 @@ Le Client s'engage à ce qui suit :
 ## J - Divers
 {{% legal-list %}}
 ### Responsabilité
-1. Skribble est responsable de toutes les prétentions contractuelles, quasi contractuelles et légales, y compris les prétentions en responsabilité délictuelle, pour les dommages et le remboursement des frais conformément aux dispositions des articles 22.2 à 22.3. Toute autre responsabilité de la part de Skribble est exclue.
+1. Skribble est responsable de toutes les prétentions contractuelles, quasi contractuelles et légales, y compris les prétentions en responsabilité délictuelle, pour les dommages et le remboursement des frais conformément aux dispositions des articles J.1.2. à J.1.3. Toute autre responsabilité de la part de Skribble est exclue.
 2. Skribble est responsable sans limitation pour quelque motif juridique que ce soit
   1. en cas de dol ou de faute grave,
   2. en cas de négligence ou d'atteinte intentionnelle à la vie, à l'intégrité physique ou à la santé,
   3. en raison d'une responsabilité obligatoire, par exemple en vertu de la Loi sur la responsabilité du fait      des produits.
-3. Si Skribble viole par négligence une obligation contractuelle essentielle, la responsabilité est limitée au dommage prévisible typique du contrat, sauf si la responsabilité est illimitée conformément à l'article 22.2. Les obligations contractuelles essentielles sont, par exemple, les obligations dont l'exécution est essentielle à la bonne exécution du contrat et dont le Client peut régulièrement se prévaloir. Les obligations contractuelles essentielles sont alors celles que le contrat impose à Skribble dans le but de promouvoir l'objet même du contrat. 
+3. Si Skribble viole par négligence une obligation contractuelle essentielle, la responsabilité est limitée au dommage prévisible typique du contrat, sauf si la responsabilité est illimitée conformément à l'article J.1.2. Les obligations contractuelles essentielles sont, par exemple, les obligations dont l'exécution est essentielle à la bonne exécution du contrat et dont le Client peut régulièrement se prévaloir. Les obligations contractuelles essentielles sont alors celles que le contrat impose à Skribble dans le but de promouvoir l'objet même du contrat. 
 4. Les dispositions de responsabilité ci-dessus s'appliquent également à la responsabilité de Skribble pour ses auxiliaires et représentants légaux. 
 5. Skribble n'est ni un prestataire de services de certification ni une autorité de certification au sens de la loi fédérale sur la signatures électronique (SCSE). Skribble n'est pas non plus un services de confiance (qualifié) au sens du règlement du Parlement européen et du Conseil sur l'identification électronique et les services de confiance électroniques pour les transactions électroniques au sein du marché intérieur (eIDAS n° 910/2014). Skribble décline donc toute responsabilité pour les dommages causés principalement ou exclusivement en relation avec les services du prestataire de services de certification ou de l'autorité de certification.
 6. Skribble n'est pas un fournisseur d'identités électroniques. Skribble décline donc toute responsabilité pour les dommages causés principalement ou exclusivement en relation avec les services fournis par le fournisseur d'identités électroniques.

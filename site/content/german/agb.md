@@ -16,20 +16,20 @@ Zwischen Ihnen als Kunde (Sie, Ihnen, etc. oder Kunde) der Skribble E-Signing-Pl
 {{% legal-list %}}
 ### Geltungsbereich und Vertragsschluss
 1. Diese AGB sind anwendbar auf sämtliche Dienstleistungen, die Skribble dem Kunden erbringt.
-2. Wenn Sie als Kunde Ihr Domizil oder ihren Sitz in der Schweiz oder ausserhalb der EU haben, gehen Sie     eine Rechtsbeziehung mit Skribble AG, Bahnhofstrasse 3, 8001 Zürich, ein. Wenn Sie als Kunde Ihr            Domizil oder Ihren Sitz in der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble Deutschland GmbH,      Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland, ein. 
-3. Der Kunde stimmt der Geltung dieser AGB zu, indem er das Angebot von Skribble akzeptiert, den              Deckblattvertrag unterzeichnet oder über die Skribble-Dienste einen Vertrag abschliesst, wodurch ein        Kundenvertrag zwischen dem Kunden und Skribble zu Stande kommt. Rechtlichen Bedingungen, die der Kunde      allenfalls ergänzend zur Anwendung bringen will, wird hiermit widersprochen, womit diese nicht zur          Anwendung kommen. Vorbehalten ist eine ausdrückliche abweichende Regelung, wenn beide Parteien sie          unterzeichnen. 
-4. Die Nutzung der Skribble-Dienste durch die Systemnutzer richtet sich nach separaten Bestimmungen (siehe     Ziffer 5).
+2. Wenn Sie als Kunde Ihr Domizil oder ihren Sitz in der Schweiz oder ausserhalb der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble AG, Bahnhofstrasse 3, 8001 Zürich, ein. Wenn Sie als Kunde Ihr Domizil oder Ihren Sitz in der EU haben, gehen Sie eine Rechtsbeziehung mit Skribble Deutschland GmbH,Pforzheimer Straße 128a, 76275 Ettlingen, Deutschland, ein. 
+3. Der Kunde stimmt der Geltung dieser AGB zu, indem er das Angebot von Skribble akzeptiert, den Deckblattvertrag unterzeichnet oder über die Skribble-Dienste einen Vertrag abschliesst, wodurch ein Kundenvertrag zwischen dem Kunden und Skribble zu Stande kommt. Rechtlichen Bedingungen, die der Kunde allenfalls ergänzend zur Anwendung bringen will, wird hiermit widersprochen, womit diese nicht zur Anwendung kommen. Vorbehalten ist eine ausdrückliche abweichende Regelung, wenn beide Parteien sie unterzeichnen. 
+4. Die Nutzung der Skribble-Dienste durch die Systemnutzer richtet sich nach separaten Bestimmungen (siehe Ziffer B.3.).
 
 ### Gegenstand
-1. Um Dokumente fortgeschritten oder qualifiziert elektronisch zu signieren, wird eine Authentifizierung      des Unterzeichnenden und eine durch einen zertifizierten Service, ein Anbieter von                          Zertifizierungsdiensten ("Certification Authority"), erstellte Signatur benötigt. 
-2. Skribble wird diese beiden Komponenten mit verschiedenen vertrauensvollen Partnern, welche die             Anforderungen von ZertES und/oder eIDAS erfüllen, in seinen Service integrieren, um damit auf               einfachste Art und Weise eine qualifizierte elektronische Signatur (QES) resp. fortgeschrittene             elektronische Signatur (FES) zu erstellen.
+1. Um Dokumente fortgeschritten oder qualifiziert elektronisch zu signieren, wird eine Authentifizierung des Unterzeichnenden und eine durch einen zertifizierten Service, ein Anbieter von Zertifizierungsdiensten ("Certification Authority"), erstellte Signatur benötigt. 
+2. Skribble wird diese beiden Komponenten mit verschiedenen vertrauensvollen Partnern, welche die Anforderungen von ZertES und/oder eIDAS erfüllen, in seinen Service integrieren, um damit auf einfachste Art und Weise eine qualifizierte elektronische Signatur (QES) resp. fortgeschrittene elektronische Signatur (FES) zu erstellen.
 {{% /legal-list %}}
 
 ## B - Rechtsbeziehungen
 {{% legal-list %}}
 ### Kunden und Systemnutzer
 1. Kunde: Ein Kunde von Skribble kann eine juristische Person oder eine natürliche Person sein. 
-2. Systemnutzer: Ein Systemnutzer ist eine natürliche Person, die Skribble-Dienste gemäss den         Nutzungsbedingungen zur Nutzung der Skribble-Dienste berechtigt ist und vom Kunden als berechtigt identifiziert wurde, die Skribble-Dienste zu nutzen.
+2. Systemnutzer: Ein Systemnutzer ist eine natürliche Person, die Skribble-Dienste gemäss den Nutzungsbedingungen zur Nutzung der Skribble-Dienste berechtigt ist und vom Kunden als berechtigt identifiziert wurde, die Skribble-Dienste zu nutzen.
 
 ### Accounts
 Skribble sieht die folgenden Accounts vor:
@@ -41,17 +41,17 @@ Skribble sieht die folgenden Accounts vor:
 Skribble sieht die folgenden Accounts vor:
 
 1. Der Kunde als Inhaber eines Kundenaccounts hat mit dem Kundenvertrag eine Vertragsbeziehung zu Skribble. 
-2. Systemnutzer müssen die Nutzungsbedingungen und die Datenschutzbestimmungen von Skribble, sowie die           Bedingungen des Anbieters von Zertifizierungsdiensten, akzeptieren, um die Skribble-Dienste nutzen zu         können.
+2. Systemnutzer müssen die Nutzungsbedingungen und die Datenschutzbestimmungen von Skribble, sowie die Bedingungen des Anbieters von Zertifizierungsdiensten, akzeptieren, um die Skribble-Dienste nutzen zu können.
 {{% /legal-list %}}
 
 ## C - Leistungen von Skribble
 {{% legal-list %}}
 ### Skribble-Dienste
-1. Skribble verpflichtet sich gegenüber dem Kunden im Sinne einer Hauptleistung unter dem Kundenvertrag zur      Bereitstellung von Skribble-Diensten. Die Skribble-Dienste sowie die Nutzungsvoraussetzungen werden im        Kundenvertrag beschrieben. 
+1. Skribble verpflichtet sich gegenüber dem Kunden im Sinne einer Hauptleistung unter dem Kundenvertrag zur Bereitstellung von Skribble-Diensten. Die Skribble-Dienste sowie die Nutzungsvoraussetzungen werden im Kundenvertrag beschrieben. 
 
 ### Gewährleistung
-1.  Ein unwesentlicher Mangel begründet keine Mängelansprüche; ergänzend gilt Ziffer 7.2. Bestehen Mängelansprüche, hat Skribble die Wahl der Art der Nacherfüllung. Es gilt eine Verjährungsfrist von einem Jahr ab Gefahrübergang, wobei die Verjährung nicht erneut zu laufen beginnt, wenn Skribble im Rahmen der Mängelhaftung eine Ersatzlieferung leistet. 
-2. In Ergänzung zu Ziffer 7.1 gilt Folgendes: Sofern Skribble im Rahmen von Skribble-Diensten, Dienste oder Inhalte von Dritten weiterleitet, ist jegliche Gewährleistung von Skribble vollumfänglich ausgeschlossen. Skribble leitet dem Kunden aber jene Gewährleistungen weiter, die Skribble in Bezug auf solche Dienste von Dritten erhält. Skribble hat keine darüberhinausgehenden Gewährleistungspflichten.
+1.  Ein unwesentlicher Mangel begründet keine Mängelansprüche; ergänzend gilt Ziffer C.2.2. Bestehen Mängelansprüche, hat Skribble die Wahl der Art der Nacherfüllung. Es gilt eine Verjährungsfrist von einem Jahr ab Gefahrübergang, wobei die Verjährung nicht erneut zu laufen beginnt, wenn Skribble im Rahmen der Mängelhaftung eine Ersatzlieferung leistet. 
+2. In Ergänzung zu Ziffer C.2.1. gilt Folgendes: Sofern Skribble im Rahmen von Skribble-Diensten, Dienste oder Inhalte von Dritten weiterleitet, ist jegliche Gewährleistung von Skribble vollumfänglich ausgeschlossen. Skribble leitet dem Kunden aber jene Gewährleistungen weiter, die Skribble in Bezug auf solche Dienste von Dritten erhält. Skribble hat keine darüberhinausgehenden Gewährleistungspflichten.
 {{% /legal-list %}}
 
 ## D - Aktivierung von Systemnutzern
@@ -78,7 +78,7 @@ Skribble sieht die folgenden Accounts vor:
 ### Nutzungsrecht
 1. Das Recht zur Nutzung der Skribble-Dienste entsteht mit vollständiger Bezahlung der erstmaligen Vergütung durch den Kunden und bleibt bestehen, solange der Kunde die geschuldeten Vergütungen weiterhin bis zur Fälligkeit bezahlt hat.
 2. Das Recht zur Nutzung von Skribble-Diensten ermöglicht Systemnutzern die bestimmungsgemässe, nicht ausschliessliche, auf die Laufzeit beschränkte, nicht übertragbare und nicht unterlizenzierbare Nutzung von Skribble-Diensten im vom Kunden abonnierten Umfang.
-3. Vorbehältlich einer anderslautenden schriftlichen Vereinbarung mit Skribble regelt diese Ziffer 12 die Nutzung von Skribble-Diensten abschliessend. Eine darüber hinausgehende Verwendung von Skribble-Diensten ist unzulässig. 
+3. Vorbehältlich einer anderslautenden schriftlichen Vereinbarung mit Skribble regelt diese Ziffer F.1. die Nutzung von Skribble-Diensten abschliessend. Eine darüber hinausgehende Verwendung von Skribble-Diensten ist unzulässig. 
 
 ### Immaterialgüterrechte
 1.  Mit Eröffnung eines Kundenaccounts anerkennt der Kunde, dass die Rechte an der Skribble-Plattform Skribble (resp. Vertragspartnern von Skribble) zustehen.
@@ -112,7 +112,7 @@ Der Kunde verpflichtet sich zu Folgendem:
 4. Beschaffung, Installation, Wartung und Betrieb jeglicher notwendiger Soft- und Hardware unterliegen der alleinigen Verantwortung des Systemnutzers. Skribble ist in keiner Weise verantwortlich oder haftbar für den Internetzugang des Systemnutzers, einschliesslich, jedoch ohne Beschränkung auf, jegliche Probleme im Zusammenhang mit der Verbindungsgeschwindigkeit, der Bandbreite oder der Latenz, welche den Zugriff bzw. die Nutzung der Skribble-Dienste durch den Systemnutzer beeinträchtigen könnten.
 5. Der Kunde ist verpflichtet, Skribble Mängel und technische Störungen unverzüglich zu melden. Er wird hierbei die Hinweise von Skribble zur Problemanalyse im Rahmen des ihm Zumutbaren berücksichtigen und alle ihm vorliegenden, für die Beseitigung der Störung erforderlichen Informationen an Skribble weiterleiten.
 6. Der Kunde verpflichtet sich, Skribble und deren Vertreter, Mitarbeitende und Erfüllungsgehilfen von sämtlichen Forderungen, die aus der Nutzung der Skribble-Dienste durch Systemnutzer entstehen, uneingeschränkt freizustellen und sie hiergegen zu verteidigen sowie Skribble Schadensersatz zu leisten (auch für angemessene Kosten der Rechtsverteidigung). Dies betrifft insbesondere (aber nicht ausschliesslich) die folgenden Fälle: (a) den Verstoss gegen oder die Verletzung einer Bestimmung dieses Vertrags, insbesondere der Missbrauch von Skribble; (b) den Verstoss gegen oder die Verletzung des geltenden Gesetzes und/oder den Verstoss gegen Rechte Dritter.
-7. Der Kunde hält die Zusicherungen gemäss Ziffer 18 ein.
+7. Der Kunde hält die Zusicherungen gemäss Ziffer H.2. ein.
 
 ### Zusicherungen des Kunden
 1. Der Kunde sichert Skribble zu, im Verhältnis zu Systemnutzern die Nutzungsbedingungen einzuhalten und aktiv durchzusetzen.
@@ -126,18 +126,18 @@ Der Kunde verpflichtet sich zu Folgendem:
 2. Die Laufzeit eines Abonnements ergibt sich aus dem Kundenvertrag. 
 3. Ohne anderweitige Vereinbarung im Kundenvertrag verlängert sich die Laufzeit eines Abonnements automatisch um weitere aufeinanderfolgende Zeiträume, die dem ursprünglichen Abonnement entsprechen (z.B. wenn der Kunde einen Jahresplan hat, dann verlängert sich das Abonnement um weitere 12 Monate, wenn der Kunde einen Monatsplan hat, dann verlängert sich das Abonnement um einen weiteren Monat). Der Vertrag kann jeweils auf das Ende einer Laufzeit, resp. den im Kundenvertrag vereinbarten Zeitpunkt gekündigt werden.
 4. Ausserordentliche Kündigungen können nach den folgenden Regeln auf einen früheren Zeitpunkt als auf Ende einer Vertragslaufzeit erklärt werden:
-  1. mit sofortiger Wirkung, nach den Bestimmungen von Ziffer 19.5;
-  2. auf den Zeitpunkt gemäss Ziffer 14.4, wenn der Kunde sein besonderes Kündigungsrecht im Fall von einseitig    von Skribble erklärten Erhöhungen von Vergütungen ausübt.
-  3. auf den Zeitpunkt gemäss Ziffer 23.2, wenn der Kunde sein besonderes Kündigungsrecht im Fall von              Anpassungen der AGB gemäss Ziffer 23.2 ausübt.
-  4. mit sofortiger Wirkung, wenn ein Anbieter von Zertifizierungsdiensten ("Certification Authority") ihre        Vertragsbeziehung mit Skribble beendet, resp. ihre Leistungen nicht erbringt, und Skribble dadurch ihre       Leistungen aus dem Kundenvertrag nicht und/oder nicht vollständig erbringen kann; in diesem Fall steht        Skribble alternativ die Möglichkeit zu, die Bereitstellung der Dienstleistung nach Benachrichtigung des       Kunden hierüber temporär zu unterbrechen.
+  1. mit sofortiger Wirkung, nach den Bestimmungen von Ziffer I.1.5.;
+  2. auf den Zeitpunkt gemäss Ziffer G.1.4., wenn der Kunde sein besonderes Kündigungsrecht im Fall von einseitig von Skribble erklärten Erhöhungen von Vergütungen ausübt.
+  3. auf den Zeitpunkt gemäss Ziffer J.2.2., wenn der Kunde sein besonderes Kündigungsrecht im Fall von Anpassungen der AGB gemäss Ziffer J.2.2. ausübt.
+  4. mit sofortiger Wirkung, wenn ein Anbieter von Zertifizierungsdiensten ("Certification Authority") ihre Vertragsbeziehung mit Skribble beendet, resp. ihre Leistungen nicht erbringt, und Skribble dadurch ihre       Leistungen aus dem Kundenvertrag nicht und/oder nicht vollständig erbringen kann; in diesem Fall steht Skribble alternativ die Möglichkeit zu, die Bereitstellung der Dienstleistung nach Benachrichtigung des       Kunden hierüber temporär zu unterbrechen.
 5. Skribble kann diesen Vertrag zu jeder Zeit mit sofortiger Wirkung kündigen oder die Bereitstellung der Dienstleistung nach Benachrichtigung des Kunden hierüber unterbrechen, falls der Kunde oder seine Systemnutzer wesentliche Bestimmungen des Kundenvertrags verletzt hat und dieser Verstoss entweder nicht behoben werden kann oder nach entsprechender Aufforderung nicht innerhalb einer Frist von 10 Tagen behoben worden ist. Wenn der Kunde mit der Bezahlung von Vergütungen in Verzug ist, gilt dies als Verletzung einer wesentlichen Bestimmung des Kundenvertrags.
 
 ### Sistierung des Vertragsverhältnisses bzw. des Zugangs zu den Skribble-Diensten
 1. Skribble ist berechtigt, den Zugang von Systemnutzern zu Skribble-Diensten zu sistieren oder einzuschränken
     1. wenn der Kunde mit der Bezahlung von Vergütungen in Verzug ist;
-    2. wenn Systemnutzer des Kunden wiederholt gegen den Kundenvertrag oder die Nutzungsbedingungen, namentlich die Bestimmungen in Ziffer 15 dieser AGB, verstossen, sofern Skribble den Kunden für den Wiederholungsfall auf die Möglichkeit zur Sistierung hingewiesen hat;
+    2. wenn Systemnutzer des Kunden wiederholt gegen den Kundenvertrag oder die Nutzungsbedingungen, namentlich die Bestimmungen in Ziffer G.2. dieser AGB, verstossen, sofern Skribble den Kunden für den Wiederholungsfall auf die Möglichkeit zur Sistierung hingewiesen hat;
     3. wenn aufgrund von Umständen, die im Risikobereich des Kunden liegen, der unbeeinträchtigte Betrieb von Skribble gefährdet wird.
-2.  Die sofortige Kündigung wegen wichtiger Gründe (Ziffer 19.5) bleibt auch dann möglich, wenn Skribble den Zugang zu Skribble bereits sistiert hat.
+2.  Die sofortige Kündigung wegen wichtiger Gründe (Ziffer I.1.5.) bleibt auch dann möglich, wenn Skribble den Zugang zu Skribble bereits sistiert hat.
 
 ### Wirkungen der Vertragsbeendigung
 1. Mit Vertragsbeendigung löscht Skribble den Kundenaccount sowie sämtliche Nutzeraccounts, inklusiver der Daten und Dokumente, welche sich in den Nutzeraccounts befinden. 
@@ -147,12 +147,12 @@ Der Kunde verpflichtet sich zu Folgendem:
 ## J - Verschiedenes
 {{% legal-list %}}
 ### Haftung
-1. Skribble haftet aus allen vertraglichen, vertragsähnlichen und gesetzlichen, auch deliktischen Ansprüchen auf Schadens- und Aufwendungsersatz gemäss den Bestimmungen in den Ziffern 22.2 – 22.3. Im Übrigen ist jede Haftung von Skribble ausgeschlossen.
+1. Skribble haftet aus allen vertraglichen, vertragsähnlichen und gesetzlichen, auch deliktischen Ansprüchen auf Schadens- und Aufwendungsersatz gemäss den Bestimmungen in den Ziffern J.1.2. – J.1.3. Im Übrigen ist jede Haftung von Skribble ausgeschlossen
 2. Skribble haftet aus jedem Rechtsgrund uneingeschränkt
   1. bei Vorsatz oder grober Fahrlässigkeit,
   2. bei fahrlässiger oder vorsätzlicher Verletzung des Lebens, des Körpers oder der Gesundheit,
   3. aufgrund zwingender Haftung wie etwa nach dem Produkthaftungsgesetz.
-3. Verletzt Skribble fahrlässig eine wesentliche Vertragspflicht, ist die Haftung auf den vertragstypischen, vorhersehbaren Schaden begrenzt, sofern nicht gemäss Ziffer 22.2 unbeschränkt gehaftet wird. Wesentliche Vertragspflichten sind z.B. Pflichten, deren Erfüllung die ordnungsgemässe Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmässig vertrauen darf. Vertragswesentliche Pflichten sind sodann jene, die der Vertrag Skribble mit dem Ziel auferlegt, gerade das Erreichen des Vertragszwecks zu begünstigen. 
+3. Verletzt Skribble fahrlässig eine wesentliche Vertragspflicht, ist die Haftung auf den vertragstypischen, vorhersehbaren Schaden begrenzt, sofern nicht gemäss Ziffer J.1.2. unbeschränkt gehaftet wird. Wesentliche Vertragspflichten sind z.B. Pflichten, deren Erfüllung die ordnungsgemässe Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmässig vertrauen darf. Vertragswesentliche Pflichten sind sodann jene, die der Vertrag Skribble mit dem Ziel auferlegt, gerade das Erreichen des Vertragszwecks zu begünstigen. 
 4. Vorstehende Haftungsregelungen gelten auch im Hinblick auf die Haftung von Skribble für ihre Erfüllungsgehilfen und gesetzlichen Vertreter. 
 5. Skribble ist weder ein Anbieter von Zertifizierungsdiensten noch eine Anerkennungsstelle im Sinne des Bundesgesetz über die elektronische Signatur (ZertES). Skribble ist ebenfalls kein (qualifizierter) Vertrauensdienstanbieter im Sinne der Verordnung des Europäischen Parlaments und des Rates über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt (eIDAS Nr. 910/2014). Skribble schliesst deshalb jegliche Haftung für Schäden aus, deren Ursache hauptsächlich oder ausschliesslich im Zusammenhang mit den Leistungen des Anbieters von Zertifizierungsdiensten oder der Anerkennungsstelle stehen.
 6. Skribble ist kein Anbieter von elektronischen Identitäten. Skribble schliesst deshalb jegliche Haftung für Schäden aus, deren Ursache hauptsächlich oder ausschliesslich im Zusammenhang mit den Leistungen des Anbieters von elektronischen Identitäten stehen.
@@ -175,11 +175,11 @@ Der Kunde verpflichtet sich zu Folgendem:
 
 ### Gerichtsstand
 1. Wenn der Kundenvertrag gemäss Ziff. 1.2 mit Skribble AG abgeschlossen wurde, gilt folgendes:
-  1. Die unter diesen AGB bestehende Rechtsbeziehung zwischen Ihnen und Skribble untersteht dem schweizerischen    Recht, unter Ausschluss des Übereinkommens der Vereinten Nationen über Verträge über den internationalen      Warenkauf vom 11. April 1980.
-  2. Ausschliesslicher Gerichtsstand für alle Streitigkeiten mit Bezug zu diesen AGB ist Zürich, Schweiz.          Skribble ist jedoch in jedem Fall berechtigt, das Gericht am Sitz des Kunden anzurufen.
+  1. Die unter diesen AGB bestehende Rechtsbeziehung zwischen Ihnen und Skribble untersteht dem schweizerischen Recht, unter Ausschluss des Übereinkommens der Vereinten Nationen über Verträge über den internationalen      Warenkauf vom 11. April 1980.
+  2. Ausschliesslicher Gerichtsstand für alle Streitigkeiten mit Bezug zu diesen AGB ist Zürich, Schweiz. Skribble ist jedoch in jedem Fall berechtigt, das Gericht am Sitz des Kunden anzurufen.
 2. Wenn der Kundenvertrag gemäss Ziff. 1.2 mit Skribble Deutschland GmbH abgeschlossen wurde, gilt folgendes:
-  1. Die unter diesen AGB bestehende Rechtsbeziehung zwischen Ihnen und Skribble untersteht dem deutschen Recht,   unter Ausschluss des Übereinkommens der Vereinten Nationen über Verträge über den internationalen              Warenkauf vom 11. April 1980.
-  2. Ausschliesslicher Gerichtsstand für alle Streitigkeiten mit Bezug zu diesen AGB ist Ettlingen,                Deutschland. Skribble ist jedoch in jedem Fall berechtigt, das Gericht am Sitz des Kunden anzurufen.
+  1. Die unter diesen AGB bestehende Rechtsbeziehung zwischen Ihnen und Skribble untersteht dem deutschen Recht, unter Ausschluss des Übereinkommens der Vereinten Nationen über Verträge über den internationalen              Warenkauf vom 11. April 1980.
+  2. Ausschliesslicher Gerichtsstand für alle Streitigkeiten mit Bezug zu diesen AGB ist Ettlingen, Deutschland. Skribble ist jedoch in jedem Fall berechtigt, das Gericht am Sitz des Kunden anzurufen.
 {{% /legal-list %}}
 ## * * *
 
