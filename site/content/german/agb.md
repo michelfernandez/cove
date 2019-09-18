@@ -183,10 +183,6 @@ Der Kunde verpflichtet sich zu Folgendem:
 {{% /legal-list %}}
 ## * * *
 
-
-
-
-
 {{% /richtext %}}
 {{% /content %}}
 
