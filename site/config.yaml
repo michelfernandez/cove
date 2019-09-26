@@ -50,10 +50,12 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/deutsch
           weight: 10
-        - name: QES erklärt
-          url: /de/qes-erklaert/
+        - name: Signaturstandards
+          url: /de/signaturestandards/
           weight: 15
-      
+        - name: QES-Validator
+          url: /de/qes-validator/
+          weight: 20
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz
@@ -140,9 +142,12 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/english
           weight: 10
-        - name: QES explained
-          url: /qes-explained/
+        - name: Signaturstandards
+          url: /signaturestandards/
           weight: 15
+        - name: QES validator
+          url: /qes-validator/
+          weight: 20
       meta:
         - name: Privacy Policy
           url: /privacy/
@@ -229,9 +234,13 @@ languages:
         - name: Centre d'assistance
           url: https://help.skribble.com/francais
           weight: 10
-        - name: QES expliqué
-          url: /fr/qes-explique/
+        - name: Normes de signature
+          url: /fr/normessignature/
           weight: 15
+        - name: Validateur QES
+          url: /fr/validateur-qes/
+          weight: 20
+       
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite
