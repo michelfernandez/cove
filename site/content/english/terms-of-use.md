@@ -8,7 +8,7 @@ description: terms-of-use meta description
 {{% content %}}
 {{% richtext %}}
 # Terms of Use of Skribble
-(Version 2019.08.31)
+(Version 2019.10.01)
 
 These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Service). These terms of use form a binding contract between you as a System User of the Skribble Service and Skribble AG, Bahnhofstrasse 3, 8001 Zurich, Switzerland, respectively Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany (Skribble).
 

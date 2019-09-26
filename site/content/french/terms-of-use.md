@@ -8,7 +8,7 @@ description: Conditions d'utilisation meta description
 {{% content %}}
 {{% richtext %}}
 # Conditions d'Utilisation de Skribble
-(version 2019.08.31)
+(Version 2019.10.01)
 
 En tant qu'utilisateur du système Skribble, vous devez respecter les conditions d'utilisation suivantes :
 
