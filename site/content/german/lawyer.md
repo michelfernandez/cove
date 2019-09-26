@@ -24,6 +24,11 @@ og_image: og/og-skribble-identification.jpg
 {{% richtext %}}
 ## Alle Vertragsparteien <br class="hide-for-mobile">signieren parallel
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
+
+- **<small>Per E-Mail automatisiert <br class="hide-for-mobile">zum Signieren einladen</small>**
+- **<small>Übersicht über alle eingegangenen <br class="hide-for-mobile">und ausstehenden Signaturen</small>**
+- **<small>Automatisch benachrichtigt werden, <br class="hide-for-mobile">wenn der Vertrag signiert wurde</small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -33,6 +38,11 @@ Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächste
 {{% richtext %}}
 ## Erledige den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchst du trotz QES-Standard nicht.
+
+- **<small>Stapelsignatur für beliebige <br class="hide-for-mobile">Anzahl Verträge</small>**
+- **<small>Zwei-Faktor-Authentifizierung via Handy – <br class="hide-for-mobile">keine externe Hardware erforderlich</small>**
+- **<small>Unabhängig von Zeit und Ort</small>**
+
 {{% /richtext %}}
 {{< picture batch-process 380 "Ein Stappel Dokumente werden mit einem Klick signiert" >}}
 {{< /side-by-side >}} 
@@ -43,7 +53,12 @@ Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gle
 {{< picture authorities-input 394 "Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% richtext %}}
 ## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
-Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden und Einscannen entfällt. (Kommt Ende 2019)
+Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden und Einscannen entfällt. 
+
+- **<small>Nahtlose Integration zu Privatsphere <br class="hide-for-mobile">(Kommt Ende 2019)</small>**
+- **<small>Anerkannt für die Kommunikation zwischen <br class="hide-for-mobile">Kanzleien und Behörden/ Gerichten in der Schweiz</small>**
+- **<small>Zeit und Geld sparen</small>**
+
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -52,7 +67,12 @@ Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden u
 {{< side-by-side >}}
 {{% richtext %}}
 ## Signiere innerhalb <br class="hide-for-mobile">deiner Kanzlei-Software
-Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.B. WinJur oder Vertec. Alternativ signierst du direkt über den Browser. (Kommt Ende 2019)
+Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, <br class="hide-for-mobile">z.B. WinJur oder Vertec. Alternativ signierst du direkt über den Browser. 
+
+- **<small>Direkt über den Browser signieren</small>**
+- **<small>Skribble als Plug-in in Branchen-Software-<br class="hide-for-mobile">Lösungen einbinden</small>**
+- **<small>Nahtlose Integration via moderne APIs</small>**
+
 {{% /richtext %}}
 {{< picture crm-systeme-lawyer 421 "Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec. " >}}
 {{< /side-by-side >}}
