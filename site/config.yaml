@@ -51,7 +51,7 @@ languages:
           url: https://help.skribble.com/deutsch
           weight: 10
         - name: Signaturstandards
-          url: /de/signaturestandards/
+          url: /de/signaturstandards/
           weight: 15
         - name: QES-Validator
           url: /de/qes-validator/
