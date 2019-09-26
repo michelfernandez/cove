@@ -40,12 +40,15 @@ These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Serv
 6. System Users may not impersonate any person or falsely impersonate any organization. Neither may they falsely state or otherwise misrepresent their affiliation with or relationship to any organization.
 7. System Users independently secure data in their account. Skribble does not owe any data availability.
 8. System Users acknowledge the right of Skribble to disclose data from their user account to the Customer (usually the employer of the System User) if it appears that the System User in question has misused the Skribble Service to disseminate criminal or infringing information.
-
-
-
 {{% /legal-list %}}
-
 {{% /richtext %}}
+
+{{% richtext %}}
+{{% center %}}
+## *** 
+{{% / center %}}
+{{% /richtext %}}
+
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

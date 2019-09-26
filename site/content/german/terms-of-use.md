@@ -41,12 +41,15 @@ Diese Nutzungsbedingungen regeln Ihre Verwendung der Skribble Cloud-Lösung (Skr
 6. Systemnutzer dürfen sich nicht als eine fremde Person oder Organisation ausgeben oder ihre Zugehörigkeit bzw. Beziehung zu einer solchen falsch angeben oder auf andere Art falsch darstellen.
 7. Systemnutzer sorgen selbständig für die Sicherung von Daten in ihrem Account. Skribble schuldet keine Datenverfügbarkeit.
 8. Systemnutzer anerkennen das Recht von Skribble, Daten aus ihrem Nutzeraccount dem Kunden (üblicherweise der Arbeitgeber des Systemnutzers) offenzulegen, wenn der Anschein besteht, dass der betreffende Systemnutzer die Skribble-Dienste missbraucht hat, um strafrechtlich oder rechtsverletzende Informationen zu verbreiten.
-
 {{% /legal-list %}}
-
-
-
 {{% /richtext %}}
+
+{{% richtext %}}
+{{% center %}}
+## *** 
+{{% / center %}}
+{{% /richtext %}}
+
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
