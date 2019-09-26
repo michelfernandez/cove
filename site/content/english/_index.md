@@ -107,7 +107,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{% cta
   label="Learn more"
-  href="qes-explained"
+  href="signaturestandards"
   target="_blank"
   outlined="true"
 %}}

@@ -8,58 +8,101 @@ slug: signaturestandards
 
 {{% content %}}
 {{% heading %}}
-# Skribble has the same legal certainty <br class="hide-for-mobile">as signing by hand
-Signed with Skribble means legally signed according to Swiss and EU law.
+# How much legal weight <br class="hide-for-mobile">do you need?
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
+The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. At Skribble you have the choice.
 {{% /heading %}}
-{{< picture rechtssicherheit-wie-hand 665 "A man signs digital documents according to Swiss and European law with a pen" >}}
+{{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}
-**The law allows documents to be signed electronically**<br>
-For contracts that require the written form and must be signed by hand in the physical world, the law sets a digital standard: The qualified electronic signature QES.
-{{% /richtext %}}
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Skribble offers 100% legal <br class="hide-for-mobile">certainty in court
-Skribble works with QES. This means that documents signed with Skribble <br class="hide-for-mobile">are legally binding.
 {{% /heading %}}
-{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
+
+{{% heading %}}
+# QES: The same legal validity <br class="hide-for-mobile">as signing by hand
+The all-round carefree signature for the highest demands
+{{% /heading %}}
+
+{{< picture rechtssicherheit-wie-hand 665 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+
+{{% richtext %}}
+**The qualified electronic signature (QES) is legally equal to the handwritten signature.**<br>
+You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. 
+The latter applies, for example, to loan or wage agreements with a competition clause. 
+For signing with QES on Skribble, a prior identity check in personal contact or an e-ID is required.
+{{% /richtext %}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/or-logo-en-160w.png" "Article 14 paragraph 2bis of the Swiss Code of Obligations (OR)" >}}
+
 "An authenticated electronic signature combined with an authenticated time stamp within the meaning of the Federal Act of 18 March 20161 on Electronic Signatures is deemed equivalent to a handwritten signature, subject to any statutory or contractual provision to the contrary."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
-{{% heading %}}
-# Check whether your document <br class="hide-for-mobile">has been signed with QES
-The Validator service of the Swiss Federal Administration allows you to check whether your document has been signed with a QES according to Swiss law.*
-{{% /heading %}}
-{{< picture "qes-pruefen" 474 "A man loads a document into the validator of the Swiss federal administration" >}}
-{{% richtext %}}
-<small>* works for QES according to Swiss law, but not according to EU law (eIDAS).</small>
-### Here's how to do it:
-1. **Select document type: <br class="hide-for-mobile">Qualified electronic signature deemed equivalent to handwritten signature**
-2. **Upload your document**
-3. **Click on "Check document"**
-{{% /richtext %}}
-{{% /content %}}
-
 {{% cta
-  label="To the Validator"
-  href="https://www.e-service.admin.ch/validator/upload/all/en"
-  target="_blank"
+  label="Learn more"
+  href="identify"
   outlined="true"
 %}}
-{{< picture ch-logo 54 "Logo of the swiss federal administration" >}}
+
+{{< picture "Identifizieren" 112 "Identity check" >}}
+
 {{% richtext %}}
-**A service of the Swiss Federal Administration.**
+**Identity check**<br>
+This is how you unlock QES on Skribble
+{{% /richtext %}}
+{{% /cta %}}
+
+
+{{% cta
+  label="To the QES validator"
+  href="qes-validator"
+  outlined="true"
+%}}
+
+{{< picture "qes-erklaert" 122 "QES validieren" >}}
+
+{{% richtext %}}
+**Validate QES**<br>
+Check whether a document has been signed with QES
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{% content %}}
+{{% heading %}}
+# AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
+Instantly operational thanks to lower requirements
+{{% /heading %}}
+{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
+
+{{% richtext %}}
+**The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**<br>
+This applies to most types of contracts, such as rental, purchase or mortgage agreements. 
+Anyone who has a Swiss mobile phone number can start signing with AES on Skribble immediately.
+{{% /richtext %}}
+
+{{% heading %}}
+## QES vs. FES at a glance
+{{% /heading %}}
+
+{{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="Contact Skribble"
+  href="mailto:info@skribble.com"
+  outlined=""
+%}}
+
+{{< picture "contact" 92 "Hast du fragen? Wir helfen dir gerne weiter." >}}
+
+{{% richtext %}}
+**Any questions? <br class="hide-for-mobile">We are happy to help you.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 

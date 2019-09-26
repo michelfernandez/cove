@@ -103,7 +103,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{% cta
   label="Apprendre plus"
-  href="fr/qes-explique"
+  href="fr/normessignature"
   outlined="true"
 %}}
 

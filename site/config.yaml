@@ -142,7 +142,7 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/english
           weight: 10
-        - name: Signaturstandards
+        - name: Signature standards
           url: /signaturestandards/
           weight: 15
         - name: QES validator
