@@ -2,7 +2,7 @@
 title: Contrôle d'identité pour la QES
 description: Pour la signature électronique qualifiée (QES), le signataire doit prouver son identité. Skribble vous aidera.
 draft: false
-slug: identifions
+slug: debloquez-qes
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg

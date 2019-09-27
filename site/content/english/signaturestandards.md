@@ -42,7 +42,7 @@ For signing with QES on Skribble, a prior identity check in personal contact or 
 
 {{% cta
   label="Learn more"
-  href="identify"
+  href="enable-qes"
   outlined="true"
 %}}
 

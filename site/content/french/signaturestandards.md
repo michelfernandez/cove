@@ -40,7 +40,7 @@ Pour signer avec la QES sur Skribble, un contrôle d'identité préalable avec c
 
 {{% cta
   label="En savoir plus"
-  href="fr/identifions"
+  href="fr/debloquez-qes"
   outlined="true"
 %}}
 

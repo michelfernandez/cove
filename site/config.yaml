@@ -23,8 +23,8 @@ languages:
         - name: Identifikation
           url: /de/identifikation/
           weight: 10
-        - name: Identitätsprüfung
-          url: /de/identitaetspruefung/
+        - name: QES freischalten
+          url: /de/qes-freischalten/
           weight: 15
       footer2:
         - name: HR
@@ -115,8 +115,8 @@ languages:
         - name: Identification
           url: /identification/
           weight: 10
-        - name: Identify
-          url: /identify/
+        - name: Enable QES
+          url: /enable-qes/
           weight: 15
       footer2:
         - name: HR
@@ -207,8 +207,8 @@ languages:
         - name: Identification
           url: /fr/identification/
           weight: 10
-        - name: Identifions
-          url: /fr/identifions/
+        - name: Débloquez QES
+          url: /fr/debloquez-qes/
           weight: 15
       footer2:
         - name: Ressources humaines

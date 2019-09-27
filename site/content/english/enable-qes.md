@@ -2,7 +2,7 @@
 title: We identify you with the ID app by Swisscom
 description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
 draft: false
-slug: identify
+slug: enable-qes
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg

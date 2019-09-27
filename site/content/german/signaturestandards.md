@@ -40,7 +40,7 @@ Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfun
 
 {{% cta
   label="Mehr erfahren"
-  href="de/identitaetspruefung"
+  href="de/qes-freischalten"
   outlined="true"
 %}}
 
