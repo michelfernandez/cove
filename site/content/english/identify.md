@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Maximise the legal weight <br class="hide-for-mobile">of your electronic signature
-Enable the highest e-signing standard (QES) <br class="hide-for-mobile">by getting yourself identified <br class="hide-for-mobile">by personal contact with the Swisscom ID app.
+Enable the highest e-signing standard (QES) <br class="hide-for-mobile">by getting yourself identified by personal contact <br class="hide-for-mobile">with the Swisscom ID app.
 {{% /heading %}}
 
 {{< row >}}

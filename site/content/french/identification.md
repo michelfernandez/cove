@@ -11,13 +11,13 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Contrôle d'identité <br class="hide-for-mobile">pour la QES
+# Contrôle d'identité pour la QES
 Pour la signature électronique qualifiée (QES), <br class="hide-for-mobile">le signataire doit prouver son identité. Skribble vous aidera.
 {{% /heading %}}
-{{% /content %}}
 
 {{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
-
+&nbsp;
+{{% /content %}}
 {{% cta
   label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification_FR.pdf"

@@ -127,7 +127,7 @@ Suitable if new signees are constantly being added.
   target="_blank"
 %}}
 {{% richtext %}}
-**Any questions?<br>We are happy to help you**
+**Any questions?<br>We are happy to help you.**
 {{% /richtext %}}
 {{% /cta %}}
 
