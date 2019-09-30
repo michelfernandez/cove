@@ -37,7 +37,7 @@ New employment contracts for everyone: the authorised signatory no longer signs 
 {{< side-by-side >}}
 {{% richtext %}}
 ## Candidates sign <br class="hide-for-mobile">digitally without delay
-Efficient onboarding: You have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
+Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
 
 - **<small>Legally valid for any type of <br class="hide-for-mobile">employment contract</small>**
 - **<small>No loss of time due to postal mailing</small>**
@@ -67,7 +67,7 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 {{< side-by-side >}}
 {{% richtext %}}
 ## No new software required
-Stay with familiar tools: Sign directly via your browser or from your existing software. <br class="hide-for-mobile">(Coming end of 2019)
+Stay with familiar tools: sign directly via your browser or from your existing software. <br class="hide-for-mobile">(Coming end of 2019)
 
 - **<small>Sign directly via your browser</small>**
 - **<small>Integrate Skribble as a plug-in into SAP <br class="hide-for-mobile">and other industry solutions</small>**

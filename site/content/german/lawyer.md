@@ -53,10 +53,10 @@ Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gle
 {{< picture authorities-input 394 "Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% richtext %}}
 ## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
-Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden und Einscannen entfällt. 
+Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
 
 - **<small>Nahtlose Integration in PrivaSphere (folgt bald)</small>**
-- **<small>Anerkannt für die Kommunikation zwischen <br class="hide-for-mobile">Kanzleien und Behörden/ Gerichten in der Schweiz</small>**
+- **<small>Anerkannt für die Kommunikation zwischen <br class="hide-for-mobile">Kanzleien und Behörden/Gerichten in der Schweiz</small>**
 - **<small>Zeit und Geld sparen</small>**
 
 {{% /richtext %}}
