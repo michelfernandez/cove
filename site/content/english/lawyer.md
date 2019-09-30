@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Electronic signature for lawyers
-With Skribble you sign without additional hardware <br class="hide-for-mobile">with the qualified electronic signature (QES).
+With Skribble you sign without USB stick or card reader <br class="hide-for-mobile">with the hightest e-signing standard (QES).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "man handle different document processes" >}}
 {{% /content %}}
@@ -22,7 +22,7 @@ With Skribble you sign without additional hardware <br class="hide-for-mobile">w
 {{< side-by-side >}}
 {{< picture sign-parallel 387 "Man sign a contract with two other people at the same time" >}}
 {{% richtext %}}
-## All contractual parties <br class="hide-for-mobile">sign electronically
+## All contractual parties sign digitally
 Multiple contractual parties: Instead of sending contracts by post from one person to the next, everyone signs online, saving time.
 
 - **<small>Automatically invite people to <br class="hide-for-mobile">sign by e-mail</small>**
@@ -52,10 +52,10 @@ Digital signature folder: Collect your contracts digitally and sign them simulta
 {{< side-by-side >}}
 {{< picture authorities-input 394 "Two people make step-by-step entries to authorities." >}}
 {{% richtext %}}
-## Entries with authorities <br class="hide-for-mobile">made online
-From commercial register to notarial entries: Printing, sending and scanning are no longer necessary. 
+## Entries with authorities made online
+From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
 
-- **<small>Seamless integration with PrivaSphere. <br class="hide-for-mobile">(Coming end of 2019)</small>**
+- **<small>Seamless integration with PrivaSphere <br class="hide-for-mobile">(coming soon)</small>**
 - **<small>Recognised for communication between <br class="hide-for-mobile">law firms and authorities/courts in Switzerland</small>**
 - **<small>Saves time and money</small>**
 
@@ -66,8 +66,8 @@ From commercial register to notarial entries: Printing, sending and scanning are
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Sign within <br class="hide-for-mobile">your law firm software
-Stay with familiar tools: Sign from your existing <br class="hide-for-mobile">systems, e.g. WinJur oder Vertec. (Coming end of <br class="hide-for-mobile">2019) Alternatively, you can sign directly via your browser. 
+## No new software required
+Stay with familiar tools: Sign directly via your browser or from your existing software.
 
 - **<small>Sign directly via your browser</small>**
 - **<small>Integrate Skribble as a plug-in into <br class="hide-for-mobile">industry software solutions </small>**

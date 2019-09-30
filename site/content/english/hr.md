@@ -57,7 +57,7 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 
 - **<small>Digital processing of work reports, <br class="hide-for-mobile">layoffs, applications, etc.</small>**
 - **<small>Get signatures from authorised <br class="hide-for-mobile">signatories via e-mail</small>**
-- **<small>Digitally archive contracts in recognized <br class="hide-for-mobile">PDF X/A format</small>**
+- **<small>Download contracts ready for archiving<br class="hide-for-mobile"> in recognized PDF X/A format </small>**
 
 {{% /richtext %}}
 {{< /side-by-side >}}
@@ -66,8 +66,8 @@ Digitalisation enabler: HR enables the workforce to sign electronically and can 
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Sign within your existing <br class="hide-for-mobile">HR software
-Stay with familiar tools: Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe. (Coming end of 2019) <br class="hide-for-mobile">Alternatively, you can sign directly via your browser. 
+## No new software required
+Stay with familiar tools: Sign directly via your browser or from your existing software. <br class="hide-for-mobile">(Coming end of 2019)
 
 - **<small>Sign directly via your browser</small>**
 - **<small>Integrate Skribble as a plug-in into SAP <br class="hide-for-mobile">and other industry solutions</small>**

@@ -57,7 +57,7 @@ Facilitateur de la numérisation: les RH permettent au personnel de signer élec
 
 - **<small>Traitement numérique des rapports <br class="hide-for-mobile">de travail, des licenciements, des demandes, etc.</small>**
 - **<small>Obtenir les signatures des signataires <br class="hide-for-mobile">autorisés par courriel</small>**
-- **<small>Archivage numérique des contrats dans <br class="hide-for-mobile">un format PDF X/A reconnu</small>**
+- **<small>Télécharger les contrats prêts<br class="hide-for-mobile"> pour l'archivage au format PDF X/A reconnu</small>**
 
 {{% /richtext %}}
 {{< /side-by-side >}}
@@ -66,8 +66,8 @@ Facilitateur de la numérisation: les RH permettent au personnel de signer élec
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signez directement <br class="hide-for-mobile">dans vos logiciels RH
-Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. (A venir fin 2019) <br class="hide-for-mobile">Vous pouvez également vous connecter directement via votre navigateur. 
+## Aucun nouveau logiciel requis
+Restez avec des outils familiers: signez à partir de vos programmes existants, par exemple Google Drive, One Drive, Drop Box ou Secure Safe. (A venir fin 2019)
 
 - **<small>Signer directement via le navigateur</small>**
 - **<small>Intégrer Skribble en tant que plug-in dans SAP <br class="hide-for-mobile">et d'autres solutions sectorielles</small>**

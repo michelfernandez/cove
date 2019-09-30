@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Elektronisch signieren im HR
-Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen
+Mit Skribble signierst du rechtssicher und einfach auf digitalem Weg – <br class="hide-for-mobile">von Arbeitsverträgen über Zeugnisse bis hin zu Lohnausweisen.
 {{% /heading %}}
 {{< picture vertical-hr-main 570 "Drei Frauen halten einen Vertrag in der Hand" >}}
 {{% /content %}}
@@ -56,7 +56,7 @@ Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronsichen S
 
 - **<small>Arbeitsrapports, Kündigungen, Anträge <br class="hide-for-mobile">u. Ä. digital abwickeln</small>**
 - **<small>Signaturen von Zeichnungsberechtigten <br class="hide-for-mobile">via E-Mail abholen</small>**
-- **<small>Verträge digital archivieren im anerkannten <br class="hide-for-mobile">PDF X/A-Format</small>**
+- **<small>Verträge archivierbereit downloaden <br class="hide-for-mobile">im anerkannten PDF X/A-Format</small>**
 {{% /richtext %}}
 {{< /side-by-side >}}
 
@@ -64,8 +64,8 @@ Digitalisierungs-Enabler: Die Belegschaft wird durch das HR zum elektronsichen S
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signiere innerhalb <br class="hide-for-mobile">deines bestehenden HRMs
-Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, z.B. Google Drive, One Drive, Drop Box <br class="hide-for-mobile">oder Secure Safe. (Kommt Ende 2019) <br class="hide-for-mobile">Alternativ signierst du direkt über den Browser. 
+## Keine neue Software notwendig
+Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus. (Kommt Ende 2019)
 
 - **<small>Direkt über den Browser signieren</small>**
 - **<small>Skribble als Plug-in in SAP und ander Branchenlösungen einbinden</small>**

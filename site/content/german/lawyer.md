@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Elektronische Signatur für Anwälte
-Über Skribble signiertst du ohne zusätzliche Hardware <br class="hide-for-mobile">mit der qualifizierten elektronischen Signatur (QES).
+Über Skribble signiertst du ohne USB-Stick oder Card-Reader <br class="hide-for-mobile">mit dem höchsten verfügnaren E-Signatur-Standard (QES).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "Man erledigt verschiedene Vertragprozesse" >}}
 {{% /content %}}
@@ -22,7 +22,7 @@ og_image: og/og-skribble-identification.jpg
 {{< side-by-side >}}
 {{< picture sign-parallel 387 "Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
 {{% richtext %}}
-## Alle Vertragsparteien <br class="hide-for-mobile">signieren parallel
+## Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
 
 - **<small>Per E-Mail automatisiert <br class="hide-for-mobile">zum Signieren einladen</small>**
@@ -55,7 +55,7 @@ Digitale Unterschriftsmappe: Sammle deine Verträge digital und signiere sie gle
 ## Eingaben bei Behörden <br class="hide-for-mobile">machst du online
 Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden und Einscannen entfällt. 
 
-- **<small>Nahtlose Integration zu Privatsphere <br class="hide-for-mobile">(Kommt Ende 2019)</small>**
+- **<small>Nahtlose Integration in PrivaSphere (folgt bald)</small>**
 - **<small>Anerkannt für die Kommunikation zwischen <br class="hide-for-mobile">Kanzleien und Behörden/ Gerichten in der Schweiz</small>**
 - **<small>Zeit und Geld sparen</small>**
 
@@ -66,8 +66,8 @@ Von Handelsregistereinträgen bis Notariatseingaben: Das Ausdrucken, Versenden u
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signiere innerhalb <br class="hide-for-mobile">deiner Kanzlei-Software
-Bei gewohnten Tools bleiben: Signiere aus deinen bestehenden Systemen heraus, <br class="hide-for-mobile">z.B. WinJur oder Vertec. Alternativ signierst du direkt über den Browser. 
+## Keine neue Software notwendig
+Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner bestehenden Software heraus.
 
 - **<small>Direkt über den Browser signieren</small>**
 - **<small>Skribble als Plug-in in Branchen-Software-<br class="hide-for-mobile">Lösungen einbinden</small>**
