@@ -11,12 +11,12 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Contrôle d'identité pour la QES
-Pour la signature électronique qualifiée (QES), le signataire <br class="hide-for-mobile">doit prouver son identité. Skribble vous aidera.
+# Contrôle d'identité <br class="hide-for-mobile">pour la QES
+Pour la signature électronique qualifiée (QES), <br class="hide-for-mobile">le signataire doit prouver son identité. Skribble vous aidera.
 {{% /heading %}}
-{{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
-&nbsp;
 {{% /content %}}
+
+{{< picture identification 482 "L'identité d'une femme debout dans un téléphone portable est vérifiée par deux personnes" >}}
 
 {{% cta
   label="Télécharger factsheet"
@@ -25,9 +25,7 @@ Pour la signature électronique qualifiée (QES), le signataire <br class="hide-
   outlined="true"
 %}}
 {{% richtext %}}
-**Utiliser une e-ID existante**<br>
-Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribble sans contrôle d'identité supplémentaire.
-
+**Vérification d'identité pour QES - Skribble rend l'utilisation facile**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -36,34 +34,39 @@ Les personnes qui ont une e-ID vérifiée peuvent légalement signer sur Skribbl
 {{% content %}}
 {{% heading %}}
 # Utiliser une e-ID existante
-Les personnes qui ont une e-ID vérifiée peuvent légalement signer <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
+Les personnes qui ont une e-ID vérifiée peuvent signer avec QES <br class="hide-for-mobile">sur Skribble sans contrôle d'identité supplémentaire.
+
 {{% /heading %}}
 
 {{< picture "identification-id" 412 "Une carte d'identité électronique juridiquement valable" >}}
 
-Un nombre croissant de personnes en Europe a une identité électronique <br class="hide-for-mobile">vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer <br class="hide-for-mobile">à signer immédiatement.
-
 {{% richtext %}}
-{{% center %}}**Vous pouvez signer avec Skribble grâce aux e-ID suivantes sous peu:**{{% / center %}}
+Un nombre croissant de personnes en Europe a une identité électronique vérifiée (e-ID). Skribble les relie. Des millions d'utilisateurs peuvent commencer à signer avec QES immédiatement.
+
+
+{{% center %}}**Les personnes qui se connectent avec une e-ID  <br class="hide-for-mobile">activent automatiquement la QES.**{{% / center %}}
 {{% /richtext %}}
 
 {{< picture e-id-map 826 "E-ID, où vous pourrez bientôt signer Skribble." >}}
 
 {{% richtext %}}
 {{% center %}}**Plus d'e-ID suivront cette année.**{{% / center %}}
-
-&nbsp;
 {{% /richtext %}}
+&nbsp;
 {{% /content %}}
+
 
 {{% cta
   label="Fixer un rendez-vous"
   href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   target="_blank"
 %}}
+
+{{< picture consult 92 "Identification pour l'EQS. Laissez-nous vous conseiller et trouver la bonne solution d'identification pour votre entreprise." >}}
+
 {{% richtext %}}
-**Identification avec Skribble**<br>
-Laissez Skribble vous identifier et commencez à signer immédiatement.
+**Identification pour la QES**<br>
+Laissez-nous vous conseiller et trouvez <br class="hide-for-mobile">la solution d'identification idéale pour votre entreprise.
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -76,8 +79,8 @@ Laissez Skribble vous identifier et commencez à signer immédiatement.
 
 {{% content %}}
 {{% heading %}}
-# Se laisser identifier
-Si vous n'avez pas d'e-ID, vous pouvez en créer <br class="hide-for-mobile">une avec Skribble en quelques minutes.
+# Utiliser la service <br class="hide-for-mobile">d'identification de Skribble
+Si vous n'avez pas d'e-ID, l'identification peut se faire à l'aide de Skribble.
 {{% /heading %}}
 
 {{< picture "create-identity" 385 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
@@ -109,7 +112,7 @@ Approprié si vous utilisez la QES pour un cercle prédéfini de personnes.
 %}}
 **Vous** identifiez les signataires
 
-Approprié si de nouveaux signataires sont constamment ajoutés.
+Approprié si de nouveaux signataires QES sont constamment ajoutés.
 
 {{% /plan %}}
 {{< /row >}}
