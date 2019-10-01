@@ -75,10 +75,10 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       leftSlot:
-        title: Identität prüfen?
-        text: Hol dir bei Skribble eine E-ID und leg mit dem Signieren los.
+        title: Beweiskraft maximieren?
+        text: Lass dich identifzieren und schalte den höchsten E-Signatur-Standard frei.
         button:
-          label: Termin vereinbaren
+          label: Identifizieren lassen
           href: https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble
       rightSlot:
         title: Demo vereinbaren?
@@ -167,10 +167,10 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Do you want to verify your identity?
-        text: We verify your identity so that you can start using your QES signature!
+        title: Do you want to maximise legal weight?
+        text: Get identified and unlock the highest e-signature standard.
         button:
-          label: Schedule appointment
+          label: Get identified
           href: https://help.skribble.com/meetings/patrick182/skribble-id-zurich
       rightSlot:
         title: Do you want to schedule a demo session?
@@ -260,10 +260,10 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: Vérifier l'identité?
-        text: Nous vous identifions afin que vous puissiez utiliser la QES!
+        title: Maximiser la force probante?
+        text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
         button:
-          label: Fixer un rendez-vous
+          label: S'identifier
           href: https://help.skribble.com/meetings/patrick182/identification-chez-skribble
       rightSlot:
         title: Organiser une démonstration?
