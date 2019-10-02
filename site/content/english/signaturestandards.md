@@ -21,7 +21,7 @@ The two standards vary in terms of area <br class="hide-for-mobile">of applicati
 The all-round carefree signature for the highest demands
 {{% /heading %}}
 
-{{< picture rechtssicherheit-wie-hand 665 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+{{< picture qes-en 758 "Two hands - One contract is signed by hand and another with a mobile phone." >}}
 
 {{% richtext %}}
 **The qualified electronic signature (QES) is legally equal to the handwritten signature.**<br>
@@ -77,7 +77,8 @@ Check whether a document has been signed with QES
 # AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
 Instantly operational thanks to lower requirements
 {{% /heading %}}
-{{< picture image5 430 "A person holds a legal document in his hands. The swisscom logo is in the background" >}}
+
+{{< picture aes-en 320 "A woman is holding an FES contract in her hand under Swiss law." >}}
 
 {{% richtext %}}
 **The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**<br>

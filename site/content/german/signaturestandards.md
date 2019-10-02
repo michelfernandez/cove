@@ -13,6 +13,7 @@ Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class=
 Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft. 
 Auf Skribble kannst du wählen.
 {{% /heading %}}
+
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
 
 {{% heading %}}
@@ -20,7 +21,7 @@ Auf Skribble kannst du wählen.
 Die rundum-sorglos-Signatur für höchste Ansprüche
 {{% /heading %}}
 
-{{< picture rechtssicherheit-wie-hand 665 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+{{< picture qes-de 758 "Zwei Hände – Ein Vertrag wird von Hand signiert und ein anderer mit einem Mobile-Phone." >}}
 
 {{% richtext %}}
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**<br>
@@ -75,7 +76,7 @@ Prüfe, ob ein Dokument mit QES signiert wurde.
 Sofort einsatzbereit dank geringeren Auflagen
 {{% /heading %}}
 
-{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
+{{< picture aes-de 320 "Eine Frau trägt einen FES-Vertrag in der Hand nach Schweizer-Recht." >}}
 
 {{% richtext %}}
 **Die fortgeschrittene elektronische Signatur (FES) ist rechtsgültig bei Verträgen, bei denen das Gesetz keine spezielle Form vorschreibt.**<br>

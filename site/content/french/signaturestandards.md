@@ -20,7 +20,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 La signature complète et sans souci pour les exigences les plus élevées
 {{% /heading %}}
 
-{{< picture rechtssicherheit-wie-hand 665 "Un homme signe au stylo des documents numériques selon le droit suisse et européen" >}}
+{{< picture qes-fr 758 "Deux mains - Un contrat est signé à la main et un autre avec un téléphone portable." >}}
 
 {{% richtext %}}
 **La signature électronique qualifiée (QES) équivaut légalement à la signature manuscrite.**<br>
@@ -76,7 +76,8 @@ Vérifiez si un document a été signé avec la QES
 Les deux normes varient en termes de domaine d'application et de force probante.<br class="hide-for-mobile"> 
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
-{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
+
+{{< picture aes-fr 320 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan." >}}
 
 {{% richtext %}}
 **La loi établit une distinction entre les signatures électroniques qualifiées (QES) et les signatures électroniques avancées (AES).**<br>
