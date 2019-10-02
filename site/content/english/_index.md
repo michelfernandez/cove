@@ -167,7 +167,7 @@ Get identified by Skribble and increase the legal weight of your e-signature.
   outlined="true"
 %}}
 
-{{< picture identifizieren 112 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
+{{< picture AES 100 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
 
 {{% richtext %}}
 **Signing with AES**<br>

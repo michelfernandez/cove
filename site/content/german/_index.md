@@ -158,7 +158,7 @@ Lass dich von Skribble identifizieren und erhöhe die Beweiskraft deiner E-Signa
   outlined="true"
 %}}
 
-{{< picture identifizieren 112 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
+{{< picture AES 100 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
 
 {{% richtext %}}
 **Signieren mit der FES**<br>

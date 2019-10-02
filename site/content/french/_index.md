@@ -162,7 +162,7 @@ Laissez Skribble vous identifier et augmentez la force probante de votre signatu
   outlined="true"
 %}}
 
-{{< picture identifizieren 112 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
+{{< picture AES 100 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
 
 {{% richtext %}}
 **Signier avec AES**<br>
