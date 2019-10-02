@@ -1,6 +1,6 @@
 ---
 title: Signature électronique pour juristes
-description: Avec Skribble vous signez sans matériel supplémentaire avec la signature électronique qualifiée (QES). Toutes les parties contractantes signent en parallèle.
+description: Avec Skribble vous signez sans matériel supplémentaire avec la signature électronique qualifiée (SEQ). Toutes les parties contractantes signent en parallèle.
 draft: false
 slug: juristes
 
@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Signature électronique pour juristes
-Avec Skribble vous signez sans matériel supplémentaire <br class="hide-for-mobile">avec la signature électronique qualifiée (QES).
+Avec Skribble vous signez sans matériel supplémentaire <br class="hide-for-mobile">avec la signature électronique qualifiée (SEQ).
 {{% /heading %}}
 {{< picture vertical-lawyer-main 560 "L'un traite de différents processus contractuels" >}}
 {{% /content %}}
@@ -32,7 +32,7 @@ Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste,
 {{< side-by-side >}}
 {{% richtext %}}
 ## Complétez la pile <br class="hide-for-mobile">avec une seule signature
-Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard QES, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
+Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
 {{% /richtext %}}
 {{< picture batch-process 380 "Une agrafe de documents peut être signée en un seul clic" >}}
 {{< /side-by-side >}}
@@ -72,11 +72,11 @@ Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-fo
 {{% /heading %}}
 
 {{% collapsible 1 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
-Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
+Skribble se base sur la signature électronique qualifiée SEQ. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Signature électronique qualifiée selon SCSE/eIDAS " "check" %}}
-Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
+Skribble obtient la SEQ de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
@@ -95,7 +95,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
 
 {{% richtext %}}
-**Pourquoi la signature électronique qualifiée (QES) fixe une norme numérique à la loi?**<br>
+**Pourquoi la signature électronique qualifiée (SEQ) fixe une norme numérique à la loi?**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -152,7 +152,7 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 {{% /collapsible %}}
 
 {{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}
-La QES est légalement valide pour une durée illimitée.
+La SEQ est légalement valide pour une durée illimitée.
 {{% /collapsible %}}
 {{% /content %}}
 

@@ -68,15 +68,15 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 {{% content %}}
 {{% heading %}}
 # Avec Skribble, vous répondez <br class="hide-for-mobile">aux exigences légales <br class="hide-for-mobile">des processus RH
-Avec Skribble, vous pouvez signer numériquement <br class="hide-for-mobile">et légalement (QES) et satisfaire aux exigences légales suivantes:
+Avec Skribble, vous pouvez signer numériquement <br class="hide-for-mobile">et légalement (SEQ) et satisfaire aux exigences légales suivantes:
 {{% /heading %}}
 
 {{% collapsible 1 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
-Skribble se base sur la signature électronique qualifiée QES. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
+Skribble se base sur la signature électronique qualifiée SEQ. Celle-ci équivaut à une signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Signature électronique qualifiée selon SCSE/eIDAS " "check" %}}
-Skribble obtient la QES de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
+Skribble obtient la SEQ de Swisscom, un fournisseur de certificats électroniques agréé par l'Etat selon la SCSE et l'eIDAS.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}

@@ -1,6 +1,6 @@
 ---
-title: Contrôle d'identité pour la QES
-description: Pour la signature électronique qualifiée (QES), le signataire doit prouver son identité. Skribble vous aidera.
+title: Contrôle d'identité pour la SEQ
+description: Pour la signature électronique qualifiée (SEQ), le signataire doit prouver son identité. Skribble vous aidera.
 draft: false
 slug: identifions
 
@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content %}}
 {{% heading %}}
 # Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
-Déverrouillez la norme de signature électronique la plus élevée (QES) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom. 
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom. 
 {{% /heading %}}
 
 {{< row >}}
@@ -46,7 +46,7 @@ Swisscom vérifie les données et les stocke en toute sécurité.
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% richtext %}}
 **Etape 4**<br>
-La force probante de votre signature est portée à 100% (niveau QES)
+La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
@@ -60,10 +60,10 @@ La force probante de votre signature est portée à 100% (niveau QES)
 {{% /heading %}}
 
 {{% collapsible 1 "Que m'apporte l'identification?" %}}
-Sur Skribble, vous avez la possibilité de signer avec la plus haute norme de signature électronique disponible: la signature électronique qualifiée (QES). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la QES, la loi exige un contrôle d'identité. 
+Sur Skribble, vous avez la possibilité de signer avec la plus haute norme de signature électronique disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité. 
 {{% /collapsible %}}
 
-{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature QES?" %}}
+{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
 Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
 {{% /collapsible %}}
 

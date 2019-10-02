@@ -86,12 +86,12 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
 {{% /heading %}}
 
-{{% collapsible 1 "Normes de signature électronique QES und AES selon SCSE/eIDAS" "check" %}}
-Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (QES) et la signature électronique avancée (AES). 
+{{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
+Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA). 
 {{% /collapsible %}}
 
 {{% collapsible 2 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
-La signature électronique qualifiée (QES) de Skribble équivaut à la signature manuscrite devant le droit suisse et européen.
+La signature électronique qualifiée (SEQ) de Skribble équivaut à la signature manuscrite devant le droit suisse et européen.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
@@ -130,8 +130,8 @@ Skribble obtient les certificats pour les signatures électroniques auprès de S
 {{% content %}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-Les personnes identifiées signent sur Skribble avec la plus haute norme de signature électronique disponible: la QES. Celle-ci a une force probante de 100%.<br><br>
-**Les personnes se connectant avec une e-ID activent automatiquement la QES.**
+Les personnes identifiées signent sur Skribble avec la plus haute norme de signature électronique disponible: la SEQ. Celle-ci a une force probante de 100%.<br><br>
+**Les personnes se connectant avec une e-ID activent automatiquement la SEQ.**
 {{% /heading %}}
 
 {{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
@@ -166,7 +166,7 @@ Laissez Skribble vous identifier et augmentez la force probante de votre signatu
 
 {{% richtext %}}
 **Signier avec AES**<br>
-Pour la signature électronique avancée (AES), aucune identification n'est requise.
+Pour la signature électronique avancée (SEA), aucune identification n'est requise.
 {{% /richtext %}}
 {{% /cta %}}
 
@@ -185,10 +185,10 @@ Les offres Skribbles s'adaptent à vos besoins et <br class="hide-for-mobile">pe
 
 {{< row >}}
 {{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
-Idéal pour signer une fois ou occasionnellement avec la QES.
+Idéal pour signer une fois ou occasionnellement avec la SEQ.
 {{% /plan %}}
 {{% plan purple "Modèle forfaitaire" "Forfait par personne" %}}
-Idéal pour un usage régulier de la QES.
+Idéal pour un usage régulier de la SEQ.
 {{% /plan %}}
 {{< /row >}}
 {{% /content %}}
