@@ -89,8 +89,41 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 {{% heading %}}
 ## QES vs. FES at a glance
 {{% /heading %}}
-
 {{% /content %}}
+
+
+{{% table-dense %}}
+
+<thead>
+<tr>
+<th>Standard</th>
+<th>Beweiskraft</th>
+<th>Voraussetzungen</th>
+<th>Anwendungsbereich</th>
+<th>Anwendungsbeispiele</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>QES</strong></td>
+<td><strong>Sehr Hoch</strong></td>
+<td><ul><li>Persönliche Identifikation oder</li><li>E-ID Mobiltelefonnumer</li></ul></td>
+<td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
+<td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
+</tr>
+
+<tr>
+<td><strong>AES</strong></td>
+<td><strong>Hoch</strong></td>
+<td><ul><li>Mobiltelefonnumer mit Vertrag in der Schweiz</li></ul></td>
+<td><ul><li>Formfreie Verträge</li></ul></td>
+<td><ul><li>Mietverträge</li><li>Kauferträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+</tr>
+</tbody>
+
+{{% /table-dense %}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
