@@ -86,33 +86,33 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{% /richtext %}}
 {{% /content %}}
 
-{{% table-dense "QES vs FES en un coup d'œil" %}}
+{{% table-dense "SEQ vs SAE en un coup d'œil" %}}
 
 <thead>
 <tr>
-<th>Standard</th>
-<th>Beweiskraft</th>
-<th>Voraussetzungen</th>
-<th>Anwendungsbereich</th>
-<th>Anwendungsbeispiele</th>
+<th>Norme</th>
+<th>Force probante</th>
+<th>Prérequis</th>
+<th>Champ d'application	</th>
+<th>Exemples d'application</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td><div class="icon-qes">QES</div></td>
-<td><strong>Sehr Hoch</strong></td>
-<td><ul><li>Persönliche Identifikation oder</li><li>E-ID Mobiltelefonnumer</li></ul></td>
-<td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
-<td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
+<td><div class="icon-qes">SEQ</div></td>
+<td><strong>Très haute</strong></td>
+<td><ul><li>Identification personnelle ou e-ID</li><li>Numéro de téléphone mobile</li></ul></td>
+<td><ul><li>Contrats avec exigence de forme écrite</li><li>Maximiser la force probante des contrats informels (minimisation des risques)</li></ul></td>
+<td><ul><li>Contrat de crédit</li><li>Contrat de travail avec clause de concurrence</li><li>Accord non formel délicat</li></ul></td>
 </tr>
 
 <tr>
-<td><div class="icon-fes">AES</div></td>
-<td><strong>Hoch</strong></td>
-<td><ul><li>Mobiltelefonnumer mit Vertrag in der Schweiz</li></ul></td>
-<td><ul><li>Formfreie Verträge</li></ul></td>
-<td><ul><li>Mietverträge</li><li>Kauferträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+<td><div class="icon-fes">SEA</div></td>
+<td><strong>Haute</strong></td>
+<td><ul><li>Numéro de téléphone mobile suisse</li></ul></td>
+<td><ul><li>Contrats sans exigence de forme</li></ul></td>
+<td><ul><li>Contrats de location</li><li>Contrats d'achat</li><li>Hypothèques</li><li>Contrat de travail simple</li></ul></td>
 </tr>
 </tbody>
 

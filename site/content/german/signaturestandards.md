@@ -101,15 +101,15 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tr>
 <td><div class="icon-qes">QES</div></td>
 <td><strong>Sehr Hoch</strong></td>
-<td><ul><li>Persönliche Identifikation oder</li><li>E-ID Mobiltelefonnumer</li></ul></td>
+<td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnumer</li></ul></td>
 <td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
 <td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
 </tr>
 
 <tr>
-<td><div class="icon-fes">AES</div></td>
+<td><div class="icon-fes">FES</div></td>
 <td><strong>Hoch</strong></td>
-<td><ul><li>Mobiltelefonnumer mit Vertrag in der Schweiz</li></ul></td>
+<td><ul><li>Schweizer Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Formfreie Verträge</li></ul></td>
 <td><ul><li>Mietverträge</li><li>Kauferträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
 </tr>

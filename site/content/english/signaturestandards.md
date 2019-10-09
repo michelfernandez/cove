@@ -93,28 +93,28 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 <thead>
 <tr>
 <th>Standard</th>
-<th>Beweiskraft</th>
-<th>Voraussetzungen</th>
-<th>Anwendungsbereich</th>
-<th>Anwendungsbeispiele</th>
+<th>Legal weight </th>
+<th>Requirements</th>
+<th>Area of application</th>
+<th>Examples</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
 <td><div class="icon-qes">QES</div></td>
-<td><strong>Sehr Hoch</strong></td>
-<td><ul><li>Persönliche Identifikation oder</li><li>E-ID Mobiltelefonnumer</li></ul></td>
-<td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
-<td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
+<td><strong>Very high</strong></td>
+<td><ul><li>Personal identification or e-ID</li><li>Mobile phone number</li></ul></td>
+<td><ul><li>Contracts requiring the written form</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
+<td><ul><li>Loan agreement</li><li>Employment contract with competition clause</li><li>Sensitive contracts without formal requirement</li></ul></td>
 </tr>
 
 <tr>
-<td><div class="icon-fes">AES</div></td>
-<td><strong>Hoch</strong></td>
-<td><ul><li>Mobiltelefonnumer mit Vertrag in der Schweiz</li></ul></td>
-<td><ul><li>Formfreie Verträge</li></ul></td>
-<td><ul><li>Mietverträge</li><li>Kauferträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+<td><div class="icon-fes">FES</div></td>
+<td><strong>High</strong></td>
+<td><ul><li>Swiss mobile phone number</li></ul></td>
+<td><ul><li>Contracts without formal requirement</li></ul></td>
+<td><ul><li>Rental contracts</li><li>Purchase contracts</li><li>Mortgages</li><li>Simple employment contract</li></ul></td>
 </tr>
 </tbody>
 
