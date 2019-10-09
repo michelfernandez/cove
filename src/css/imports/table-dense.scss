@@ -14,7 +14,6 @@
       overflow-wrap: break-word;
       word-wrap: break-word;
       text-align: left;
-      table-layout: fixed;
 
       @media only screen and (max-width: 640px) {
         margin: 0px 10px;
@@ -74,13 +73,11 @@
       }
     
       td:first-child {
+
         padding-top: 12px;
       }
 
       td {
-        word-wrap: break-word;
-        word-break: break-all;
-        overflow-wrap: break-word;
         vertical-align: top;
         padding: 24px 10px 24px 0px;
         white-space: break-spaces;
