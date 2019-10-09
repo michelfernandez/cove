@@ -85,14 +85,10 @@ Instantly operational thanks to lower requirements
 This applies to most types of contracts, such as rental, purchase or mortgage agreements. 
 Anyone who has a Swiss mobile phone number can start signing with AES on Skribble immediately.
 {{% /richtext %}}
-
-{{% heading %}}
-## QES vs. FES at a glance
-{{% /heading %}}
 {{% /content %}}
 
 
-{{% table-dense %}}
+{{% table-dense "QES vs. FES at a glance" %}}
 
 <thead>
 <tr>
