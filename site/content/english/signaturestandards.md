@@ -106,7 +106,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 
 <tbody>
 <tr>
-<td><strong>QES</strong></td>
+<td><div class="icon-qes">QES</div></td>
 <td><strong>Sehr Hoch</strong></td>
 <td><ul><li>Persönliche Identifikation oder</li><li>E-ID Mobiltelefonnumer</li></ul></td>
 <td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
@@ -114,7 +114,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 </tr>
 
 <tr>
-<td><strong>AES</strong></td>
+<td><div class="icon-fes">AES</div></td>
 <td><strong>Hoch</strong></td>
 <td><ul><li>Mobiltelefonnumer mit Vertrag in der Schweiz</li></ul></td>
 <td><ul><li>Formfreie Verträge</li></ul></td>
