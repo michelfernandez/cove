@@ -12,6 +12,7 @@
       border-top: 1px solid $c-border;
       font-size: 1.4rem;
       overflow-wrap: break-word;
+      word-wrap: break-word;
       text-align: left;
 
       @media only screen and (max-width: 640px) {
