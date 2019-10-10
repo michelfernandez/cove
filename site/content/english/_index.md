@@ -157,7 +157,7 @@ Identified individuals sign on Skribble with the highest available e-signature s
 
 {{% cta
   label="Learn more"
-  href="identifikation"
+  href="identification"
   title="For everyone else, Skribble offers a suitable identification solution."
   outlined="true"
 %}}
