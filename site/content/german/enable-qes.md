@@ -2,7 +2,7 @@
 title: Identitätsprüfung für die QES - Skribble macht es einfach
 description: In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument.
 draft: false
-slug: identitaetspruefung
+slug: qes-freischalten
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg

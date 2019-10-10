@@ -2,7 +2,7 @@
 title: Contrôle d'identité pour la QES
 description: Signature électronique légalement valide avec Skribble. Traiter les processus de signature numériquement – juridiquement valides selon le droit suisse et européen.
 draft: false
-slug: identifions
+slug: debloquez-qes
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg

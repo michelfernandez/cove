@@ -113,7 +113,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{% cta
   label="Mehr erfahren"
-  href="de/qes-erklaert"
+  href="de/signaturstandards"
   outlined="true"
 %}}
 

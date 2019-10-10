@@ -2,7 +2,7 @@
 title: This is how we check your Identity and get you started signing
 description: Four short steps to get you started signing. All you need is a mobile phone and a valid travel document.
 draft: false
-slug: identify
+slug: enable-qes
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg

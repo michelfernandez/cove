@@ -139,7 +139,7 @@ Skribble can easily be used outside the company context. If you do not yet have 
 
 {{% cta
   label="Get E-ID now"
-  href="identify"
+  href="enable-qes"
 %}}
 {{% richtext %}}
 **Learn more about how to get <br class="hide-for-mobile">your E-ID in a few minutes!**
