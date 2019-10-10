@@ -141,7 +141,7 @@ Skribble s’utilise facilement en dehors du contexte de l’entreprise. <br cla
 
 {{% cta
   label="Obtenez une e-ID maintenant"
-  href="fr/identifions"
+  href="fr/debloquez-qes"
 %}}
 {{% richtext %}}
 **Choisissez un rendez-vous <br class="hide-for-mobile">et nous vous identifierons.**

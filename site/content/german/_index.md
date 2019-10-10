@@ -41,6 +41,16 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< logos-container title="Skribble in den Medien">}}
+  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
+  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
+  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+{{< /logos-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
 {{< side-by-side >}}
 {{% richtext %}}
 ## Dokumente als PDF hochladen
@@ -87,7 +97,7 @@ Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /heading %}}
 
 {{% collapsible 1 "E-Signatur-Standards QES und FES gemäss ZertES/eIDAS" "check" %}}
-Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES). 
+Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
@@ -121,7 +131,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{% richtext %}}
 ## Skribble arbeitet mit staatlich anerkannter Technologie
-Die Zertifikate für die elektronischen Signaturen bezieht Skribble von Swisscom, einer staatlich anerkannten Zertifizierungsstelle. 
+Die Zertifikate für die elektronischen Signaturen bezieht Skribble von Swisscom, einer staatlich anerkannten Zertifizierungsstelle.
 {{% /richtext %}}
 {{< /side-by-side >}}
 

@@ -41,6 +41,15 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< logos-container title="Connu depuis les médias">}}
+  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
+  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
+  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+{{< /logos-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side >}}
 {{% richtext %}}
 ## Charger un document PDF
@@ -87,7 +96,7 @@ Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-fo
 {{% /heading %}}
 
 {{% collapsible 1 "Normes de signature électronique SEQ und SEA selon SCSE/eIDAS" "check" %}}
-Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA). 
+Skribble travaille exclusivement avec des standards de signature électronique légalement définis: la signature électronique qualifiée (SEQ) et la signature électronique avancée (SEA).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Exigence de la forme écrite selon le CO/eIDAS" "check" %}}
@@ -121,7 +130,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{% richtext %}}
 ## Skribble travaille avec une technologie approuvée par l'État
-Skribble obtient les certificats pour les signatures électroniques auprès de Swisscom, un organisme de certification reconnu par l'Etat. 
+Skribble obtient les certificats pour les signatures électroniques auprès de Swisscom, un organisme de certification reconnu par l'Etat.
 {{% /richtext %}}
 {{< /side-by-side >}}
 
