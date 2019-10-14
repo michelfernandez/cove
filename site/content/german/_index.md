@@ -41,11 +41,11 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble in den Medien">}}
-  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
-  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
-  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -70,6 +70,27 @@ Lade das signierbereite PDF-Dokument direkt via Browser hoch oder nutze Skribble
 Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge fest.
 {{% /richtext %}}
 {{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag.
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
+
+{{% cta
+  label="Alle Funktionen ansehen"
+  href="de/features"
+  outlined="true"
+%}}
+
+{{% richtext %}}
+**Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.**<br>
+{{% /richtext %}}
+{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

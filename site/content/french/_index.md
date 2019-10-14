@@ -41,11 +41,11 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Connu depuis les médias">}}
-  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
-  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
-  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -88,6 +88,28 @@ Vous signez légalement par simple pression <br class="hide-for-mobile">d'un bou
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# En signant avec Skribble, vous gagnez du temps au travail
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
+
+{{% cta
+  label="Afficher toutes les fonctions"
+  href="/fr/fonctionnalites/"
+  outlined="true"
+%}}
+
+{{% richtext %}}
+**Avec Skribble vous signez non seulement légalement, mais aussi simplement.**<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{% content %}}
 {{% heading %}}
