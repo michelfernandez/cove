@@ -102,7 +102,7 @@ You sign legally binding at the push of a button, regardless of time and place, 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
 {{% cta
-  label="Show all functons"
+  label="Show all functions"
   href="features"
   outlined="true"
 %}}
