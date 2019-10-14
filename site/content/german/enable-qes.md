@@ -2,7 +2,7 @@
 title: Identitätsprüfung für die QES - Skribble macht es einfach
 description: In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon und ein gültiges Reisedokument.
 draft: false
-slug: identitaetspruefung
+slug: qes-freischalten
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -11,8 +11,8 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Wir identifizieren dich <br class="hide-for-mobile">mit der ID-App von Swisscom
-In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon <br class="hide-for-mobile">und ein gültiges Reisedokument 
+# Maximiere die Beweiskraft <br class="hide-for-mobile">deiner E-Signatur
+Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei, <br class="hide-for-mobile">in dem du dich im persönlichen Kontakt mit der ID-App <br class="hide-for-mobile">von Swisscom identifizieren lässt. 
 (Pass oder Identitätskarte).
 {{% /heading %}}
 
@@ -21,7 +21,7 @@ In 4 Schritten machen wir dich signierbereit. Du benötigst nur ein Mobiltelefon
 {{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
 {{% richtext %}}
 **Schritt 1**<br>
-Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
+Vereinbare einen Identifikations-Termin und komm persönlich vorbei.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -29,7 +29,7 @@ Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
 {{% richtext %}}
 **Schritt 2**<br>
-Swisscom verifiziert deine Daten und legt sie sicher ab.
+Wir scannen und prüfen deinen Ausweis mit der ID-App von Swisscom.
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
@@ -39,7 +39,7 @@ Swisscom verifiziert deine Daten und legt sie sicher ab.
 {{< picture "identification-step-3" 270 "Ein mann der erfolgreich elektronisch identifiziert ist" >}}
 {{% richtext %}}
 **Schritt 3**<br>
-Wir setzen deinen Profilstatus direkt auf “signierbereit”.
+Swisscom verifiziert deine Daten <br class="hide-for-mobile">und legt sie sicher ab.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -47,34 +47,10 @@ Wir setzen deinen Profilstatus direkt auf “signierbereit”.
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% richtext %}}
 **Schritt 4**<br>
-Ab sofort signierst du elektronisch mit QES.
+Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Alles klar?
-{{% /heading %}}
-
-{{% collapsible 1 "Warum muss ich mich identifizieren lassen?" %}}
-Bei Skribble signierst du mit der qualifizierten elektronischen Signatur (QES). <br class="hide-for-mobile">Das ist der höchste E-Signatur-Standard. Für diesen verlangt das Gesetz eine Identitätsprüfung im persönlichen Kontakt. Ausnahme bilden Finanzintermediäre, welche die Identitiätsprüfung mittels Video-Identifikation vornehmen dürfen.{{% /collapsible %}}
-
-{{% collapsible 2 "Muss ich mich vor jeder Signatur neu identifizieren lassen?" %}}
-Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, <br class="hide-for-mobile">den du bei der Identifikation vorgewiesen hast.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
-Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie <br class="hide-for-mobile">der Ausländerausweis oder Führerschein reichen nicht aus.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
-Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in <br class="hide-for-mobile">der Schweiz gespeichert (Tier IV-Zertifizierung).
-{{% /collapsible %}}
-
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -155,6 +131,36 @@ CH-8001 Zürich
 
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{% content %}}
+{{% heading %}}
+# Alles klar?
+{{% /heading %}}
+
+{{% collapsible 1 "Was bringt mir die Identifikation?" %}}
+Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung. 
+{{% /collapsible %}}
+
+{{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
+Nein. Deine E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den du bei der Identifikation vorgewiesen hast.
+{{% /collapsible %}}
+
+{{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
+Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie <br class="hide-for-mobile">der Ausländerausweis oder Führerschein reichen nicht aus.
+{{% /collapsible %}}
+
+{{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
+Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in <br class="hide-for-mobile">der Schweiz gespeichert (Tier IV-Zertifizierung).
+{{% /collapsible %}}
+
+{{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}
+Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf Mobile-ID.ch kann überprüft werden ob das eigene Smartphone bereits eine Mobile-ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile-ID bestellt werden.
+{{% /collapsible %}}
+
+{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

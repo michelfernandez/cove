@@ -1,8 +1,8 @@
 ---
-title: Contrôle d'identité pour la QES
-description: Signature électronique légalement valide avec Skribble. Traiter les processus de signature numériquement – juridiquement valides selon le droit suisse et européen.
+title: Contrôle d'identité pour la SEQ
+description: Pour signer avec la plus haute norme de signature électronique (SEQ), les signataires doivent faire vérifier leur identité. Ceci est possible via e-ID ou avec notre service d'identification.
 draft: false
-slug: identifions
+slug: debloquez-qes
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -11,8 +11,8 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# Nous vous identifions <br class="hide-for-mobile">avec l'ID-app de Swisscom
-Quatre petites étapes et vous pouvez commencer à signer. <br class="hide-for-mobile">Il vous suffit d'avoir un téléphone mobile et un document <br class="hide-for-mobile">de voyage valide (passeport ou carte d'identité).
+# Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom.
 {{% /heading %}}
 
 {{< row >}}
@@ -20,7 +20,7 @@ Quatre petites étapes et vous pouvez commencer à signer. <br class="hide-for-m
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% richtext %}}
 **Etape 1**<br>
-La pièce d'identité de l'utilisateur <br class="hide-for-mobile">est scannée et vérifiée avec l'ID-app <br class="hide-for-mobile">de Swisscom.
+Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en personne.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -28,7 +28,7 @@ La pièce d'identité de l'utilisateur <br class="hide-for-mobile">est scannée 
 {{< picture "identification-step-2" 158 "Une identité électronique sur un téléphone portable" >}}
 {{% richtext %}}
 **Etape 2**<br>
-Swisscom vérifie les données et les stocke en toute sécurité.
+La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’ID-app de Swisscom.
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
@@ -38,7 +38,7 @@ Swisscom vérifie les données et les stocke en toute sécurité.
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
 {{% richtext %}}
 **Etape 3**<br>
-Dans Skribble, le statut de l'utilisateur <br class="hide-for-mobile">est directement modifié en "prêt à signer" dans le profil.
+Swisscom vérifie les données et les stocke en toute sécurité.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -46,35 +46,10 @@ Dans Skribble, le statut de l'utilisateur <br class="hide-for-mobile">est direct
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% richtext %}}
 **Etape 4**<br>
-L'utilisateur peut maintenant utiliser Skribble pour signer électroniquement de manière qualifiée.
+La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Tout va bien?
-{{% /heading %}}
-
-{{% collapsible 1 "Pourquoi dois-je être identifié?" %}}
-Avec Skribble vous signez avec la signature électronique qualifiée (QES). <br class="hide-for-mobile">Il s'agit de la norme de signature électronique la plus élevée. Pour cela, <br class="hide-for-mobile">la loi exige un contrôle d'identité avec un contact personnel. Les exceptions <br class="hide-for-mobile">sont les intermédiaires financiers qui sont autorisés à effectuer <br class="hide-for-mobile">une vérification d'identité par identification vidéo.
-{{% /collapsible %}}
-
-{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature?" %}}
-Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité <br class="hide-for-mobile">que vous avez présentée lors de votre identification.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire <br class="hide-for-mobile">ne sont pas suffisantes.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
-Les données collectées sont stockées sur les serveurs haute sécurité <br class="hide-for-mobile">de Swisscom en Suisse (certification Tier IV).
-{{% /collapsible %}}
-
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -155,6 +130,35 @@ CH-8001 Zürich
 
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# Tout va bien?
+{{% /heading %}}
+
+{{% collapsible 1 "Que m'apporte l'identification?" %}}
+Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ). <br class="hide-for-mobile">Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
+{{% /collapsible %}}
+
+{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
+Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
+{{% /collapsible %}}
+
+{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
+Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire <br class="hide-for-mobile">ne sont pas suffisantes.
+{{% /collapsible %}}
+
+{{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
+Les données collectées sont stockées sur les serveurs haute sécurité <br class="hide-for-mobile">de Swisscom en Suisse (certification Tier IV).
+{{% /collapsible %}}
+
+{{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
+Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
+{{% /collapsible %}}
+
+{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -2,7 +2,7 @@
 title: This is how we check your Identity and get you started signing
 description: Four short steps to get you started signing. All you need is a mobile phone and a valid travel document.
 draft: false
-slug: identify
+slug: enable-qes
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
@@ -11,8 +11,8 @@ og_image: og/og-skribble-identification.jpg
 
 {{% content %}}
 {{% heading %}}
-# We identify you <br class="hide-for-mobile">with the ID app by Swisscom
-Four short steps to get you started signing. All you need is a mobile phone <br class="hide-for-mobile">and a valid travel document (Valid passport or identity card).
+# Maximise the legal weight <br class="hide-for-mobile">of your electronic signature
+Enable the highest e-signing standard (QES) <br class="hide-for-mobile">by getting yourself identified by personal contact <br class="hide-for-mobile">with the Swisscom ID app.
 {{% /heading %}}
 
 {{< row >}}
@@ -20,7 +20,7 @@ Four short steps to get you started signing. All you need is a mobile phone <br 
 {{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
 {{% richtext %}}
 **Step 1**<br>
-We scan and check your ID card or passport using Swisscom's ID app.
+Schedule an identification date and come by personally.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -28,7 +28,7 @@ We scan and check your ID card or passport using Swisscom's ID app.
 {{< picture "identification-step-2" 158 "An electronic identity on a mobile phone" >}}
 {{% richtext %}}
 **Step 2**<br>
-Swisscom verifies the data and stores them securely.
+We scan and check your ID or passport using Swisscom’s ID app.
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
@@ -38,7 +38,7 @@ Swisscom verifies the data and stores them securely.
 {{< picture "identification-step-3" 270 "A man who has been successfully identified electronically" >}}
 {{% richtext %}}
 **Step 3**<br>
-We update your status to "ready to sign".
+Swisscom verifies the data and stores them securely.
 {{% /richtext %}}
 {{% /step %}}
 
@@ -46,7 +46,7 @@ We update your status to "ready to sign".
 {{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% richtext %}}
 **Step 4**<br>
-You can now use Skribble to sign electronically in a qualified manner.
+The legal weight of your signature is raised to 100% (QES level)
 {{% /richtext %}}
 {{% /step %}}
 {{< /row >}}
@@ -54,30 +54,6 @@ You can now use Skribble to sign electronically in a qualified manner.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{% content %}}
-{{% heading %}}
-# All clear?
-{{% /heading %}}
-
-{{% collapsible 1 "Why do I need to be identified?" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is the highest e-signature standard. For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
-
-{{% collapsible 2 "Do I have to be identified again before each signature?" %}}
-No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Which identification documents can I use for identification?" %}}
-A valid passport or identity card. All other forms of identification <br class="hide-for-mobile">such as a residence permit or driving licence are not sufficient.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Where are the data of the identified users stored?" %}}
-The data collected are stored on Swisscom's high-security servers <br class="hide-for-mobile">in Switzerland (Tier IV certification).
-{{% /collapsible %}}
-
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
@@ -143,7 +119,7 @@ CH-3007 Bern
 {{< picture
   name="map-trustsquare"
   w="121"
-  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
+  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zurich"
   href="https://goo.gl/maps/PfkFALpqq89meyYf9"
   target="_blank"
 >}}
@@ -151,10 +127,40 @@ CH-3007 Bern
 {{% richtext %}}
 **TrustSquare**<br>
 Bahnhofstrasse 3<br>
-CH-8001 Zürich
+CH-8001 Zurich
 
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{% content %}}
+{{% heading %}}
+# All clear?
+{{% /heading %}}
+
+{{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
+At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
+
+{{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
+No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
+{{% /collapsible %}}
+
+{{% collapsible 3 "Which identification documents can I use for identification?" %}}
+A valid passport or identity card. All other forms of identification <br class="hide-for-mobile">such as a residence permit or driving licence are not sufficient.
+{{% /collapsible %}}
+
+{{% collapsible 4 "Where are the data of the identified users stored?" %}}
+The data collected are stored on Swisscom's high-security servers <br class="hide-for-mobile">in Switzerland (Tier IV certification).
+{{% /collapsible %}}
+
+{{% collapsible 5 "Does QES require a Mobile ID?" %}}
+No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated. <br class="hide-for-mobile">If this is not the case, a new SIM card with Mobile ID can be ordered<br class="hide-for-mobile"> free of charge from most providers.
+{{% /collapsible %}}
+
+{{% /content %}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
