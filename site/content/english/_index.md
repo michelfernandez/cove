@@ -45,15 +45,14 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble in the press">}}
-  {{< logos-item src="logos/srf-logo-170w.png" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/hr-today-logo-162w.png" alt="HR-Today">}}
-  {{< logos-item src="logos/eforesight-logo-185w.png" alt="e-foresight">}}
-  {{< logos-item src="logos/gruenderszene-logo-220w.png" alt="Gründerszene">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -93,6 +92,28 @@ Sign at the push of a button, independent of time and place, legally valid accor
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# If you sign with Skribble <br class="hide-for-mobile">you save time at work
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
+
+{{% cta
+  label="Show all functions"
+  href="features"
+  outlined="true"
+%}}
+
+{{% richtext %}}
+**With Skribble you not only sign <br class="hide-for-mobile">legally, but also simply.**<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{% content %}}
 {{% heading %}}
