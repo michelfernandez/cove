@@ -50,6 +50,11 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# In 3 Schritten rechtsgültig signieren
+{{% /heading %}}
+{{% /content %}}
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -73,9 +78,20 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side >}}
+{{% richtext %}}
+## Rechtsgültig signieren
+Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Ort, rechtsgültig nach Schweizer <br class="hide-for-mobile">und EU-Recht.
+{{% /richtext %}}
+
+{{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
-# Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag.
+# Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
 {{% /heading %}}
 {{% /content %}}
 
@@ -91,17 +107,6 @@ Lade die signierenden Personen per E-Mail ein und lege die Signatur-Reihenfolge 
 **Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.**<br>
 {{% /richtext %}}
 {{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{% richtext %}}
-## Rechtsgültig signieren
-Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Ort, rechtsgültig nach Schweizer <br class="hide-for-mobile">und EU-Recht.
-{{% /richtext %}}
-
-{{< picture image4 391 "Drei personen signieren rechtsgültig zusammen ein online dokument" >}}
-{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -135,7 +140,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{% cta
   label="Mehr erfahren"
   href="de/signaturstandards"
-  outlined=""
+  outlined="true"
 %}}
 
 {{< picture qes-erklaert 122 "Das Gesetz unterscheidet zwischen verschiedenen E-Signatur-Standards." >}}
