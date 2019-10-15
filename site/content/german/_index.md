@@ -98,7 +98,7 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 {{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
 {{% cta
-  label="Alle Funktionen ansehen"
+  label="Alle Funktionen anzeigen"
   href="de/features"
   outlined="true"
 %}}
@@ -110,9 +110,8 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble bietet eine kundenfreundliche Lösung für die QES in der Schweiz an."
-{{< /testimonial >}}
+{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -126,16 +125,14 @@ Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 Skribble arbeitet ausschliesslich mit gesetzlich definierten E-Signatur-Standards: Die qualifizierte elektronische Signatur (QES) und die fortgeschrittene elektronische Signatur (FES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/eIDAS" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur vor Schweizer und EU-Gesetz gleichgestellt.
+{{% collapsible 2 "Schriftlichkeitserfordernis gemäss OR/BGB" "check" %}}
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestelt gemäss nationalen Gesetzgebungen in der Schweizer und der EU (z.B. OR in der Schweiz oder BGB in Deutschland).
 {{% /collapsible %}}
 
 {{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
 Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
   label="Mehr erfahren"
@@ -146,9 +143,10 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{< picture qes-erklaert 122 "Das Gesetz unterscheidet zwischen verschiedenen E-Signatur-Standards." >}}
 
 {{% richtext %}}
-**Warum erfüllt die QES <br class="hide-for-mobile">den rechtlichen Standard?**<br>
+**Das Gesetz unterscheidet zwischen verschiedenen E-Signatur-Standards.**<br>
 {{% /richtext %}}
 {{% /cta %}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -168,9 +166,10 @@ Die Zertifikate für die elektronischen Signaturen bezieht Skribble von Swisscom
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Identifizierte Personen signieren auf Skribble mit dem höchsten verfügbaren <br class="hide-for-mobile">E-Signatur-Standard QES. Dieser hat eine Beweiskraft von 100%.
 
-**Personen, die sich mit einer E-ID anmelden, schalten die QES automatisch frei.**
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
-**Die Integration weiterer E-IDs folgt in diesem Jahr.**
+
+**Personen, die sich mit einer E-ID anmelden, schalten die QES automatisch frei. <br class="hide-for-mobile">Die Integration weiterer E-IDs folgt in diesem Jahr.**
+
 {{% /heading %}}
 {{% /content %}}
 
@@ -206,8 +205,9 @@ Für die fortgeschrittene elektronische Signatur (FES) ist keine Identifikation 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
+"Skribble bietet eine kundenfreundliche Lösung für die QES in der Schweiz an."
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

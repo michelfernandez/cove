@@ -67,8 +67,8 @@ Our vision is great. We develop Skribble day by day.
     description="Sign from your existing systems, e.g. Google Drive, One Drive, Drop Box or Secure Safe.">}}
 
   {{< features-item src="features/tools.svg" 
-    headline="Confirm with mobile phone" 
-    description="Confirm the signature via Mobile ID or one-time passowrd (OTP) – no additional hardware required.">}}
+    headline="Automatic reminders" 
+    description="Don't chase after outstanding signatures - send automated reminder e-mails instead.">}}
 
   {{< features-item src="features/archive.svg" 
     headline="Automatic reminders" 
