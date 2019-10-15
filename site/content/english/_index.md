@@ -54,6 +54,12 @@ Easily handle digital signature processes – legally binding <br class="hide-fo
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Sign legally in three steps 
+{{% /heading %}}
+{{% /content %}}
+
 {{< side-by-side >}}
 {{% richtext %}}
 ## Upload documents as PDFs
@@ -87,12 +93,6 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # If you sign with Skribble <br class="hide-for-mobile">you save time at work
@@ -111,6 +111,12 @@ Sign at the push of a button, independent of time and place, legally valid accor
 **With Skribble you not only sign <br class="hide-for-mobile">legally, but also simply.**<br>
 {{% /richtext %}}
 {{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
+"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -139,8 +145,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{% cta
   label="Learn more"
   href="signaturestandards"
-  target="_blank"
-  outlined=""
+  outlined="true"
 %}}
 
 {{< picture qes-erklaert 122 "The law distinguishes between different e-signature standards." >}}

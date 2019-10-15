@@ -50,6 +50,12 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Signer légalement <br class="hide-for-mobile">en trois étapes
+{{% /heading %}}
+{{% /content %}}
+
 {{< side-by-side >}}
 {{% richtext %}}
 ## Charger un document PDF
@@ -83,15 +89,9 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
-# En signant avec Skribble, vous gagnez du temps au travail
+# En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
 {{% /heading %}}
 {{% /content %}}
 
@@ -110,6 +110,11 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
+"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
@@ -135,7 +140,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{% cta
   label="En savoir plus"
   href="fr/debloquez-qes"
-  outlined=""
+  outlined="true"
 %}}
 
 {{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
