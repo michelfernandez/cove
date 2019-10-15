@@ -136,29 +136,31 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
-  label="En savoir plus"
-  href="fr/debloquez-qes"
-  outlined="true"
-%}}
 
-{{< picture qes-erklaert 122 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
-
-{{% richtext %}}
-**La loi établit une distinction entre les différentes normes de signature électronique.**<br>
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
+{{< intro >}}
+<div class="hide-for-mobile">
 {{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
+</div>
 
 {{% richtext %}}
-## Skribble travaille avec une technologie approuvée par l'État
-Skribble obtient les certificats pour les signatures électroniques auprès de Swisscom, un organisme de certification reconnu par l'Etat.
+{{% heading left %}}
+## La loi établit une distinction <br class="hide-for-mobile">entre les différentes normes <br class="hide-for-mobile">de signature électronique.
+Skribble obtient les certificats pour les signatures <br class="hide-for-mobile">électroniques auprès de Swisscom, <br class="hide-for-mobile">un organisme de certification reconnu par l'Etat.
+{{% /heading %}}
+
+<div class="hide-for-desktop">
+{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
+</div>
+
+{{< button
+  "En savoir plus"
+  "/fr/normessignature/"
+  "_blank"
+  "outline"
+>}}
 {{% /richtext %}}
-{{< /side-by-side >}}
+{{< /intro >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

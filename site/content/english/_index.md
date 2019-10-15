@@ -143,29 +143,29 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
-  label="Learn more"
-  href="signaturestandards"
-  outlined="true"
-%}}
-
-{{< picture qes-erklaert 122 "The law distinguishes between different e-signature standards." >}}
-
-{{% richtext %}}
-**The law distinguishes between <br class="hide-for-mobile">different e-signature standards.**<br>
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
+{{< intro >}}
+<div class="hide-for-mobile">
 {{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
+</div>
 
 {{% richtext %}}
-## Skribble works with state-approved technology
-Skribble obtains the certificates for the electronic signatures from Swisscom, a state-approved certification body.
+{{% heading left %}}
+## The law distinguishes between <br class="hide-for-mobile">different e-signature standards.
+Skribble obtains the certificates for the electronic signatures <br class="hide-for-mobile">from Swisscom, a state-approved certification body.
+{{% /heading %}}
+
+<div class="hide-for-desktop">
+{{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
+</div>
+
+{{< button
+  "Learn more"
+  "signaturestandards"
+  "_blank"
+  "outline"
+>}}
 {{% /richtext %}}
-{{< /side-by-side >}}
+{{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

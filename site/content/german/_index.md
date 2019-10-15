@@ -134,30 +134,34 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{% /collapsible %}}
 {{% /content %}}
 
-{{% cta
-  label="Mehr erfahren"
-  href="de/signaturstandards"
-  outlined="true"
-%}}
-
-{{< picture qes-erklaert 122 "Das Gesetz unterscheidet zwischen verschiedenen E-Signatur-Standards." >}}
-
-{{% richtext %}}
-**Das Gesetz unterscheidet zwischen verschiedenen E-Signatur-Standards.**<br>
-{{% /richtext %}}
-{{% /cta %}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side >}}
+{{< intro >}}
+<div class="hide-for-mobile">
 {{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
+</div>
 
 {{% richtext %}}
-## Skribble arbeitet mit staatlich anerkannter Technologie
-Die Zertifikate für die elektronischen Signaturen bezieht Skribble von Swisscom, einer staatlich anerkannten Zertifizierungsstelle.
+{{% heading left %}}
+## Das Gesetz unterscheidet zwischen <br class="hide-for-mobile">verschiedenen E-Signatur-Standards.
+Die Zertifikate für die elektronischen Signaturen <br class="hide-for-mobile">bezieht Skribble von Swisscom, einer staatlich<br class="hide-for-mobile"> anerkannten Zertifizierungsstelle.
+{{% /heading %}}
+
+<div class="hide-for-desktop">
+{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
+</div>
+
+
+{{< button
+  "Mehr erfahren"
+  "/de/signaturstandards/"
+  "_blank"
+  "outline"
+>}}
+
 {{% /richtext %}}
-{{< /side-by-side >}}
+{{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
