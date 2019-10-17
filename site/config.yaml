@@ -17,15 +17,15 @@ languages:
           weight: 5
           identifier: plattform
         - name: Angebot
-          url: "de/angebot/"
+          url: "/de/angebot/"
           weight: 10
           parent: plattform
         - name: Features
-          url: "de/features/"
+          url: "/de/features/"
           weight: 15
           parent: plattform
         - name: Integrationen
-          url: "de/integrationen/"
+          url: "/de/integrationen/"
           weight: 20
           parent: plattform
         - name: Identifikation
@@ -42,15 +42,15 @@ languages:
           weight: 15
           identifier: solutions
         - name: HR
-          url: "de/hr/"
+          url: "/de/hr/"
           weight: 10
           parent: solutions
         - name: Anwälte
-          url: "de/anwaelte/"
+          url: "/de/anwaelte/"
           weight: 15
           parent: solutions
         - name: Kontakt
-          url: "de/kontakt/"
+          url: "/de/kontakt/"
           weight: 20
       footer1:
         - name: Angebot
@@ -162,11 +162,11 @@ languages:
           weight: 10
           parent: platform
         - name: Features
-          url: "features/"
+          url: "/features/"
           weight: 15
           parent: platform
         - name: Integrations
-          url: "integrations/"
+          url: "/integrations/"
           weight: 20
           parent: platform
         - name: Identification
@@ -303,11 +303,11 @@ languages:
           weight: 10
           parent: platform
         - name: Fonctionnalités
-          url: "fr/fonctionnalites/"
+          url: "/fr/fonctionnalites/"
           weight: 15
           parent: platform
         - name: Integrations
-          url: "fr/integrations/"
+          url: "/fr/integrations/"
           weight: 20
           parent: platform
         - name: Identification
@@ -321,28 +321,28 @@ languages:
         # Solutions dropdown
         - name: Solutions
           url: "#"
-          weight: 15
+          weight: 10
           identifier: solutions
         - name: RH
-          url: "fr/ressources-humaines/"
-          weight: 10
+          url: "/fr/ressources-humaines/"
+          weight: 15
           parent: solutions
         - name: Juristes
           url: "/fr/juristes/"
-          weight: 15
+          weight: 20
           parent: solutions
         - name: Contact
           url: "/fr/contact/"
-          weight: 20
+          weight: 25
       footer1:
         - name: Offre
           url: /fr/offre/
           weight: 5
         - name: Fonctionnalités
-          url: "fr/fonctionnalites/"
+          url: "/fr/fonctionnalites/"
           weight: 10
         - name: Integrations
-          url: "fr/integrations/"
+          url: "/fr/integrations/"
           weight: 15
         - name: Identification
           url: /fr/identification/

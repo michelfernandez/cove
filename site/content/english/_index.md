@@ -116,12 +116,6 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
 {{% content %}}
 {{% heading %}}
 # Skribble complies <br class="hide-for-mobile">with legal requirements
@@ -143,79 +137,32 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< intro >}}
-<div class="hide-for-mobile">
-{{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
-</div>
-
-{{% richtext %}}
-{{% heading left %}}
-## The law distinguishes between <br class="hide-for-mobile">different e-signature standards.
-Skribble obtains the certificates for the electronic signatures <br class="hide-for-mobile">from Swisscom, a state-approved certification body.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-{{< picture image5 430 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
-</div>
-
-{{< button
-  "Learn more"
-  "signaturestandards"
-  "_blank"
-  "outline"
->}}
-{{% /richtext %}}
-{{< /intro >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-Identified individuals sign on Skribble with the highest available e-signature standard QES. It has a legal weight of 100%.
-
-{{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
-
-**Those who log in with an e-ID automatically activate QES. <br class="hide-for-mobile">The integration of further e-IDs will follow this year.**
-
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
+The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. 
+{{% /heading %}}
+{{< picture legal_weight 664 "Legal-weight" >}}
+{{% richtext %}}
 {{% /heading %}}
 {{% /content %}}
 
 {{% cta
   label="Learn more"
-  href="identification"
-  title="For everyone else, Skribble offers a suitable identification solution."
+  href="/signaturestandards/"
   outlined="true"
 %}}
 
-{{< picture identifizieren 112 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
-
 {{% richtext %}}
-**Skribble's identifiacation services**<br>
-Get identified by Skribble and increase the legal weight of your e-signature.
-{{% /richtext %}}
-{{% /cta %}}
-
-{{% cta
-  label="Learn more"
-  href="signaturestandards"
-  title="Get started without identification"
-  outlined="true"
-%}}
-
-{{< picture AES 100 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
-
-{{% richtext %}}
-**Signing with AES**<br>
-For the advanced electronic signature (AES) no identification is necessary.
+**At Skribble you have the choice <br class="hide-for-mobile">between the signature standards AES and QES.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
-{{< /testimonial >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
