@@ -54,84 +54,6 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
-{{% heading %}}
-# Sites d'identification
-Venez vous identifier gratuitement.
-{{% /heading %}}
-{{% /content %}}
-
-
-{{% cta
-  label="Organiser un rendez-vous E-ID"
-  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
-  target="_blank"
-  title="Belp"
-%}}
-
-{{< picture
-  name="map-natelprofi"
-  w="120"
-  alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
-  href="https://goo.gl/maps/UvxKGxgQ5eooKsA29"
-  target="_target"
->}}
-
-{{% richtext %}}
-**Natel Profi**<br>
-Dorfstrasse 6<br>
-CH-3123 Belp
-{{% /richtext %}}
-{{% /cta %}}
-
-
-{{% cta
-  label="Organiser un rendez-vous E-ID"
-  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
-  target="_blank"
-  title="Bern"
-%}}
-
-{{< picture
-  name="map-natelspycher"
-  w="120"
-  alt="Natel Spycher, Belpstrasse 45, CH-3007 Bern"
-  href="https://goo.gl/maps/DooeRbjvdNkVeXuS6"
-  target="_target"
->}}
-
-{{% richtext %}}
-**Natel Spycher**<br>
-Belpstrasse 45<br>
-CH-3007 Bern
-{{% /richtext %}}
-{{% /cta %}}
-
-
-{{% cta
-  label="Organiser un rendez-vous E-ID"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  target="_blank"
-  title="Zürich"
-%}}
-
-{{< picture
-  name="map-trustsquare"
-  w="121"
-  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
-  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
-  target="_blank"
->}}
-
-{{% richtext %}}
-**TrustSquare**<br>
-Bahnhofstrasse 3<br>
-CH-8001 Zürich
-
-{{% /richtext %}}
-{{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
@@ -157,10 +79,202 @@ Les données collectées sont stockées sur les serveurs haute sécurité <br cl
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
 Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
 {{% /collapsible %}}
-
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{% content %}}
+{{% heading %}}
+# Sites d'identification
+Venez vous identifier gratuitement.
+{{% /heading %}}
+{{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="026 470 08 90"
+  href=""
+  target="_blank"
+  title="Avry"
+%}}
+
+{{< picture
+  name="map-swisscom-avry"
+  w="120"
+  alt="Swisscom Shop, Route de Matran 9, CH-1754 Avry"
+  href="https://goo.gl/maps/MWYKV8TTfATvNYP27"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Swisscom Shop**<br>
+Route de Matran 9<br> 
+CH-1754 Avry<br>
+
+**Öffnungszeiten:**<br>
+Mo - Fr: 08.30 - 19.00<br>
+Do: 08.30 - 21.00<br>
+Sa: 09.00 - 16.00
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="Organiser un rendez-vous E-ID"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
+  target="_blank"
+  title="Belp"
+%}}
+
+{{< picture
+  name="map-natelprofi"
+  w="120"
+  alt="Natel Profi, Dorfstrasse 6, CH-3123 Belp"
+  href="https://goo.gl/maps/UvxKGxgQ5eooKsA29"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Natel Profi**<br>
+Dorfstrasse 6<br>
+CH-3123 Belp
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="Organiser un rendez-vous E-ID"
+  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
+  target="_blank"
+  title="Bern"
+%}}
+
+{{< picture
+  name="map-natelspycher"
+  w="120"
+  alt="Natel Spycher, Belpstrasse 45, CH-3007 Bern"
+  href="https://goo.gl/maps/DooeRbjvdNkVeXuS6"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Natel Spycher**<br>
+Belpstrasse 45<br>
+CH-3007 Bern
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="026 913 71 44"
+  href=""
+  target="_blank"
+  title="Bulle"
+%}}
+
+{{< picture
+  name="map-swisscom-bulle"
+  w="120"
+  alt="Swisscom Shop, Route de Riaz 18, CH-1630 Bulle"
+  href="https://goo.gl/maps/M2pmMETdTWCMtPSv7"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Swisscom Shop**<br>
+Route de Riaz 18<br>
+CH-1630 Bulle<br><br>
+**Öffnungszeiten:**<br>
+Mo - Fr: 09.00 - 18.30<br>
+Sa: 09.00 - 16.00
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="026 341 72 10"
+  href=""
+  target="_blank"
+  title="Fribourg"
+%}}
+
+{{< picture
+  name="map-swisscom-fribourg"
+  w="120"
+  alt="Swisscom Shop, Avenue de la Gare 22, CH-1700 Fribourg"
+  href="https://goo.gl/maps/YrkaK1fmfYQYYQEp8"
+  target="_target"
+>}}
+
+{{% richtext %}}
+**Swisscom Shop**<br>
+Avenue de la Gare 22<br>
+CH-1700 Fribourg<br><br>
+**Öffnungszeiten:**<br>
+Mo - Fr: 08.30 - 19.00<br>
+Do: 08.30 - 21.00<br>
+Sa: 09.00 - 16.00
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="044 552 86 84"
+  href=""
+  target="_blank"
+  title="Zürich"
+%}}
+
+{{< picture
+  name="map-flexoffice-zurich"
+  w="120"
+  alt="FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zürich"
+  href="https://g.page/flexofficeswiss?share"
+  target="_blank"
+>}}
+
+{{% richtext %}}
+**FlexOffice Fraumünster**<br>
+Fraumünsterstrasse 16<br>
+CH-8001 Zürich<br><br>
+**Öffnungszeiten:**<br>
+Mo - Fr: 08.00 - 17.00<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% cta
+  label="Organiser un rendez-vous E-ID"
+  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  target="_blank"
+%}}
+
+{{< picture
+  name="map-trustsquare"
+  w="121"
+  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
+  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
+  target="_blank"
+>}}
+
+{{% richtext %}}
+**TrustSquare**<br>
+Bahnhofstrasse 3<br>
+CH-8001 Zürich
+
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
