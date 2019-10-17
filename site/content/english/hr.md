@@ -124,7 +124,7 @@ The two standards vary in terms of area <br class="hide-for-mobile">of applicati
 %}}
 
 {{% richtext %}}
-**At Skribble you have the choice <br class="hide-for-mobile">between the signature standards FES and QES.**<br>
+**At Skribble you have the choice <br class="hide-for-mobile">between the signature standards AES and QES.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
