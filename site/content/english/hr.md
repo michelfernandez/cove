@@ -14,7 +14,7 @@ og_image: og/og-skribble-identification.jpg
 # Sign electronically in HR
 With Skribble you sign legally and easily in a digital way – <br class="hide-for-mobile">from employment contracts to certificates and wage statements.
 {{% /heading %}}
-{{< picture vertical-hr-main 570 "Three women holding a document in their hands" >}}
+{{< picture vertical-hr-main 560 "Three women holding a document in their hands" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

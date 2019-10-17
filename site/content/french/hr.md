@@ -14,7 +14,7 @@ og_image: og/og-skribble-identification.jpg
 # Signer électroniquement <br class="hide-for-mobile">dans les RH
 Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité <br class="hide-for-mobile">par voie numérique – des contrats de travail aux références en passant <br class="hide-for-mobile">par les certificats de salaire.
 {{% /heading %}}
-{{< picture vertical-hr-main 570 "Trois femmes tenant un contrat entre leurs mains" >}}
+{{< picture vertical-hr-main 560 "Trois femmes tenant un contrat entre leurs mains" >}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
