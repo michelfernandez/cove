@@ -87,7 +87,7 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 {{% content %}}
 {{% heading %}}
 # Standorte für die Identitätsprüfung
-Komm vorbei und lass dich kostenlos identifzieren.
+Komm vorbei und lass dich kostenlos identifzieren. <br class="hide-for-mobile">Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
 {{% /heading %}}
 {{% /content %}}
 

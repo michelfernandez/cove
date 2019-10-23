@@ -83,15 +83,13 @@ Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{% content %}}
 {{% heading %}}
 # Sites d'identification
-Venez vous identifier gratuitement.
+Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for-mobile">ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /heading %}}
 {{% /content %}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
   label="026 470 08 90"
@@ -113,7 +111,7 @@ Venez vous identifier gratuitement.
 Route de Matran 9<br> 
 CH-1754 Avry<br>
 
-**Öffnungszeiten:**<br>
+**Horaires d'ouverture:**<br>
 Mo - Fr: 08.30 - 19.00<br>
 Do: 08.30 - 21.00<br>
 Sa: 09.00 - 16.00
@@ -189,7 +187,7 @@ CH-3007 Bern
 **Swisscom Shop**<br>
 Route de Riaz 18<br>
 CH-1630 Bulle<br><br>
-**Öffnungszeiten:**<br>
+**Horaires d'ouverture:**<br>
 Mo - Fr: 09.00 - 18.30<br>
 Sa: 09.00 - 16.00
 {{% /richtext %}}
@@ -216,7 +214,7 @@ Sa: 09.00 - 16.00
 **Swisscom Shop**<br>
 Avenue de la Gare 22<br>
 CH-1700 Fribourg<br><br>
-**Öffnungszeiten:**<br>
+**Horaires d'ouverture:**<br>
 Mo - Fr: 08.30 - 19.00<br>
 Do: 08.30 - 21.00<br>
 Sa: 09.00 - 16.00
@@ -244,7 +242,7 @@ Sa: 09.00 - 16.00
 **FlexOffice Fraumünster**<br>
 Fraumünsterstrasse 16<br>
 CH-8001 Zürich<br><br>
-**Öffnungszeiten:**<br>
+**Horaires d'ouverture:**<br>
 Mo - Fr: 08.00 - 17.00<br>
 {{% /richtext %}}
 {{% /cta %}}

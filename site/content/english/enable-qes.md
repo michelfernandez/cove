@@ -54,17 +54,6 @@ The legal weight of your signature is raised to 100% (QES level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{% content %}}
-{{% heading %}}
-# Identifcation sites
-Come by and get identified for free.
-{{% /heading %}}
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
 {{% content %}}
 {{% heading %}}
 # All clear?
@@ -93,6 +82,14 @@ No. But a Mobile ID makes signing faster and easier, which is why we recommend i
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Identification sites
+Come by and get identified for free. <br class="hide-for-mobile">Bring a valid passport or your identity card as well as your mobile phone. 
+{{% /heading %}}
+{{% /content %}}
+
+
 {{% cta
   label="026 470 08 90"
   href=""
@@ -113,7 +110,7 @@ No. But a Mobile ID makes signing faster and easier, which is why we recommend i
 Route de Matran 9<br> 
 CH-1754 Avry<br>
 
-**Öffnungszeiten:**<br>
+**Opening hours:**<br>
 Mo - Fr: 08.30 - 19.00<br>
 Do: 08.30 - 21.00<br>
 Sa: 09.00 - 16.00
@@ -189,7 +186,7 @@ CH-3007 Bern
 **Swisscom Shop**<br>
 Route de Riaz 18<br>
 CH-1630 Bulle<br><br>
-**Öffnungszeiten:**<br>
+**Opening hours:**<br>
 Mo - Fr: 09.00 - 18.30<br>
 Sa: 09.00 - 16.00
 {{% /richtext %}}
@@ -216,7 +213,7 @@ Sa: 09.00 - 16.00
 **Swisscom Shop**<br>
 Avenue de la Gare 22<br>
 CH-1700 Fribourg<br><br>
-**Öffnungszeiten:**<br>
+**Opening hours:**<br>
 Mo - Fr: 08.30 - 19.00<br>
 Do: 08.30 - 21.00<br>
 Sa: 09.00 - 16.00
@@ -244,7 +241,7 @@ Sa: 09.00 - 16.00
 **FlexOffice Fraumünster**<br>
 Fraumünsterstrasse 16<br>
 CH-8001 Zürich<br><br>
-**Öffnungszeiten:**<br>
+**Opening hours:**<br>
 Mo - Fr: 08.00 - 17.00<br>
 {{% /richtext %}}
 {{% /cta %}}
