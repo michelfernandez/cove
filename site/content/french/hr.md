@@ -36,7 +36,7 @@ De nouveaux contrats de travail pour tous: le signataire autorisé ne signe plus
 
 {{< side-by-side >}}
 {{% richtext %}}
-## Signature numérique <br class="hide-for-mobile">sans délai des candidats 
+## Signature numérique <br class="hide-for-mobile">sans délai des candidats
 Une intégration efficace: vous avez plus de chances d'être choisi comme employeur et l'administration des RH devient plus facile, plus rapide et moins coûteuse.
 
 - **<small>Juridiquement valable pour tout type <br class="hide-for-mobile">de contrat de travail</small>**
@@ -109,7 +109,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{% content %}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante. 
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 {{% /content %}}
@@ -150,7 +150,7 @@ Cela débloque la norme de signature électronique <br class="hide-for-mobile">l
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance." 
+"La signature électronique des documents devient une fonction essentielle <br class="hide-for-mobile">des identités numériques de confiance."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -162,7 +162,7 @@ Cela débloque la norme de signature électronique <br class="hide-for-mobile">l
 {{% /heading %}}
 
 {{% collapsible 10 "Où sont stockés les documents signés avec Skribble?" %}}
-Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard). 
+Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
 {{% collapsible 11 "Comment Skribble s'assure-t-il que la bonne personne signe?" %}}
@@ -170,11 +170,11 @@ Tous les signataires sont identifiés à l'avance. Lors de la signature, le sign
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS). 
+Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS).
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
-Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.           
+Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imprimé qu'il a été signé numériquement. Cependant, comme les certificats numériques sont perdus lors de l'impression, la traçabilité de la signature et donc le caractère concluant correspondant ne sont pas donnés. Un contrat signé avec une signature électronique qualifiée doit donc toujours être conservé sous forme électronique.
 {{% /collapsible %}}
 
 {{% collapsible 14 "Quelle est la durée de validité de la signature Skribble? " %}}

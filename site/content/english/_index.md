@@ -56,7 +56,7 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 {{% content %}}
 {{% heading %}}
-# Sign legally in three steps 
+# Sign legally in three steps
 {{% /heading %}}
 {{% /content %}}
 
@@ -140,8 +140,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{% content %}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
-The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. 
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
+The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}

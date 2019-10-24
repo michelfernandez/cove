@@ -9,7 +9,7 @@ slug: normessignature
 {{% content %}}
 {{% heading %}}
 # De combien de force probante <br class="hide-for-mobile">avez-vous besoin?
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante. 
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
 
@@ -24,8 +24,8 @@ La signature complète et sans souci pour les exigences les plus élevées
 
 {{% richtext %}}
 **La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**<br>
-Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. 
-Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. 
+Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite.
+Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence.
 Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
 {{% /richtext %}}
 {{% /content %}}
@@ -84,7 +84,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 {{% /richtext %}}
 {{% /content %}}
 
-{{% table-dense "SEQ vs SAE en un coup d'œil" %}}
+{{% table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" %}}
 
 <thead>
 <tr>
