@@ -1,6 +1,6 @@
 ---
-title: Signer électroniquement dans les RH
-description: Avec Skribble, vous signez en toute sécurité juridique et en toute simplicité par voie numérique – des contrats de travail aux références en passant par les certificats de salaire.
+title: Utilisez Skribble via le navigateur ou votre logiciel
+description: Avec Skribble, vous choisissez une plate-forme de cloud qui allie sécurité technologique et simplicité.
 draft: false
 slug: integrations
 
@@ -16,7 +16,7 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Skribble plattform - user interface" >}}
+{{< picture integration-visual 494 "Un homme s'assoit devant un ordinateur et intègre skribble" >}}
 
 {{% heading %}}
 ### Utilisez Skribble via le navigateur ou intégrez <br class="hide-for-mobile">la plate-forme dans votre environnement logiciel existant via API.
@@ -44,7 +44,7 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investisseuse et partenaire btov Venture" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Logo de btvo" >}}
 "Jusqu'à présent, les solutions de signature électronique étaient soit juridiquement contraignantes et moins conviviales, soit faciles à utiliser mais juridiquement non contraignantes. Skribble combine les deux avantages pour la première fois: il est facile à utiliser et juridiquement contraignant." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
