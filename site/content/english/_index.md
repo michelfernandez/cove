@@ -63,7 +63,7 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 {{< side-by-side >}}
 {{% richtext %}}
 ## Upload documents as PDFs
-Upload the signed PDF document directly via browser or use Skribble via API from your business software.
+Upload the PDF document directly via browser or use Skribble via API from your business software.
 {{% /richtext %}}
 
 {{< picture image2 416 "A woman holding a PDF document in her hands and uploading it" >}}
