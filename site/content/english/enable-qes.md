@@ -222,17 +222,18 @@ Sa: 09.00 - 16.00
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
 {{% cta
   label="044 552 86 84"
   href=""
   target="_blank"
-  title="Zürich"
+  title="Zurich"
 %}}
 
 {{< picture
   name="map-flexoffice-zurich"
   w="120"
-  alt="FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zürich"
+  alt="FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
   href="https://g.page/flexofficeswiss?share"
   target="_blank"
 >}}
@@ -240,13 +241,11 @@ Sa: 09.00 - 16.00
 {{% richtext %}}
 **FlexOffice Fraumünster**<br>
 Fraumünsterstrasse 16<br>
-CH-8001 Zürich<br><br>
+CH-8001 Zurich<br><br>
 **Opening hours:**<br>
 Mo - Fr: 08.00 - 17.00<br>
 {{% /richtext %}}
 {{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
   label="Schedule an E-ID appointment"
@@ -257,7 +256,7 @@ Mo - Fr: 08.00 - 17.00<br>
 {{< picture
   name="map-trustsquare"
   w="121"
-  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zürich"
+  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zurich"
   href="https://goo.gl/maps/PfkFALpqq89meyYf9"
   target="_blank"
 >}}
@@ -265,10 +264,11 @@ Mo - Fr: 08.00 - 17.00<br>
 {{% richtext %}}
 **TrustSquare**<br>
 Bahnhofstrasse 3<br>
-CH-8001 Zürich
+CH-8001 Zurich
 
 {{% /richtext %}}
 {{% /cta %}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
