@@ -1,97 +1,144 @@
 .table-dense-container{
   margin: auto;
   margin-bottom: 88px;
-  max-width: 95%;
-  // display: flex;
+  max-width: 90%;
   justify-content: center;
   overflow: auto;
+
+  @media only screen and (max-width: 640px) {
+    max-width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 
   .table-dense {
       flex-basis: 960px;
       min-width: 650px;
       border-top: 1px solid $c-border;
-      font-size: 1.4rem;
+      font-size: 16px;
       overflow-wrap: break-word;
       word-wrap: break-word;
       text-align: left;
 
-      @media only screen and (max-width: 640px) {
-        margin: 0px 10px;
-      }
-    
       strong {
-        font-size: 1.4rem;
-      }
-      
-      .icon-qes {
-        width: 44px;
-        height: 44px;
-        color: white;
-        font-weight: bold;
-        border-radius: 5px;
-        background-color: #00a671;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-
-      .icon-fes {
-        width: 44px;
-        height: 44px;
-        color: white;
-        font-weight: bold;
-        border-radius: 5px;
-        background-color: #006fe6;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        font-size: inherit;
       }
 
       th {
-        padding: 15px 0px;
+        padding: 18px 10px;
         color: $c-text-alt;
-      }
-    
-      th:first-child, td:first-child {
-        width: 80px;
-      }
-    
-      th:nth-child(2), td:nth-child(2) {
-        width: 100px;
-      }
-    
-      th:nth-child(3), td:nth-child(3) {
-        max-width: 100px;
-      }
-    
-      th:nth-child(4), td:nth-child(4) {
-        max-width: 100px;
-      }
-    
-      th:nth-child(5), td:nth-child(5) {
-        max-width: 100px;
-      }
-    
-      td:first-child {
-
-        padding-top: 12px;
       }
 
       td {
         vertical-align: top;
-        padding: 24px 10px 24px 0px;
-        white-space: break-spaces;
-    
-        ul {
-          padding: 0px;
-          margin: 0px;
-          white-space: normal;
-    
-          li:before {
-            content: "•";
-            margin: 0 0.5rem 0 0;
-          }
+        padding: 18px 15px !important;
+        white-space: pre-wrap;
+
+        .btn {
+          width: 100%;
+          margin-bottom: 9px;
         }
       }
     }
+
+    #qes-fes-table {
+      .icon-qes, .icon-fes {
+        width: 44px;
+        height: 44px;
+        color: white;
+        font-weight: bold;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .icon-qes {
+        background-color: #00a671;
+      }
+
+      .icon-fes {
+        background-color: #006fe6;
+      }
+
+      ul {
+        padding: 0px;
+        margin: 0px;
+        white-space: normal;
+
+        li {
+          margin-left: -10px;
+        }
+
+        li:before {
+          content: "•";
+          margin: 0 0.5rem 0 0;
+        }
+      }
+
+      th:first-child, td:first-child {
+        width: 80px;
+      }
+
+      th:nth-child(2), td:nth-child(2) {
+        width: 140px;
+      }
+
+      th:nth-child(3), td:nth-child(3) {
+        max-width: 100px;
+      }
+
+      th:nth-child(4), td:nth-child(4) {
+        max-width: 100px;
+      }
+
+      th:nth-child(5), td:nth-child(5) {
+        max-width: 100px;
+      }
+    }
+
+    #price-table {
+      table-layout: fixed;
+      min-width: 800px;
+      border-top: none;
+      border-bottom: none;
+      border-collapse: separate;
+      border-spacing: 24px 0px;
+
+      @media only screen and (max-width: 640px) {
+        margin: 0px;
+        border-spacing: 12px 0px;
+      }
+      
+      .header-with-image {
+        display: flex;
+        justify-content: space-between;
+
+        .header-image {
+          margin-right: 10px;
+        }
+      }
+
+      td {
+        border-top: none;
+        border-bottom: 1px solid #DADEE6;
+        
+        @media only screen and (max-width: 640px) {
+          padding: 18px 8px !important;
+        }
+      }
+
+      tr:last-child td {
+        border-bottom: none;
+      }
+
+      tr:first-child td {
+        border-top: none;
+      }
+
+      td:empty {
+        border-bottom: none;
+      };
+    }
+    
 }

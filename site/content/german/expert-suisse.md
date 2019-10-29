@@ -1,5 +1,5 @@
 ---
-title: Mitglieder von Expert-Suisse profitieren von einem tollen Angebot
+title: Mitglieder von EXPERTsuisse profitieren von einem tollen Angebot
 description: Rechtsgültig elektronisch signieren mit Skribble. Signaturprozesse einfach digital abwickeln – rechtsgültig nach dem Schweizer & EU Gesetz.
 draft: false
 slug: expertsuisse
@@ -64,11 +64,11 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 {{% content %}}
 {{% heading %}}
-# Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse
+# Kostenlos Signieren mit Skribble <br class="hide-for-mobile">bis Ende Jahr für Mitglieder <br class="hide-for-mobile">von EXPERTsuisse. Ab Januar 2020
 {{% /heading %}}
 {{< picture sav-special 200 "Blauer kreis mit der nummer 12" >}}
 {{% heading %}}
-## pro Monat / Nutzer anstatt CHF 25.-
+## pro Monat pro Nutzer anstatt CHF 25.-
 Exklusiv für EXPERTsuisse Mitglieder:
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 

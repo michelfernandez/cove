@@ -1,5 +1,5 @@
 ---
-title: Preferential price for Expert-Suisse members
+title: Preferential price for EXPERTsuisse members
 description: Legally binding electronic signatures with Skribble. Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 draft: false
 slug: expertsuisse
@@ -64,14 +64,14 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 {{% content %}}
 {{% heading %}}
-# Free signing with Skribble <br class="hide-for-mobile">until end of year for EXPERTsuisse members
+# Free signing with Skribble <br class="hide-for-mobile">until the end of the year for EXPERTsuisse members. As of January 2020
 {{% /heading %}}
 
 {{< picture sav-special 200 "Blue circle with the number 12" >}}
 
 
 {{% heading %}}
-## per month / user instead of CHF 25.00
+## per month per user instead of CHF 25.00
 Exclusively for EXPERTsuisse members:
 {{% /heading %}}
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}

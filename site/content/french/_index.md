@@ -110,11 +110,6 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab – canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
@@ -136,82 +131,31 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< intro >}}
-<div class="hide-for-mobile">
-{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-</div>
-
-{{% richtext %}}
-{{% heading left %}}
-## La loi établit une distinction <br class="hide-for-mobile">entre les différentes normes <br class="hide-for-mobile">de signature électronique.
-Skribble obtient les certificats pour les signatures <br class="hide-for-mobile">électroniques auprès de Swisscom, <br class="hide-for-mobile">un organisme de certification reconnu par l'Etat.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-{{< picture image5 430 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
-</div>
-
-{{< button
-  "En savoir plus"
-  "/fr/normessignature/"
-  "_blank"
-  "outline"
->}}
-{{% /richtext %}}
-{{< /intro >}}
-
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
-Les personnes identifiées signent sur Skribble avec la plus haute norme de signature électronique disponible: la SEQ. Celle-ci a une force probante de 100%.
-
-{{< picture e-id-map 826 "E-ID, where you can sign Skribble soon." >}}
-
-**Les personnes se connectant avec une e-ID activent automatiquement la SEQ. L'intégration d'autres e-IDs suivra cette année.**
-
-{{% /content %}}
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
+Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
+{{% /content %}}
 
-{{% cta
-  label="Apprendre plus"
-  href="fr/identification"
-  title="Pour tous les autres, Skribble offre une solution d'identification adaptée."
-  outlined="true"
-%}}
-
-{{< picture identifizieren 112 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
-
-{{% richtext %}}
-**Service d'identification de Skribble**<br>
-Laissez Skribble vous identifier et augmentez la force probante de votre signature électronique.
-{{% /richtext %}}
-{{% /cta %}}
+{{< picture force_probante 664 "Force_Probante" >}}
 
 {{% cta
   label="En savoir plus"
-  href="fr/debloquez-qes"
-  title="Démarrer sans identification"
+  href="/fr/normessignature/"
   outlined="true"
 %}}
 
-{{< picture AES 100 "Signé avec Skribble signifie légalement signé selon le droit suisse et européen." >}}
-
 {{% richtext %}}
-**Signier avec SEA**<br>
-Pour la signature électronique avancée (SEA), aucune identification n'est requise.
+**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
-{{< /testimonial >}}
-
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab – canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

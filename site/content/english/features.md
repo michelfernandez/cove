@@ -45,7 +45,7 @@ With Skribble you not only sign legally, but also with ease.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, Canton of Fribourg" >}}
 "Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -78,7 +78,7 @@ Our vision is great. We develop Skribble day by day.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, investor and member of the board of btov" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Logo of btov" >}}
 "Until now, e-signing solutions were either legally binding and not very user-friendly or they were easy-to-use but not legally binding. Skribble combines both advantages for the first time: It is easy to use and legally binding." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

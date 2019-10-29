@@ -1,6 +1,6 @@
 ---
-title: 100% legal certainty in court
-description: Skribble has the same legal certainty as signing by hand and offers 100% legal certainty in court.
+title: QES vs. AES at a glance. At Skribble you have the choice.
+description: How much legal weight do you need? The law distinguishes between qualified e-signatures (QES) and advanced e-signatures (AES).
 draft: false
 slug: signaturestandards
 
@@ -9,10 +9,10 @@ slug: signaturestandards
 {{% content %}}
 {{% heading %}}
 # How much legal weight <br class="hide-for-mobile">do you need?
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
 The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. At Skribble you have the choice.
 {{% /heading %}}
-{{< picture legal_weight 664 "Legal-weight" >}}
+{{< picture legal_weight 664 "Evidential value of the AES and the QES" >}}
 {{% richtext %}}
 {{% /heading %}}
 
@@ -25,8 +25,8 @@ The all-round carefree signature for the highest demands
 
 {{% richtext %}}
 **The qualified electronic signature (QES) is legally equal to the handwritten signature.**<br>
-You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. 
-The latter applies, for example, to loan or wage agreements with a competition clause. 
+You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing.
+The latter applies, for example, to loan or wage agreements with a competition clause.
 For signing with QES on Skribble, a prior identity check in personal contact or an e-ID is required.
 {{% /richtext %}}
 {{% /content %}}
@@ -82,13 +82,13 @@ Instantly operational thanks to lower requirements
 
 {{% richtext %}}
 **The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**<br>
-This applies to most types of contracts, such as rental, purchase or mortgage agreements. 
+This applies to most types of contracts, such as rental, purchase or mortgage agreements.
 Anyone who has a Swiss mobile phone number can start signing with AES on Skribble immediately.
 {{% /richtext %}}
 {{% /content %}}
 
 
-{{% table-dense "QES vs. AES at a glance" %}}
+{{% table-dense heading="QES vs. AES at a glance" id="qes-fes-table" %}}
 
 <thead>
 <tr>
@@ -129,7 +129,7 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
   outlined=""
 %}}
 
-{{< picture "contact" 92 "Hast du fragen? Wir helfen dir gerne weiter." >}}
+{{< picture "contact" 92 "Do you have any questions? We will be happy to help you." >}}
 
 {{% richtext %}}
 **Any questions? <br class="hide-for-mobile">We are happy to help you.**<br>

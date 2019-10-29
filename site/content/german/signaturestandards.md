@@ -1,6 +1,6 @@
 ---
-title: 100% Rechtssicherheit beim Signieren
-description: Skribble hat dieselbe Rechtssicherheit wie das Unterschreiben von Hand und bietet 100% Rechtssicherheit vor Gericht.
+title: Welches Signatur brauche ich? Auf Skribble kannst du wählen
+description: Wie viel Beweiskraft brauchst du? Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES).
 draft: false
 slug: signaturstandards
 
@@ -14,7 +14,7 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 Auf Skribble kannst du wählen.
 {{% /heading %}}
 
-{{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
+{{< picture beweiskraft 664 "Beweiskraft der FES und der QES" >}}
 
 {{% heading %}}
 # QES: Dieselbe Rechtssicherheit <br class="hide-for-mobile">wie das Unterschreiben von Hand
@@ -33,7 +33,7 @@ Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfun
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/or-logo-de-202w.png" "Artikel 14 Absatz 2bis des Schweizer Obligationenrechts (OR)" >}}
+{{< testimonial "testimonial/or-logo-de-202w.png" "Schweizer Obligationenrechts (OR)" >}}
 "Der eigenhändigen Unterschrift gleichgestellt ist die mit einem qualifizierten Zeitstempel verbundene qualifizierte elektronische Signatur gemäss Bundesgesetz vom 18. März 2016 über <br class="hide-for-mobile">die elektronische Signatur."
 {{< /testimonial >}}
 
@@ -85,7 +85,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 {{% /content %}}
 
-{{% table-dense "QES vs. FES auf einen Blick" %}}
+{{% table-dense heading="QES vs. FES auf einen Blick" id="qes-fes-table" %}}
 
 <thead>
 <tr>

@@ -1,6 +1,6 @@
 ---
-title: 100% Rechtssicherheit beim Signieren
-description: Skribble hat dieselbe Rechtssicherheit wie das Unterschreiben von Hand und bietet 100% Rechtssicherheit vor Gericht.
+title: Überprüfe, ob dein Dokument mit der QES signiert wurde
+description: Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, ob dein Dokument mit einer qualifizierten elektronischen Signatur (QES) signiert wurde.
 draft: false
 slug: qes-validator
 
@@ -41,7 +41,7 @@ Mit dem Validator der Schweizer Bundesverwaltung kannst du prüfen, <br class="h
 %}}
 {{< picture "qes-erklaert" 122 >}}
 {{% richtext %}}
-**Was ist die qualifizierte <br class="hide-for-mobile">elektroische Signatur (QES)?**
+**Was ist die qualifizierte <br class="hide-for-mobile">elektronische Signatur (QES)?**
 {{% /richtext %}}
 {{% /cta %}}
 

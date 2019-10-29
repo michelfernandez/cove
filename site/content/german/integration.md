@@ -1,6 +1,6 @@
 ---
-title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+title: So einfach nutzt du Skribble – via Browser oder einer Integration
+description: Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit und Einfachheit vereint. Nutze Skribble über den Browser oder integriere die Plattform.
 draft: false
 slug: integrationen
 type: integrationen
@@ -16,7 +16,7 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Skribble plattform - user  interface" >}}
+{{< picture integration-visual 494 "Ein mann sitzt vor einem computer und integriert skribble" >}}
 
 {{% heading %}}
 ### Nutze Skribble über den Browser oder integriere die Plattform <br class="hide-for-mobile">via API in eure bestehende Softwareumgebung
@@ -44,7 +44,7 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investorin und btov Venture Partnerin" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Logo von btvo" >}}
 "E-Signing-Lösungen waren bisher entweder rechtlich verbindlich und wenig benutzerfreundlich oder sie waren einfach zu bedienen aber rechtlich nicht verbindlich. Skribble verbindet erstmals die beiden Vorteile: Es ist einfach zu bedienen und rechtlich bindend." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

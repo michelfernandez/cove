@@ -1,5 +1,5 @@
 ---
-title: Prix préférentiel pour les membres Expert-Suisse
+title: Prix préférentiel pour les membres EXPERTsuisse
 description: Signature électronique légalement valide avec Skribble. Traiter les processus de signature numériquement – juridiquement valides selon le droit suisse et européen.
 draft: false
 slug: expertsuisse
@@ -64,13 +64,13 @@ Traiter les processus de signature numériquement &ndash; <br class="hide-for-mo
 
 {{% content %}}
 {{% heading %}}
-# Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse.
+# Signature gratuite avec Skribble <br class="hide-for-mobile">jusqu'à la fin de l'année <br class="hide-for-mobile">pour les membres EXPERTsuisse. À partir de janvier 2020
 {{% /heading %}}
 
 {{< picture sav-special 200 "Cercle bleu avec le chiffre 12" >}}
 
 {{% heading %}}
-## par mois / utilisateur au lieu de CHF 25.-
+## par mois par utilisateur au lieu de CHF 25.-
 Exclusivement pour les membres EXPERTsuisse :
 {{< picture expertsuisse-logo 250 "EXPERTsuisse Logo" >}}
 {{% /heading %}}

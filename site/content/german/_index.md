@@ -110,11 +110,6 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/logo-fr-110w.png" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
@@ -134,84 +129,35 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{% /collapsible %}}
 {{% /content %}}
 
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< intro >}}
-<div class="hide-for-mobile">
-{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
-</div>
-
-{{% richtext %}}
-{{% heading left %}}
-## Das Gesetz unterscheidet zwischen <br class="hide-for-mobile">verschiedenen E-Signatur-Standards.
-Die Zertifikate für die elektronischen Signaturen <br class="hide-for-mobile">bezieht Skribble von Swisscom, einer staatlich<br class="hide-for-mobile"> anerkannten Zertifizierungsstelle.
-{{% /heading %}}
-
-<div class="hide-for-desktop">
-{{< picture image5 430 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
-</div>
-
-
-{{< button
-  "Mehr erfahren"
-  "/de/signaturstandards/"
-  "_blank"
-  "outline"
->}}
-
-{{% /richtext %}}
-{{< /intro >}}
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
-Identifizierte Personen signieren auf Skribble mit dem höchsten verfügbaren <br class="hide-for-mobile">E-Signatur-Standard QES. Dieser hat eine Beweiskraft von 100%.
-
-{{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
-
-**Personen, die sich mit einer E-ID anmelden, schalten die QES automatisch frei. <br class="hide-for-mobile">Die Integration weiterer E-IDs folgt in diesem Jahr.**
-
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
+Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /heading %}}
+
+{{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
 {{% /content %}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% cta
-  label="Mehr erfahren"
-  href="de/identifikation"
-  title="Für alle anderen bietet Skribble eine passende Identifikationslösung an."
+  label="Erfahre mehr"
+  href="/de/signaturstandards/"
   outlined="true"
 %}}
 
-{{< picture identifizieren 112 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
-
 {{% richtext %}}
-**Skribbles Identifikations-Service**<br>
-Lass dich von Skribble identifizieren und erhöhe die Beweiskraft deiner E-Signatur.
-{{% /richtext %}}
-{{% /cta %}}
-
-{{% cta
-  label="Mehr erfahren"
-  href="de/signaturstandards"
-  title="Ohne Identifikation loslegen"
-  outlined="true"
-%}}
-
-{{< picture AES 100 "Signed with Skribble means legally signed according to Swiss and EU law." >}}
-
-{{% richtext %}}
-**Signieren mit der FES**<br>
-Für die fortgeschrittene elektronische Signatur (FES) ist keine Identifikation notwendig.
+**Auf Skribble kannst du zwischen <br class="hide-for-mobile">den Signaturstandards FES und QES wählen.**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble bietet eine kundenfreundliche Lösung für die QES in der Schweiz an."
-{{< /testimonial >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
