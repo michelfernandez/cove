@@ -100,6 +100,7 @@ Komm vorbei und lass dich kostenlos identifzieren. <br class="hide-for-mobile">B
   title="Avry"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
@@ -183,6 +184,7 @@ CH-3007 Bern
   title="Bulle"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
@@ -212,6 +214,7 @@ Sa: 09.00 - 16.00
   title="Fribourg"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
@@ -243,6 +246,7 @@ Sa: 09.00 - 16.00
   title="Zürich"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture

@@ -98,6 +98,7 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
   title="Avry"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
@@ -181,6 +182,7 @@ CH-3007 Bern
   title="Bulle"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
@@ -210,6 +212,7 @@ Sa: 09.00 - 16.00
   title="Fribourg"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
@@ -242,6 +245,7 @@ Sa: 09.00 - 16.00
   title="Zurich"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
