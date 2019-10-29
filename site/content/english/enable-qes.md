@@ -92,7 +92,7 @@ Come by and get identified for free. <br class="hide-for-mobile">Bring a valid p
 
 {{% cta
   label="026 470 08 90"
-  href=""
+  href="tel: +41 26 470 08 90"
   target="_blank"
   title="Avry"
   class="id-site"
@@ -172,7 +172,7 @@ CH-3007 Bern
 
 {{% cta
   label="026 913 71 44"
-  href=""
+  href="tel: +41 26 913 71 44"
   target="_blank"
   title="Bulle"
   class="id-site"
@@ -200,7 +200,7 @@ Sa: 09.00 - 16.00
 
 {{% cta
   label="026 341 72 10"
-  href=""
+  href="tel: +41 26 341 72 10"
   target="_blank"
   title="Fribourg"
   class="id-site"
@@ -230,7 +230,7 @@ Sa: 09.00 - 16.00
 {{< cta-group >}}
 {{% cta
   label="044 552 86 84"
-  href=""
+  href="tel: +41 44 552 86 84"
   target="_blank"
   title="Zurich"
   class="id-site"
