@@ -89,3 +89,15 @@ $ns: cta;
     }
   }
 }
+
+.id-site {
+  p:nth-child(2) {
+    strong {
+      font-size: 80%;
+    }
+  }
+  
+  strong:nth-of-type(2) {
+    font-size: 80%;
+  }
+}

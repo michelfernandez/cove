@@ -98,6 +98,7 @@ Komm vorbei und lass dich kostenlos identifzieren. <br class="hide-for-mobile">B
   href=""
   target="_blank"
   title="Avry"
+  class="id-site"
 %}}
 
 {{< picture
@@ -127,6 +128,7 @@ Sa: 09.00 - 16.00
   href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
   title="Belp"
+  class="id-site"
 %}}
 
 {{< picture
@@ -151,6 +153,7 @@ CH-3123 Belp
   href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
   target="_blank"
   title="Bern"
+  class="id-site"
 %}}
 
 {{< picture
@@ -175,6 +178,7 @@ CH-3007 Bern
   href=""
   target="_blank"
   title="Bulle"
+  class="id-site"
 %}}
 
 {{< picture
@@ -202,6 +206,7 @@ Sa: 09.00 - 16.00
   href=""
   target="_blank"
   title="Fribourg"
+  class="id-site"
 %}}
 
 {{< picture
@@ -231,6 +236,7 @@ Sa: 09.00 - 16.00
   href=""
   target="_blank"
   title="Zürich"
+  class="id-site"
 %}}
 
 {{< picture
@@ -254,6 +260,7 @@ Mo - Fr: 08.00 - 17.00<br>
   label="E-ID-Termin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
   target="_blank"
+  class="id-site"
 %}}
 
 {{< picture

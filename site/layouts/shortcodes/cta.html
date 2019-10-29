@@ -1,4 +1,4 @@
-<div class="cta {{ cond (eq (.Get "floating") "true") "cta--floating" "" }}">
+<div class="cta {{ cond (eq (.Get "floating") "true") "cta--floating" "" }} {{if .Get "class"}}{{.Get "class"}}{{end}}">
   {{ if (.Get "title") }}
     <div class="cta__title">{{.Get "title" }}</div>
   {{ end }}
