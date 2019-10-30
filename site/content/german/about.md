@@ -29,7 +29,7 @@ Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an
 
 Verträge sollen nicht mehr den Umweg über Drucker und Papier nehmen müssen, um rechtsgültig unterschrieben zu werden:
 
-Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” &ndash; die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
+Mit Skribble werden Signaturprozesse 100% digital abgewickelt. Die Basis bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. 
 
 Dabei geht die Sicherheit nicht auf Kosten von Einfachheit: Jede Firma, unabhängig von Grösse und technologischem Know-how, soll von den Vorteilen der digitalen Transformation profitieren können.
 
