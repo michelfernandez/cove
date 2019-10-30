@@ -265,7 +265,7 @@ Mo - Fr: 08.00 - 17.00<br>
 
 {{% cta
   label="Schedule an E-ID appointment"
-  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
   class="id-site"
   outlined="true"

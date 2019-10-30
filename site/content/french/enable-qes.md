@@ -267,7 +267,7 @@ Mo - Fr: 08.00 - 17.00<br>
 
 {{% cta
   label="Organiser un rendez-vous E-ID"
-  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
   target="_blank"
   class="id-site"
   outlined="true"
