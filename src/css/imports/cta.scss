@@ -91,6 +91,10 @@ $ns: cta;
 }
 
 .id-site {
+  .picture {
+    align-self: baseline;
+  }
+
   p:nth-child(2) {
     strong {
       font-size: 80%;
