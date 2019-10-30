@@ -237,8 +237,8 @@ Sa: 09.00 - 16.00
 
 {{< cta-group >}}
 {{% cta
-  label="044 552 86 84"
-  href="tel: +41 44 552 86 84"
+  label="076 530 36 01"
+  href="tel: +41 76 530 36 01"
   target="_blank"
   title="Zurich"
   class="id-site"
