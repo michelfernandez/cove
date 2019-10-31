@@ -44,7 +44,7 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Logo von btvo" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investorin und Member of the Board" >}}
 "E-Signing-Lösungen waren bisher entweder rechtlich verbindlich und wenig benutzerfreundlich oder sie waren einfach zu bedienen aber rechtlich nicht verbindlich. Skribble verbindet erstmals die beiden Vorteile: Es ist einfach zu bedienen und rechtlich bindend." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
