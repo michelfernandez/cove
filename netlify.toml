@@ -36,3 +36,11 @@
 [[redirects]]
   from = "/prices/"
   to = "/pricing/"
+
+[[redirects]] 
+   from = "/fr/debloquez-qes" 
+   to = "/fr/debloquez-seq/" 
+
+[[redirects]] 
+   from = "/fr/validateur-qes/" 
+   to = "/fr/validateur-seq/" 
