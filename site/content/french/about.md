@@ -27,9 +27,9 @@ Les dix pour cent restants sont des étapes qui exigent un degré élevé de con
 ## Skribble veut que cela change:
 {{< picture image11 512 "Une femme vole le bras tendu à travers un nuage de papier" >}}
 
-Les contrats ne devraient plus passer par l'imprimante et le papier pour être signés légalement:
+Les contrats ne devraient plus avoir à passer par des imprimantes et du papier pour être signés en toute légalité.
 
-Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base des normes légalement réglementées, y compris la signature électronique qualifiée (SEQ) – la seule forme de signature électronique qui équivaut à une signature manuscrite devant la loi suisse et européenne.
+Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de normes légales qui remplacent la signature manuscrite légalement valide et probante.
 
 La sécurité ne se fait pas au détriment de la simplicité: toute entreprise, quelle que soient sa taille et son savoir-faire technologique, doit pouvoir bénéficier des avantages de la transformation numérique.
 

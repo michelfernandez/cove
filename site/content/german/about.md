@@ -27,9 +27,9 @@ Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an
 ## Skribble will das ändern:
 {{< picture image11 512 "Eine frau fliegt mit gestrecktem arm durch eine papier-wolke" >}}
 
-Verträge sollen nicht mehr den Umweg über Drucker und Papier nehmen müssen, um rechtsgültig unterschrieben zu werden:
+Verträge sollen nicht mehr den Umweg über Drucker und Papier nehmen müssen, um rechtssicher unterschrieben zu werden.
 
-Mit Skribble werden Signaturprozesse 100% digital abgewickelt. Die Basis bilden gesetzlich geregelte Standards, unter anderem die qualifizierte elektronische Signatur (QES) – die einzige Form der elektronischen Signatur, die der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt ist. 
+Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf gesetzlich geregelten Standards, die die handschriftliche Unterschrift rechtsgültig und beweiskräftig ersetzen.
 
 Dabei geht die Sicherheit nicht auf Kosten von Einfachheit: Jede Firma, unabhängig von Grösse und technologischem Know-how, soll von den Vorteilen der digitalen Transformation profitieren können.
 

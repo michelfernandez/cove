@@ -29,9 +29,9 @@ The remaining ten percent require a high degree of trust, for example signing em
 
 {{< picture image11 512 "A woman flies with an outstretched arm through a paper cloud" >}}
 
-Contracts should no longer have to take a detour via the printer and paper in order to be signed:
+Contracts no longer have to take a detour via printers and paper in order to be signed in a legally valid manner.
 
-With Skribble signature processes are 100% digital, based on legally regulated standards, including the qualified electronic signature (QES) - the only form of electronic signature that is equivalent to a handwritten signature before Swiss and EU law.
+With Skribble, signature processes are handled 100% digitally, building on Swiss and European standards/regulations that grant electronic signatures the same legal weight as handwritten signatures.
 
 Security does not come at the expense of simplicity: every company, regardless of size and technical know-how, should be able to benefit from the advantages of this digital transformation.
 
