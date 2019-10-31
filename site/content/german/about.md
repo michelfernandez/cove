@@ -34,7 +34,7 @@ Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf ges
 Dabei geht die Sicherheit nicht auf Kosten von Einfachheit: Jede Firma, unabhängig von Grösse und technologischem Know-how, soll von den Vorteilen der digitalen Transformation profitieren können.
 
 ## Und das ist nur der Anfang:
-Der Aufbau von Vertrauen in digitalen Geschäftsbeziehungen soll so einfach und intuitiv werden wie Toasten. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
+Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuitiv werden wie Toasten. Du sollst dir bei jedem Vertragsabschluss sicher sein können, dass er in deinem besten Sinn abgeschlossen wurde. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
 {{% /richtext %}}
 {{% /content %}}
 
