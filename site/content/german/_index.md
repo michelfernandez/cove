@@ -162,24 +162,6 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
-{{% heading %}}
-# Die Signaturen lassen sich einzeln <br class="hide-for-mobile">oder als Flatrate beziehen
-Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an <br class="hide-for-mobile">und kann flexibel kombiniert werden.
-{{% /heading %}}
-
-{{< row >}}
-{{% plan gold "Prepaid-Modell" "Einzelpreis pro Signatur" %}}
-Geeignet für einmaliges oder gelegentliches Signieren.
-{{% /plan %}}
-{{% plan purple "Flatrate-Modell" "Pauschalpreis pro Person" %}}
-Geeignet für regelmässiges Signieren.
-{{% /plan %}}
-{{< /row >}}
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 

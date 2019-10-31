@@ -159,24 +159,6 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
-{{% heading %}}
-# Les signatures peuvent <br class="hide-for-mobile">être obtenues individuellement <br class="hide-for-mobile">ou sous forme de forfait.
-Les offres Skribbles s'adaptent à vos besoins et <br class="hide-for-mobile">peuvent être combinées de manière flexible.
-{{% /heading %}}
-
-{{< row >}}
-{{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
-Idéal pour signer une fois ou occasionnellement.
-{{% /plan %}}
-{{% plan purple "Modèle forfaitaire" "Forfait par personne" %}}
-Idéal pour un usage régulier.
-{{% /plan %}}
-{{< /row >}}
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
