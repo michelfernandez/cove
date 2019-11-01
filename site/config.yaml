@@ -298,8 +298,8 @@ languages:
           url: "/fr/identification/"
           weight: 25
           parent: platforme
-        - name: Débloquez QES
-          url: "/fr/debloquez-qes/"
+        - name: Débloquez SEQ
+          url: "/fr/debloquez-seq/"
           weight: 30
           parent: platforme
         # Solutions dropdown
@@ -329,8 +329,8 @@ languages:
         - name: Identification
           url: /fr/identification/
           weight: 15
-        - name: Débloquez QES
-          url: /fr/debloquez-qes/
+        - name: Débloquez SEQ
+          url: /fr/debloquez-seq/
           weight: 20
       footer2:
         - name: RH
@@ -362,8 +362,8 @@ languages:
         - name: Normes de signature
           url: /fr/normessignature/
           weight: 15
-        - name: Validateur QES
-          url: /fr/validateur-qes/
+        - name: Validateur SEQ
+          url: /fr/validateur-seq/
           weight: 20
 
       meta:

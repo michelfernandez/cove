@@ -43,7 +43,7 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Logo of btvo" >}}
+{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investorin und Member of the Board" >}}
 "Until now, e-signing solutions were either legally binding and not very user-friendly or they were easy-to-use but not legally binding. Skribble combines both advantages for the first time: It is easy to use and legally binding." 
 {{< /testimonial >}}
 

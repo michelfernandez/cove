@@ -154,26 +154,8 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab – canton de Fribourg" >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
 "Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Les signatures peuvent <br class="hide-for-mobile">être obtenues individuellement <br class="hide-for-mobile">ou sous forme de forfait.
-Les offres Skribbles s'adaptent à vos besoins et <br class="hide-for-mobile">peuvent être combinées de manière flexible.
-{{% /heading %}}
-
-{{< row >}}
-{{% plan gold "Modèle prépayé" "Prix unique par signature" %}}
-Idéal pour signer une fois ou occasionnellement.
-{{% /plan %}}
-{{% plan purple "Modèle forfaitaire" "Forfait par personne" %}}
-Idéal pour un usage régulier.
-{{% /plan %}}
-{{< /row >}}
-{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

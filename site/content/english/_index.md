@@ -167,25 +167,6 @@ The two standards vary in terms of area <br class="hide-for-mobile">of applicati
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
-{{% heading %}}
-# Signatures can be purchased individually or at a flat rate
-Skribbles' pricing adapts to your needs and can be flexibly configured.
-{{% /heading %}}
-
-{{< row >}}
-{{% plan gold "Prepaid" "Pay per signature" %}}
-Suitable for single or occasional signing
-{{% /plan %}}
-
-{{% plan purple "Flat rate" "Pay per user" %}}
-Suitable for regular signing
-{{% /plan %}}
-{{< /row >}}
-{{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 

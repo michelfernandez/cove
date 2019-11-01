@@ -2,7 +2,7 @@
 title: Nous vous identifions avec l’ID-app de Swisscom
 description: Quatre petites étapes et vous pouvez commencer à signer. Il vous suffit d’avoir un téléphone mobile et un document de voyage valide.
 draft: false
-slug: debloquez-qes
+slug: debloquez-seq
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
