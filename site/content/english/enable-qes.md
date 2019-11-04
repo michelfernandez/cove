@@ -77,6 +77,11 @@ The data collected are stored on Swisscom's high-security servers <br class="hid
 {{% collapsible 5 "Does QES require a Mobile ID?" %}}
 No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated. <br class="hide-for-mobile">If this is not the case, a new SIM card with Mobile ID can be ordered<br class="hide-for-mobile"> free of charge from most providers.
 {{% /collapsible %}}
+
+{{% collapsible 6 "What if I haven't been identified yet?" %}}
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
+{{% /collapsible %}}
+
 {{% /content %}}
 
 
@@ -85,7 +90,7 @@ No. But a Mobile ID makes signing faster and easier, which is why we recommend i
 {{% content %}}
 {{% heading %}}
 # Identification sites
-Come by and get identified for free. <br class="hide-for-mobile">Bring a valid passport or your identity card as well as your mobile phone. 
+Come by and get identified for free. <br class="hide-for-mobile">Bring a valid passport or your identity card as well as your mobile phone.
 {{% /heading %}}
 {{% /content %}}
 
@@ -110,7 +115,7 @@ Come by and get identified for free. <br class="hide-for-mobile">Bring a valid p
 
 {{% richtext %}}
 **Swisscom Shop**<br>
-Route de Matran 9<br> 
+Route de Matran 9<br>
 CH-1754 Avry<br>
 
 **Opening hours:**<br>

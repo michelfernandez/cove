@@ -61,7 +61,7 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 {{% /heading %}}
 
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung. 
+Auf Skribble hast du die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
@@ -78,6 +78,10 @@ Die erfassten Daten werden auf den Hochsicherheitsservern der Swisscom in <br cl
 
 {{% collapsible 5 "Braucht es für die QES eine Mobile ID?" %}}
 Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher empfehlen wir sie. Auf Mobile-ID.ch kann überprüft werden ob das eigene Smartphone bereits eine Mobile-ID hat und ob die Funktion bereits aktiviert ist. Wenn dies nicht der Fall ist, kann bei den meisten Anbietern kostenlos eine neue SIM-Karte mit Mobile-ID bestellt werden.
+{{% /collapsible %}}
+
+{{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
 {{% /collapsible %}}
 
 {{% /content %}}
@@ -113,7 +117,7 @@ Komm vorbei und lass dich kostenlos identifzieren. <br class="hide-for-mobile">B
 
 {{% richtext %}}
 **Swisscom Shop**<br>
-Route de Matran 9<br> 
+Route de Matran 9<br>
 CH-1754 Avry<br>
 
 **Öffnungszeiten:**<br>

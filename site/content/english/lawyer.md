@@ -166,8 +166,8 @@ This will unlock the highest e-signature standard available – QES. <br class="
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).         
 {{% /collapsible %}}
 
-{{% collapsible 11 "How can Skribble be sure that the right person has signed?" %}}
-All signatories are identified in advance. During signing, the signing person confirms his or her identity in two steps, the so-called two-factor authentication. This includes an SMS with a one-time password or the Mobile ID. The process is similar to logging into e-banking.
+{{% collapsible 11 "What if I haven't been identified yet?" %}}
+Personal identification is only required in order to sign with the highest e-signature standard (QES). If you haven't been identified yet, you can sign with the second highest standard (FES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Do I need additional hardware for signing with Skribble?" %}}

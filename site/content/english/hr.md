@@ -109,8 +109,8 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{% content %}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES). 
-The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. 
+The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
+The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight.
 {{% /heading %}}
 {{< picture legal_weight 664 "Legal-weight" >}}
 {{% richtext %}}
@@ -165,12 +165,12 @@ This will unlock the highest e-signature standard available – QES. <br class="
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).         
 {{% /collapsible %}}
 
-{{% collapsible 11 "How can Skribble be sure that the right person has signed?" %}}
-All signatories are identified in advance. During signing, the signing person confirms his or her identity in two steps, the so-called two-factor authentication. This includes an SMS with a one-time password or the Mobile ID. The process is similar to logging into e-banking.
+{{% collapsible 11 "What if I haven't been identified yet?" %}}
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
-Yes, Skribble is based on the qualified electronic signature (QES). The QES is the only form of electronic signature that is equivalent to the handwritten signature before Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910/2014 Art. 25 Para. 2). 
+Yes. On Skribble you can choose the highest e-signature standard available: the qualified electronic signature (QES). It has the highest legal weight in court.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Can I store the digitally signed contract in paper form?" %}}

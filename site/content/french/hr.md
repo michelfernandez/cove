@@ -165,12 +165,12 @@ Cela débloque la norme de signature électronique <br class="hide-for-mobile">l
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
-{{% collapsible 11 "Comment Skribble s'assure-t-il que la bonne personne signe?" %}}
-Tous les signataires sont identifiés à l'avance. Lors de la signature, le signataire confirme son identité en deux étapes, appelées authentification à deux facteurs. Cela inclut un SMS avec un mot de passe unique ou l'identifiant Mobile ID. Le processus s'apparente à la connexion à un e-banking.
+{{% collapsible 11 "Et si je n'ai pas encore été identifié personnellement?" %}}
+L'identification en contact personnel n'est requise que pour signer avec la norme la plus élevée de signature électronique (SEQ). Si vous n'avez pas encore été identifié personnellement, vous signez avec la deuxième norme la plus élevée (SEA). 
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
-Oui, Skribble est basé sur la signature électronique qualifiée (SEQ). La SEQ est la seule forme de signature électronique équivalente à la signature manuscrite devant le droit suisse (art. 14 2bis CO) et européen (art. 25 al. 2 eIDAS).
+Oui. Sur Skribble, vous pouvez choisir le standard de signature électronique le plus élevé du marché: la signature électronique qualifiée SEQ. Celle-ci a une valeur probante de 100% devant un tribunal.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
