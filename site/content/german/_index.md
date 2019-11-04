@@ -41,9 +41,10 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="">}}
+{{< logos-container title="Skribble in den Medien">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-line-break >}}
   {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
   {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
 {{< /logos-container >}}
@@ -97,16 +98,14 @@ Signiere per Knopfdruck, unabhängig <br class="hide-for-mobile">von Zeit und Or
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
-{{% cta
-  label="Alle Funktionen anzeigen"
-  href="de/features"
-  outlined="true"
-%}}
-
-{{% richtext %}}
-**Mit Skribble signierst du nicht nur rechtsgültig, sondern auch einfach.**<br>
-{{% /richtext %}}
-{{% /cta %}}
+{{% center %}}
+{{< button
+  "Alle Funktionen anzeigens"
+  "de/features"
+  ""
+  "outline"
+>}}
+{{% /center %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

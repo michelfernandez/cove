@@ -20,15 +20,14 @@
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
         display: flex;
         flex-grow: 0;
-        filter: invert(0.12) sepia(1) hue-rotate(190deg) saturate(4) brightness(1.1);
         align-items: center;
         justify-content: center;
     }
 
     .features-text {
-        padding: 0 20px;
+        padding: 0px 20px 0px 30px;
         max-width: 360px;
-        min-width: 280px;
+        min-width: 200px;
         flex: 1;
     }
     
@@ -39,10 +38,12 @@
     p {
         margin-top: 5px;
         margin-bottom: 5px;
-        font-size: 90%;
+        font-size: 16px;
+        line-height: 24px;
     }
 
     strong {
+        font-size: 24px;
         color: #293d66;
     }
 
@@ -60,7 +61,8 @@
 
     @media screen and (max-width: 750px) {
         .features-flex-item {
-            text-align: center;
+            // text-align: center;
+            padding: 0px;
         }
 
         .features-text {
@@ -83,6 +85,13 @@
 
         p {
             margin-top: 0px;
+        }
+    }
+
+    
+    @media screen and (max-width: 367px) {
+        .features-text {
+            text-align: center;
         }
     }
 

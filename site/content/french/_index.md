@@ -41,9 +41,10 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="">}}
+{{< logos-container title="Connu depuis les médias">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-line-break >}}
   {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
   {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
 {{< /logos-container >}}
@@ -97,16 +98,14 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
 
-{{% cta
-  label="Afficher toutes les fonctions"
-  href="/fr/fonctionnalites/"
-  outlined="true"
-%}}
-
-{{% richtext %}}
-**Avec Skribble vous signez non seulement légalement, mais aussi simplement.**<br>
-{{% /richtext %}}
-{{% /cta %}}
+{{% center %}}
+{{< button
+  "Afficher toutes les fonctions"
+  "/fr/fonctionnalites/"
+  ""
+  "outline"
+>}}
+{{% /center %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

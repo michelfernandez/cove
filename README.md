@@ -174,6 +174,9 @@ Applies styling for headings, paragraphs, links, and lists (ul, ol, dl).
 ### Atomic components
 Components that are rather simple and used in various places throughout the website.
 
+#### {{% center %}}
+Centers the content placed inside of it.
+
 #### {{< button >}}
 The button accepts 4 parameters.
 ```
@@ -190,6 +193,8 @@ The button accepts 4 parameters.
 2. link
 3. target attribute (optional): `_blank_`
 4. style (optional): `outline`
+
+Note: if you want to use `outline` and not `blank`, use a 3rd parameter but leave it empty: `""`
 
 #### {{< ol >}}
 Use the strong tag to indicate the title of an ordered list item that has a title and a text.
@@ -328,6 +333,7 @@ To provide a little bit of structure, we add the testimonial images in a folder 
 **Parameters**
 1. image
 2. footer
+3. alt (optional)
 
 ## Outlines
 To show component outlines and component labels, add the following styling to `main.scss`.
