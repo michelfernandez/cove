@@ -5,7 +5,40 @@
 Deploy:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7d00ef7a-5c8b-4b90-912f-355470b7d23c/deploy-status)](https://app.netlify.com/sites/skribble/deploys)
 
-## Use
+# Table of Contents
+- [How to Use](#how-to-use)
+- [Frontend Components](#frontend-components)
+  - [The basics](#the-basics)
+  - [Menu component](#menu-component)
+  - [Layout components](#layout-components)
+    - [side-by-side](#side-by-side)
+    - [content](#content)
+    - [row](#row)
+  - [Markdown wrapper components](#markdown-wrapper-components)
+    - [richtext](#richtext)
+  - [Atomic components](#atomic-components)
+    - [center](#center)
+    - [button](#button)
+    - [ol (ordered list)](#ol)
+    - [picture](#picture)
+  - [Custom Components](#custom-components)
+    - [action card](#action-card)
+    - [collapsible](#collapsible)
+    - [cta (call to action)](#cta)
+    - [cta-group](#cta-group)
+    - [features-container and features-item](#{{<-features-container->}}-and-{{<-features-item->}})
+    - [heading](#heading)
+    - [intro](#intro)
+    - [intro-partner](#intro-partner)
+    - [logos-container and logos-item](#{{<-logos-container->}}-and-{{<-logos-item->}})
+    - [plan](#plan)
+    - [outro](#outro)
+    - [testimonial](#testimonial)
+- [Outlines](#outlines)
+
+---
+
+## How to Use
 ### Prerequisites
 Install the latest
 - Node.js https://github.com/nodejs/node
@@ -78,6 +111,8 @@ Download the GitHub desktop app to easily track changes in the repository: https
 After publishing, your changes appear on the cove GitHub page of BlockSigner: https://github.com/BlockSigner/cove. A yellow bar on top allows you to start a pull request. An open pull request triggers a build on Netlify that generates a preview.
 
 The changes are online after merging into master. Master is automatically built and deployed.
+
+---
 
 ## Frontend components
 Frontend components can be inserted as needed in the markdown files that make up the pages of the website. You cannot add components in the Front Matter. The Front Matter defines page specific meta content. We use it for the meta title and description of the page and for defining open graph images. The Front Matter area is indicated by 3 opening and 3 closing hyphens ( `---` ).
@@ -163,7 +198,7 @@ This component is a basic building block for Cove. It aligns a picture and a con
 #### {{< content >}}
 The other basic building block `content` building direction is top to down. It usually starts with a heading component its contents are completely free to choose. To horizontally group components within the `content` you can use the `row` component.
 
-##### {{< row >}}
+#### {{< row >}}
 Draws its contents laterally outwards from the center. Its content is horizontally centered, vertically stretched, and never wrapped. Example content: `plan` component.
 
 ### Markdown wrapper components
@@ -228,6 +263,43 @@ The `-` and the `w` in the filename are added by the component. You have to add 
 
 ### Custom components
 
+#### {{% action-card %}}
+Creates a large call to action card with several descriptive and interactive elements.
+
+A picture can be inserted inside the shortcode in the regular picture format shortcode.
+
+**Parameters**
+- `title`
+- `class` a CSS class to be applied to the component
+- `description`
+- `button-text`
+- `button-link`
+- `subtext`
+- `has-comparison` (optional) set to `true` in case you want to have an internal comparison panel between two options
+- `comparison-title` (optional) if `has-comparison` is set to true, this text will be the title of the comparison
+- `comparison-first` (optional) if `has-comparison` is set to true, this will be the content of the first element
+- `comparison-second` (optional) if `has-comparison` is set to true, this will be the content of the second element
+- `comparison-caption` (optional) if `has-comparison` is set to true, this text will be the caption of the comparison
+
+Full example:
+```
+{{% action-card
+  title="Business"
+  class="business"
+  description="<p>Skribble for your organisation. User administration is centralised and your organisation is invoiced monthly.</p>"
+  has-comparison="true"
+  comparison-title="Choose the right plan for each signer:"
+  comparison-first="<p><strong>Pay-Per-Use</strong></p><p>For employees who sign <strong>less</strong> than 12 times a month and for people external to the company.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>per signature</p>"
+  or="Or"
+  comparison-second="<p><strong>Flat rate</strong></p><p>For employees who sign <strong>more</strong> than 12 times a month.</p><br><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>25</strong></span></p><p>per user/month</p>"
+  comparison-caption="The prices decrease significantly if you sign more or with a different standard."
+  button-text="Get advice now"
+  button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  subtext=""%}}
+    {{< picture business-visual 270 "" >}}
+{{% /action-card %}}
+```
+ 
 #### {{< collapsible >}}
 This collapsible component hides its content and reveals it after clicking on the title.
 ```
@@ -240,7 +312,7 @@ A signature with Skribble is equal to the handwritten signature according to Swi
 1. id
 2. title of the collapsible
 
-#### {{< cta >}}
+#### {{< cta >}} 
 A little component with dividers at the top and bottom that is used to focus the attention on a single call to action.
 
 **Parameters**
@@ -250,6 +322,17 @@ A little component with dividers at the top and bottom that is used to focus the
 - `outlined="true"` Applies the outline style to the button
 - `title` Adds a title above the border
 - `floating="true"` Removes the borders around the cta
+- `class` A CSS class to be applied to the component
+
+#### {{< cta-group >}}
+In case you wish to have several cta components vertically stacked with no space between them, use them inside a cta-group
+```
+{{< cta-group >}}
+  {{% cta 1 %}}
+  {{% cta 2 %}}
+  {{% cta 3 %}}
+{{< /cta-group >}}
+```
 
 #### {{< features-container >}} and {{< features-item >}}
 The features component allows you to present a responsive grid of images with a headline and description. It is composed of two shortcodes to be used nested, as in the following example:
@@ -268,6 +351,7 @@ The heading component is used to arrange a title and a lead text. It centers its
 
 **Parameters**
 1. left (optional)
+- `class` A CSS class to be applied to the component
 
 #### {{< intro >}}
 #### {{< intro-partner >}}
@@ -306,14 +390,6 @@ Suitable for single or occasional signing with QES
 6. button target attribute (optional)
 7. button style (optional): `outline`
 
-#### {{< collapsible >}}
-This collapsible component hides its content and reveals it after clicking on the title.
-```
-{{% collapsible 1 "Requirement of written form" "" %}}
-A signature with Skribble is equal to the handwritten signature according to Swiss (OR Art. 14 Para. 2 bis) and EU law (eIDAS No. 910`/`2014 Art. 25 Para. 2).
-{{% /collapsible %}}
-```
-
 **Parameters**
 1. id
 2. title of the collapsible
@@ -334,6 +410,8 @@ To provide a little bit of structure, we add the testimonial images in a folder 
 1. image
 2. footer
 3. alt (optional)
+
+---
 
 ## Outlines
 To show component outlines and component labels, add the following styling to `main.scss`.
