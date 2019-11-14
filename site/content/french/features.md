@@ -40,20 +40,18 @@ Avec Skribble, votre signature est non seulement <br class="hide-for-mobile">lé
     headline="Rejetter des documents" 
     description="Refusez l'invitation à signer d'un seul clic si vous n'êtes pas d'accord avec le contenu.">}}
 
+  {{< features-item src="features/visual-signature.svg" 
+    headline="Signature visuelle" 
+    description="Personnalisez votre signature visuelle personnelle et téléchargez votre signature manuscrite personnelle au format PNG, JPG ou GIF.">}}
+
 {{< /features-container >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # À venir
 Notre vision est grande. Nous développons Skribble jour après jour.
 {{% /heading %}}
+{{% /content %}}
 
 {{< features-container >}}
 
@@ -77,8 +75,8 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investisseur et membre du conseil d'administration" >}}
-"Jusqu'à présent, les solutions de signature électronique étaient soit juridiquement contraignantes et moins conviviales, soit faciles à utiliser mais juridiquement non contraignantes. Skribble combine les deux avantages pour la première fois: il est facile à utiliser et juridiquement contraignant." {{< /testimonial >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
