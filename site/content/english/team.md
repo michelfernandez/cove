@@ -132,7 +132,6 @@ groups:
           retina_landscape: team/rainer-goermann-l@2x
           alt_text:
   - title: Advisors
-    text: Skribble's advisors
     people:
       - name: Karl Kagermeier
         position: Strategic Advisor
