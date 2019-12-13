@@ -103,12 +103,13 @@ Wenn Du Dich mit einem Business Account registrierst, <br class="hide-for-mobile
   label="Skribble API Dokumentation"
   href="https://doc.skribble.com/"
   outlined="true"
+  target="_blank"
 %}}
 
 {{< picture "Identifizieren" 112 "Fenster mit einem Zahnrad" >}}
 
 {{% richtext %}}
-**API-Dokumenation**<br>
+**API-Dokumentation**<br>
 Teste jetzt unsere API.
 {{% /richtext %}}
 {{% /cta %}}

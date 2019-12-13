@@ -105,6 +105,7 @@ When you sign up for the Skribble business account, <br class="hide-for-mobile">
   label="Skribble API documentation"
   href="https://doc.skribble.com/"
   outlined="true"
+  target="_blank"
 %}}
 
 {{< picture "Identifizieren" 112 "Fenêtre avec une roue dentée" >}}
