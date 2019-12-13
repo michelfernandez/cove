@@ -44,8 +44,9 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investisseur et membre du conseil d'administration" >}}
-"Jusqu'à présent, les solutions de signature électronique étaient soit juridiquement contraignantes et moins conviviales, soit faciles à utiliser mais juridiquement non contraignantes. Skribble combine les deux avantages pour la première fois: il est facile à utiliser et juridiquement contraignant." {{< /testimonial >}}
+{{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO von Softcom" >}}
+"We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired." 
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -85,6 +86,35 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content %}}
+{{% heading %}}
+# Essayez notre API
+When you sign up for the Skribble business account, <br class="hide-for-mobile">you can create demo or productive API keys. 
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture integration-visual 494 "Un homme s'assoit devant un ordinateur et intègre skribble" >}}
+
+{{% heading %}}
+{{% /heading %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{% cta
+  label="Skribble API documentation"
+  href="https://doc.skribble.com/"
+  outlined="true"
+%}}
+
+{{< picture "Identifizieren" 112 "Fenêtre avec une roue dentée" >}}
+
+{{% richtext %}}
+**Documentation API**<br>
+Consultez notre documentation API
+{{% /richtext %}}
+{{% /cta %}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

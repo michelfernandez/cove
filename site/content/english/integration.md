@@ -43,8 +43,8 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investorin und Member of the Board" >}}
-"Until now, e-signing solutions were either legally binding and not very user-friendly or they were easy-to-use but not legally binding. Skribble combines both advantages for the first time: It is easy to use and legally binding." 
+{{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO of Softcom" >}}
+"We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -82,6 +82,38 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
     description="Help base, FAQ, chat bot, live chat, hotline (9.00–  12.00 and 14.00– 17.00). Monitoring and management of the server is guaranteed 24/7.">}}
 
 {{< /features-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# Try out our API
+When you sign up for the Skribble business account, <br class="hide-for-mobile">you can create demo or productive API keys. 
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture integration-visual 494 "Ein mann sitzt vor einem computer und integriert skribble" >}}
+
+{{% heading %}}
+{{% /heading %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{% cta
+  label="Skribble API Dokumentation"
+  href="https://doc.skribble.com/"
+  outlined="true"
+%}}
+
+{{< picture "Identifizieren" 112 "Fenster mit einem Zahnrad" >}}
+
+{{% richtext %}}
+**API documentation**<br>
+Check out our API documenation.
+{{% /richtext %}}
+{{% /cta %}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
