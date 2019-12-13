@@ -3,8 +3,8 @@ title: Skribble – Legally binding electronic signatures with Skribble
 description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
 
 draft: false
-slug: busines-features
-type: busines-features
+slug: business-features
+type: business-features
 # opengraph image (for facebook and twitter)
 # og_image: og/og-skribble-identification.jpg
 
@@ -12,7 +12,7 @@ type: busines-features
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# EN - Busines-Features
+# EN - Business-Features
 Skribble Business Kunden signieren als Organisation – mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung. 
 {{% /heading %}}
 {{% /content %}}

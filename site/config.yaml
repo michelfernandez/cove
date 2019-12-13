@@ -174,8 +174,8 @@ languages:
           url: "/features/"
           weight: 15
           parent: platform
-        - name: Busines features
-          url: "/busines-features/"
+        - name: Business features
+          url: "/business-features/"
           weight: 20
           parent: platform
         - name: Integrations
@@ -211,7 +211,7 @@ languages:
         - name: Features
           url: /features/
           weight: 10
-        - name: Busines features
+        - name: Business features
           url: /busines-features/
           weight: 15
         - name: Integrations
