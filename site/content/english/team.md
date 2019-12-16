@@ -146,7 +146,7 @@ groups:
           regular_landscape: team/chantal-marty-l
           retina_landscape: team/chantal-marty-l@2x
           alt_text:
-        - name: Barbara Stutz
+      - name: Barbara Stutz
         position: Accounting
         type: 1
         images:
@@ -155,7 +155,7 @@ groups:
           regular_landscape: team/barbara-stutz-l
           retina_landscape: team/barbara-stutz-l@2x
           alt_text:
-        - name: Maxim Markert
+      - name: Maxim Markert
         position: Sales & Business-Development
         type: 2
         images:
