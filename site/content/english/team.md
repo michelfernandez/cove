@@ -156,7 +156,7 @@ groups:
           retina_landscape: team/barbara-stutz-l@2x
           alt_text:
       - name: Maxim Markert
-        position: Sales & Business-Development
+        position: Customer Growth Execution
         type: 2
         images:
           regular_portrait: team/maxim-markert-l
