@@ -102,6 +102,16 @@ Les atouts les plus importants de Skribble sont à portée de main :
 </tr>
 {{% /table %}}
 
+{{% table "Skribble dans les médias" %}}
+<tr>
+  <td style="width:10%;">31.10.2019</td>
+  <td style="width:80%;">**Handelszeitung - Signature numérique (an allemand)**</td>
+  <td style="width:10%;">
+    <a href="downloads/20191031-Handelzeitung.pdf" target="_blank">Download</a>
+  </td>
+</tr>
+{{% /table %}}
+
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}

@@ -101,6 +101,17 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{% /table %}}
 
 
+{{% table "Skribble in den Medien" %}}
+<tr>
+  <td style="width:10%;">31.10.2019</td>
+  <td style="width:80%;">**Handelszeitung - Digitale Unterschrift**</td>
+  <td style="width:10%;">
+    <a href="downloads/20191031-Handelzeitung.pdf" target="_blank">Download</a>
+  </td>
+</tr>
+{{% /table %}}
+
+
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
