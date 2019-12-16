@@ -92,15 +92,6 @@ groups:
           regular_landscape: team/till-graf-l
           retina_landscape: team/till-graf-l@2x
           alt_text:
-      - name: Mike Silberman
-        position: Customer Growth Execution
-        type: 0
-        images:
-          regular_portrait: team/mike-silberman-l
-          retina_portrait: team/mike-silberman-l@2x
-          regular_landscape: team/mike-silberman-l
-          retina_landscape: team/mike-silberman-l@2x
-          alt_text:
       - name: Patrick Meade
         position: Happiness Manager
         type: 1
@@ -145,6 +136,33 @@ groups:
           retina_portrait: team/rainer-goermann-l@2x
           regular_landscape: team/rainer-goermann-l
           retina_landscape: team/rainer-goermann-l@2x
+          alt_text:
+      - name: Chantal Marty
+        position: CFO
+        type: 0
+        images:
+          regular_portrait: team/chantal-marty-l
+          retina_portrait: team/chantal-marty-l@2x
+          regular_landscape: team/chantal-marty-l
+          retina_landscape: team/chantal-marty-l@2x
+          alt_text:
+        - name: Barbara Stutz
+        position: Accounting
+        type: 1
+        images:
+          regular_portrait: team/barbara-stutz-l
+          retina_portrait: team/barbara-stutz-l@2x
+          regular_landscape: team/barbara-stutz-l
+          retina_landscape: team/barbara-stutz-l@2x
+          alt_text:
+        - name: Maxim Markert
+        position: Sales & Business-Development
+        type: 2
+        images:
+          regular_portrait: team/maxim-markert-l
+          retina_portrait: team/maxim-markert-l@2x
+          regular_landscape: team/maxim-markert-l
+          retina_landscape: team/maxim-markert-l@2x
           alt_text:
   - title: Advisors
     people:
