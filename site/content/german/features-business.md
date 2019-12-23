@@ -101,12 +101,10 @@ Wähle den optimalen On-Boarding-Prozess für deine Organisation. <br class="hid
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
-{{< picture image2 416 "Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
+{{< picture onboarding-fes-de 460 "Ein grosser Vertrag (FES) mit einem Haus und Baum" >}}
 {{% richtext %}}
 ## On-Boarding für FES
 Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne Formvorschrift.<br>
@@ -134,7 +132,9 @@ Die rundum-sorglos Lösung für jede Vertragsart.Optimal für Verträge mit Schr
   "outline">}}
 
 {{% /richtext %}}
-{{< picture image2 416 "Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
+
+{{< picture onboarding-qes-de 380 "Ein grosser Vertrag (QES) mit einem Gericht" >}}
+
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
