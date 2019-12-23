@@ -100,7 +100,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Nos clients s'amusent bien
 Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
