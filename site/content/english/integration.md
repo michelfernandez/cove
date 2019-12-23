@@ -9,14 +9,14 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Skribble Integration
 With Skribble, you choose a cloud platform that combines <br class="hide-for-mobile">technological security with simplicity.
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "A man sits in front of a computer and integrates skribble" >}}
+{{< picture integration-main 580 "An engineer stands in front of an API window with API documentation." >}}
 
 {{% heading %}}
 ### Use Skribble via your browser or integrate the platform <br class="hide-for-mobile">into your existing software environment via API
@@ -49,7 +49,7 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # With Skribble you benefit from <br class="hide-for-mobile">the highest standards of technology <br class="hide-for-mobile">and security
 {{% /heading %}}
@@ -85,14 +85,14 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Try out our API
 When you sign up for the Skribble business account, <br class="hide-for-mobile">you can create demo or productive API keys. 
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Ein mann sitzt vor einem computer und integriert skribble" >}}
+{{< picture api-main 600 "A laptop with fountain pen and gear wheel." >}}
 
 {{% heading %}}
 {{% /heading %}}
@@ -101,13 +101,13 @@ When you sign up for the Skribble business account, <br class="hide-for-mobile">
 
 {{< cta-group >}}
 {{% cta
-  label="Skribble API Dokumentation"
+  label="API Dokumentation"
   href="https://doc.skribble.com/"
   outlined="true"
   target="_blank"
 %}}
 
-{{< picture "Identifizieren" 112 "Fenster mit einem Zahnrad" >}}
+{{< picture "api-dok" 140 "User interface window with one gear wheel." >}}
 
 {{% richtext %}}
 **API documentation**<br>

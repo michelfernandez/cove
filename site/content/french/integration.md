@@ -9,14 +9,14 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Intégration de Skribble
 Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobile">qui allie sécurité technologique et simplicité. 
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Un homme s'assoit devant un ordinateur et intègre skribble" >}}
+{{< picture integration-main 580 "Un ingénieur se tient devant une fenêtre de l'API avec la documentation de l'API." >}}
 
 {{% heading %}}
 ### Utilisez Skribble via le navigateur ou intégrez <br class="hide-for-mobile">la plate-forme dans votre environnement logiciel existant via API.
@@ -50,7 +50,7 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
 {{% /heading %}}
@@ -86,14 +86,14 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Essayez notre API
 When you sign up for the Skribble business account, <br class="hide-for-mobile">you can create demo or productive API keys. 
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Un homme s'assoit devant un ordinateur et intègre skribble" >}}
+{{< picture api-main 600 "Un ordinateur portable avec des panneaux de remplissage et une roue dentée." >}}
 
 {{% heading %}}
 {{% /heading %}}
@@ -102,13 +102,13 @@ When you sign up for the Skribble business account, <br class="hide-for-mobile">
 
 {{< cta-group >}}
 {{% cta
-  label="Skribble API documentation"
+  label="API documentation"
   href="https://doc.skribble.com/"
   outlined="true"
   target="_blank"
 %}}
 
-{{< picture "Identifizieren" 112 "Fenêtre avec une roue dentée" >}}
+{{< picture "api-dok" 140 "Une fenêtre d'interface utilisateur avec un contrat et un engrenage" >}}
 
 {{% richtext %}}
 **Documentation API**<br>

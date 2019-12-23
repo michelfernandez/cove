@@ -9,14 +9,14 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Skribble Integration
 Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br class="hide-for-mobile">und Einfachheit vereint. 
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Ein mann sitzt vor einem computer und integriert skribble" >}}
+{{< picture integration-main 580 "Ein Ingenieur steht vor einem API-Fenster mit einer API-Dokumenation." >}}
 
 {{% heading %}}
 ### Nutze Skribble über den Browser oder integriere die Plattform <br class="hide-for-mobile">via API in eure bestehende Softwareumgebung
@@ -50,7 +50,7 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
 {{% /heading %}}
@@ -84,14 +84,14 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 
 {{< /features-container >}}
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Probiere unsere API aus
 Wenn Du Dich mit einem Business Account registrierst, <br class="hide-for-mobile">kannst du sofort API-Key's erzeugen – für den Demo- oder Produktiven-Betrieb. <br class="hide-for-mobile">
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Ein mann sitzt vor einem computer und integriert skribble" >}}
+{{< picture api-main 600 "Ein Laptop mit Füllfeder und Zahnrad." >}}
 
 {{% heading %}}
 {{% /heading %}}
@@ -100,13 +100,13 @@ Wenn Du Dich mit einem Business Account registrierst, <br class="hide-for-mobile
 
 {{< cta-group >}}
 {{% cta
-  label="Skribble API Dokumentation"
+  label="API Dokumentation"
   href="https://doc.skribble.com/"
   outlined="true"
   target="_blank"
 %}}
 
-{{< picture "Identifizieren" 112 "Fenster mit einem Zahnrad" >}}
+{{< picture "api-dok" 140 "Userinterface Fenster mit Zahnrad" >}}
 
 {{% richtext %}}
 **API-Dokumentation**<br>
