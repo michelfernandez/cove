@@ -12,8 +12,8 @@ type: business-features
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# EN - Business-Features
-Skribble Business Kunden signieren als Organisation – mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung. 
+# Business features
+Skribble Business customers sign as an organization - with <br class="hide-for-mobile">central member administration and joint billing.
 {{% /heading %}}
 {{% /content %}}
 
@@ -22,50 +22,50 @@ Skribble Business Kunden signieren als Organisation – mit zentraler Mitglieder
 {{< features-container >}}
 
   {{< features-item src="features-biz/abrechnung.svg" 
-    headline="Preismodell pro Mitglied wählen" 
-    description="Aktivere für häufig signierende Mitglieder das Flatrate-Modell und senke so deine Kosten.">}}
+    headline="Select price model per member" 
+    description="Activate the flat rate model for frequent signers and reduce your costs.">}}
 
   {{< features-item src="features-biz/preismodell.svg" 
-    headline="Gemeinsame Abrechnung" 
-    description="Abgerechnet wird für die ganze Organisation am Ende des Monats per Rechnung.">}}
+    headline="Joint accounting" 
+    description="The entire organisation is invoiced at the end of the month by invoice.">}}
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg" 
-    headline="Zentrale Mitgliederverwaltung" 
-    description="Füge neue Mitglieder hinzu, passe ihr Preismodell an und vergib Administrationsrechte.">}}
+    headline="Central member administration" 
+    description="Add new members, adjust their pricing model and assign administration rights.">}}
 
   {{< features-item src="features-biz/aktivitätsübersicht.svg" 
-    headline="Aktivitätsübersicht" 
-    description="Behalte den Überblick über die Vorgänge in deinem Business-Konto, gefilter nach Datum, Aktivität und mehr.">}}
+    headline="Activity overview" 
+    description="Keep track of what's happening in your business account, filtered by date, activity and more.">}}
 
   {{< features-item src="features-biz/kostendegression.svg" 
-    headline="Kostendegression" 
-    description="Je mehr Signaturen, desto günstiger das Stück. Je mehr Flat-Nutzer, desto günstiger die Flatrate.">}}
+    headline="Cost degression" 
+    description="The more signatures, the cheaper the piece. The more flat users, the cheaper the flat rate.">}}
 
   {{< features-item src="features-biz/rechnungshistorie.svg" 
-    headline="Rechnungshistorie" 
-    description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
+    headline="Invoice history" 
+    description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Skribble Business bettet sich in ddeine bestehende Infrastruktur ein
-Das Onboarding neuer Signierenden ist intuitiv und schnell.
+# Skribble Business embeds itself <br class="hide-for-mobile">into your existing infrastructure
+The onboarding of new signers is intuitive and fast.
 {{% /heading %}}
 {{% /content %}}
 
 {{< features-container >}}
 
   {{< features-item src="features-biz/api-integration.svg" 
-    headline="API-Integration" 
-    description="Binde Skribble an deine bestehende Software an und signiere direkt aus deinen gewohnten Tools heraus.">}}
+    headline="API integration" 
+    description="Connect Skribble to your existing software and sign directly from your familiar tools.">}}
 
   {{< features-item src="features-biz/direct-sign.svg" 
-    headline="Direct Sign" 
-    description="Externe Personen müssen über kein Skribble-Konto verfügen, um deine Dokumente zu signieren.">}}
+    headline="Direct sign" 
+    description="External people do not need to have a Skribble account to sign your documents.">}}
 
   {{< features-item src="features-biz/onboarding.svg" 
-    headline="Onboarding via Firmen-E-Mail" 
-    description="Mit wenigen Klicks befähigst du die ganze Organisation zum Signieren, zusätzliche Identifikation ist nicht nötig.">}}
+    headline="Onboarding via company e-mail" 
+    description="With just a few clicks you enable the whole organization to sign, additional identification is not necessary.">}}
 
 {{< /features-container >}}
 
@@ -78,27 +78,9 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Ideales Kosten-Nutzen-Verhältnis
-Wähle das passende Preismodell für deine Organisation
-{{% /heading %}}
-{{% /content %}}
-
-{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
-{{% center %}}
-{{< button
-  "Preismodelle vergleichen"
-  "de/pricing"
-  ""
-  "outline">}}
-{{% /center %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content class="no-bottom-padding" %}}
-{{% heading %}}
-# Für jeden Signaturstandard das passende On-Boarding
-Wähle den optimalen On-Boarding-Prozess für deine Organisation. <br class="hide-for-mobile">Für Verträge ohne Formvorschrift (FES) oder Schrifterfrodernis (QES) <br class="hide-for-mobile">bieten wir folgende Möglichkeiten an: 
+# The right on-board <br class="hide-for-mobile">for every signature standard
+Choose the optimal on-boarding process for your organization.<br class="hide-for-mobile">
+For contracts without a formal requirement (FES) or <br class="hide-for-mobile">a written agreement (QES) we offer the following possibilities:
 {{% /heading %}}
 {{% /content %}}
 
@@ -107,8 +89,8 @@ Wähle den optimalen On-Boarding-Prozess für deine Organisation. <br class="hid
 {{< side-by-side >}}
 {{< picture onboarding-aes-en 460 "A big contract (FES) with a house and tree" >}}
 {{% richtext %}}
-## On-Boarding für FES
-Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne Formvorschrift.<br>
+## On-Boarding for FES
+Organization-wide implementation with just a few clicks. Ideal for contracts without formal requirements.<br>
 
 {{< button
   "Download Factsheet"
@@ -122,9 +104,11 @@ Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne F
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
+{{< picture onboarding-qes-en 380 "A large contract (QES) with a court" >}}
+
 {{% richtext %}}
-## On-Boarding für QES
-Die rundum-sorglos Lösung für jede Vertragsart.Optimal für Verträge mit Schrifterfordernis.<br>
+## On-Boarding for QES
+The all-round, carefree solution for every type of contract, ideal for contracts with a requirement for writing.<br>
 
 {{< button
   "Download Factsheet"
@@ -133,11 +117,28 @@ Die rundum-sorglos Lösung für jede Vertragsart.Optimal für Verträge mit Schr
   "outline">}}
 
 {{% /richtext %}}
-{{< picture onboarding-qes-en 380 "A large contract (QES) with a court" >}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Ideal cost-benefit ratio
+Choose the right pricing model for your organization.
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
+
+{{% center %}}
+{{< button
+  "Compare price models"
+  "pricing"
+  ""
+  "outline">}}
+{{% /center %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}

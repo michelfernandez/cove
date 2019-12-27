@@ -47,7 +47,7 @@ Skribble Business Kunden signieren als Organisation – mit zentraler Mitglieder
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Skribble Business bettet sich in ddeine bestehende Infrastruktur ein
+# Skribble Business bettet sich in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /heading %}}
 {{% /content %}}
@@ -77,26 +77,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Ideales Kosten-Nutzen-Verhältnis
-Wähle das passende Preismodell für deine Organisation
-{{% /heading %}}
-{{% /content %}}
-
-{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-
-{{% center %}}
-{{< button
-  "Preismodelle vergleichen"
-  "de/pricing"
-  ""
-  "outline">}}
-{{% /center %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content class="no-bottom-padding" %}}
-{{% heading %}}
-# Für jeden Signaturstandard das passende On-Boarding
+# Für jeden Signaturstandard <br class="hide-for-mobile">das passende On-Boarding
 Wähle den optimalen On-Boarding-Prozess für deine Organisation. <br class="hide-for-mobile">Für Verträge ohne Formvorschrift (FES) oder Schrifterfrodernis (QES) <br class="hide-for-mobile">bieten wir folgende Möglichkeiten an: 
 {{% /heading %}}
 {{% /content %}}
@@ -121,9 +102,11 @@ Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne F
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
+{{< picture onboarding-qes-de 380 "Ein grosser Vertrag (QES) mit einem Gericht" >}}
+
 {{% richtext %}}
 ## On-Boarding für QES
-Die rundum-sorglos Lösung für jede Vertragsart.Optimal für Verträge mit Schrifterfordernis.<br>
+Die rundum-sorglos Lösung für jede Vertragsart. Optimal für Verträge mit Schrifterfordernis.<br>
 
 {{< button
   "Download Factsheet"
@@ -132,13 +115,28 @@ Die rundum-sorglos Lösung für jede Vertragsart.Optimal für Verträge mit Schr
   "outline">}}
 
 {{% /richtext %}}
-
-{{< picture onboarding-qes-de 380 "Ein grosser Vertrag (QES) mit einem Gericht" >}}
-
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Ideales Kosten-Nutzen-Verhältnis
+Wähle das passende Preismodell für deine Organisation
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
+
+{{% center %}}
+{{< button
+  "Preismodelle vergleichen"
+  "de/pricing"
+  ""
+  "outline">}}
+{{% /center %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
