@@ -33,7 +33,7 @@ Les clients de Skribble Business signent en tant qu'organisation - <br class="hi
     headline="Administration centrale des membres" 
     description="Ajouter de nouveaux membres, ajuster leur modèle de prix et assigner des droits d'administration.">}}
 
-  {{< features-item src="features-biz/aktivitätsübersicht.svg" 
+  {{< features-item src="features-biz/activity.svg" 
     headline="Synthèse des activités" 
     description="Suivez ce qui se passe dans votre compte d'entreprise, filtré par date, activité et plus encore.">}}
 

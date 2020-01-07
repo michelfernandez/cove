@@ -32,7 +32,7 @@ Skribble Business Kunden signieren als Organisation – mit zentraler Mitglieder
     headline="Zentrale Mitgliederverwaltung" 
     description="Füge neue Mitglieder hinzu, passe ihr Preismodell an und vergib Administrationsrechte.">}}
 
-  {{< features-item src="features-biz/aktivitätsübersicht.svg" 
+  {{< features-item src="features-biz/activity.svg" 
     headline="Aktivitätsübersicht" 
     description="Behalte den Überblick über die Vorgänge in deinem Business-Konto, gefilter nach Datum, Aktivität und mehr.">}}
 

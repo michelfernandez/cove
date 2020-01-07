@@ -33,7 +33,7 @@ Skribble Business customers sign as an organization - with <br class="hide-for-m
     headline="Central member administration" 
     description="Add new members, adjust their pricing model and assign administration rights.">}}
 
-  {{< features-item src="features-biz/aktivitätsübersicht.svg" 
+  {{< features-item src="features-biz/activity.svg" 
     headline="Activity overview" 
     description="Keep track of what's happening in your business account, filtered by date, activity and more.">}}
 
