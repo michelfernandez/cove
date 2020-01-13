@@ -79,12 +79,6 @@ Restez avec des outils familiers: signez à partir de vos programmes existants, 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "Think tank e-foresight" >}}
-"Skribble offre une solution conviviale <br class="hide-for-mobile">pour des signatures électroniques qualifiées en Suisse."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Avec Skribble, vous répondez <br class="hide-for-mobile">aux exigences légales <br class="hide-for-mobile">des processus RH
@@ -103,6 +97,31 @@ La signature électronique qualifiée (SEQ) de Skribble équivaut à la signatur
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Nos clients s'amusent bien
+Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
+{{% /heading %}}
+{{% /content %}}
+
+{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson – Country HR & Administration Manager easyJet" >}}
+"Dans l'environnement des RH qui évolue rapidement, il est important d'être aussi efficace que possible. Cela a été difficile jusqu'à présent avec notre processus de signature analogique, car je suis constamment sur la route entre différents endroits."
+{{< /testimonial >}}
+
+{{% cta
+  label="Télécharger le cas d'utilisation"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/EasyJet_Skribble_Use-Case_FR.pdf"
+  outlined="true"
+  target="_blank"
+%}}
+
+{{% richtext %}}
+**Téléchargez le cas d'utilisation easyJet :**<br>
+{{% /richtext %}}
+{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
