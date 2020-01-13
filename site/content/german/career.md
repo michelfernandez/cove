@@ -28,7 +28,7 @@ Werde teil von unserem Skribble-Team.
 {{% cta
   label="Mehr infos"
   href="de/sales-manager-de/"
-  target="_blank"
+  target=""
   outlined="true"
 %}}
 {{% richtext %}}
