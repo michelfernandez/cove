@@ -44,8 +44,8 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO von Softcom" >}}
-"We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired." 
+{{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, PDG de Softcom" >}}
+"Nous avons intégré l'API pour le canton <br class="hide-for-mobile">de Fribourg en une demi-journée. <br class="hide-for-mobile">L'API de Skribble ne laisse rien à désirer." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
