@@ -112,7 +112,7 @@ Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans v
 
 {{% richtext %}}
 **Documentation API**<br>
-Consultez notre documentation API.<br class="hide-for-mobile">(an anglais)
+Consultez notre documentation API.<br class="hide-for-mobile">(en Anglais)
 {{% /richtext %}}
 {{% /cta %}}
 {{< /cta-group >}}
