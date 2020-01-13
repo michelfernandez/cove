@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Skribble Integration
-Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br class="hide-for-mobile">und Einfachheit vereint. 
+Mit Skribble wählst du eine Cloud-Plattform, <br class="hide-for-mobile">die technologische Sicherheit und Einfachheit vereint. 
 {{% /heading %}}
 {{% /content %}}
 
