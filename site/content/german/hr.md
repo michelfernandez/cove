@@ -111,8 +111,9 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 {{% cta
   label="Download Use-Case"
-  href="/de/signaturstandards/"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/easyJet_Skribble_Use-Case_DE.pdf"
   outlined="true"
+  target="_blank"
 %}}
 
 {{% richtext %}}

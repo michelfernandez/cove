@@ -113,8 +113,9 @@ How we at Skribble make everyday life easier for our customers.
 
 {{% cta
   label="Download use case"
-  href="/en/signaturstandards/"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/asyJet_Skribble_Use-Case_EN.pdf"
   outlined="true"
+  target="_blank"
 %}}
 
 {{% richtext %}}
