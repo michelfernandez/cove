@@ -102,7 +102,7 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Our customers have a good laugh
+# Our customers have a good time
 How we at Skribble make everyday life easier for our customers.
 {{% /heading %}}
 {{% /content %}}
