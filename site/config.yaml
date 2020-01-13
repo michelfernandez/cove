@@ -77,12 +77,15 @@ languages:
         - name: Team
           url: /de/team/
           weight: 10
+        - name: Karriere
+          url: /de/karriere/
+          weight: 15
         - name: Medien
           url: /de/medien/
-          weight: 15
+          weight: 20
         - name: Kontakt
           url: "/de/kontakt/"
-          weight: 20
+          weight: 25
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -223,12 +226,15 @@ languages:
         - name: Team
           url: /team/
           weight: 10
+        - name: Career
+          url: /career/
+          weight: 15
         - name: Press room
           url: /pressroom/
-          weight: 15
+          weight: 20
         - name: Contact
           url: "/contact/"
-          weight: 20
+          weight: 25
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -369,12 +375,15 @@ languages:
         - name: Equipe
           url: /fr/equipe/
           weight: 10
+        - name: Carrière
+          url: /fr/carriere/
+          weight: 15
         - name: Médias
           url: /fr/medias/
-          weight: 15
+          weight: 20
         - name: Contact
           url: "/fr/contact/"
-          weight: 20
+          weight: 25
       footer4:
         - name: News
           url: https://news.skribble.com
