@@ -86,8 +86,8 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Probiere unsere API aus
-Wenn Du Dich mit einem Business Account registrierst, <br class="hide-for-mobile">kannst du sofort API-Key's erzeugen – für den Demo- oder Produktiven-Betrieb. <br class="hide-for-mobile">
+# API ausprobieren
+In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
 {{% /heading %}}
 {{% /content %}}
 
@@ -100,7 +100,7 @@ Wenn Du Dich mit einem Business Account registrierst, <br class="hide-for-mobile
 
 {{< cta-group >}}
 {{% cta
-  label="API Dokumentation"
+  label="API-Dokumentation"
   href="https://doc.skribble.com/"
   outlined="true"
   target="_blank"
@@ -110,7 +110,7 @@ Wenn Du Dich mit einem Business Account registrierst, <br class="hide-for-mobile
 
 {{% richtext %}}
 **API-Dokumentation**<br>
-Teste jetzt unsere API.
+Schau dir unsere API-Dokumentation an.<br class="hide-for-mobile">(auf Englisch)
 {{% /richtext %}}
 {{% /cta %}}
 {{< /cta-group >}}

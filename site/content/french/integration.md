@@ -88,8 +88,8 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Essayez notre API
-When you sign up for the Skribble business account, <br class="hide-for-mobile">you can create demo or productive API keys. 
+# Essayez l'API
+Vous pouvez créer une clé de démonstration <br class="hide-for-mobile">dans votre compte Skribble Business.
 {{% /heading %}}
 {{% /content %}}
 
@@ -102,7 +102,7 @@ When you sign up for the Skribble business account, <br class="hide-for-mobile">
 
 {{< cta-group >}}
 {{% cta
-  label="API documentation"
+  label="Documentation API"
   href="https://doc.skribble.com/"
   outlined="true"
   target="_blank"
@@ -112,7 +112,7 @@ When you sign up for the Skribble business account, <br class="hide-for-mobile">
 
 {{% richtext %}}
 **Documentation API**<br>
-Consultez notre documentation API
+Consultez notre documentation API.<br class="hide-for-mobile">(an anglais)
 {{% /richtext %}}
 {{% /cta %}}
 {{< /cta-group >}}
