@@ -12,7 +12,7 @@ description: Nutzungsbedingungen meta description
 {{< button
   "Zurück"
   "de/karriere"
-  "_blank"
+  ""
   "outline"
 >}}
 
