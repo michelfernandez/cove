@@ -12,7 +12,7 @@ og_image: og/og-career.jpg
 {{% content %}}
 {{% heading %}}
 # Karriere bei Skribble
-Werde teil von unserem Team.
+Werde teil von unserem Skribble-Team.
 {{% /heading %}}
 {{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
 
@@ -20,19 +20,19 @@ Werde teil von unserem Team.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% richtext %}}
-{{% content %}}
-**Aktuell bieten wir folgende Jobs an:**
+{{% content class="no-bottom-padding" %}}
+## Aktuell bieten wir folgende Jobs an:
 {{% /content %}}
 {{% /richtext %}}
 
 {{% cta
   label="Mehr infos"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
+  href="de/sales-manager-de/"
   target="_blank"
   outlined="true"
 %}}
 {{% richtext %}}
-**Sales-Manager Germany (100%)**
+**Sales-Manager Deutschland (100%)**
 {{% /richtext %}}
 {{% /cta %}}
 

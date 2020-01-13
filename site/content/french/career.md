@@ -20,14 +20,14 @@ Joignez-vous à notre équipe.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% richtext %}}
-{{% content %}}
-**Nous offrons actuellement les emplois suivants :**
+{{% content class="no-bottom-padding" %}}
+## Nous offrons actuellement les emplois suivants :
 {{% /content %}}
 {{% /richtext %}}
 
 {{% cta
   label="Plus d'infos"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
+  href="fr/directeur-des-ventes-de"
   target="_blank"
   outlined="true"
 %}}

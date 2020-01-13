@@ -20,14 +20,14 @@ Join our team.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% richtext %}}
-{{% content %}}
-**We currently offer the following jobs:**
+{{% content class="no-bottom-padding" %}}
+## We currently offer the following jobs:
 {{% /content %}}
 {{% /richtext %}}
 
 {{% cta
   label="More infos"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
+  href="sales-manager-de/"
   target="_blank"
   outlined="true"
 %}}
