@@ -1,15 +1,19 @@
 ---
-title: Sales Manager Deutschland bei Schweizer Start-up
-slug: sales-manager-de
+title: Your career at Skribble
+description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 draft: false
-description: Karriere bei Skribble meta description
+slug: sales-manager-de
+type: career
+# opengraph image (for facebook and twitter)
+og_image: og/og-career.jpg
+
 ---
 
 {{% content class="no-bottom-padding" %}}
 {{% center %}}
 {{< button
-  "Zurück"
-  "de/karriere"
+  "Go back"
+  "career"
   ""
   "outline"
 >}}
@@ -70,35 +74,36 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 
 {{% content %}}
 {{% heading %}}
-# Haben wir dein Interesse geweckt?
-Dann bewirb dich gleich hier bei Skribble.<br>Wir freuen uns auf dich!
+# Have we aroused your interest?
+Then apply right here at Skribble.<br>We look forward to you!
 {{% /heading %}}
 {{% /content %}}
 
 {{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
 {{% center %}}
 {{< button
-  "Jetzt bewerben als Sales Manager"
+  "Apply now as Sales Manager"
   "de/features"
   "_blank"
   "outline"
 >}}
 {{% /center %}}
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
-# Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
+# Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
 {{% /heading %}}
 
 {{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
 {{% /richtext %}}

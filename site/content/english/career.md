@@ -32,7 +32,8 @@ Join our team.
   outlined="true"
 %}}
 {{% richtext %}}
-**Sales-Manager Germany (100%)**
+**Sales-Manager Germany (100%)**<br>
+(Job description is in German)
 {{% /richtext %}}
 {{% /cta %}}
 

@@ -27,12 +27,13 @@ Joignez-vous à notre équipe.
 
 {{% cta
   label="Plus d'infos"
-  href="fr/directeur-des-ventes-de"
-  target="_blank"
+  href="fr/directeur-des-ventes-de/"
+  target=""
   outlined="true"
 %}}
 {{% richtext %}}
-**Directeur des ventes Allemagne (100%)**
+**Directeur des ventes Allemagne (100%)**<br>
+(L'annonce est en Allemand)
 {{% /richtext %}}
 {{% /cta %}}
 

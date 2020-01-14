@@ -32,7 +32,7 @@ Werde teil von unserem Skribble-Team.
   outlined="true"
 %}}
 {{% richtext %}}
-**Sales-Manager Deutschland (100%)**
+**Sales-Manager Deutschland (100%)**<br>
 {{% /richtext %}}
 {{% /cta %}}
 
