@@ -26,7 +26,7 @@ Skribble Business customers sign oranised as a group - with <br class="hide-for-
     description="Activate the flat rate model for frequent signers and reduce your costs.">}}
 
   {{< features-item src="features-biz/preismodell.svg" 
-    headline="Joint accounting" 
+    headline="Joint billing" 
     description="The entire organisation is invoiced at the end of the month by invoice.">}}
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg" 
