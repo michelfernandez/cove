@@ -101,12 +101,34 @@ The Most Important Skribble Branding Assets are right here at hand:
 
 {{% table "Skribble in the media" %}}
 <tr>
+  <td style="width:10%;">15.11.2019</td>
+  <td style="width:80%;">**Der Organisator - KMU Digital (in German)**</td>
+  <td style="width:10%;">
+    <a href="downloads/20191115_Der_Organisator_Skribble.pdf" target="_blank">Download</a>
+  </td>
+</tr>
+<tr>
   <td style="width:10%;">31.10.2019</td>
-  <td style="width:80%;">**Handelszeitung - Digital Signature (in German)**</td>
+  <td style="width:80%;">**Handelszeitung - Digitale Unterschrift (in German)**</td>
   <td style="width:10%;">
     <a href="downloads/20191031-Handelzeitung.pdf" target="_blank">Download</a>
   </td>
 </tr>
+<tr>
+  <td style="width:10%;">25.09.2019</td>
+  <td style="width:80%;">**HR-Today – Newstar Skribble (in German)**</td>
+  <td style="width:10%;">
+    <a href="downloads/20190925_HRToday_Skribble.pdf" target="_blank">Download</a>
+  </td>
+</tr>
+<tr>
+  <td style="width:10%;">11.01.2019</td>
+  <td style="width:80%;">**Swisscom - Swiss RegTech Startup Map (in German)**</td>
+  <td style="width:10%;">
+    <a href="downloads/20190111_Swisscom_RegTechMap_Skribble.pdf" target="_blank">Download</a>
+  </td>
+</tr>
+
 {{% /table %}}
 
 {{< outro >}}
