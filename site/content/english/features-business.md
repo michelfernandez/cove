@@ -64,7 +64,7 @@ The onboarding of new signers is intuitive and fast.
     description="External people do not need to have a Skribble account to sign your documents.">}}
 
   {{< features-item src="features-biz/onboarding.svg" 
-    headline="Onboarding via company e-mail" 
+    headline="Onboarding via company email address" 
     description="With just a few clicks you enable the whole organization to sign, additional identification is not necessary.">}}
 
 {{< /features-container >}}
