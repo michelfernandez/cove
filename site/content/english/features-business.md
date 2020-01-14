@@ -80,7 +80,7 @@ The onboarding of new signers is intuitive and fast.
 {{% heading %}}
 # The right on-board <br class="hide-for-mobile">for every signature standard
 Choose the optimal on-boarding process for your organization.<br class="hide-for-mobile">
-For contracts without a formal requirement (FES) or <br class="hide-for-mobile">a written agreement (QES) we offer the following possibilities:
+Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.```
 {{% /heading %}}
 {{% /content %}}
 
