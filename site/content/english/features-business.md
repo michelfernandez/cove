@@ -78,7 +78,7 @@ The onboarding of new signers is intuitive and fast.
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# The right on-board <br class="hide-for-mobile">for every signature standard
+# Organisation-wide implementation <br class="hide-for-mobile">is simple and fast 
 Choose the optimal on-boarding process for your organization.<br class="hide-for-mobile">
 Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.```
 {{% /heading %}}
