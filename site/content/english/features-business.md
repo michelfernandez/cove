@@ -89,7 +89,7 @@ For contracts without a formal requirement (FES) or <br class="hide-for-mobile">
 {{< side-by-side >}}
 {{< picture onboarding-aes-en 460 "A big contract (FES) with a house and tree" >}}
 {{% richtext %}}
-## On-Boarding for FES
+## On-Boarding for the advanced electronic signature (AES)
 Organisation-wide implementation with a few clicks.
 Suitable for contracts without formal requirements.<br>
 
