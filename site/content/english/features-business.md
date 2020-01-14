@@ -30,7 +30,7 @@ Skribble Business customers sign oranised as a group - with <br class="hide-for-
     description="The entire organisation is invoiced at the end of the month by invoice.">}}
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg" 
-    headline="Central member administration" 
+    headline="Centralised member administration" 
     description="Add new members, adjust their pricing model and assign administration rights.">}}
 
   {{< features-item src="features-biz/activity.svg" 
