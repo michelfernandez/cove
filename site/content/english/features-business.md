@@ -38,7 +38,7 @@ Skribble Business customers sign oranised as a group - with <br class="hide-for-
     description="Keep track of what's happening in your business account, filtered by date, activity and more.">}}
 
   {{< features-item src="features-biz/kostendegression.svg" 
-    headline="Cost degression" 
+    headline="Decreasing costs" 
     description="The more signatures, the cheaper the piece. The more flat users, the cheaper the flat rate.">}}
 
   {{< features-item src="features-biz/rechnungshistorie.svg" 
