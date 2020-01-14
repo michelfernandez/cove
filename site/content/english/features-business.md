@@ -39,7 +39,7 @@ Skribble Business customers sign oranised as a group - with <br class="hide-for-
 
   {{< features-item src="features-biz/kostendegression.svg" 
     headline="Decreasing costs" 
-    description="The more signatures, the cheaper the piece. The more flat users, the cheaper the flat rate.">}}
+    description="The more signatures, the lower the unit price. The more flat users, the cheaper the flat rate.">}}
 
   {{< features-item src="features-biz/rechnungshistorie.svg" 
     headline="Invoice history" 
