@@ -109,7 +109,8 @@ Suitable for contracts without formal requirements.<br>
 
 {{% richtext %}}
 ## On-Boarding for the qualified electronic signature (QES)
-The all-round, carefree solution for every type of contract, ideal for contracts with a requirement for writing.<br>
+Identification services for highest demands on the legal weight of the signature.
+Suitable for contracts with formal requirements.<br>
 
 {{< button
   "Download Factsheet"
