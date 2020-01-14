@@ -33,6 +33,10 @@ Skribble Business customers sign oranised as a group - with <br class="hide-for-
     headline="Centralised member administration" 
     description="Add new members, adjust their pricing model and assign administration rights.">}}
 
+  {{< features-item src="features-biz/domain-whitelist.svg" 
+    headline="Whitelist your domain" 
+    description="Anyone who registers with Skribble using an e-mail address from your company automatically becomes a member of your business account.">}}
+
   {{< features-item src="features-biz/activity.svg" 
     headline="Activity overview" 
     description="Keep track of what's happening in your business account, filtered by date, activity and more.">}}
@@ -59,6 +63,10 @@ The onboarding of new signers is intuitive and fast.
     headline="API integration" 
     description="Connect Skribble to your existing software and sign directly from your usual tools.">}}
 
+  {{< features-item src="features-biz/api-key-generation.svg" 
+    headline="Generate your own API keys" 
+    description="Create and manage your API keys for testing or production purposes.">}}
+
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct sign" 
     description="External people do not need to have a Skribble account to sign your documents.">}}
@@ -68,7 +76,7 @@ The onboarding of new signers is intuitive and fast.
     description="With a few clicks you enable the whole organisation to sign, additional identification is not necessary (AES standard).">}}
 
 {{< /features-container >}}
-
+<br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
@@ -80,12 +88,12 @@ The onboarding of new signers is intuitive and fast.
 {{% heading %}}
 # Organisation-wide implementation <br class="hide-for-mobile">is simple and fast 
 Enable new and existing employees to sign electronically in the shortest possible time.<br class="hide-for-mobile">
-Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.```
+Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /heading %}}
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<!--
 {{< side-by-side >}}
 {{< picture onboarding-aes-en 460 "A big contract (FES) with a house and tree" >}}
 {{% richtext %}}
@@ -95,13 +103,13 @@ Suitable for contracts without formal requirements.<br>
 
 {{< button
   "Download Factsheet"
-  "de/pricing"
+  ""
   "_blank"
   "outline">}}
 
 {{% /richtext %}}
 {{< /side-by-side >}}
-
+//-->
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
@@ -114,7 +122,7 @@ Suitable for contracts with formal requirements.<br>
 
 {{< button
   "Download Factsheet"
-  "de/pricing"
+  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
   "_blank"
   "outline">}}
 

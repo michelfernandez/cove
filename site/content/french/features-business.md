@@ -33,6 +33,10 @@ Les clients de Skribble Business signent en tant qu'organisation - <br class="hi
     headline="Administration centrale des membres" 
     description="Ajouter de nouveaux membres, ajuster leur modèle de prix et assigner des droits d'administration.">}}
 
+  {{< features-item src="features-biz/domain-whitelist.svg" 
+    headline="Liste blanche de domaines" 
+    description="Toute personne qui s'inscrit à Skribble avec une adresse e-mail de votre société devient automatiquement membre de votre compte professionnel.">}}  
+
   {{< features-item src="features-biz/activity.svg" 
     headline="Synthèse des activités" 
     description="Suivez ce qui se passe dans votre compte d'entreprise, filtré par date, activité et plus encore.">}}
@@ -59,6 +63,10 @@ L'intégration des nouveaux signataires est intuitive et rapide.
     headline="Intégration des API" 
     description="Connectez Skribble à votre logiciel existant et signez directement depuis vos outils familiers.">}}
 
+  {{< features-item src="features-biz/api-key-generation.svg" 
+    headline="Générez vous-même la clé API" 
+    description="Créez et gérez vos clés API à des fins de test ou de production.">}}
+
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Signe direct" 
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
@@ -68,7 +76,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
     description="En quelques clics, vous permettez à toute l'organisation de signer, une identification supplémentaire n'est pas nécessaire.">}}
 
 {{< /features-container >}}
-
+<br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
@@ -84,7 +92,7 @@ Choisissez le processus d'intégration optimal pour votre organisation. <br clas
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<!--
 {{< side-by-side >}}
 {{< picture onboarding-sea-fr 460 "A big contract (FES) with a house and tree" >}}
 {{% richtext %}}
@@ -93,13 +101,13 @@ Mise en œuvre à l'échelle de l'organisation en quelques clics. Idéal pour le
 
 {{< button
   "Télécharger factsheet"
-  "de/pricing"
+  ""
   "_blank"
   "outline">}}
 
 {{% /richtext %}}
 {{< /side-by-side >}}
-
+//-->
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
@@ -111,7 +119,7 @@ La solution complète et sans souci pour chaque type de contrat, idéale pour le
 
 {{< button
   "Télécharger factsheet"
-  "de/pricing"
+  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
   "_blank"
   "outline">}}
 

@@ -31,6 +31,10 @@ Skribble Business Kunden signieren als Organisation – mit zentraler Mitglieder
   {{< features-item src="features-biz/mitgliederverwaltung.svg" 
     headline="Zentrale Mitgliederverwaltung" 
     description="Füge neue Mitglieder hinzu, passe ihr Preismodell an und vergib Administrationsrechte.">}}
+  
+  {{< features-item src="features-biz/domain-whitelist.svg" 
+    headline="Domain Whitelisting" 
+    description="Wer sich mit einer E-Mail-Adresse deiner Firma bei Skribble registriert, wird automatisch Mitglied deines Business-Kontos.">}}
 
   {{< features-item src="features-biz/activity.svg" 
     headline="Aktivitätsübersicht" 
@@ -58,6 +62,10 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
     headline="API-Integration" 
     description="Binde Skribble an deine bestehende Software an und signiere direkt aus deinen gewohnten Tools heraus.">}}
 
+  {{< features-item src="features-biz/api-key-generation.svg" 
+    headline="API-Schlüssel selbst generieren" 
+    description="Erstelle und verwalte deine API-Schlüssel für Testzwecke oder für die Produktion.">}}
+
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct Sign" 
     description="Externe Personen müssen über kein Skribble-Konto verfügen, um deine Dokumente zu signieren.">}}
@@ -67,7 +75,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
     description="Mit wenigen Klicks befähigst du die ganze Organisation zum Signieren, zusätzliche Identifikation ist nicht nötig.">}}
 
 {{< /features-container >}}
-
+<br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
@@ -83,7 +91,7 @@ Wähle den optimalen On-Boarding-Prozess für deine Organisation. <br class="hid
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
+<!--
 {{< side-by-side >}}
 {{< picture onboarding-fes-de 460 "Ein grosser Vertrag (FES) mit einem Haus und Baum" >}}
 {{% richtext %}}
@@ -92,13 +100,13 @@ Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne F
 
 {{< button
   "Download Factsheet"
-  "de/pricing"
+  ""
   "_blank"
   "outline">}}
 
 {{% /richtext %}}
 {{< /side-by-side >}}
-
+//-->
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
@@ -110,7 +118,7 @@ Die rundum-sorglos Lösung für jede Vertragsart. Optimal für Verträge mit Sch
 
 {{< button
   "Download Factsheet"
-  "de/pricing"
+  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
   "_blank"
   "outline">}}
 
