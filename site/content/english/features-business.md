@@ -79,7 +79,7 @@ The onboarding of new signers is intuitive and fast.
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Organisation-wide implementation <br class="hide-for-mobile">is simple and fast 
-Choose the optimal on-boarding process for your organization.<br class="hide-for-mobile">
+Enable new and existing employees to sign electronically in the shortest possible time.<br class="hide-for-mobile">
 Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.```
 {{% /heading %}}
 {{% /content %}}
