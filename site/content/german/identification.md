@@ -9,88 +9,99 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Identitätsprüfung für die QES
-Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hide-for-mobile">die Unterzeichnenden ihre Identität prüfen lassen. <br class="hide-for-mobile">Das ist via E-ID oder mit unserem Identifikationsservice möglich.
+# Identitätsprüfung für <br class="hide-for-mobile">elektronisches Signieren
+Jede E-Signatur muss eindeutig einer Person zugewiesen werden können. <br class="hide-for-mobile">Deshalb setzt Skribble die Identifikation der Signierenden voraus. <br class="hide-for-mobile">Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{% /heading %}}
+
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 &nbsp;
+
+{{% heading %}}
+# Verträge ohne Formvorschrift
+Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetzt voraus, dass die Identität <br class="hide-for-mobile">der Signierenden im Nachhinein rekonstruiert werden kann.
+{{% /heading %}}
+
+{{% center %}}
+Identifikationsoptionen für die fortgeschrittene elektronische Signatur (FES):
+{{% /center %}}
+{{% /content %}}
+
+{{% content %}}
+{{< row >}}
+{{% plan
+  purple
+  ""
+  "Firmen E-Mail-Adresse"
+  ""
+  ""
+  "_blank"
+  "outline"
+%}}
+Firmen, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
+{{% /plan %}}
+
+{{% plan
+  gold
+  ""
+  "Schweizer Mobiltelefonnummer"
+  ""
+  ""
+  "_blank"
+  "outline"
+%}}
+Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
+{{% /plan %}}
+{{< /row >}}
 {{% /content %}}
 
 {{% cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
-  target="_blank"
+  label="Mehr infos"
+  href=""
+  target=""
   outlined="true"
 %}}
 {{% richtext %}}
-**Identitätsprüfung für die QES – <br class="hide-for-mobile">Skribble macht es einfach**
+**Signaturstandards – Wann nutze ich QES, <br class="hide-for-mobile">wann FES?**
 {{% /richtext %}}
 {{% /cta %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
-{{% heading %}}
-# Bestehende E-ID nutzen
-Personen, die über eine geprüfte E-ID verfügen, können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
-{{% /heading %}}
-
-{{< picture "identification-id" 412 "Eine elektronische rechtsgültige identitätskarte" >}}
-
-Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Nutzern sofort mit dem Signieren mit QES loslegen.
-
-{{% richtext %}}
-{{% center %}}**Personen, die sich mit einer E-ID anmelden, schalten die QES automatisch frei.**{{% / center %}}
-{{% /richtext %}}
-
-{{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
-
-{{% richtext %}}
-{{% center %}}**Weitere E-IDs folgen in diesem Jahr.**{{% / center %}}
-{{% /richtext %}}
-
-&nbsp;
-
-{{% /content %}}
 
 {{% cta
-  label="Telefontermin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  target="_blank"
+  label="Download Factsheet"
+  href=""
+  target=""
+  outlined="true"
 %}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
 {{% richtext %}}
-**Identifikation für die QES**<br>
-Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
+**FES für Business – Organisationsweite Einführung mit wenigen Klicks**
 {{% /richtext %}}
 {{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Da sich noch kein Standard betreffend <br class="hide-for-mobile">der E-ID in der Schweiz abzeichnet, ist <br class="hide-for-mobile">die Interoperabilität der digitalen Identitäten essentiell, um das Risiko von Investitionsruinen zu minimieren." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
-# Skribbles Identifikations-Service nutzen
-Wer über keine E-ID verfügt, kann die Identifikation mit Hilfe von Skribble durchführen.
+# Verträge mit Formvorschrift
+Für Verträge mit Formvorschrift wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetzt voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
 {{% /heading %}}
 
-{{< picture "create-identity" 385 "Eine lupe vergrößert das bild einer frau in einem pass" >}}
+{{% center %}}
+Identifikationsoptionen für die qualifizierte elektronische Signatur (QES):
+{{% /center %}}
+
+{{% richtext %}}
+**Identitifkations-Service**<br>
+Du lässt die Identität der Signierenden von Skribble prüfen oder führst du Identifikationen selbst durch.
+{{% /richtext %}}
 
 {{< row >}}
 {{% plan
   gold
   "Identifikations-Service"
-  "Identification Easy"
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Easy.pdf"
+  "Easy"
+  "Jetzt kontaktieren"
+  ""
   "_blank"
   "outline"
 %}}
@@ -99,12 +110,15 @@ die Signierenden.
 
 Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% plan
   purple
   "Identifikations-Service"
-  "Identification Unlimited"
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification%20Unlimited.pdf"
+  "Unlimited"
+  "Jetzt kontaktieren"
+  ""
   "_blank"
   "outline"
 %}}
@@ -113,19 +127,82 @@ die Signierenden.
 
 Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hide-for-mobile">hinzukommen.
 {{% /plan %}}
+
+{{< /row >}}
+
+{{< row >}}
+{{% plan
+  gold
+  "Identifikations-Service"
+  "Direct"
+  "Mehr erfahren"
+  ""
+  "_blank"
+  "outline"
+%}}
+**Du** kommst für die Identifikation bei uns oder einem unserer Partner vorbei.
+
+Passend für einzelne Signierende.
+
+{{% /plan %}}
 {{< /row >}}
 {{% /content %}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% cta
-  label="Telefontermin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  label="Download Factsheet"
+  href=""
   target="_blank"
+  outlined="true"
 %}}
+
+{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+
 {{% richtext %}}
-**Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
+**Identifikation für die QES - Skribble macht es einfach**<br>
+Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
 {{% /richtext %}}
 {{% /cta %}}
 
+{{% content %}}
+
+{{% richtext %}}
+**Elektronische Identität (E-ID)**<br>
+Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
+{{% /richtext %}}
+
+{{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
+
+{{% richtext %}}
+Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signeiren
+
+{{% /richtext %}}
+{{% /content %}}
+
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
+{{% heading %}}
+# Alles klar?
+{{% /heading %}}
+
+{{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
+Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter https://www.skribble.com/de/signaturstandards/     
+{{% /collapsible %}}
+
+{{% collapsible 11 "Kann ich die Identifikations-Services in der Schweiz und in Deutschland nutzen?" %}}
+Erklärung…
+{{% /collapsible %}}
+
+{{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der FES und der QES?" %}}
+Die gesetzlichen Identifikations-Anforderungen sind nicht dieselben.
+Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderung für die QES sind im Gesetzt genau definiert.
+Bei der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identifikationsverfahren für die FES auf die Einfachheit der Anwendung und die Maximierung der Beweiskraft.
+{{% /collapsible %}}
+
+{{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
