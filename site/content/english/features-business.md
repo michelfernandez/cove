@@ -108,7 +108,7 @@ Suitable for contracts without formal requirements.<br>
 {{< picture onboarding-qes-en 380 "A large contract (QES) with a court" >}}
 
 {{% richtext %}}
-## On-Boarding for QES
+## On-Boarding for the qualified electronic signature (QES)
 The all-round, carefree solution for every type of contract, ideal for contracts with a requirement for writing.<br>
 
 {{< button
