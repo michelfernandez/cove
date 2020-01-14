@@ -65,7 +65,7 @@ The onboarding of new signers is intuitive and fast.
 
   {{< features-item src="features-biz/onboarding.svg" 
     headline="Onboarding via company email address" 
-    description="With just a few clicks you enable the whole organization to sign, additional identification is not necessary.">}}
+    description="With a few clicks you enable the whole organisation to sign, additional identification is not necessary (AES standard).">}}
 
 {{< /features-container >}}
 
