@@ -90,7 +90,8 @@ For contracts without a formal requirement (FES) or <br class="hide-for-mobile">
 {{< picture onboarding-aes-en 460 "A big contract (FES) with a house and tree" >}}
 {{% richtext %}}
 ## On-Boarding for FES
-Organization-wide implementation with just a few clicks. Ideal for contracts without formal requirements.<br>
+Organisation-wide implementation with a few clicks.
+Suitable for contracts without formal requirements.<br>
 
 {{< button
   "Download Factsheet"
