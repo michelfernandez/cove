@@ -57,7 +57,7 @@ The onboarding of new signers is intuitive and fast.
 
   {{< features-item src="features-biz/api-integration.svg" 
     headline="API integration" 
-    description="Connect Skribble to your existing software and sign directly from your familiar tools.">}}
+    description="Connect Skribble to your existing software and sign directly from your usual tools.">}}
 
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct sign" 
