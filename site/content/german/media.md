@@ -101,7 +101,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{% /table %}}
 
 
-{{% table "Skribble in den Medien" %}}
+{{% table "Skribble in den Medien (Auswahl)" %}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;">**Der Organisator - KMU Digital**</td>

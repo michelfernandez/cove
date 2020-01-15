@@ -102,7 +102,7 @@ Les atouts les plus importants de Skribble sont à portée de main :
 </tr>
 {{% /table %}}
 
-{{% table "Skribble dans les médias" %}}
+{{% table "Skribble dans les médias (sélection)" %}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;">**Der Organisator - KMU Digital (en allemand)**</td>

@@ -99,7 +99,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 </tr>
 {{% /table %}}
 
-{{% table "Skribble in the media" %}}
+{{% table "Skribble in the media (selection)" %}}
 <tr>
   <td style="width:10%;">15.11.2019</td>
   <td style="width:80%;">**Der Organisator - KMU Digital (in German)**</td>
