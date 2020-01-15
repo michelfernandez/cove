@@ -1,23 +1,28 @@
 ---
-title: Sales Manager Deutschland bei Schweizer Start-up
-slug: sales-manager-de
+title: Votre carrière au Skribble
+description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
 draft: false
-description: Karriere bei Skribble meta description
+slug: carriere/job-sales-manager-de/ 
+type: carriere 
+# opengraph image (for facebook and twitter)
+og_image: og/og-career.jpg
+
+
 ---
 
 {{% content class="no-bottom-padding" %}}
 {{% center %}}
 {{< button
-  "Zurück"
-  "de/karriere"
+  "Retour"
+  "fr/carriere/"
   ""
   "outline"
 >}}
 
 {{% /center %}}
 {{% heading %}}<br>
-# Sales Manager Deutschland 
-100%, unbefristet
+# Sales Manager, Allemagne (100%)
+unbefristet
 {{% /heading %}}
 
 
@@ -32,6 +37,7 @@ description: Karriere bei Skribble meta description
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{% richtext %}}
 {{% content lass="no-bottom-padding"%}}
@@ -70,35 +76,34 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 
 {{% content %}}
 {{% heading %}}
-# Haben wir dein Interesse geweckt?
-Dann bewirb dich gleich hier bei Skribble.<br>Wir freuen uns auf dich!
-{{% /heading %}}
-{{% /content %}}
-
-{{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
+# Avons-nous éveillé ton intérêt ?
+Postulez maintenant chez Skribble.<br>Nous nous réjouissons de de ta candidature !
 {{% center %}}
 {{< button
-  "Jetzt bewerben als Sales Manager"
-  "de/features"
+  "Postulez maintenant"
+  "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
   "outline"
 >}}
 {{% /center %}}
+{{% /heading %}}
+{{% /content %}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
+{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
 {{% richtext %}}
 {{% heading %}}
-# Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
+# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
 {{% /heading %}}
 
 {{< button
-  "Jetzt ausprobieren"
-  "https://my.skribble.com/signup?lang=de"
+  "Essayer maintenant"
+  "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
 {{% /richtext %}}

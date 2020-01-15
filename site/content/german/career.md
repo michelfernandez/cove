@@ -3,7 +3,7 @@ title: Your career at Skribble
 description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
 draft: false
 slug: karriere
-type: karriere
+type: career
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
 
@@ -11,8 +11,8 @@ og_image: og/og-career.jpg
 
 {{% content %}}
 {{% heading %}}
-# Karriere bei Skribble
-Werde teil von unserem Skribble-Team.
+# Arbeiten bei Skribble
+Entwickle dich und deine Karriere zusammen mit motivierten <br class="hide-for-mobile">und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen gemeinsam zu lösen und zu wachsen - ohne dabei die Freude zu verlieren.
 {{% /heading %}}
 {{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
 
@@ -21,18 +21,18 @@ Werde teil von unserem Skribble-Team.
 
 {{% richtext %}}
 {{% content class="no-bottom-padding" %}}
-## Aktuell bieten wir folgende Jobs an:
+## Offene Stellen:
 {{% /content %}}
 {{% /richtext %}}
 
 {{% cta
-  label="Mehr infos"
-  href="de/sales-manager-de/"
+  label="Mehr Infos"
+  href="de/karriere/job-sales-manager-de/"
   target=""
   outlined="true"
 %}}
 {{% richtext %}}
-**Sales-Manager Deutschland (100%)**<br>
+**Sales Manager, Deutschland (100%)**<br>
 {{% /richtext %}}
 {{% /cta %}}
 

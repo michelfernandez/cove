@@ -11,8 +11,8 @@ og_image: og/og-career.jpg
 
 {{% content %}}
 {{% heading %}}
-# Votre carrière au Skribble
-Joignez-vous à notre équipe.
+# Travailler chez Skribble
+Collaborer et progresser avec des personnes motivées et inspirantes. <br class="hide-for-mobile">Nous te permettons de surmonter des nouveaux challenges et <br class="hide-for-mobile">de développer Skribble et toi-même - sans perdre le plaisir en travail.
 {{% /heading %}}
 {{< picture career 640 "3 candidats avec leurs listes de contrôle" >}}
 
@@ -21,19 +21,19 @@ Joignez-vous à notre équipe.
 
 {{% richtext %}}
 {{% content class="no-bottom-padding" %}}
-## Nous offrons actuellement les emplois suivants :
+## Nous recherchons :
 {{% /content %}}
 {{% /richtext %}}
 
 {{% cta
-  label="Plus d'infos"
-  href="fr/directeur-des-ventes-de/"
+  label="Plus d'info"
+  href="fr/carriere/job-sales-manager-de/"
   target=""
   outlined="true"
 %}}
 {{% richtext %}}
-**Directeur des ventes Allemagne (100%)**<br>
-(L'annonce est en Allemand)
+**Sales Manager, Allemagne (100%)**<br>
+(Annonce en Allemand)
 {{% /richtext %}}
 {{% /cta %}}
 

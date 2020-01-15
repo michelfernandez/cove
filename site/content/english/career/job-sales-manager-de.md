@@ -1,8 +1,9 @@
 ---
-title: Votre carrière au Skribble
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+title: Your career at Skribble
+description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 draft: false
-slug: directeur-des-ventes-de
+slug: career/job-sales-manager-de/
+type: career
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
 
@@ -11,16 +12,16 @@ og_image: og/og-career.jpg
 {{% content class="no-bottom-padding" %}}
 {{% center %}}
 {{< button
-  "Retour"
-  "fr/carriere/"
+  "Go back"
+  "career"
   ""
   "outline"
 >}}
 
 {{% /center %}}
 {{% heading %}}<br>
-# Sales Manager Deutschland 
-100%, unbefristet
+# Sales Manager, Germany (100%)
+unbefristet
 {{% /heading %}}
 
 
@@ -35,7 +36,6 @@ og_image: og/og-career.jpg
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{% richtext %}}
 {{% content lass="no-bottom-padding"%}}
@@ -74,36 +74,34 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 
 {{% content %}}
 {{% heading %}}
-# Avons-nous éveillé votre intérêt ?
-Alors postulez ici même chez Skribble.<br>Nous nous réjouissons de votre candidature !
-{{% /heading %}}
-{{% /content %}}
-
-{{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
+# Did we spark your interest?
+Apply now at Skribble.<br>We look forward to you
 {{% center %}}
 {{< button
-  "Postulez maintenant comme directeur des ventes"
-  "de/features"
+  "Apply now"
+  "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
   "outline"
 >}}
 {{% /center %}}
+{{% /heading %}}
+{{% /content %}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
+{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
 {{% richtext %}}
 {{% heading %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
+# Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
 {{% /heading %}}
 
 {{< button
-  "Essayer maintenant"
-  "https://my.skribble.com/signup?lang=fr"
+  "Try it now"
+  "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
 {{% /richtext %}}

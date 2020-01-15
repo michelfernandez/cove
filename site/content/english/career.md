@@ -11,8 +11,8 @@ og_image: og/og-career.jpg
 
 {{% content %}}
 {{% heading %}}
-# Your career at Skribble
-Join our team.
+# Working at Skribble
+Work and grow together with motivated and inspiring people. <br class="hide-for-mobile">We offer you the chance to tackle new challenges and to develop Skribble <br class="hide-for-mobile">and yourself - whilst having fun.  
 {{% /heading %}}
 {{< picture career 640 "3 applicants with their checklists" >}}
 
@@ -21,19 +21,19 @@ Join our team.
 
 {{% richtext %}}
 {{% content class="no-bottom-padding" %}}
-## We currently offer the following jobs:
+## Open positions:
 {{% /content %}}
 {{% /richtext %}}
 
 {{% cta
-  label="More infos"
-  href="sales-manager-de/"
+  label="More info"
+  href="career/job-sales-manager-de/"
   target="_blank"
   outlined="true"
 %}}
 {{% richtext %}}
-**Sales-Manager Germany (100%)**<br>
-(Job description is in German)
+**Sales-Manager, Germany (100%)**<br>
+(Job description in German)
 {{% /richtext %}}
 {{% /cta %}}
 

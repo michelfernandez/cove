@@ -1,27 +1,26 @@
 ---
 title: Your career at Skribble
-description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
+description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
 draft: false
-slug: sales-manager-de
-type: career
+slug: karriere/job-sales-manager-de/
+type: karriere
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
-
 ---
 
 {{% content class="no-bottom-padding" %}}
 {{% center %}}
 {{< button
-  "Go back"
-  "career"
+  "Zurück"
+  "de/karriere"
   ""
   "outline"
 >}}
 
 {{% /center %}}
 {{% heading %}}<br>
-# Sales Manager Deutschland 
-100%, unbefristet
+# Sales Manager, Deutschland (100%)
+unbefristet
 {{% /heading %}}
 
 
@@ -74,36 +73,34 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 
 {{% content %}}
 {{% heading %}}
-# Have we aroused your interest?
-Then apply right here at Skribble.<br>We look forward to you!
-{{% /heading %}}
-{{% /content %}}
-
-{{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
+# Haben wir dein Interesse geweckt?
+Dann bewirb dich jetzt bei Skribble.<br>Wir freuen uns auf dich!
 {{% center %}}
 {{< button
-  "Apply now as Sales Manager"
-  "de/features"
+  "Jetzt bewerben"
+  "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
   "outline"
 >}}
 {{% /center %}}
+{{% /heading %}}
+{{% /content %}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{% richtext %}}
 {{% heading %}}
-# Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+# Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
 {{% /heading %}}
 
 {{< button
-  "Try it now"
-  "https://my.skribble.com/signup?lang=en"
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
 {{% /richtext %}}
