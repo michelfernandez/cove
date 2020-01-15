@@ -80,9 +80,12 @@ languages:
         - name: Medien
           url: /de/medien/
           weight: 15
+        - name: Partner
+          url: /de/partner/
+          weight: 20
         - name: Kontakt
           url: "/de/kontakt/"
-          weight: 20
+          weight: 25
       footer4:
         - name: News
           url: https://news.skribble.com
