@@ -12,7 +12,7 @@ og_image: og/og-career.jpg
 {{% content %}}
 {{% heading %}}
 # Working at Skribble
-Work and grow together with motivated and inspiring people. <br class="hide-for-mobile">We offer you the chance to tackle new challenges and to develop Skribble <br class="hide-for-mobile">and yourself - whilst having fun.  
+Work and grow together with motivated and inspiring people. <br class="hide-for-mobile">We offer you the chance to tackle new challenges <br class="hide-for-mobile">and to develop Skribble and yourself.  
 {{% /heading %}}
 {{< picture career 640 "3 applicants with their checklists" >}}
 
