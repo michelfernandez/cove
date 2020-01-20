@@ -81,6 +81,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% content %}}
+
 {{% heading %}}
 # Verträge mit Formvorschrift
 Für Verträge mit Formvorschrift wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetzt voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
@@ -94,6 +95,11 @@ Identifikationsoptionen für die qualifizierte elektronische Signatur (QES):
 **Identitifkations-Service**<br>
 Du lässt die Identität der Signierenden von Skribble prüfen oder führst du Identifikationen selbst durch.
 {{% /richtext %}}
+
+{{% /content %}}
+
+
+{{% content %}}
 
 {{< row >}}
 {{% plan
@@ -111,8 +117,6 @@ die Signierenden.
 Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% plan
   purple
   "Identifikations-Service"
@@ -122,15 +126,13 @@ Passend, wenn du die QES <br class="hide-for-mobile">in einem vordefinierten Per
   "_blank"
   "outline"
 %}}
+
 **Du** identifizierst<br class="hide-for-mobile">
 die Signierenden.
 
 Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hide-for-mobile">hinzukommen.
 {{% /plan %}}
 
-{{< /row >}}
-
-{{< row >}}
 {{% plan
   gold
   "Identifikations-Service"
@@ -148,7 +150,6 @@ Passend für einzelne Signierende.
 {{< /row >}}
 {{% /content %}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
   label="Download Factsheet"
@@ -165,8 +166,9 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 {{% /richtext %}}
 {{% /cta %}}
 
-{{% content %}}
 
+
+{{% content %}}
 {{% richtext %}}
 **Elektronische Identität (E-ID)**<br>
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
@@ -176,10 +178,8 @@ Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die
 
 {{% richtext %}}
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signeiren
-
 {{% /richtext %}}
 {{% /content %}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
