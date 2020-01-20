@@ -99,8 +99,6 @@ Du lässt die Identität der Signierenden von Skribble prüfen oder führst du I
 {{% /content %}}
 
 
-{{% content %}}
-
 {{< row >}}
 {{% plan
   gold
@@ -148,7 +146,7 @@ Passend für einzelne Signierende.
 
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+
 
 
 {{% cta
@@ -165,6 +163,7 @@ Passend für einzelne Signierende.
 Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
 {{% /richtext %}}
 {{% /cta %}}
+
 
 
 
