@@ -87,7 +87,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Le bon embarqué <br class="hide-for-mobile">pour chaque norme de signature
-Choisissez le processus d'intégration optimal pour votre organisation. <br class="hide-for-mobile">Pour les contrats sans exigence formelle (FES) ou accord écrit (QES) <br class="hide-for-mobile">nous offrons les possibilités suivantes :
+Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. <br class="hide-for-mobile">Choisissez le processus d'intégration qui correspond à vos exigences <br class="hide-for-mobile"> en matière de force probante ou à la norme de signature souhaitée.
 {{% /heading %}}
 {{% /content %}}
 
