@@ -116,7 +116,8 @@ Convient aux contrats sans exigences formelles.<br>
 
 {{% richtext %}}
 ## Embarquement pour QES
-La solution complète et sans souci pour chaque type de contrat, idéale pour les contrats avec obligation d'écriture.<br>
+Services d'identification pour les plus hautes exigences en matière de force probante de la signature.
+Convient aux contrats avec des exigences formelles.<br>
 
 {{< button
   "Télécharger factsheet"
