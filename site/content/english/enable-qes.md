@@ -244,24 +244,24 @@ Sa: 09.00 - 16.00
 {{< cta-group >}}
 {{% cta
   title="Zurich"
-  label="076 530 36 01"
-  href="tel: +41 76 530 36 01"
+  label="Schedule an E-ID appointment"
+  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
   class="id-site"
   outlined="true"
-  icon="phone"
 %}}
 
 {{< picture
   name="map-flexoffice-zurich"
   w="120"
-  alt="FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
+  alt="Skribble AG, FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
   href="https://g.page/flexofficeswiss?share"
   target="_blank"
 >}}
 
 {{% richtext %}}
-**FlexOffice Fraumünster**<br>
+**Skribble AG**<br>
+FlexOffice<br>
 Fraumünsterstrasse 16<br>
 CH-8001 Zurich<br><br>
 **Opening hours:**<br>
@@ -280,9 +280,9 @@ Mo - Fr: 08.00 - 17.00<br>
 
 {{< picture
   name="map-trustsquare"
-  w="121"
+  w="120"
   alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zurich"
-  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
+  href="https://goo.gl/maps/85xfVe5AG9eiUiat6"
   target="_blank"
 >}}
 
