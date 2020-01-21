@@ -95,7 +95,8 @@ Befähige neue und bestehende Mitarbeitende in kürzester Zeit zum elektronische
 {{< side-by-side >}}
 {{< picture onboarding-fes-de 460 "Ein grosser Vertrag (FES) mit einem Haus und Baum" >}}
 {{% richtext %}}
-## On-Boarding für FES
+## Onboarding für die fortgeschrittene elektronische Signatur (FES)
+
 Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne Formvorschrift.<br>
 
 {{< button
