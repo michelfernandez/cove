@@ -260,12 +260,10 @@ Sa: 09.00 - 16.00
 FlexOffice Fraumünster<br>
 Fraumünsterstrasse 16<br>
 CH-8001 Zurich<br><br>
-**Horaires d'ouverture:**<br>
-Mo - Fr: 08.00 - 17.00<br>
 {{% /richtext %}}
 {{% /cta %}}
 
-
+<!--
 {{% cta
   label="Organiser un rendez-vous E-ID"
   href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
@@ -289,6 +287,7 @@ CH-8001 Zurich
 
 {{% /richtext %}}
 {{% /cta %}}
+//-->
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
