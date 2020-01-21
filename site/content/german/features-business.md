@@ -116,7 +116,8 @@ Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne F
 {{% richtext %}}
 ## Onboarding für die qualifizierte elektronische Signatur (QES)
 
-Die rundum-sorglos Lösung für jede Vertragsart. Optimal für Verträge mit Schrifterfordernis.<br>
+Identifikationsservices für höchste Ansprüche an die Beweiskraft der Signatur.
+Geeignet für Verträge mit Formvorschrift.<br>
 
 {{< button
   "Download Factsheet"
