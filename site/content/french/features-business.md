@@ -97,7 +97,8 @@ Permettez aux nouveaux employés et aux employés actuels de signer électroniqu
 {{< picture onboarding-sea-fr 460 "A big contract (FES) with a house and tree" >}}
 {{% richtext %}}
 ## Embarquement pour FES
-Mise en œuvre à l'échelle de l'organisation en quelques clics. Idéal pour les contrats sans exigences formelles.<br>
+Mise en œuvre à l'échelle de l'organisation en quelques clics.
+Convient aux contrats sans exigences formelles.<br>
 
 {{< button
   "Télécharger factsheet"
