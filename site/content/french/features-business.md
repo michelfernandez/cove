@@ -72,7 +72,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
 <!--
   {{< features-item src="features-biz/onboarding.svg" 
-    headline="Intégration par e-mail de l'entreprise" 
+    headline="Intégration par e-mail d'entreprise" 
     description="En quelques clics, vous permettez à toute l'organisation de signer, une identification supplémentaire n'est pas nécessaire (norme SEA).">}}
 //-->
 {{< /features-container >}}
