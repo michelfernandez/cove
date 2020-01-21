@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Business-Features
-Skribble Business Kunden signieren als Organisation – mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung. 
+Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobile">mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung. 
 {{% /heading %}}
 {{% /content %}}
 
@@ -33,8 +33,8 @@ Skribble Business Kunden signieren als Organisation – mit zentraler Mitglieder
     description="Füge neue Mitglieder hinzu, passe ihr Preismodell an und vergib Administrationsrechte.">}}
   
   {{< features-item src="features-biz/domain-whitelist.svg" 
-    headline="Domain Whitelisting" 
-    description="Wer sich mit einer E-Mail-Adresse deiner Firma bei Skribble registriert, wird automatisch Mitglied deines Business-Kontos.">}}
+    headline="Automatische Mitglieder Anmeldung" 
+    description="Wer sich mit einer E-Mail-Adresse deiner Firma bei Skribble registriert, wird automatisch Mitglied deines Business-Kontos (Domain Whitelisting).">}}
 
   {{< features-item src="features-biz/activity.svg" 
     headline="Aktivitätsübersicht" 
@@ -51,7 +51,7 @@ Skribble Business Kunden signieren als Organisation – mit zentraler Mitglieder
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Skribble Business bettet sich in deine bestehende Infrastruktur ein
+# Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /heading %}}
 {{% /content %}}
@@ -69,11 +69,11 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct Sign" 
     description="Externe Personen müssen über kein Skribble-Konto verfügen, um deine Dokumente zu signieren.">}}
-
+<!--
   {{< features-item src="features-biz/onboarding.svg" 
     headline="Onboarding via Firmen-E-Mail" 
     description="Mit wenigen Klicks befähigst du die ganze Organisation zum Signieren, zusätzliche Identifikation ist nicht nötig.">}}
-
+//-->
 {{< /features-container >}}
 <br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -139,7 +139,7 @@ Wähle das passende Preismodell für deine Organisation
 {{% center %}}
 {{< button
   "Preismodelle vergleichen"
-  "de/pricing"
+  "de/preise"
   ""
   "outline">}}
 {{% /center %}}

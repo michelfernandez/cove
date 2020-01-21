@@ -34,8 +34,8 @@ Skribble Business customers sign oranised as a group - with <br class="hide-for-
     description="Add new members, adjust their pricing model and assign administration rights.">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg" 
-    headline="Whitelist your domain" 
-    description="Anyone who registers with Skribble using an e-mail address from your company automatically becomes a member of your business account.">}}
+    headline="Member auto registration" 
+    description="Anyone who registers with Skribble using an e-mail address from your company and automatically becomes a member of your business account (Domain Whitelisting).">}}
 
   {{< features-item src="features-biz/activity.svg" 
     headline="Activity overview" 
@@ -70,11 +70,11 @@ The onboarding of new signers is intuitive and fast.
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct sign" 
     description="External people do not need to have a Skribble account to sign your documents.">}}
-
+<!--
   {{< features-item src="features-biz/onboarding.svg" 
     headline="Onboarding via company email address" 
     description="With a few clicks you enable the whole organisation to sign, additional identification is not necessary (AES standard).">}}
-
+//-->
 {{< /features-container >}}
 <br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -87,7 +87,7 @@ The onboarding of new signers is intuitive and fast.
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Organisation-wide implementation <br class="hide-for-mobile">is simple and fast 
-Enable new and existing employees to sign electronically in the shortest possible time.<br class="hide-for-mobile">
+Enable new and existing employees to sign electronically <br class="hide-for-mobile">in the shortest possible time.
 Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /heading %}}
 {{% /content %}}

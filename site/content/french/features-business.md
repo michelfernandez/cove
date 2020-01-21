@@ -34,8 +34,8 @@ Les clients de Skribble Business signent en tant qu'organisation - <br class="hi
     description="Ajouter de nouveaux membres, ajuster leur modèle de prix et assigner des droits d'administration.">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg" 
-    headline="Liste blanche de domaines" 
-    description="Toute personne qui s'inscrit à Skribble avec une adresse e-mail de votre société devient automatiquement membre de votre compte professionnel.">}}  
+    headline="Devient automatiquement membre" 
+    description="Toute personne qui s'inscrit à Skribble avec une adresse e-mail de votre société devient automatiquement membre de votre compte professionnel (liste blanche de domaines).">}}  
 
   {{< features-item src="features-biz/activity.svg" 
     headline="Synthèse des activités" 
@@ -70,11 +70,11 @@ L'intégration des nouveaux signataires est intuitive et rapide.
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Signe direct" 
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
-
+<!--
   {{< features-item src="features-biz/onboarding.svg" 
     headline="Intégration par e-mail de l'entreprise" 
     description="En quelques clics, vous permettez à toute l'organisation de signer, une identification supplémentaire n'est pas nécessaire.">}}
-
+//-->
 {{< /features-container >}}
 <br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -140,7 +140,7 @@ Choisissez le bon modèle de prix pour votre organisation.
 {{% center %}}
 {{< button
   "Comparer le prix du modèle"
-  "de/pricing"
+  "fr/tarifs"
   ""
   "outline">}}
 {{% /center %}}
