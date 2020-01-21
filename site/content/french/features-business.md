@@ -96,7 +96,7 @@ Permettez aux nouveaux employés et aux employés actuels de signer électroniqu
 {{< side-by-side >}}
 {{< picture onboarding-sea-fr 460 "A big contract (FES) with a house and tree" >}}
 {{% richtext %}}
-## Embarquement pour FES
+## Intégration pour la signature électronique avancée (SEA)
 Mise en œuvre à l'échelle de l'organisation en quelques clics.
 Convient aux contrats sans exigences formelles.<br>
 
