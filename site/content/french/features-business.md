@@ -73,7 +73,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 <!--
   {{< features-item src="features-biz/onboarding.svg" 
     headline="Intégration par e-mail de l'entreprise" 
-    description="En quelques clics, vous permettez à toute l'organisation de signer, une identification supplémentaire n'est pas nécessaire.">}}
+    description="En quelques clics, vous permettez à toute l'organisation de signer, une identification supplémentaire n'est pas nécessaire (norme SEA).">}}
 //-->
 {{< /features-container >}}
 <br><br>
