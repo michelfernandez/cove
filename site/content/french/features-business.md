@@ -65,7 +65,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
   {{< features-item src="features-biz/api-key-generation.svg" 
     headline="Générez vous-même la clé API" 
-    description="Créez et gérez vos clés API à des fins de test ou de production.">}}
+    description="Créez et gérez vos clés API à des fins de test ou pour la production.">}}
 
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct Sign" 
