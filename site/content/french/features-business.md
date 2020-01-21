@@ -68,7 +68,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
     description="Créez et gérez vos clés API à des fins de test ou de production.">}}
 
   {{< features-item src="features-biz/direct-sign.svg" 
-    headline="Signe direct" 
+    headline="Direct Sign" 
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
 <!--
   {{< features-item src="features-biz/onboarding.svg" 
