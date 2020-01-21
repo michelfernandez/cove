@@ -277,14 +277,14 @@ Mo - Fr: 08.00 - 17.00<br>
 {{< picture
   name="map-trustsquare"
   w="120"
-  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zurich"
+  alt="TrustSquare, Poststrasse 5-7, CH-8001 Zurich"
   href="https://goo.gl/maps/85xfVe5AG9eiUiat6"
   target="_blank"
 >}}
 
 {{% richtext %}}
 **TrustSquare**<br>
-Bahnhofstrasse 3<br>
+Poststrasse 5-7<br>
 CH-8001 Zurich
 
 {{% /richtext %}}
