@@ -13,7 +13,7 @@ og_image: og/og-skribble-identification.jpg
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Fonctionnalités Business
-Les clients de Skribble Business signent en tant qu'organisation - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
+Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobile">avec une administration centrale des membres et une facturation commune.
 {{% /heading %}}
 {{% /content %}}
 
