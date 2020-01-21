@@ -114,7 +114,8 @@ Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne F
 {{< picture onboarding-qes-de 380 "Ein grosser Vertrag (QES) mit einem Gericht" >}}
 
 {{% richtext %}}
-## On-Boarding für QES
+## Onboarding für die qualifizierte elektronische Signatur (QES)
+
 Die rundum-sorglos Lösung für jede Vertragsart. Optimal für Verträge mit Schrifterfordernis.<br>
 
 {{< button
