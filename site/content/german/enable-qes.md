@@ -156,12 +156,13 @@ CH-3123 Belp
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
-  label="E-ID-Termin vereinbaren"
-  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
+  label="031 381 70 60"
+  href="tel: +41 031 381 70 60"
   target="_blank"
   title="Bern"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
