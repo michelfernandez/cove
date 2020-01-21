@@ -79,12 +79,6 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble offers a customer-friendly <br class="hide-for-mobile">solution for qualified electronic signatures in Switzerland."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Skribble complies <br class="hide-for-mobile">with the legal requirements <br class="hide-for-mobile">for HR processes
@@ -105,6 +99,32 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Our customers have a good time
+How we at Skribble make everyday life easier for our customers.
+{{% /heading %}}
+{{% /content %}}
+
+{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson – Country HR & Administration Manager easyJet" >}}
+"In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
+{{< /testimonial >}}
+
+{{% cta
+  label="Download use case"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/asyJet_Skribble_Use-Case_EN.pdf"
+  outlined="true"
+  target="_blank"
+%}}
+
+{{% richtext %}}
+**Download the easyJet use case:**<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{% content %}}
 {{% heading %}}

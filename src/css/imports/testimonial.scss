@@ -10,6 +10,13 @@
     text-align: center;
   }
 
+  a:not(.btn) {
+    color: inherit;
+    &:hover {
+      color: $c-primary;
+    }
+  }
+
   &__quote {
     max-width: 490px;
     margin: 0;
@@ -31,12 +38,12 @@
   }
 
   &__image {
-    max-width: 150px;
+    max-width: 200px;
     display: flex;
     align-items: flex-start;
     @include min-width {
       flex: 0 1 150px;
-      padding-right: 30px;
+      padding-right: 40px;
     }
     @include max-width {
       padding-bottom: 22px;
@@ -44,7 +51,7 @@
 
     img {
       display: block;
-      max-width: 120px;
+      max-width: 150px;
     }
   }
 }

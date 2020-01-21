@@ -93,32 +93,41 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/deutsch
           weight: 10
+        - name: API-Ressource
+          url: https://doc.skribble.com/
+          weight: 15
         - name: Signaturstandards
           url: /de/signaturstandards/
-          weight: 15
+          weight: 20
         - name: QES-Validator
           url: /de/qes-validator/
-          weight: 20
+          weight: 25
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
           weight: 5
-        - name: AGB's
-          url: /de/agb/
+        - name: Nutzungsbedingungen
+          url: /de/nutzungsbedingungen/
           weight: 10
+        - name: AGB
+          url: /de/agb/
+          weight: 15
         - name: Impressum
           url: /de/impressum/
-          weight: 15
+          weight: 20
       footermobile:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
           weight: 5
-        - name: AGB's
-          url: /de/agb/
+        - name: Nutzungsbedingungen
+          url: /de/nutzungsbedingungen/
           weight: 10
+        - name: AGB
+          url: /de/agb/
+          weight: 15
         - name: Impressum
           url: /de/impressum/
-          weight: 15
+          weight: 20
 
     header:
       login:
@@ -242,17 +251,23 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/english
           weight: 10
+        - name: API resource
+          url: https://doc.skribble.com/
+          weight: 15
         - name: Signature standards
           url: /signaturestandards/
-          weight: 15
+          weight: 20
         - name: QES validator
           url: /qes-validator/
-          weight: 20
+          weight: 25
       meta:
         - name: Privacy Policy
           url: /privacy/
           weight: 5
-        - name: Terms
+        - name: Terms of use
+          url: /terms-of-use/
+          weight: 5
+        - name: GTC
           url: /gtc/
           weight: 10
         - name: Imprint
@@ -262,12 +277,15 @@ languages:
         - name: Privacy Policy
           url: /privacy/
           weight: 5
-        - name: Terms
-          url: /gtc/
+        - name: Terms of use
+          url: /terms-of-use/
           weight: 10
+        - name: GTC
+          url: /gtc/
+          weight: 15
         - name: Imprint
           url: /imprint/
-          weight: 15
+          weight: 20
 
     header:
       login:
@@ -281,14 +299,14 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Do you want to maximise legal weight?
+        title: Want to maximise the legal weight?
         text: Get identified and unlock the highest e-signature standard.
         button:
           label: Get identified
           href: /enable-qes/
           target:
       rightSlot:
-        title: Do you want to schedule a demo session?
+        title: Want to schedule a demo session?
         text: We are pleased to come by to introduce you to Skribble.
         button:
           label: Arrange a call
@@ -391,33 +409,42 @@ languages:
         - name: Centre d'assistance
           url: https://help.skribble.com/francais
           weight: 10
+        - name: API Ressource
+          url: https://doc.skribble.com/
+          weight: 15
         - name: Normes de signature
           url: /fr/normessignature/
-          weight: 15
+          weight: 20
         - name: Validateur SEQ
           url: /fr/validateur-seq/
-          weight: 20
+          weight: 25
 
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
           weight: 5
-        - name: Conditions Générales
-          url: /fr/cg/
+        - name: Conditions Dutilisation
+          url: /fr/conditions-dutilisation/
           weight: 10
+        - name: CG
+          url: /fr/cg/
+          weight: 15
         - name: Impressum
           url: /fr/impressum/
-          weight: 15
+          weight: 20
       footermobile:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
           weight: 5
-        - name: Conditions Générales
-          url: /fr/cg/
+        - name: Conditions Dutilisation
+          url: /fr/conditions-dutilisation/
           weight: 10
+        - name: CG
+          url: /fr/cg/
+          weight: 15
         - name: Impressum
           url: /fr/impressum/
-          weight: 15
+          weight: 20
 
     header:
       login:

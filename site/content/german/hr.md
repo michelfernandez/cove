@@ -77,12 +77,6 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble bietet eine kundenfreundliche Lösung für die qualifizierte elektronische Signatur in der Schweiz an."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
@@ -101,6 +95,31 @@ Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der 
 Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
 {{% /collapsible %}}
 {{% /content %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Unser Kunden haben gut lachen
+Wie wir den Alltag unserer Kunden erleichtern.
+{{% /heading %}}
+{{% /content %}}
+
+{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson – Country HR & Administration Manager easyJet" >}}
+"Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
+{{< /testimonial >}}
+
+{{% cta
+  label="Download Use-Case"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/easyJet_Skribble_Use-Case_DE.pdf"
+  outlined="true"
+  target="_blank"
+%}}
+
+{{% richtext %}}
+**Lade den easyJet Use-Case herunter:**<br>
+{{% /richtext %}}
+{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

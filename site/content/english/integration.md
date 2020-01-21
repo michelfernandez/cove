@@ -9,14 +9,14 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Skribble Integration
 With Skribble, you choose a cloud platform that combines <br class="hide-for-mobile">technological security with simplicity.
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "A man sits in front of a computer and integrates skribble" >}}
+{{< picture integration-main 580 "An engineer stands in front of an API window with API documentation." >}}
 
 {{% heading %}}
 ### Use Skribble via your browser or integrate the platform <br class="hide-for-mobile">into your existing software environment via API
@@ -42,14 +42,14 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investorin und Member of the Board" >}}
-"Until now, e-signing solutions were either legally binding and not very user-friendly or they were easy-to-use but not legally binding. Skribble combines both advantages for the first time: It is easy to use and legally binding." 
+<br><br>
+{{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO of Softcom" >}}
+"We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # With Skribble you benefit from <br class="hide-for-mobile">the highest standards of technology <br class="hide-for-mobile">and security
 {{% /heading %}}
@@ -84,6 +84,43 @@ With Skribble, you choose a cloud platform that combines <br class="hide-for-mob
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+<br><br>
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble holds the label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands <br class="hide-for-mobile">for quality, reliability and precision in software development.
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Try out the API
+You can create a demo key in your Skribble Business account.
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture api-main 600 "A laptop with fountain pen and gear wheel." >}}
+
+{{% heading %}}
+{{% /heading %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{% cta
+  label="API documentation"
+  href="https://doc.skribble.com/"
+  outlined="true"
+  target="_blank"
+%}}
+
+{{< picture "api-dok" 140 "User interface window with one gear wheel." >}}
+
+{{% richtext %}}
+**API documentation**<br>
+Check out our API documenation.
+{{% /richtext %}}
+{{% /cta %}}
+{{< /cta-group >}}
 
 {{< outro >}}
 {{< picture image8 414 >}}

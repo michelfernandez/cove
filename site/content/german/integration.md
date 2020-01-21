@@ -9,14 +9,14 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Skribble Integration
-Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br class="hide-for-mobile">und Einfachheit vereint. 
+Mit Skribble wählst du eine Cloud-Plattform, <br class="hide-for-mobile">die technologische Sicherheit und Einfachheit vereint. 
 {{% /heading %}}
 {{% /content %}}
 
-{{< picture integration-visual 494 "Ein mann sitzt vor einem computer und integriert skribble" >}}
+{{< picture integration-main 580 "Ein Ingenieur steht vor einem API-Fenster mit einer API-Dokumenation." >}}
 
 {{% heading %}}
 ### Nutze Skribble über den Browser oder integriere die Plattform <br class="hide-for-mobile">via API in eure bestehende Softwareumgebung
@@ -43,13 +43,14 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/btov-logo-96w.png" "Nicole Herzog, Investorin und Member of the Board" >}}
-"E-Signing-Lösungen waren bisher entweder rechtlich verbindlich und wenig benutzerfreundlich oder sie waren einfach zu bedienen aber rechtlich nicht verbindlich. Skribble verbindet erstmals die beiden Vorteile: Es ist einfach zu bedienen und rechtlich bindend." {{< /testimonial >}}
+<br><br>
+{{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO von Softcom" >}}
+"Wir haben die API für den Kanton Freiburg in einem halben Tag integriert. Die API von Skribble lässt keine Wünsche offen."
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Mit Skribble arbeitest du auf höchsten Technologie- und Security-Standards
 {{% /heading %}}
@@ -82,6 +83,45 @@ Mit Skribble wählst du eine Cloud-Plattform, die technologische Sicherheit <br 
     description="Help-Base, FAQ, Chat-Bot, Live-Chat, Hotline (9.00– 12.00 und 14.00–17.00). Überwachung und Management der Server ist 24/7 gewährleistet.">}}
 
 {{< /features-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+<br><br>
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble trägt das Label <br class="hide-for-mobile"><a href="https://www.swissmadesoftware.org/" target="_blank" class="text-decoration: none;">Swiss made Software</a>, das für Qualität, Zuverlässigkeit und Präzision in der Software-Entwicklung steht. 
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# API ausprobieren
+In deinem Skribble Business Konto kannst du einen Demo-Schlüssel erstellen.
+{{% /heading %}}
+{{% /content %}}
+
+{{< picture api-main 600 "Ein Laptop mit Füllfeder und Zahnrad." >}}
+
+{{% heading %}}
+{{% /heading %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{% cta
+  label="API-Dokumentation"
+  href="https://doc.skribble.com/"
+  outlined="true"
+  target="_blank"
+%}}
+
+{{< picture "api-dok" 140 "Userinterface Fenster mit Zahnrad" >}}
+
+{{% richtext %}}
+**API-Dokumentation**<br>
+Schau dir unsere API-Dokumentation an.<br class="hide-for-mobile">(auf Englisch)
+{{% /richtext %}}
+{{% /cta %}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
