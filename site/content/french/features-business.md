@@ -115,7 +115,8 @@ Convient aux contrats sans exigences formelles.<br>
 {{< picture onboarding-seq-fr 380 "A large contract (QES) with a court" >}}
 
 {{% richtext %}}
-## Embarquement pour QES
+## Intégration pour la signature électronique qualifiée (SEQ)
+
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature.
 Convient aux contrats avec des exigences formelles.<br>
 
