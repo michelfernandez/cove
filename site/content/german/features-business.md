@@ -85,7 +85,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Für jeden Signaturstandard <br class="hide-for-mobile">das passende On-Boarding
+# Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
 Wähle den optimalen On-Boarding-Prozess für deine Organisation. <br class="hide-for-mobile">Für Verträge ohne Formvorschrift (FES) oder Schrifterfrodernis (QES) <br class="hide-for-mobile">bieten wir folgende Möglichkeiten an: 
 {{% /heading %}}
 {{% /content %}}
