@@ -27,7 +27,7 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
 
   {{< features-item src="features-biz/preismodell.svg" 
     headline="Comptabilité commune" 
-    description="L'ensemble de l'organisation est facturé à la fin du mois par facture.">}}
+    description="Toute l'organisation est facturée à la fin du mois par facture.">}}
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg" 
     headline="Administration centrale des membres" 
