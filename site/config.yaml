@@ -293,14 +293,14 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Do you want to maximise legal weight?
+        title: Want to maximise the legal weight?
         text: Get identified and unlock the highest e-signature standard.
         button:
           label: Get identified
           href: /enable-qes/
           target:
       rightSlot:
-        title: Do you want to schedule a demo session?
+        title: Want to schedule a demo session?
         text: We are pleased to come by to introduce you to Skribble.
         button:
           label: Arrange a call
