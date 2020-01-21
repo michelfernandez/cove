@@ -23,7 +23,7 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
 
   {{< features-item src="features-biz/abrechnung.svg" 
     headline="Sélectionnez le modèle de prix par membre" 
-    description="Activez le modèle de tarif forfaitaire pour les abonnés fréquents et réduisez vos coûts.">}}
+    description="Activez le modèle de tarif Forfait pour les abonnés fréquents et réduisez vos coûts.">}}
 
   {{< features-item src="features-biz/preismodell.svg" 
     headline="Comptabilité commune" 
