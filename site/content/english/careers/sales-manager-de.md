@@ -2,8 +2,7 @@
 title: Your career at Skribble
 description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 draft: false
-slug: career/job-sales-manager-de/
-type: career
+url: /careers/465/sales-manager-de/
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
 
@@ -13,7 +12,7 @@ og_image: og/og-career.jpg
 {{% center %}}
 {{< button
   "Go back"
-  "career"
+  "careers"
   ""
   "outline"
 >}}
@@ -27,7 +26,7 @@ unbefristet
 
 {{% richtext %}}
 {{% center %}}
-## *** 
+## ***
 {{% / center %}}
 {{% /richtext %}}
 
@@ -41,7 +40,7 @@ unbefristet
 {{% content lass="no-bottom-padding"%}}
 ## Unterschreibst du noch oder skribblest du schon?
 
-Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können. 
+Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können.
 
 ## So begeisterst du uns:
 Deine Talente als Sales Manager sind gefragt: als unser Gesicht in Deutschland, im Knüpfen von Kontakten zu Unternehmen und Behörden oder als Unterstützer unserer Inbound Marketing Strategie. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig ein Produkt mit echtem Mehrwert anbieten zu können. Dein Wunsch ist es, Mühsames einfach zu machen.

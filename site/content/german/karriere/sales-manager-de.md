@@ -1,34 +1,31 @@
 ---
-title: Votre carrière au Skribble
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+title: Your career at Skribble
+description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
 draft: false
-slug: carriere/job-sales-manager-de/ 
-type: carriere 
+url: /de/karriere/465/sales-manager-de/
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
-
-
 ---
 
 {{% content class="no-bottom-padding" %}}
 {{% center %}}
 {{< button
-  "Retour"
-  "fr/carriere/"
+  "Zurück"
+  "de/karriere"
   ""
   "outline"
 >}}
 
 {{% /center %}}
 {{% heading %}}<br>
-# Sales Manager, Allemagne (100%)
+# Sales Manager, Deutschland (100%)
 unbefristet
 {{% /heading %}}
 
 
 {{% richtext %}}
 {{% center %}}
-## *** 
+## ***
 {{% / center %}}
 {{% /richtext %}}
 
@@ -38,12 +35,11 @@ unbefristet
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{% richtext %}}
 {{% content lass="no-bottom-padding"%}}
 ## Unterschreibst du noch oder skribblest du schon?
 
-Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können. 
+Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können.
 
 ## So begeisterst du uns:
 Deine Talente als Sales Manager sind gefragt: als unser Gesicht in Deutschland, im Knüpfen von Kontakten zu Unternehmen und Behörden oder als Unterstützer unserer Inbound Marketing Strategie. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig ein Produkt mit echtem Mehrwert anbieten zu können. Dein Wunsch ist es, Mühsames einfach zu machen.
@@ -76,11 +72,11 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 
 {{% content %}}
 {{% heading %}}
-# Avons-nous éveillé ton intérêt ?
-Postulez maintenant chez Skribble.<br>Nous nous réjouissons de de ta candidature !
+# Haben wir dein Interesse geweckt?
+Dann bewirb dich jetzt bei Skribble.<br>Wir freuen uns auf dich!
 {{% center %}}
 {{< button
-  "Postulez maintenant"
+  "Jetzt bewerben"
   "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
   "outline"
@@ -93,17 +89,17 @@ Postulez maintenant chez Skribble.<br>Nous nous réjouissons de de ta candidatur
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
 {{% richtext %}}
 {{% heading %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
+# Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder <br class="hide-for-mobile">Verpflichtung erforderlich.
 {{% /heading %}}
 
 {{< button
-  "Essayer maintenant"
-  "https://my.skribble.com/signup?lang=fr"
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
 {{% /richtext %}}

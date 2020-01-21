@@ -119,7 +119,7 @@ languages:
         - name: Impressum
           url: /de/impressum/
           weight: 15
-  
+
     header:
       login:
         label: Login
@@ -226,8 +226,8 @@ languages:
         - name: Team
           url: /team/
           weight: 10
-        - name: Career
-          url: /career/
+        - name: Careers
+          url: /careers/
           weight: 15
         - name: Press room
           url: /pressroom/
@@ -436,7 +436,7 @@ languages:
         button:
           label: S'identifier
           href: /fr/debloquez-qes/
-          target: 
+          target:
       rightSlot:
         title: Organiser une démonstration?
         text: Nous passons volontiers en personne afin de vous présenter Skribble.

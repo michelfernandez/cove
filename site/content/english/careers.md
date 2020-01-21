@@ -2,8 +2,7 @@
 title: Your career at Skribble
 description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 draft: false
-slug: career
-type: career
+slug: careers
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
 
@@ -12,7 +11,7 @@ og_image: og/og-career.jpg
 {{% content %}}
 {{% heading %}}
 # Working at Skribble
-Work and grow together with motivated and inspiring people. <br class="hide-for-mobile">We offer you the chance to tackle new challenges <br class="hide-for-mobile">and to develop Skribble and yourself.  
+Work and grow together with motivated and inspiring people. <br class="hide-for-mobile">We offer you the chance to tackle new challenges <br class="hide-for-mobile">and to develop Skribble and yourself.
 {{% /heading %}}
 {{< picture career 640 "3 applicants with their checklists" >}}
 
@@ -27,7 +26,7 @@ Work and grow together with motivated and inspiring people. <br class="hide-for-
 
 {{% cta
   label="More info"
-  href="career/job-sales-manager-de/"
+  href="/careers/465/sales-manager-de/"
   target="_blank"
   outlined="true"
 %}}
