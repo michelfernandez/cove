@@ -42,7 +42,7 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
     description="Faites le suivi de ce qui se passe dans votre compte Business, filtré par date, par activité et plus encore.">}}
 
   {{< features-item src="features-biz/kostendegression.svg" 
-    headline="Dégression des coûts" 
+    headline="Coûts dégressifs" 
     description="Plus il y a de signatures, moins la pièce est chère. Plus il y a d'utilisateurs, moins le forfait est cher.">}}
 
   {{< features-item src="features-biz/rechnungshistorie.svg" 
