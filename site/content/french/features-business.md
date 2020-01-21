@@ -31,7 +31,7 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
 
   {{< features-item src="features-biz/mitgliederverwaltung.svg" 
     headline="Administration centrale des membres" 
-    description="Ajouter de nouveaux membres, ajuster leur modèle de prix et assigner des droits d'administration.">}}
+    description="Ajoutez de nouveaux membres, ajustez leur modèle de prix et attribuez des droits d'administration. ">}}
 
   {{< features-item src="features-biz/domain-whitelist.svg" 
     headline="Devient automatiquement membre" 
