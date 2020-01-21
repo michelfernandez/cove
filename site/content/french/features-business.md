@@ -39,7 +39,7 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
 
   {{< features-item src="features-biz/activity.svg" 
     headline="Synthèse des activités" 
-    description="Suivez ce qui se passe dans votre compte d'entreprise, filtré par date, activité et plus encore.">}}
+    description="Faites le suivi de ce qui se passe dans votre compte Business, filtré par date, par activité et plus encore.">}}
 
   {{< features-item src="features-biz/kostendegression.svg" 
     headline="Dégression des coûts" 
