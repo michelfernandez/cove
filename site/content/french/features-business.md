@@ -140,7 +140,7 @@ Choisissez le bon modèle de prix pour votre organisation.
 
 {{% center %}}
 {{< button
-  "Comparer le prix du modèle"
+  "Comparer les modèles tarifaires"
   "fr/tarifs"
   ""
   "outline">}}
