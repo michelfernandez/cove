@@ -86,7 +86,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# Le bon embarqué <br class="hide-for-mobile">pour chaque norme de signature
+# La mise en œuvre à l'échelle de l'organisation <br class="hide-for-mobile">est simple et rapide
 Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. <br class="hide-for-mobile">Choisissez le processus d'intégration qui correspond à vos exigences <br class="hide-for-mobile"> en matière de force probante ou à la norme de signature souhaitée.
 {{% /heading %}}
 {{% /content %}}
