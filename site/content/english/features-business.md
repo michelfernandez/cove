@@ -13,7 +13,7 @@ type: business-features
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Business features
-Skribble Business customers sign oranised as a group - with <br class="hide-for-mobile">with centralised member administration and joint billing.
+Skribble Business customers sign organised as a group - with <br class="hide-for-mobile">with centralised member administration and joint billing.
 {{% /heading %}}
 {{% /content %}}
 
