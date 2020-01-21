@@ -61,7 +61,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
   {{< features-item src="features-biz/api-integration.svg" 
     headline="Intégration de l'API" 
-    description="Connectez Skribble à votre logiciel existant et signez directement depuis vos outils familiers.">}}
+    description="Connectez Skribble à votre logiciel existant et signez directement depuis vos outils habituels.">}}
 
   {{< features-item src="features-biz/api-key-generation.svg" 
     headline="Générez vous-même la clé API" 
