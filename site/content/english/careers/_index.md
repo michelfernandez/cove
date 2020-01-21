@@ -26,7 +26,7 @@ Work and grow together with motivated and inspiring people. <br class="hide-for-
 
 {{% cta
   label="More info"
-  href="/careers/465/sales-manager-de/"
+  href="sales-manager-de/"
   target="_blank"
   outlined="true"
 %}}
