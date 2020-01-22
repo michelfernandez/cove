@@ -26,7 +26,7 @@ Collaborer et progresser avec des personnes motivées et inspirantes. <br class=
 
 {{% cta
   label="Plus d'info"
-  href="sales-manager-de"
+  href="/fr/carriere/465/sales-manager-de"
   target=""
   outlined="true"
 %}}

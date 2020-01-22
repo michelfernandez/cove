@@ -26,7 +26,7 @@ Entwickle dich und deine Karriere zusammen mit motivierten <br class="hide-for-m
 
 {{% cta
   label="Mehr Infos"
-  href="sales-manager-de"
+  href="/de/karriere/465/sales-manager-de"
   target=""
   outlined="true"
 %}}
