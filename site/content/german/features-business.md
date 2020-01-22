@@ -78,27 +78,9 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
 # Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
-Befähige neue und bestehende Mitarbeitende in kürzester Zeit zum elektronischen Signieren.<br class="hide-for-mobile">Wähle den Onboarding-Prozess<br class="hide-for-mobile">, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt. 
+Befähige neue und bestehende Mitarbeitende in kürzester Zeit <br class="hide-for-mobile">zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt. 
 {{% /heading %}}
 {{% /content %}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side >}}
-{{< picture onboarding-fes-de 460 "Ein grosser Vertrag (FES) mit einem Haus und Baum" >}}
-{{% richtext %}}
-## Onboarding für die fortgeschrittene elektronische Signatur (FES)
-
-Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne Formvorschrift.<br>
-
-{{< button
-  "Download Factsheet"
-  ""
-  "_blank"
-  "outline">}}
-
-{{% /richtext %}}
-{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

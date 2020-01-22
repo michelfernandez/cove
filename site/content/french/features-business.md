@@ -78,8 +78,8 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 {{% content class="no-bottom-padding" %}}
 {{% heading %}}
-# La mise en œuvre à l'échelle de l'organisation <br class="hide-for-mobile">est simple et rapide
-Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. <br class="hide-for-mobile">Choisissez le processus d'intégration qui correspond à vos exigences <br class="hide-for-mobile"> en matière de force probante ou à la norme de signature souhaitée.
+# La mise en œuvre à l'échelle <br class="hide-for-mobile">de l'organisation est simple et rapide
+Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus <br class="hide-for-mobile">d'intégration qui correspond à vos exigences en matière de force probante <br class="hide-for-mobile">ou à la norme de signature souhaitée.
 {{% /heading %}}
 {{% /content %}}
 
