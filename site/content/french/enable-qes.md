@@ -257,7 +257,7 @@ Sa: 09.00 - 16.00
 
 {{% richtext %}}
 **Skribble AG**<br>
-FlexOffice Fraumünster<br>
+FlexOffice<br>
 Fraumünsterstrasse 16<br>
 CH-8001 Zurich<br><br>
 {{% /richtext %}}
