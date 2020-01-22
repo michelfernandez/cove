@@ -263,31 +263,6 @@ CH-8001 Zurich<br><br>
 {{% /richtext %}}
 {{% /cta %}}
 
-<!--
-{{% cta
-  label="Organiser un rendez-vous E-ID"
-  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
-  target="_blank"
-  class="id-site"
-  outlined="true"
-%}}
-
-{{< picture
-  name="map-trustsquare"
-  w="120"
-  alt="TrustSquare, Poststrasse 5-7, CH-8001 Zurich"
-  href="https://goo.gl/maps/85xfVe5AG9eiUiat6"
-  target="_blank"
->}}
-
-{{% richtext %}}
-**TrustSquare**<br>
-Poststrasse 5-7<br>
-CH-8001 Zurich
-
-{{% /richtext %}}
-{{% /cta %}}
-//-->
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

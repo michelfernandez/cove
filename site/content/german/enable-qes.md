@@ -269,32 +269,6 @@ Fraumünsterstrasse 16<br>
 CH-8001 Zürich<br><br>
 {{% /richtext %}}
 {{% /cta %}}
-
-<!--
-{{% cta
-  label="E-ID-Termin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  target="_blank"
-  class="id-site"
-  outlined="true"
-%}}
-
-{{< picture
-  name="map-trustsquare"
-  w="120"
-  alt="TrustSquare, Poststrasse 5-7, CH-8001 Zürich"
-  href="https://goo.gl/maps/85xfVe5AG9eiUiat6"
-  target="_blank"
->}}
-
-{{% richtext %}}
-**TrustSquare**<br>
-Poststrasse 5-7<br>
-CH-8001 Zürich
-
-{{% /richtext %}}
-{{% /cta %}}
-//-->
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
