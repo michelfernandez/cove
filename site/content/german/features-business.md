@@ -40,10 +40,6 @@ Skribble Business Kunden signieren als Organisation – <br class="hide-for-mobi
     headline="Aktivitätsübersicht" 
     description="Behalte den Überblick über die Vorgänge in deinem Business-Konto, gefilter nach Datum, Aktivität und mehr.">}}
 
-  {{< features-item src="features-biz/kostendegression.svg" 
-    headline="Kostendegression" 
-    description="Je mehr Signaturen, desto günstiger das Stück. Je mehr Flat-Nutzer, desto günstiger die Flatrate.">}}
-
   {{< features-item src="features-biz/rechnungshistorie.svg" 
     headline="Rechnungshistorie" 
     description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
@@ -69,11 +65,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct Sign" 
     description="Externe Personen müssen über kein Skribble-Konto verfügen, um deine Dokumente zu signieren.">}}
-<!--
-  {{< features-item src="features-biz/onboarding.svg" 
-    headline="Onboarding via Firmen-E-Mail" 
-    description="Mit wenigen Klicks befähigst du die ganze Organisation zum Signieren, zusätzliche Identifikation ist nicht nötig.">}}
-//-->
+
 {{< /features-container >}}
 <br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -91,7 +83,7 @@ Befähige neue und bestehende Mitarbeitende in kürzester Zeit zum elektronische
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<!--
+
 {{< side-by-side >}}
 {{< picture onboarding-fes-de 460 "Ein grosser Vertrag (FES) mit einem Haus und Baum" >}}
 {{% richtext %}}
@@ -107,7 +99,7 @@ Organisationsweite Einführung mit wenigen Klicks. Optimal für Verträge ohne F
 
 {{% /richtext %}}
 {{< /side-by-side >}}
-//-->
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}

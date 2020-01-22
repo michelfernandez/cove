@@ -41,10 +41,6 @@ Skribble Business customers sign organised as a group - with <br class="hide-for
     headline="Activity overview" 
     description="Keep track of what's happening in your business account, filtered by date, activity and more.">}}
 
-  {{< features-item src="features-biz/kostendegression.svg" 
-    headline="Decreasing costs" 
-    description="The more signatures, the lower the unit price. The more flat users, the cheaper the flat rate.">}}
-
   {{< features-item src="features-biz/rechnungshistorie.svg" 
     headline="Invoice history" 
     description="View the current and all past invoices at any time.">}}
@@ -70,11 +66,7 @@ The onboarding of new signers is intuitive and fast.
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct sign" 
     description="External people do not need to have a Skribble account to sign your documents.">}}
-<!--
-  {{< features-item src="features-biz/onboarding.svg" 
-    headline="Onboarding via company email address" 
-    description="With a few clicks you enable the whole organisation to sign, additional identification is not necessary (AES standard).">}}
-//-->
+
 {{< /features-container >}}
 <br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -93,23 +85,7 @@ Choose the onboarding process that fits your requirements for legal weight or th
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<!--
-{{< side-by-side >}}
-{{< picture onboarding-aes-en 460 "A big contract (FES) with a house and tree" >}}
-{{% richtext %}}
-## On-Boarding for the advanced electronic signature (AES)
-Organisation-wide implementation with a few clicks.
-Suitable for contracts without formal requirements.<br>
 
-{{< button
-  "Download Factsheet"
-  ""
-  "_blank"
-  "outline">}}
-
-{{% /richtext %}}
-{{< /side-by-side >}}
-//-->
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}

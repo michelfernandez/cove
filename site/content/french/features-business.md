@@ -41,10 +41,6 @@ Les clients Skribble Business signent comme un groupe - <br class="hide-for-mobi
     headline="Synthèse des activités" 
     description="Faites le suivi de ce qui se passe dans votre compte Business, filtré par date, par activité et plus encore.">}}
 
-  {{< features-item src="features-biz/kostendegression.svg" 
-    headline="Coûts dégressifs" 
-    description="Plus il y a de signatures, moins l'unité est chère. Plus il y a d'utilisateurs de forfaits, moins le forfait est cher.">}}
-
   {{< features-item src="features-biz/rechnungshistorie.svg" 
     headline="Historique de facturation" 
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
@@ -70,11 +66,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
   {{< features-item src="features-biz/direct-sign.svg" 
     headline="Direct Sign" 
     description="Les personnes extérieures n'ont pas besoin d'avoir un compte Skribble pour signer vos documents.">}}
-<!--
-  {{< features-item src="features-biz/onboarding.svg" 
-    headline="Intégration par e-mail d'entreprise" 
-    description="En quelques clics, vous permettez à toute l'organisation de signer, une identification supplémentaire n'est pas nécessaire (norme SEA).">}}
-//-->
+
 {{< /features-container >}}
 <br><br>
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -92,23 +84,7 @@ Permettez aux nouveaux employés et aux employés actuels de signer électroniqu
 {{% /content %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-<!--
-{{< side-by-side >}}
-{{< picture onboarding-sea-fr 460 "A big contract (FES) with a house and tree" >}}
-{{% richtext %}}
-## Intégration pour la signature électronique avancée (SEA)
-Mise en œuvre à l'échelle de l'organisation en quelques clics.
-Convient aux contrats sans exigences formelles.<br>
 
-{{< button
-  "Télécharger factsheet"
-  ""
-  "_blank"
-  "outline">}}
-
-{{% /richtext %}}
-{{< /side-by-side >}}
-//-->
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side >}}
