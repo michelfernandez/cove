@@ -154,12 +154,13 @@ CH-3123 Belp
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{% cta
-  label="Schedule an E-ID appointment"
-  href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-bern"
+  label="031 381 70 60"
+  href="tel: +41 031 381 70 60"
   target="_blank"
   title="Bern"
   class="id-site"
   outlined="true"
+  icon="phone"
 %}}
 
 {{< picture
@@ -243,33 +244,6 @@ Sa: 09.00 - 16.00
 {{< cta-group >}}
 {{% cta
   title="Zurich"
-  label="076 530 36 01"
-  href="tel: +41 76 530 36 01"
-  target="_blank"
-  class="id-site"
-  outlined="true"
-  icon="phone"
-%}}
-
-{{< picture
-  name="map-flexoffice-zurich"
-  w="120"
-  alt="FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
-  href="https://g.page/flexofficeswiss?share"
-  target="_blank"
->}}
-
-{{% richtext %}}
-**FlexOffice Fraumünster**<br>
-Fraumünsterstrasse 16<br>
-CH-8001 Zurich<br><br>
-**Opening hours:**<br>
-Mo - Fr: 08.00 - 17.00<br>
-{{% /richtext %}}
-{{% /cta %}}
-
-
-{{% cta
   label="Schedule an E-ID appointment"
   href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
@@ -278,20 +252,21 @@ Mo - Fr: 08.00 - 17.00<br>
 %}}
 
 {{< picture
-  name="map-trustsquare"
-  w="121"
-  alt="TrustSquare, Bahnhofstrasse 3, CH-8001 Zurich"
-  href="https://goo.gl/maps/PfkFALpqq89meyYf9"
+  name="map-flexoffice-zurich"
+  w="120"
+  alt="Skribble AG, FlexOffice Fraumünster, Fraumünsterstrasse 16, CH-8001 Zurich"
+  href="https://g.page/flexofficeswiss?share"
   target="_blank"
 >}}
 
 {{% richtext %}}
-**TrustSquare**<br>
-Bahnhofstrasse 3<br>
-CH-8001 Zurich
-
+**Skribble AG**<br>
+FlexOffice<br>
+Fraumünsterstrasse 16<br>
+CH-8001 Zurich<br><br>
 {{% /richtext %}}
 {{% /cta %}}
+
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
