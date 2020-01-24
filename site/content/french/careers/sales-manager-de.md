@@ -65,6 +65,7 @@ Unser Digital Marketing Team generiert dir Leads und du gehst diese auf allen Ko
 
 ## So begeistern wir dich:
 Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das erreichen? Mit der besten Firmenkultur und attraktiven Anstellungsbedingungen. Überzeuge dich selbst:
+
 - Wir setzen auf schnelle Entscheidungswege
 - Wir sind agil und bieten dir Freiraum bei der Gestaltung deiner Arbeitszeit und deines Arbeitsorts
 - Wir begegnen einander auf Augenhöhe. Dafür stehen unsere offene Kommunikation, flache Hierarchien sowie die Du-Kultur
