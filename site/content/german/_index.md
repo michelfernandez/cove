@@ -170,7 +170,6 @@ den Signaturstandards FES und QES wählen.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-<br>
 {{% richtext center %}}
 
 ### Skribble in den Medien

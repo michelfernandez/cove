@@ -165,7 +165,6 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-<br>
 {{% richtext center %}}
 
 ### Connu depuis les médias
