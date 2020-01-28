@@ -79,12 +79,6 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble bietet eine kundenfreundliche Lösung für die qualifizierte elektronische Signatur in der Schweiz an."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{% content %}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
@@ -113,21 +107,9 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{% /heading %}}
 {{% /content %}}
 
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
-"Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
+{{< testimonial "testimonial/altenburger-logo-202w.svg" " Roland Köchli, Partner Altenburger Legal + Tax" >}}
+„Die Anwendung von Skribble bringt uns <br class="hide-for-mobile">der kompletten Digitalisierung von Prozessen einen riesigen Schritt näher."
 {{< /testimonial >}}
-
-{{% cta
-  label="Download Use-Case"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/easyJet_Skribble_Use-Case_DE.pdf"
-  outlined="true"
-  target="_blank"
-%}}
-
-{{% richtext %}}
-**Lade den easyJet Use-Case herunter:**<br>
-{{% /richtext %}}
-{{% /cta %}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
