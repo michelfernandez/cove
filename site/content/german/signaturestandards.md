@@ -6,11 +6,13 @@ slug: signaturstandards
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Wie viel Beweiskraft braucht meine E-Singatur?
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).
-Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet und Beweiskraft.
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
+und der fortgeschrittenen E-Signatur (FES).
+Die beiden Standards
+variieren punkto Einsatzgebiet und Beweiskraft.
 Auf Skribble kannst du wählen.
 {{% /heading %}}
 
@@ -24,55 +26,55 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 {{< picture qes-de 758 "Zwei Hände – Ein Vertrag wird von Hand signiert und ein anderer mit einem Mobile-Phone." >}}
 
 {{% richtext %}}
-**Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**<br>
+**Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**
 Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
 Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfung im persönlichen Kontakt oder eine E-ID vorausgesetzt.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/or-logo-de-202w.png" "Schweizer Obligationenrechts (OR)" >}}
-"Der eigenhändigen Unterschrift gleichgestellt ist die mit einem qualifizierten Zeitstempel verbundene qualifizierte elektronische Signatur gemäss Bundesgesetz vom 18. März 2016 über <br class="hide-for-mobile">die elektronische Signatur."
+"Der eigenhändigen Unterschrift gleichgestellt ist die mit einem qualifizierten Zeitstempel verbundene qualifizierte elektronische Signatur gemäss Bundesgesetz vom 18. März 2016 über
+die elektronische Signatur."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="Mehr erfahren"
   href="de/qes-freischalten"
   outlined="true"
-%}}
+>}}
 
 {{< picture "Identifizieren" 112 "Identitätsprüfung" >}}
 
 {{% richtext %}}
-**Identitätsprüfung**<br>
+**Identitätsprüfung**
 So schaltest du die QES auf Skribble frei.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
-
-{{% cta
+{{< cta
   label="Zum QES Validator"
   href="de/qes-validator"
   outlined="true"
-%}}
+>}}
 
 {{< picture "qes-erklaert" 122 "QES validieren" >}}
 
 {{% richtext %}}
-**QES validieren**<br>
+**QES validieren**
 Prüfe, ob ein Dokument mit QES signiert wurde.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # FES: Die pragmatische Lösung für Verträge ohne Formvorschrift
 Sofort einsatzbereit dank geringeren Auflagen
@@ -81,13 +83,13 @@ Sofort einsatzbereit dank geringeren Auflagen
 {{< picture aes-de 320 "Eine Frau trägt einen FES-Vertrag in der Hand nach Schweizer-Recht." >}}
 
 {{% richtext %}}
-**Die fortgeschrittene elektronische Signatur (FES) ist rechtsgültig bei Verträgen, bei denen das Gesetz keine spezielle Form vorschreibt.**<br>
+**Die fortgeschrittene elektronische Signatur (FES) ist rechtsgültig bei Verträgen, bei denen das Gesetz keine spezielle Form vorschreibt.**
 Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- oder Hypothekarverträgen. Jeder, der eine Schweizer Mobiltelefonnummer hat, kann auf Skribble sofort mit dem Signieren mit FES loslegen.
 {{% /richtext %}}
 
-{{% /content %}}
+{{< /content >}}
 
-{{% table-dense heading="QES vs. FES auf einen Blick" id="qes-fes-table" %}}
+{{< table-dense heading="QES vs. FES auf einen Blick" id="qes-fes-table" >}}
 
 <thead>
 <tr>
@@ -117,29 +119,30 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 </tr>
 </tbody>
 
-{{% /table-dense %}}
+{{< /table-dense >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Skribble kontaktieren"
   href="mailto:info@skribble.com"
   outlined=""
-%}}
+>}}
 
 {{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}
 
 {{% richtext %}}
-**Hast du fragen? <br class="hide-for-mobile">Wir helfen dir gerne weiter.**<br>
+**Hast du fragen?
+Wir helfen dir gerne weiter.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -150,5 +153,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

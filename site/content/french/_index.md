@@ -15,7 +15,7 @@ og_image: og/og-skribble.jpg
   {{< picture image1 678 "trois personnes signent un document électronique" >}}
 </div>
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading left %}}
 # Signer légalement et électroniquement grâce <br class="hide-for-mobile">à Skribble
 Réaliser vos processus de signature simplement et <br class="hide-for-mobile">de façon digitale, conformément à la loi suisse et européenne.
@@ -36,7 +36,7 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
   "Basé sur les certificats de signature de Swisscom"
 >}}
 
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -51,11 +51,11 @@ Réaliser vos processus de signature simplement et <br class="hide-for-mobile">d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Signer légalement en trois étapes
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< side-by-side >}}
 {{% richtext %}}
@@ -90,26 +90,26 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # En signant avec Skribble, <br class="hide-for-mobile">vous gagnez du temps au travail
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture skribble-ui-fr 1020 "Skribble plattform - user interface" >}}
 
-{{% center %}}
+{{< center >}}
 {{< button
   "Afficher toutes les fonctions"
   "/fr/fonctionnalites/"
   ""
   "outline"
 >}}
-{{% /center %}}
+{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
 Avec Skribble, vous signez légalement et en toute sécurité <br class="hide-for-mobile">en remplissant les conditions suivantes:
@@ -126,30 +126,30 @@ La signature électronique qualifiée (SEQ) de Skribble équivaut à la signatur
 {{% collapsible 3 "Protection des données selon LPD/RGPD" "check" %}}
 Skribble et ses partenaires gèrent leurs données conformément à la loi fédérale sur la protection des données (LPD) et au réglement européen sur la protection des données (RGPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Utilisez Skribble pour maximiser la force probante de votre signature
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
 Sur Skribble, vous pouvez choisir entre les deux.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< picture force_probante 664 "Force_Probante" >}}
 
-{{% cta
+{{< cta
   label="En savoir plus"
   href="/fr/normessignature/"
   outlined="true"
-%}}
+>}}
 
 {{% richtext %}}
-**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**<br>
+**Chez Skribble vous avez le choix entre les normes de signature SEA et SEQ.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -161,7 +161,7 @@ Sur Skribble, vous pouvez choisir entre les deux.
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -172,5 +172,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

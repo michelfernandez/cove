@@ -189,9 +189,9 @@ groups:
 
 
 {{< outro >}}
-{{< picture image8 414 >}}
+{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -202,5 +202,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

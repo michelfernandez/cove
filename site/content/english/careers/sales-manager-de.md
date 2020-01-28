@@ -8,38 +8,28 @@ og_image: og/og-career.jpg
 
 ---
 
-{{% content class="no-bottom-padding" %}}
-{{% center %}}
-{{< button
-  "Go back"
-  "careers"
-  ""
-  "outline"
->}}
+{{< content >}}
+{{< center >}}
+  {{< button
+    "Go back"
+    "careers"
+    ""
+    "outline"
+  >}}
+  {{< /center >}}
+  <br>
+  {{% heading %}}
+  # Sales Manager, Germany (100%)
+  unbefristet
+  {{% /heading %}}
 
-{{% /center %}}
-{{% heading %}}<br>
-# Sales Manager, Germany (100%)
-unbefristet
-{{% /heading %}}
-
-
+  {{% richtext center %}}
+  ## ***
+  {{% /richtext %}}
+<br>
 {{% richtext %}}
-{{% center %}}
-## ***
-{{% / center %}}
-{{% /richtext %}}
 
-{{% /content %}}
-
-
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% richtext %}}
-{{% content lass="no-bottom-padding"%}}
 ## Unterschreibst du noch oder skribblest du schon?
-
 Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können.
 
 ## So begeisterst du uns:
@@ -69,31 +59,31 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 - Wir begegnen einander auf Augenhöhe. Dafür stehen unsere offene Kommunikation, flache Hierarchien sowie die Du-Kultur
 - Wir bieten marktübliche Entlohnung mit Erfolgsbeteiligung, eine Beteiligung an Skribble ist möglich
 - Kurz: Skribble ist ein Start-up ohne Bullshit: Wir packen unsere ganze Energie in Produkt und Team
-{{% /content %}}
 {{% /richtext %}}
-
-{{% content %}}
+<br>
+<br>
 {{% heading %}}
 # Did we spark your interest?
-Apply now at Skribble.<br>We look forward to you
-{{% center %}}
+Apply now at Skribble.
+We look forward to you
+{{% /heading %}}
+
+{{< center >}}
 {{< button
   "Apply now"
   "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
   "outline"
 >}}
-{{% /center %}}
-{{% /heading %}}
-{{% /content %}}
-
+{{< /center >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -104,5 +94,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

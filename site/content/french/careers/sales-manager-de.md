@@ -9,37 +9,27 @@ og_image: og/og-career.jpg
 
 ---
 
-{{% content class="no-bottom-padding" %}}
-{{% center %}}
+{{< content >}}
+{{< center >}}
 {{< button
   "Retour"
   "fr/carriere/"
   ""
   "outline"
 >}}
-
-{{% /center %}}
-{{% heading %}}<br>
+{{< /center >}}
+<br>
+{{% heading %}}
 # Sales Manager, Allemagne (100%)
 unbefristet
 {{% /heading %}}
 
-
-{{% richtext %}}
-{{% center %}}
+{{% richtext center %}}
 ## ***
-{{% / center %}}
 {{% /richtext %}}
-
-{{% /content %}}
-
-
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
+<br>
 {{% richtext %}}
-{{% content lass="no-bottom-padding"%}}
+
 ## Unterschreibst du noch oder skribblest du schon?
 
 Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seiner Plattform für elektronische Signaturen Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz, sollen nun auch Firmen und Privatpersonen in Deutschland einfach, schnell und rechtssicher elektronisch signieren können.
@@ -71,31 +61,30 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 - Wir begegnen einander auf Augenhöhe. Dafür stehen unsere offene Kommunikation, flache Hierarchien sowie die Du-Kultur
 - Wir bieten marktübliche Entlohnung mit Erfolgsbeteiligung, eine Beteiligung an Skribble ist möglich
 - Kurz: Skribble ist ein Start-up ohne Bullshit: Wir packen unsere ganze Energie in Produkt und Team
-{{% /content %}}
 {{% /richtext %}}
-
-{{% content %}}
+<br>
+<br>
 {{% heading %}}
 # Avons-nous éveillé ton intérêt ?
-Postulez maintenant chez Skribble.<br>Nous nous réjouissons de de ta candidature !
-{{% center %}}
+Postulez maintenant chez Skribble.
+Nous nous réjouissons de de ta candidature !
+{{% /heading %}}
+{{< center >}}
 {{< button
   "Postulez maintenant"
   "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
   "outline"
 >}}
-{{% /center %}}
-{{% /heading %}}
-{{% /content %}}
-
+{{< /center >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -106,5 +95,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
