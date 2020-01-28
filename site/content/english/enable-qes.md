@@ -9,93 +9,101 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Maximise the legal weight <br class="hide-for-mobile">of your electronic signature
-Enable the highest e-signing standard (QES) <br class="hide-for-mobile">by getting yourself identified by personal contact <br class="hide-for-mobile">with the Swisscom ID app.
+Enable the highest e-signing standard (QES)
+by getting yourself identified by personal contact
+with the Swisscom ID app.
 {{% /heading %}}
 
 {{< row >}}
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-1" 252 "A magnifying glass magnifies the image of a man in a passport" >}}
 {{% richtext %}}
 **Step 1**<br>
 Schedule an identification date and come by personally.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-2" 158 "An electronic identity on a mobile phone" >}}
 {{% richtext %}}
 **Step 2**<br>
 We scan and check your ID or passport using Swisscom’s ID app.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 {{< /row >}}
 
 {{< row >}}
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-3" 270 "A man who has been successfully identified electronically" >}}
 {{% richtext %}}
 **Step 3**<br>
 Swisscom verifies the data and stores them securely.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% richtext %}}
 **Step 4**<br>
 The legal weight of your signature is raised to 100% (QES level)
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # All clear?
 {{% /heading %}}
 
 {{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may <br class="hide-for-mobile">carry out identity verification using video identification.{{% /collapsible %}}
+At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may
+carry out identity verification using video identification.{{% /collapsible %}}
 
 {{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
 No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Which identification documents can I use for identification?" %}}
-A valid passport or identity card. All other forms of identification <br class="hide-for-mobile">such as a residence permit or driving licence are not sufficient.
+A valid passport or identity card. All other forms of identification
+such as a residence permit or driving licence are not sufficient.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Where are the data of the identified users stored?" %}}
-The data collected are stored on Swisscom's high-security servers <br class="hide-for-mobile">in Switzerland (Tier IV certification).
+The data collected are stored on Swisscom's high-security servers
+in Switzerland (Tier IV certification).
 {{% /collapsible %}}
 
 {{% collapsible 5 "Does QES require a Mobile ID?" %}}
-No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated. <br class="hide-for-mobile">If this is not the case, a new SIM card with Mobile ID can be ordered<br class="hide-for-mobile"> free of charge from most providers.
+No. But a Mobile ID makes signing faster and easier, which is why we recommend it. On Mobile-ID.ch you can check whether your smartphone already has a Mobile ID and whether the function is activated.
+If this is not the case, a new SIM card with Mobile ID can be ordere
+ free of charge from most providers.
 {{% /collapsible %}}
 
 {{% collapsible 6 "What if I haven't been identified yet?" %}}
 Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
 {{% /collapsible %}}
 
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Identification sites
-Come by and get identified for free. <br class="hide-for-mobile">Bring a valid passport or your identity card as well as your mobile phone.
+Come by and get identified for free.
+Bring a valid passport or your identity card as well as your mobile phone.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="026 470 08 90"
   href="tel: +41 26 470 08 90"
   target="_blank"
@@ -103,7 +111,7 @@ Come by and get identified for free. <br class="hide-for-mobile">Bring a valid p
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-avry"
@@ -114,27 +122,27 @@ Come by and get identified for free. <br class="hide-for-mobile">Bring a valid p
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Route de Matran 9<br>
-CH-1754 Avry<br>
+**Swisscom Shop**
+Route de Matran
+9 CH-1754 Avry
 
-**Opening hours:**<br>
-Mo - Fr: 08.30 - 19.00<br>
-Do: 08.30 - 21.00<br>
+**Opening hours:**
+Mo - Fr: 08.30 - 19.00
+Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Schedule an E-ID appointment"
   href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
   title="Belp"
   class="id-site"
   outlined="true"
-%}}
+>}}
 
 {{< picture
   name="map-natelprofi"
@@ -145,15 +153,15 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Natel Profi**<br>
-Dorfstrasse 6<br>
+**Natel Profi**
+Dorfstrasse 6
 CH-3123 Belp
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="031 381 70 60"
   href="tel: +41 031 381 70 60"
   target="_blank"
@@ -161,7 +169,7 @@ CH-3123 Belp
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-natelspycher"
@@ -172,15 +180,15 @@ CH-3123 Belp
 >}}
 
 {{% richtext %}}
-**Natel Spycher**<br>
-Belpstrasse 45<br>
+**Natel Spycher**
+Belpstrasse 45
 CH-3007 Bern
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="026 913 71 44"
   href="tel: +41 26 913 71 44"
   target="_blank"
@@ -188,7 +196,7 @@ CH-3007 Bern
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-bulle"
@@ -199,18 +207,19 @@ CH-3007 Bern
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Route de Riaz 18<br>
-CH-1630 Bulle<br><br>
-**Opening hours:**<br>
-Mo - Fr: 09.00 - 18.30<br>
+**Swisscom Shop**
+Route de Riaz 18
+CH-1630 Bulle
+
+**Opening hours:**
+Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="026 341 72 10"
   href="tel: +41 26 341 72 10"
   target="_blank"
@@ -218,7 +227,7 @@ Sa: 09.00 - 16.00
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-fribourg"
@@ -229,27 +238,28 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Avenue de la Gare 22<br>
-CH-1700 Fribourg<br><br>
-**Opening hours:**<br>
-Mo - Fr: 08.30 - 19.00<br>
-Do: 08.30 - 21.00<br>
+**Swisscom Shop**
+Avenue de la Gare 22
+CH-1700 Fribourg
+
+**Opening hours:**
+Mo - Fr: 08.30 - 19.00
+Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   title="Zurich"
   label="Schedule an E-ID appointment"
   href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   target="_blank"
   class="id-site"
   outlined="true"
-%}}
+>}}
 
 {{< picture
   name="map-flexoffice-zurich"
@@ -260,12 +270,12 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Skribble AG**<br>
-FlexOffice<br>
-Fraumünsterstrasse 16<br>
-CH-8001 Zurich<br><br>
+**Skribble AG**
+FlexOffice
+Fraumünsterstrasse 16
+CH-8001 Zurich
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< /cta-group >}}
 
@@ -274,7 +284,7 @@ CH-8001 Zurich<br><br>
 {{< outro >}}
 {{< picture image8 414 "A man stands next to an electronic document with a giant fountain pen" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
@@ -285,5 +295,5 @@ No credit card, entrance fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

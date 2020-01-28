@@ -2,6 +2,13 @@ baseurl: /
 title: Skribble
 params:
   outage: false
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
 languages:
   de:
     languageName: Deutsch
@@ -21,17 +28,21 @@ languages:
           url: "/de/features/"
           weight: 15
           parent: plattform
+        - name: Business-Features
+          url: "/de/business-features/"
+          weight: 20
+          parent: plattform
         - name: Integrationen
           url: "/de/integrationen/"
-          weight: 20
+          weight: 25
           parent: plattform
         - name: Identifikation
           url: "/de/identifikation/"
-          weight: 25
+          weight: 30
           parent: plattform
         - name: QES freischalten
           url: "/de/qes-freischalten/"
-          weight: 30
+          weight: 35
           parent: plattform
         # Solutions dropdown
         - name: Lösungen
@@ -54,15 +65,18 @@ languages:
         - name: Features
           url: /de/features/
           weight: 5
+        - name: Business-Features
+          url: /de/business-features/
+          weight: 10
         - name: Integrationen
           url: /de/integrationen/
-          weight: 10
+          weight: 15
         - name: Identifikation
           url: /de/identifikation/
-          weight: 15
+          weight: 20
         - name: QES freischalten
           url: /de/qes-freischalten/
-          weight: 20
+          weight: 25
       footer2:
         - name: HR
           url: /de/hr/
@@ -177,19 +191,23 @@ languages:
           identifier: platform
         - name: Features
           url: "/features/"
-          weight: 10
+          weight: 15
+          parent: platform
+        - name: Business features
+          url: "/business-features/"
+          weight: 20
           parent: platform
         - name: Integrations
           url: "/integrations/"
-          weight: 15
+          weight: 25
           parent: platform
         - name: Identification
           url: "/identification/"
-          weight: 20
+          weight: 30
           parent: platform
         - name: Enable QES
           url: "/enable-qes/"
-          weight: 25
+          weight: 35
           parent: platform
         # Solutions dropdown
         - name: Solutions
@@ -212,15 +230,18 @@ languages:
         - name: Features
           url: /features/
           weight: 10
+        - name: Business features
+          url: /business-features/
+          weight: 15
         - name: Integrations
           url: /integrations/
-          weight: 15
+          weight: 25
         - name: Identification
           url: /identification/
-          weight: 20
+          weight: 30
         - name: Enable QES
           url: /enable-qes/
-          weight: 25
+          weight: 35
       footer2:
         - name: HR
           url: /hr/
@@ -335,6 +356,10 @@ languages:
           identifier: platforme
         - name: Fonctionnalités
           url: "/fr/fonctionnalites/"
+          weight: 10
+          parent: platforme
+        - name: Fonctionnalités affaires
+          url: "/fr/fonctionnalites-affaires/"
           weight: 15
           parent: platforme
         - name: Integrations
@@ -370,15 +395,18 @@ languages:
         - name: Fonctionnalités
           url: "/fr/fonctionnalites/"
           weight: 5
+        - name: Fonctionnalités affaires
+          url: "/fr/fonctionnalites-affaires/"
+          weight: 10
         - name: Integrations
           url: "/fr/integrations/"
-          weight: 10
+          weight: 15
         - name: Identification
           url: /fr/identification/
-          weight: 15
+          weight: 20
         - name: Débloquez SEQ
           url: /fr/debloquez-seq/
-          weight: 20
+          weight: 25
       footer2:
         - name: RH
           url: /fr/ressources-humaines/

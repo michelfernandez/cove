@@ -6,7 +6,7 @@ slug: normessignature
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # De combien de force probante <br class="hide-for-mobile">ma e-signature a-t-elle besoin ?
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) <br class="hide-for-mobile">et les signatures électroniques avancées (SEA). Les deux normes varient <br class="hide-for-mobile">en termes de domaine d'application et de force probante.
@@ -23,12 +23,10 @@ La signature complète et sans souci pour les exigences les plus élevées
 {{< picture qes-fr 758 "Deux mains - Un contrat est signé à la main et un autre avec un téléphone portable." >}}
 
 {{% richtext %}}
-**La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**<br>
-Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite.
-Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence.
-Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
+**La signature électronique qualifiée (SEQ) équivaut légalement à la signature manuscrite.**
+Vous utilisez la SEQ pour maximiser la force probante de vos contrats ou lorsque la loi exige la forme écrite. Cette dernière s'applique, par exemple, aux accords de crédit ou contrats de travail comportant une clause de concurrence. Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec contact personnel ou une e-ID est nécessaire.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -39,26 +37,26 @@ Pour signer avec la SEQ sur Skribble, un contrôle d'identité préalable avec c
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="En savoir plus"
   href="fr/debloquez-qes"
   outlined="true"
-%}}
+>}}
 
 {{< picture "Identifizieren" 112 "Vérification d'identité" >}}
 
 {{% richtext %}}
-**Vérification d'identité**<br>
+**Vérification d'identité**
 Comment déverrouiller la SEQ sur Skribble
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
-{{% cta
+{{< cta
   label="Vers le validateur SEQ"
   href="fr/validateur-qes"
   outlined="true"
-%}}
+>}}
 
 {{< picture "qes-erklaert" 122 "Valider la SEQ" >}}
 
@@ -66,13 +64,13 @@ Comment déverrouiller la SEQ sur Skribble
 **Valider la SEQ**<br>
 Vérifiez si un document a été signé avec la SEQ
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # SEA: La solution pragmatique pour les contrats sans exigences formelles
 Immédiatement prête à l'emploi grâce à des exigences d'identification réduites
@@ -81,12 +79,12 @@ Immédiatement prête à l'emploi grâce à des exigences d'identification rédu
 {{< picture aes-fr 320 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan." >}}
 
 {{% richtext %}}
-**La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.**<br>
+**La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.**
 C'est le cas pour la plupart des types de contrats, tels que les contrats de location, d'achat ou d'hypothèque. Quiconque possède un numéro de téléphone portable suisse peut commencer immédiatement à signer sur Skribble avec la SEA.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
-{{% table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" %}}
+{{< table-dense heading="SEQ vs SAE en un coup d'œil" id="qes-fes-table" >}}
 
 <thead>
 <tr>
@@ -116,22 +114,22 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 </tr>
 </tbody>
 
-{{% /table-dense %}}
+{{< /table-dense >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Contacter Skribble"
   href="mailto:info@skribble.com"
   outlined=""
-%}}
+>}}
 
 {{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
 
 {{% richtext %}}
-**Vous avez des questions? <br class="hide-for-mobile">Nous nous ferons un plaisir de vous aider.**<br>
+**Vous avez des questions? <br class="hide-for-mobile">Nous nous ferons un plaisir de vous aider.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -139,7 +137,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -150,5 +148,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

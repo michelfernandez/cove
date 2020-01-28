@@ -8,7 +8,7 @@ og_image: og/og-skribble-mission.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Bezahle pro Signatur oder als Flatrate und spare, wenn du mehr signierst
 Skribbles Angebotsstruktur passt sich deinen Bedürfnissen an.
@@ -32,19 +32,19 @@ Flexibel kombinierbar
 Je mehr, desto günstiger
 : Wir haben ein volumenbasiertes Preismodell: Je mehr Signaturen du in einem Prepaid-Paket beziehst, desto tiefer der Einzelpreis. Je mehr Personen du für das Flatrate-Modell anmeldest, desto tiefer der monatliche Pauschalpreis pro Person.
 {{% /richtext %}}
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Jetzt Offerte anfordern"
   href="mailto:info@skribble.com"
   target="_blank"
-%}}
+>}}
 {{% richtext %}}
 **Möchtest du mehr über unsere Preise erfahren?**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
-{{% content %}}
+{{< content >}}
 
 {{% heading %}}
 # Identifikation
@@ -61,22 +61,22 @@ Geeignet für einmaliges oder gelegentliches Signieren mit QES.
 Passend, wenn du die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Weitere Infos zur Identifikation"
   href="/identification"
   target="_blank"
-%}}
+>}}
 {{% richtext %}}
 **Die Identitätsprüfung erfolgt einmalig im persönlichen Kontakt mit der ID-App von Swisscom.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
@@ -87,5 +87,5 @@ Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

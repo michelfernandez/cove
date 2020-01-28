@@ -9,31 +9,31 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Identitätsprüfung für die QES
 Für das Signieren mit höchstem E-Signatur-Standard (QES) müssen <br class="hide-for-mobile">die Unterzeichnenden ihre Identität prüfen lassen. <br class="hide-for-mobile">Das ist via E-ID oder mit unserem Identifikationsservice möglich.
 {{% /heading %}}
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 &nbsp;
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Skribble%20Overview/Skribble_Overview_Identification.pdf"
   target="_blank"
   outlined="true"
-%}}
+>}}
 {{% richtext %}}
 **Identitätsprüfung für die QES – <br class="hide-for-mobile">Skribble macht es einfach**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Bestehende E-ID nutzen
 Personen, die über eine geprüfte E-ID verfügen, können auf Skribble <br class="hide-for-mobile">ohne zusätzliche Identitätsprüfung rechtsgültig signieren.
@@ -55,13 +55,13 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 &nbsp;
 
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
-%}}
+>}}
 
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
@@ -69,7 +69,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 **Identifikation für die QES**<br>
 Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -78,7 +78,7 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Skribbles Identifikations-Service nutzen
 Wer über keine E-ID verfügt, kann die Identifikation mit Hilfe von Skribble durchführen.
@@ -116,34 +116,36 @@ die Signierenden.
 Passend, wenn laufend <br class="hide-for-mobile">neue Signierende <br class="hide-for-mobile">hinzukommen.
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
-%}}
+>}}
 
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
 {{% richtext %}}
 **Hast du Fragen? <br class="hide-for-mobile">Wir helfen dir gerne telefonisch weiter.**
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
 
-{{% richtext %}}
+{{< richtext >}}
+{{% heading %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
+{{% /heading %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}

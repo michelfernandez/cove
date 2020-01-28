@@ -9,53 +9,53 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Maximisez la valeur probante <br class="hide-for-mobile">de votre signature électronique
 Déverrouillez la norme de signature électronique la plus élevée (SEQ) <br class="hide-for-mobile">en vous identifiant par contact personnel avec l'ID-app de Swisscom.
 {{% /heading %}}
 
 {{< row >}}
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-1" 252 "Une loupe grossit l'image d'un homme dans un col" >}}
 {{% richtext %}}
 **Etape 1**<br>
 Prenez un rendez-vous d'identification <br class="hide-for-mobile">et passez en personne.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-2" 158 "Une identité électronique sur un téléphone portable" >}}
 {{% richtext %}}
 **Etape 2**<br>
 La pièce d’identité de l’utilisateur est scannée et vérifiée avec l’ID-app de Swisscom.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 {{< /row >}}
 
 {{< row >}}
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-3" 270 "Un homme qui a été identifié électroniquement avec succès" >}}
 {{% richtext %}}
 **Etape 3**<br>
 Swisscom vérifie les données et les stocke en toute sécurité.
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 
-{{% step %}}
+{{< step >}}
 {{< picture "identification-step-4" 270 "Une personne tient un document juridique entre ses mains. Le logo de swisscom se trouve à l'arrière-plan" >}}
 {{% richtext %}}
 **Etape 4**<br>
 La force probante de votre signature est portée à 100% (niveau SEQ)
 {{% /richtext %}}
-{{% /step %}}
+{{< /step >}}
 {{< /row >}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Tout va bien?
 {{% /heading %}}
@@ -79,19 +79,19 @@ Les données collectées sont stockées sur les serveurs haute sécurité <br cl
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
 Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
 {{% /collapsible %}}
-{{% /content %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for-mobile">ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /heading %}}
-{{% /content %}}
+{{< /content >}}
 
 
-{{% cta
+{{< cta
   label="026 470 08 90"
   href="tel: +41 26 470 08 90"
   target="_blank"
@@ -99,7 +99,7 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-avry"
@@ -110,27 +110,27 @@ Venez vous identifier gratuitement. Apportez votre passeport <br class="hide-for
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Route de Matran 9<br>
-CH-1754 Avry<br>
+**Swisscom Shop**
+Route de Matran 9
+CH-1754 Avry
 
-**Horaires d'ouverture:**<br>
-Mo - Fr: 08.30 - 19.00<br>
-Do: 08.30 - 21.00<br>
+**Horaires d'ouverture:**
+Mo - Fr: 08.30 - 19.00
+Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Organiser un rendez-vous E-ID"
   href="https://4ndl.bookafy.com/service/e-id-fur-skribble-in-belp"
   target="_blank"
   title="Belp"
   class="id-site"
   outlined="true"
-%}}
+>}}
 
 {{< picture
   name="map-natelprofi"
@@ -141,15 +141,15 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Natel Profi**<br>
-Dorfstrasse 6<br>
+**Natel Profi**
+Dorfstrasse 6
 CH-3123 Belp
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="031 381 70 60"
   href="tel: +41 031 381 70 60"
   target="_blank"
@@ -157,7 +157,7 @@ CH-3123 Belp
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-natelspycher"
@@ -168,15 +168,15 @@ CH-3123 Belp
 >}}
 
 {{% richtext %}}
-**Natel Spycher**<br>
-Belpstrasse 45<br>
+**Natel Spycher**
+Belpstrasse 45
 CH-3007 Bern
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="026 913 71 44"
   href="tel: +41 26 913 71 44"
   target="_blank"
@@ -184,7 +184,7 @@ CH-3007 Bern
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-bulle"
@@ -195,18 +195,19 @@ CH-3007 Bern
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Route de Riaz 18<br>
-CH-1630 Bulle<br><br>
-**Horaires d'ouverture:**<br>
-Mo - Fr: 09.00 - 18.30<br>
+**Swisscom Shop**
+Route de Riaz 18
+CH-1630 Bulle
+
+**Horaires d'ouverture:**
+Mo - Fr: 09.00 - 18.30
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="026 341 72 10"
   href="tel: +41 26 341 72 10"
   target="_blank"
@@ -214,7 +215,7 @@ Sa: 09.00 - 16.00
   class="id-site"
   outlined="true"
   icon="phone"
-%}}
+>}}
 
 {{< picture
   name="map-swisscom-fribourg"
@@ -225,27 +226,28 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Swisscom Shop**<br>
-Avenue de la Gare 22<br>
-CH-1700 Fribourg<br><br>
-**Horaires d'ouverture:**<br>
-Mo - Fr: 08.30 - 19.00<br>
-Do: 08.30 - 21.00<br>
+**Swisscom Shop**
+Avenue de la Gare 22
+CH-1700 Fribourg
+
+**Horaires d'ouverture:**
+Mo - Fr: 08.30 - 19.00
+Do: 08.30 - 21.00
 Sa: 09.00 - 16.00
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   title="Zurich"
   label="Organiser un rendez-vous E-ID"
   href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
   target="_blank"
   class="id-site"
   outlined="true"
-%}}
+>}}
 
 {{< picture
   name="map-flexoffice-zurich"
@@ -256,12 +258,12 @@ Sa: 09.00 - 16.00
 >}}
 
 {{% richtext %}}
-**Skribble AG**<br>
-FlexOffice<br>
-Fraumünsterstrasse 16<br>
-CH-8001 Zurich<br><br>
+**Skribble AG**
+FlexOffice
+Fraumünsterstrasse 16
+CH-8001 Zurich
 {{% /richtext %}}
-{{% /cta %}}
+{{< /cta >}}
 
 {{< /cta-group >}}
 
@@ -271,7 +273,7 @@ CH-8001 Zurich<br><br>
 {{< outro >}}
 {{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
 
-{{% richtext %}}
+{{< richtext >}}
 {{% heading %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
@@ -282,5 +284,5 @@ Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou en
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
+{{< /richtext >}}
 {{< /outro >}}
