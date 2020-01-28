@@ -41,12 +41,12 @@ Signaturprozesse einfach digital abwickeln – <br class="hide-for-mobile">recht
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble in den Medien">}}
-  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
+  {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
-  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+  {{< logos-item src="logos/easyjet-logo-161w.svg" alt="EasyJet">}}
+  {{< logos-item src="logos/altenburger-logo-202w.svg" alt="Altenburger Legal">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -130,6 +130,11 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
@@ -155,8 +160,27 @@ Die beiden Standards <br class="hide-for-mobile">variieren punkto Einsatzgebiet 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+{{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
+"Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content class="no-bottom-padding" %}}
+{{% richtext %}}
+{{% center %}}
+### Skribble in den Medien
+{{% /center %}}
+{{% /richtext %}}
+{{% /content %}}
+
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-line-break >}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+{{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -106,6 +106,31 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Unser Kunden haben gut lachen
+Wie wir den Alltag unserer Kunden erleichtern.
+{{% /heading %}}
+{{% /content %}}
+
+{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
+"Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
+{{< /testimonial >}}
+
+{{% cta
+  label="Download Use-Case"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/easyJet_Skribble_Use-Case_DE.pdf"
+  outlined="true"
+  target="_blank"
+%}}
+
+{{% richtext %}}
+**Lade den easyJet Use-Case herunter:**<br>
+{{% /richtext %}}
+{{% /cta %}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{% content %}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur

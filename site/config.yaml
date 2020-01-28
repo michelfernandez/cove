@@ -292,7 +292,7 @@ languages:
         label: Login
         href: https://my.skribble.com/login
       tryItOut:
-        label: Try it out
+        label: Try it now
         href: https://my.skribble.com/signup
       makeAnAppointment:
         label: Make an appointment

@@ -45,12 +45,12 @@ Easily handle digital signature processes – <br class="hide-for-mobile">legall
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble in the press">}}
-  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
+  {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
-  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+  {{< logos-item src="logos/easyjet-logo-161w.svg" alt="EasyJet">}}
+  {{< logos-item src="logos/altenburger-logo-202w.svg" alt="Altenburger Legal">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -136,6 +136,12 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
 {{% content %}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
@@ -158,10 +164,30 @@ The two standards vary in terms of area <br class="hide-for-mobile">of applicati
 {{% /richtext %}}
 {{% /cta %}}
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z. <br class="hide-for-mobile">This makes everyday life easier for <br class="hide-for-mobile">us and our customers." {{< /testimonial >}}
+{{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
+"In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content class="no-bottom-padding" %}}
+{{% richtext %}}
+{{% center %}}
+### Skribble in the media
+{{% /center %}}
+{{% /richtext %}}
+{{% /content %}}
+
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-line-break >}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+{{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -180,7 +206,12 @@ No credit card, sign-up fee or commitment required.
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+
 {{% /richtext %}}
 {{< /outro >}}
+
+
+
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
