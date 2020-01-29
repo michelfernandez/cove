@@ -105,7 +105,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{% /heading %}}
 {{< /content >}}
 
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson – Country HR & Administration Manager easyJet" >}}
+{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
 {{< /testimonial >}}
 

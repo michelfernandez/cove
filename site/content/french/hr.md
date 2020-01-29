@@ -107,7 +107,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 {{% /heading %}}
 {{< /content >}}
 
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson – Country HR & Administration Manager easyJet" >}}
+{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Dans l'environnement des RH qui évolue rapidement, il est important d'être aussi efficace que possible. Cela a été difficile jusqu'à présent avec notre processus de signature analogique, car je suis constamment sur la route entre différents endroits."
 {{< /testimonial >}}
 

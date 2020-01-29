@@ -46,12 +46,12 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="Skribble in the press">}}
-  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
-  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+{{< logos-container title="">}}
+  {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
+  {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
-  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+  {{< logos-item src="logos/easyjet-logo-161w.svg" alt="EasyJet">}}
+  {{< logos-item src="logos/altenburger-logo-202w.svg" alt="Altenburger Legal">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -138,7 +138,14 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
@@ -146,9 +153,8 @@ and advanced e-signatures (AES).
 The two standards vary in terms of area
 of application and legal weight.
 {{% /heading %}}
+
 {{< picture legal_weight 664 "Legal-weight" >}}
-{{% richtext %}}
-{{% /heading %}}
 {{< /content >}}
 
 {{< cta
@@ -164,10 +170,25 @@ of application and legal weight.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z.
-This makes everyday life easier for
-us and our customers." {{< /testimonial >}}
+{{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
+"In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content >}}
+{{% richtext center %}}
+### Skribble in the media
+{{% /richtext %}}
+{{< /content >}}
+
+{{< logos-container title="">}}
+  {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
+  {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
+  {{< logos-line-break >}}
+  {{< logos-item src="logos/hr-today-logo-173w.svg" alt="HR-Today">}}
+  {{< logos-item src="logos/gruenderszene-logo-216w.svg" alt="Gründerszene">}}
+{{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -177,8 +198,8 @@ us and our customers." {{< /testimonial >}}
 
 {{< richtext >}}
 {{% heading %}}
-# Sign now, legally and electronically!
-No credit card, sign-up fee or commitment required.
+# Sign now, legally valid electronically!
+No credit card, entrance fee or commitment required.
 {{% /heading %}}
 
 {{< button
@@ -188,5 +209,6 @@ No credit card, sign-up fee or commitment required.
 >}}
 {{< /richtext >}}
 {{< /outro >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

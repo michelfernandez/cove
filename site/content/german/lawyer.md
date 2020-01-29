@@ -79,13 +79,7 @@ Bei gewohnten Tools bleiben: Signiere direkt über den Browser oder aus deiner b
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/e-forsight-146w.png" "e-foresight Think Tank" >}}
-"Skribble bietet eine kundenfreundliche Lösung für die qualifizierte elektronische Signatur in der Schweiz an."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content >}}
+{{% content %}}
 {{% heading %}}
 # Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozessen
 Du signierst rechtsgültig und sicher gemäss folgenden Erfordernissen:
@@ -106,7 +100,20 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
+{{% content class="no-bottom-padding" %}}
+{{% heading %}}
+# Unser Kunden haben gut lachen
+Wie wir den Alltag unserer Kunden erleichtern.
+{{% /heading %}}
+{{% /content %}}
+
+{{< testimonial "testimonial/altenburger-logo-202w.svg" " Roland Köchli, Partner Altenburger Legal + Tax" >}}
+„Die Anwendung von Skribble bringt uns <br class="hide-for-mobile">der kompletten Digitalisierung von Prozessen einen riesigen Schritt näher."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{% content %}}
 {{% heading %}}
 # Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) <br class="hide-for-mobile">und der fortgeschrittenen E-Signatur (FES).

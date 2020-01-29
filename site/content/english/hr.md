@@ -110,7 +110,7 @@ How we at Skribble make everyday life easier for our customers.
 {{% /heading %}}
 {{< /content >}}
 
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson – Country HR & Administration Manager easyJet" >}}
+{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
 {{< /testimonial >}}
 
