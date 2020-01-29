@@ -18,9 +18,11 @@ Avec Skribble, vous choisissez une plate-forme de cloud <br class="hide-for-mobi
 
 {{< picture integration-main 580 "Un ingénieur se tient devant une fenêtre de l'API avec la documentation de l'API." >}}
 
-{{% heading %}}
+{{< content >}}
+{{% richtext center %}}
 ### Utilisez Skribble via le navigateur ou intégrez <br class="hide-for-mobile">la plate-forme dans votre environnement logiciel existant via API.
-{{% /heading %}}
+{{% /richtext %}}
+{{< /content >}}
 
 {{< features-container >}}
 

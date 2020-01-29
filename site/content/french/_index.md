@@ -165,10 +165,11 @@ Sur Skribble, vous pouvez choisir entre les deux.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content >}}
 {{% richtext center %}}
-
 ### Connu depuis les médias
 {{% /richtext %}}
+{{< /content >}}
 
 {{< logos-container title="">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}

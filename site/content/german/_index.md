@@ -148,8 +148,6 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< cta
   label="Erfahre mehr"
   href="/de/signaturstandards/"
@@ -170,12 +168,13 @@ den Signaturstandards FES und QES wählen.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content >}}
 {{% richtext center %}}
-
 ### Skribble in den Medien
 {{% /richtext %}}
+{{< /content >}}
 
-{{< logos-container title="">}}
+{{< logos-container >}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

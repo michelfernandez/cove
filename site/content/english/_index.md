@@ -153,9 +153,8 @@ and advanced e-signatures (AES).
 The two standards vary in terms of area
 of application and legal weight.
 {{% /heading %}}
+
 {{< picture legal_weight 664 "Legal-weight" >}}
-{{% richtext %}}
-{{% /heading %}}
 {{< /content >}}
 
 {{< cta
@@ -177,10 +176,11 @@ of application and legal weight.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content >}}
 {{% richtext center %}}
-
 ### Skribble in the media
 {{% /richtext %}}
+{{< /content >}}
 
 {{< logos-container title="">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
