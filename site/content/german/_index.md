@@ -42,7 +42,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="">}}
+{{< logos-container title="Uns vertrauen:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -109,6 +109,12 @@ und EU-Recht.
 {{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+<br>
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< content >}}
 {{% heading %}}
@@ -131,22 +137,17 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert <br class="hide-for-mobile">den Alltag für uns und unseren Kunden." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
+{{< content >}}
 {{% heading %}}
-# Mit Skribble maximierst du <br class="hide-for-mobile">die Beweiskraft deiner Signatur
+# Mit Skribble maximierst du die Beweiskraft deiner Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
-und der fortgeschrittenen E-Signatur (FES).
-Die beiden Standards
+und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
 variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /heading %}}
+{{< /content >}}
 
 {{< picture beweiskraft 664 "Ein Mann unterschreibt mit einem Füller digitale Dokumente nach Schweizer und Europäischen Recht" >}}
-{{< /content >}}
+
 
 {{< cta
   label="Erfahre mehr"
@@ -168,13 +169,7 @@ den Signaturstandards FES und QES wählen.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% richtext center %}}
-### Skribble in den Medien
-{{% /richtext %}}
-{{< /content >}}
-
-{{< logos-container >}}
+{{< logos-container title="Skribble in den Medien:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

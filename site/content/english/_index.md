@@ -46,7 +46,7 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container title="">}}
+{{< logos-container title="Trusted by:">}}
   {{< logos-item src="logos/canon-logo-142w.svg" alt="Canon">}}
   {{< logos-item src="logos/baggenstoss-logo-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
@@ -97,7 +97,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< content >}}
 {{% heading %}}
-# If you sign with Skribble <br class="hide-for-mobile">you save time at work
+# If you sign with Skribble you save time at work
 {{% /heading %}}
 {{< /content >}}
 
@@ -114,12 +114,22 @@ Sign at the push of a button, independent of time and place, legally valid accor
 {{< /center >}}
 
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+<br>
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for
+us and our customers." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< content >}}
 {{% heading %}}
 # Skribble complies with legal requirements
-With Skribble you sign legally and securely according to the following requirements:
+With Skribble you sign legally
+and securely according to the following requirements:
 {{% /heading %}}
 
 {{% collapsible 1 "E-signature standards QES and AES according to ZertES/eIDAS" "check" %}}
@@ -137,24 +147,16 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z.
-This makes everyday life easier for
-us and our customers." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{% content %}}
+{{< content >}}
 {{% heading %}}
 # Use Skribble to maximise the legal weight of your signature
 The law distinguishes between qualified e-signatures (QES)
-and advanced e-signatures (AES).
-The two standards vary in terms of area
-of application and legal weight.
+and advanced e-signatures (AES). The two standards vary in terms
+of area of application and legal weight.
 {{% /heading %}}
+{{< /content >}}
 
 {{< picture legal_weight 664 "Legal-weight" >}}
-{{< /content >}}
 
 {{< cta
   label="Learn more"
@@ -175,13 +177,8 @@ of application and legal weight.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content >}}
-{{% richtext center %}}
-### Skribble in the media
-{{% /richtext %}}
-{{< /content >}}
 
-{{< logos-container title="">}}
+{{< logos-container title="Skribble in the media:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}
