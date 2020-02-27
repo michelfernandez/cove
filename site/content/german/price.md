@@ -6,46 +6,62 @@ slug: preise
 
 ---
 
-{{% content %}}
-{{% heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
 # Signiere einfacher </br> mit dem passenden Preismodell
-Skribble eignet sich sowohl für gelegentliches</br>wie auch für häufiges Signieren.
-{{% /heading %}}
-{{% action-card
+Skribble eignet sich sowohl für gelegentliches
+wie auch für häufiges Signieren.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< action-card
+  top=12
+  bottom=6
+  width=narrow
   title="Free"
-  class="free"
   description="<p>Du signierst <strong>2 Mal pro Monat kostenlos.</strong> Keine Kreditkarte erforderlich.</p>"
   button-text="Jetzt kostenlos ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
-  subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."%}}
-    {{< picture free-visual 232 "" >}}
-{{% /action-card %}}
+  subtext="Konto jederzeit löschbar. Keine Kreditkarte notwendig."
+>}}
+  {{< picture free-visual 232 "" >}}
+{{< /action-card >}}
 
-{{% heading class="price-separator" %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 ## Signierst du häufiger?
-Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle umstellen:
-{{% /heading %}}
+Nach dem Registrieren kannst du jederzeit auf
+eines der folgenden Modelle umstellen:
+{{% /markdown %}}
+{{< /content >}}
 
-{{% action-card
+{{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Fair Flat"
-  class="fair"
   description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
   has-comparison="true"
   comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
   button-text="Jetzt ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
-  subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."%}}
+  subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
+>}}
     {{< picture fair-flat-visual 290 "" >}}
-{{% /action-card %}}
+{{< /action-card >}}
 
 
-{{% heading class="price-separator" %}}
+{{< content text=center top=6 width=narrow >}}
+{{% markdown %}}
 ## Oder
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
-{{% action-card
+{{< action-card
+  top=8
+  bottom=6
+  width=narrow
   title="Business"
-  class="business"
   description="<p>Du nutzt Skribble in deiner Organisation. Die Benutzerverwaltung ist zentralisiert, die Verrechnung erfolgt einheitlich auf Rechnung.</p>"
   has-comparison="true"
   comparison-title="Wähle für jeden Signierenden das passende Modell:"
@@ -55,13 +71,12 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
   comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
   button-text="Jetzt beraten lassen"
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  subtext=""%}}
+  subtext=""
+>}}
     {{< picture business-visual 270 "" >}}
-{{% /action-card %}}
+{{< /action-card >}}
 
-{{% /content %}}
-
-{{% show-hide-button button-text="Preismodelle im Detail vergleichen"%}}
+{{< show-hide-button button-text="Preismodelle im Detail vergleichen" >}}
 {{< table-dense id="price-table" >}}
 <thead>
 <tr>
@@ -232,54 +247,50 @@ Nach dem Registrieren kannst du jederzeit auf </br> eines der folgenden Modelle 
 
 {{< /table-dense >}}
 
-{{% /show-hide-button %}}
+{{< /show-hide-button >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="Mehr erfahren"
   href="de/signaturstandards"
   outlined="true"
-%}}
+>}}
 
 {{< picture package-6-1-out 100 "" >}}
 
-{{% richtext %}}
-**Wann brauchst du welchen Signaturstandard?**<br>
-{{% /richtext %}}
-{{% /cta %}}
-{{% cta
+{{% markdown %}}
+**Wann brauchst du welchen Signaturstandard?**
+{{% /markdown %}}
+{{< /cta >}}
+{{< cta
   label="Mehr erfahren"
   href="de/identifikation"
   outlined="true"
-%}}
+>}}
 
 {{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
 
-{{% richtext %}}
-**Du interssierst dich für Zusatzservices im Bereich der Identifikation?**<br>
-{{% /richtext %}}
-{{% /cta %}}
+{{% markdown %}}
+**Du interssierst dich für Zusatzservices im Bereich der Identifikation?**
+{{% /markdown %}}
+{{< /cta >}}
 {{< /cta-group >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 "Ein mann steht mit einem riesen füller neben einem elektronischen dokument" >}}
-
-{{% richtext %}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
 {{< /outro >}}

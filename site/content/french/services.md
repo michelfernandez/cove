@@ -8,11 +8,12 @@ og_image: og/og-skribble-service.jpg
 
 ---
 
-{{% content %}}
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Payez par signatures ou forfaitairement et économisez si vous signez plus.
 Skribble propose des offres qui correspondent à vos besoins.
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image15 585 "Une femme aux longs cheveux roux choisit une offre" >}}
 
@@ -25,33 +26,34 @@ Idéal pour un usage régulier
 {{% /plan %}}
 {{< /row >}}
 
-{{% richtext %}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
+{{% markdown %}}
 Combinable de manière flexible
 : Les deux offres sont combinables: par exemple, si Monsieur Rochat signe quotidiennement des contrats impliquants différentes parties externes, nous recommandons le modèle forfaitaire pour Monsieur Rochat, et le modèle prépayé pour les parties externes.
 
 Plus il y en a, moins c'est cher
 : Nous avons un barème de prix basé sur le volume:
 Plus vous achetez de signatures dans un forfait prépayé, plus le prix unitaire sera bas. Plus vous enregistrez de personnes pour le modèle forfaitaire, plus le prix mensuel par personne sera bas.
-{{% /richtext %}}
-{{% /content %}}
+{{% /markdown %}}
+{{< /content >}}
 
-{{% cta
+{{< cta
   label="Demander un devis maintenant"
   href="mailto:info@skribble.com"
   target="_blank"
-%}}
-{{% richtext %}}
+>}}
+{{% markdown %}}
 **Vous souhaitez en savoir plus sur nos tarifs?**
-{{% /richtext %}}
-{{% /cta %}}
+{{% /markdown %}}
+{{< /cta >}}
 
-{{% content %}}
-
-{{% heading %}}
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # Identification
-Vous n'avez pas d'e-ID? Laissez-nous vous identifier <br class="hide-for-mobile">ou identifiez vos personnes vous-même.
-
-{{% /heading %}}
+Vous n'avez pas d'e-ID? Laissez-nous vous identifier
+ou identifiez vos personnes vous-même.
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture image6 365 "Une loupe agrandit l'image d'une femme dans un passeport" >}}
 
@@ -63,31 +65,29 @@ Idéal pour signer une fois ou occasionnellement avec la SEQ.
 Convient si vous utilisez la SEQ avec un nombre de personnes prédéfini.
 {{% /plan %}}
 {{< /row >}}
-{{% /content %}}
 
-{{% cta
+{{< cta
   label="Plus d'informations sur l'identification"
   href="fr/identification"
   target="_blank"
-%}}
-{{% richtext %}}
+>}}
+{{% markdown %}}
 **Le contrôle d'identité ne se fait qu'une fois, directement par l'ID-app de Swisscom.**
-{{% /richtext %}}
-{{% /cta %}}
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 "Un homme se tient à côté d'un document électronique avec un stylo plume géant" >}}
-
-{{% richtext %}}
-{{% heading %}}
+{{% markdown center %}}
 # Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée <br class="hide-for-mobile">ou engagement n'est requis.
-{{% /heading %}}
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
+{{% /markdown %}}
 
 {{< button
   "Essayer maintenant"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{% /richtext %}}
 {{< /outro >}}

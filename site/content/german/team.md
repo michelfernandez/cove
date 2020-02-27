@@ -156,7 +156,7 @@ groups:
           retina_landscape: team/barbara-stutz-l@2x
           alt_text:
       - name: Maxim Markert
-        position: Customer Growth Execution
+        position: Sales & Business Engineering
         type: 2
         images:
           regular_portrait: team/maxim-markert-l
@@ -187,20 +187,18 @@ groups:
 
 ---
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
-{{< picture image8 414 >}}
-
-{{% richtext %}}
-{{% heading %}}
+{{< outro   >}}
+{{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder Verpflichtung erforderlich.
-{{% /heading %}}
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
 
 {{< button
   "Jetzt ausprobieren"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{% /richtext %}}
 {{< /outro >}}

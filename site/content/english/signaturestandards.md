@@ -6,30 +6,31 @@ slug: signaturestandards
 
 ---
 
-{{% content %}}
-{{% heading %}}
-# How much legal weight <br class="hide-for-mobile">does my e-singature need?
-The law distinguishes between qualified e-signatures (QES) <br class="hide-for-mobile">and advanced e-signatures (AES).
-The two standards vary in terms of area <br class="hide-for-mobile">of application and legal weight. At Skribble you have the choice.
-{{% /heading %}}
-{{< picture legal_weight 664 "Evidential value of the AES and the QES" >}}
-{{% richtext %}}
-{{% /heading %}}
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
+# How much legal weight <br class="hide-for-mobile">does my e-signature need?
+The law distinguishes between qualified e-signatures (QES) and advanced
+e-signatures (AES). The two standards vary in terms of area of application and legal weight. At Skribble you have the choice.
+{{% /markdown %}}
+{{< /content >}}
 
-{{% heading %}}
+{{< picture legal_weight 664 "Evidential value of the AES and the QES" >}}
+
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 # QES: The same legal validity <br class="hide-for-mobile">as signing by hand
 The all-round carefree signature for the highest demands
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture qes-en 758 "Two hands - One contract is signed by hand and another with a mobile phone." >}}
 
-{{% richtext %}}
-**The qualified electronic signature (QES) is legally equal to the handwritten signature.**<br>
-You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing.
-The latter applies, for example, to loan or wage agreements with a competition clause.
-For signing with QES on Skribble, a prior identity check in personal contact or an e-ID is required.
-{{% /richtext %}}
-{{% /content %}}
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
+**The qualified electronic signature (QES) is legally equal to the handwritten signature.**
+You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. The latter applies, for example, to loan or wage agreements with a competition clause. For signing with QES on Skribble, a prior identity check in personal contact or an e-ID is required.
+{{% /markdown %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -41,56 +42,61 @@ For signing with QES on Skribble, a prior identity check in personal contact or 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta-group >}}
-{{% cta
+{{< cta
   label="Learn more"
   href="enable-qes"
   outlined="true"
-%}}
+>}}
 
 {{< picture "Identifizieren" 112 "Identity check" >}}
 
-{{% richtext %}}
-**Identity check**<br>
+{{% markdown %}}
+**Identity check**
 This is how you unlock QES on Skribble
-{{% /richtext %}}
-{{% /cta %}}
+{{% /markdown %}}
+{{< /cta >}}
 
 
-{{% cta
+{{< cta
   label="To the QES validator"
   href="qes-validator"
   outlined="true"
-%}}
+>}}
 
 {{< picture "qes-erklaert" 122 "QES validieren" >}}
 
-{{% richtext %}}
-**Validate QES**<br>
+{{% markdown %}}
+**Validate QES**
 Check whether a document has been signed with QES
-{{% /richtext %}}
-{{% /cta %}}
+{{% /markdown %}}
+{{< /cta >}}
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{% content %}}
-{{% heading %}}
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
 # AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
 Instantly operational thanks to lower requirements
-{{% /heading %}}
+{{% /markdown %}}
+{{< /content >}}
 
 {{< picture aes-en 320 "A woman is holding an AES contract in her hand under Swiss law." >}}
 
-{{% richtext %}}
-**The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**<br>
-This applies to most types of contracts, such as rental, purchase or mortgage agreements.
-Anyone who has a Swiss mobile phone number can start signing with AES on Skribble immediately.
-{{% /richtext %}}
-{{% /content %}}
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
+**The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**
+This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number can start signing with AES on Skribble immediately.
+{{% /markdown %}}
+{{< /content >}}
 
+{{< content text=center top=12 bottom=6 width=narrow >}}
+{{% markdown %}}
+## QES vs. AES at a glance
+{{% /markdown %}}
+{{< /content >}}
 
-{{% table-dense heading="QES vs. AES at a glance" id="qes-fes-table" %}}
+{{< table-dense id="qes-fes-table" >}}
 
 <thead>
 <tr>
@@ -120,39 +126,36 @@ Anyone who has a Swiss mobile phone number can start signing with AES on Skribbl
 </tr>
 </tbody>
 
-{{% /table-dense %}}
+{{< /table-dense >}}
 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{% cta
+{{< cta
   label="Contact Skribble"
   href="mailto:info@skribble.com"
   outlined=""
-%}}
+>}}
 
 {{< picture "contact" 92 "Do you have any questions? We will be happy to help you." >}}
 
-{{% richtext %}}
-**Any questions? <br class="hide-for-mobile">We are happy to help you.**<br>
-{{% /richtext %}}
-{{% /cta %}}
+{{% markdown %}}
+**Any questions?
+We are happy to help you.**
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
-{{< picture image8 414 >}}
-
-{{% richtext %}}
-{{% heading %}}
+{{% markdown center %}}
 # Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
-{{% /heading %}}
+{{% /markdown %}}
 
 {{< button
   "Try it now"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
-{{% /richtext %}}
 {{< /outro >}}

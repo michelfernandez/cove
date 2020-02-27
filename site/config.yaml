@@ -2,6 +2,13 @@ baseurl: /
 title: Skribble
 params:
   outage: false
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
 languages:
   de:
     languageName: Deutsch
@@ -14,28 +21,32 @@ languages:
       main:
         # Platform dropdown
         - name: Plattform
-          url: "#"
+          url: "/de/features/"
           weight: 5
           identifier: plattform
         - name: Features
           url: "/de/features/"
           weight: 15
           parent: plattform
+        - name: Business-Features
+          url: "/de/business-features/"
+          weight: 20
+          parent: plattform
         - name: Integrationen
           url: "/de/integrationen/"
-          weight: 20
+          weight: 25
           parent: plattform
         - name: Identifikation
           url: "/de/identifikation/"
-          weight: 25
+          weight: 30
           parent: plattform
         - name: QES freischalten
           url: "/de/qes-freischalten/"
-          weight: 30
+          weight: 35
           parent: plattform
         # Solutions dropdown
         - name: Lösungen
-          url: "#"
+          url: "/de/hr/"
           weight: 15
           identifier: solutions
         - name: HR
@@ -54,15 +65,18 @@ languages:
         - name: Features
           url: /de/features/
           weight: 5
+        - name: Business-Features
+          url: /de/business-features/
+          weight: 10
         - name: Integrationen
           url: /de/integrationen/
-          weight: 10
+          weight: 15
         - name: Identifikation
           url: /de/identifikation/
-          weight: 15
+          weight: 20
         - name: QES freischalten
           url: /de/qes-freischalten/
-          weight: 20
+          weight: 25
       footer2:
         - name: HR
           url: /de/hr/
@@ -77,12 +91,15 @@ languages:
         - name: Team
           url: /de/team/
           weight: 10
+        - name: Karriere
+          url: /de/karriere/
+          weight: 15
         - name: Medien
           url: /de/medien/
-          weight: 15
+          weight: 20
         - name: Kontakt
           url: "/de/kontakt/"
-          weight: 20
+          weight: 25
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -125,7 +142,7 @@ languages:
         - name: Impressum
           url: /de/impressum/
           weight: 20
-  
+
     header:
       login:
         label: Login
@@ -139,7 +156,7 @@ languages:
     footer:
       leftSlot:
         title: Beweiskraft maximieren?
-        text: Lass dich identifzieren und schalte den höchsten E-Signatur-Standard frei.
+        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
           href: /de/qes-freischalten/
@@ -169,28 +186,32 @@ languages:
       main:
         # Platform dropdown
         - name: Platform
-          url: "#"
+          url: "/features/"
           weight: 5
           identifier: platform
         - name: Features
           url: "/features/"
-          weight: 10
+          weight: 15
+          parent: platform
+        - name: Business features
+          url: "/business-features/"
+          weight: 20
           parent: platform
         - name: Integrations
           url: "/integrations/"
-          weight: 15
+          weight: 25
           parent: platform
         - name: Identification
           url: "/identification/"
-          weight: 20
+          weight: 30
           parent: platform
         - name: Enable QES
           url: "/enable-qes/"
-          weight: 25
+          weight: 35
           parent: platform
         # Solutions dropdown
         - name: Solutions
-          url: "#"
+          url: "/hr/"
           weight: 15
           identifier: solutions
         - name: HR
@@ -209,15 +230,18 @@ languages:
         - name: Features
           url: /features/
           weight: 10
+        - name: Business features
+          url: /business-features/
+          weight: 15
         - name: Integrations
           url: /integrations/
-          weight: 15
+          weight: 25
         - name: Identification
           url: /identification/
-          weight: 20
+          weight: 30
         - name: Enable QES
           url: /enable-qes/
-          weight: 25
+          weight: 35
       footer2:
         - name: HR
           url: /hr/
@@ -232,12 +256,15 @@ languages:
         - name: Team
           url: /team/
           weight: 10
+        - name: Careers
+          url: /careers/
+          weight: 15
         - name: Press room
           url: /pressroom/
-          weight: 15
+          weight: 20
         - name: Contact
           url: "/contact/"
-          weight: 20
+          weight: 25
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -286,21 +313,21 @@ languages:
         label: Login
         href: https://my.skribble.com/login
       tryItOut:
-        label: Try it out
+        label: Try it now
         href: https://my.skribble.com/signup
       makeAnAppointment:
         label: Make an appointment
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Do you want to maximise legal weight?
+        title: Want to maximise the legal weight?
         text: Get identified and unlock the highest e-signature standard.
         button:
           label: Get identified
           href: /enable-qes/
           target:
       rightSlot:
-        title: Do you want to schedule a demo session?
+        title: Want to schedule a demo session?
         text: We are pleased to come by to introduce you to Skribble.
         button:
           label: Arrange a call
@@ -324,11 +351,15 @@ languages:
       main:
         # Platform dropdown
         - name: Platforme
-          url: "#"
+          url: "/fr/fonctionnalites/"
           weight: 5
           identifier: platforme
         - name: Fonctionnalités
           url: "/fr/fonctionnalites/"
+          weight: 10
+          parent: platforme
+        - name: Fonctionnalités affaires
+          url: "/fr/fonctionnalites-affaires/"
           weight: 15
           parent: platforme
         - name: Integrations
@@ -345,7 +376,7 @@ languages:
           parent: platforme
         # Solutions dropdown
         - name: Solutions
-          url: "#"
+          url: "/fr/ressources-humaines/"
           weight: 10
           identifier: solutions
         - name: RH
@@ -364,15 +395,18 @@ languages:
         - name: Fonctionnalités
           url: "/fr/fonctionnalites/"
           weight: 5
+        - name: Fonctionnalités affaires
+          url: "/fr/fonctionnalites-affaires/"
+          weight: 10
         - name: Integrations
           url: "/fr/integrations/"
-          weight: 10
+          weight: 15
         - name: Identification
           url: /fr/identification/
-          weight: 15
+          weight: 20
         - name: Débloquez SEQ
           url: /fr/debloquez-seq/
-          weight: 20
+          weight: 25
       footer2:
         - name: RH
           url: /fr/ressources-humaines/
@@ -387,12 +421,15 @@ languages:
         - name: Equipe
           url: /fr/equipe/
           weight: 10
+        - name: Carrière
+          url: /fr/carriere/
+          weight: 15
         - name: Médias
           url: /fr/medias/
-          weight: 15
+          weight: 20
         - name: Contact
           url: "/fr/contact/"
-          weight: 20
+          weight: 25
       footer4:
         - name: News
           url: https://news.skribble.com
@@ -454,7 +491,7 @@ languages:
         button:
           label: S'identifier
           href: /fr/debloquez-qes/
-          target: 
+          target:
       rightSlot:
         title: Organiser une démonstration?
         text: Nous passons volontiers en personne afin de vous présenter Skribble.

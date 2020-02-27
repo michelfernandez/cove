@@ -1,19 +1,16 @@
 .logos-container {
-  padding: 44px 120px;
-
   @media screen and (max-width: 1100px) {
-    padding: 44px 15%;
-  }
-
-  @media screen and (max-width: 750px) {
-    padding: 5px 10%;
+    padding-right: 15%;
+    padding-left: 15%;
   }
 
   .logos-title {
     margin-bottom: 20px;
+    color: $c-text-alt;
     @media screen and (max-width: 600px) {
       text-align: center;
       margin-bottom: 40px;
+
     }
   }
 
@@ -25,7 +22,7 @@
       display: -ms-flexbox;
       display: -webkit-flex;
       display: flex;
-      
+
       flex-flow: wrap;
       -webkit-flex-flow: row wrap;
       justify-content: space-between;
