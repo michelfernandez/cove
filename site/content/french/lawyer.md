@@ -119,7 +119,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 
 {{< cta
   label="Télécharger le cas d'utilisation"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/EasyJet_Skribble_Use-Case_FR.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/Altenburger_Skribble_Use-Case_FR.pdf"
   outlined="true"
   target="_blank"
 >}}
