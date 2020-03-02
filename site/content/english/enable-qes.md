@@ -253,6 +253,96 @@ Sa: 09.00 - 16.00
 
 {{< cta-group >}}
 {{< cta
+  title="Lenzerheide"
+  label="Schedule an E-ID appointment"
+  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+>}}
+
+{{< picture
+  name="map-crativ"
+  w="120"
+  alt="Crativ GmbH, Coa Crapera 1, CH-7078 Lenzerheide"
+  href="https://goo.gl/maps/aL5b5yquYpvG8UTaA"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Crativ GmbH**
+Coa Crapera 1
+CH-7078 Lenzerheide
+
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{< cta
+  title="Lugano"
+  label="091 910 42 00"
+  href="tel: +41 91 910 42 00"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{< picture
+  name="map-moor-lugano"
+  w="120"
+  alt="Avv. Jonathan Moor, Via Luigi Lavizzari 2A (PT), CH-6900 Lugano"
+  href="https://goo.gl/maps/WqiBxRXAQbR8cPSz7"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Avv. Jonathan Moor**
+Via Luigi Lavizzari 2A (PT)
+CH-6900 Lugano
+
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta-group >}}
+{{< cta
+  title="Poschiavo"
+  label="Schedule an E-ID appointment"
+  href="https://outlook.office365.com/owa/calendar/dynamicstudioGmbH@dynamicstudio.ch/bookings/s/WhXP-1R6j0ekT5-ZFXHihg2"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+>}}
+
+{{< picture
+  name="map-dynamicstudio"
+  w="120"
+  alt="Dynamicstudio GmbH, Via da Mezz 42A, CH-7742 Poschiavo"
+  href="https://g.page/dynamicstudio-gmbh?share"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Dynamicstudio GmbH**
+Via da Mezz 42A
+CH-7742 Poschiavo
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+
+{{< cta-group >}}
+
+{{< cta
   title="Zurich"
   label="Schedule an E-ID appointment"
   href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
@@ -277,7 +367,40 @@ CH-8001 Zurich
 {{% /markdown %}}
 {{< /cta >}}
 
+{{< cta
+  label="044 651 10 92"
+  href="tel: +41 44 651 10 92"
+  target="_blank"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{< picture
+  name="map-swisscom-zhr-flughafen"
+  w="120"
+  alt="Swisscom Shop Flughafen Zürich, Airport Shopping Center, Checkin 3, Flughafenstrasse 3, CH-8302 Kloten"
+  href="https://goo.gl/maps/SMzA9wBurJAZe3E76"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Swisscom Shop 
+Flughafen Zürich**
+Airport Shopping Center
+Checkin 3
+Flughafenstrasse 3
+CH-8302 Kloten
+
+**Opening hours:**
+Mo - Su: 08.00 - 21.00
+{{% /markdown %}}
+{{< /cta >}}
+
+
+
 {{< /cta-group >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
