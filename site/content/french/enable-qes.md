@@ -56,39 +56,6 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
-{{% markdown %}}
-# Tout va bien?
-{{% /markdown %}}
-{{% /content %}}
-
-{{< content top=6 width=narrow >}}
-{{% collapsible 1 "Que m'apporte l'identification?" %}}
-Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ).
-Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
-{{% /collapsible %}}
-
-{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
-Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
-{{% /collapsible %}}
-
-{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
-Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
-ne sont pas suffisantes.
-{{% /collapsible %}}
-
-{{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
-Les données collectées sont stockées sur les serveurs haute sécurité
-de Swisscom en Suisse (certification Tier IV).
-{{% /collapsible %}}
-
-{{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
-Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
-{{% /collapsible %}}
-{{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Sites d'identification
@@ -390,6 +357,40 @@ Lu - Di: 08.00 - 21.00
 {{< /cta >}}
 
 {{< /cta-group >}}
+
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+# Tout va bien?
+{{% /markdown %}}
+{{% /content %}}
+
+{{< content top=6 width=narrow >}}
+{{% collapsible 1 "Que m'apporte l'identification?" %}}
+Sur Skribble, vous avez la possibilité de signer avec [la plus haute norme de signature électronique](/fr/normessignature) disponible: la signature électronique qualifiée (SEQ).
+Elle a une force probante de 100% et peut être utilisée pour les contrats qui nécessitent la forme écrite. Pour la SEQ, la loi exige un contrôle d'identité.
+{{% /collapsible %}}
+
+{{% collapsible 2 "Dois-je être identifié à nouveau avant chaque signature SEQ?" %}}
+Non. Votre e-ID est valable 5 ans ou jusqu'à l'expiration de la pièce d'identité que vous avez présentée lors de votre identification.
+{{% /collapsible %}}
+
+{{% collapsible 3 "Quels documents d'identité puis-je utiliser pour l'identification ?" %}}
+Un passeport ou une carte d'identité en cours de validité. Toutes les autres formes d'identification telles que le permis de séjour ou le permis de conduire
+ne sont pas suffisantes.
+{{% /collapsible %}}
+
+{{% collapsible 4 "Où sont stockées les données des personnes identifiées?" %}}
+Les données collectées sont stockées sur les serveurs haute sécurité
+de Swisscom en Suisse (certification Tier IV).
+{{% /collapsible %}}
+
+{{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
+Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
+{{% /collapsible %}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
