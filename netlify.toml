@@ -10,7 +10,7 @@
   command = "yarn run build:preview"
 
 [[redirects]]
-  from = "/service/"
+  from = "/services/"
   to = "/pricing/"
 
 [[redirects]]
