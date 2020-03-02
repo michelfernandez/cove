@@ -111,7 +111,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 {{< /content >}}
 
 {{< testimonial "testimonial/altenburger-152w.svg" "Roland Köchli, Partner Altenburger Legal + Tax" >}}
-„Das ständige Ausdrucken von Dokumenten und Einholen von Unterschriften kostet uns viel Zeit und Geld. Skribble hat die perfekte Lösung, die uns einer kompletten Digitalisierung aller Prozesse einen riesigen Schritt näherbringt."
+„Das ständige Ausdrucken von Dokumenten und Einholen von Unterschriften kostet uns viel Zeit und Geld. Skribble hat die perfekte Lösung, die uns einer kompletten Digitalisierung aller Prozesse einen riesigen Schritt näher bringt."
 {{< /testimonial >}}
 
 {{< cta
