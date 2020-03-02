@@ -10,6 +10,17 @@
   command = "yarn run build:preview"
 
 [[redirects]]
+  from = "/service/"
+  to = "/pricing/"
+
+[[redirects]]
+  from = "/de/angebot/"
+  to = "/de/preise/"
+
+[[redirects]]
+  from = "/fr/offre/"
+  to = "/fr/tarifs/"
+[[redirects]]
   from = "/de/identitaetspruefung/"
   to = "/de/qes-freischalten/"
 
