@@ -89,6 +89,21 @@ ou à la norme de signature souhaitée.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-fes-de img-width=460 img-alt="Ein grosser Vertrag (FES) vor einem Haus" >}}
+{{% markdown %}}
+## Intégration pour la signature électronique avancée (SEA)
+Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux contrats sans exigences formelles.
+{{% /markdown %}}
+<br>
+{{< button
+  "Download Factsheet"
+  ""
+  "_blank"
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=8 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)

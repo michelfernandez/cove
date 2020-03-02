@@ -89,6 +89,22 @@ in the shortest possible time. Choose the onboarding process that fits your requ
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-aes-en img-width=460 img-alt="Ein grosser Vertrag (FES) vor einem Haus" >}}
+{{% markdown %}}
+## Onboarding for Advanced electronic signature (AES)
+Organisation-wide implementation with a few clicks.
+Suitable for contracts without formal requirements.
+{{% /markdown %}}
+<br>
+{{< button
+  "Download Factsheet"
+  ""
+  "_blank"
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=12 bottom=12 img=onboarding-qes-en img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## On-Boarding for the qualified electronic signature (QES)

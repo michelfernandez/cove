@@ -87,6 +87,22 @@ zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-fes-de img-width=460 img-alt="Ein grosser Vertrag (FES) vor einem Haus" >}}
+{{% markdown %}}
+## Onboarding für die fortgeschrittene elektronische Signatur (FES)
+Organisationsweite Einführung mit wenigen Klicks.
+Geeignet für Verträge ohne Formvorschrift.
+{{% /markdown %}}
+<br>
+{{< button
+  "Download Factsheet"
+  ""
+  "_blank"
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=12 bottom=12 img=onboarding-qes-de img-width=380 img-alt="Ein grosser Vertrag (QES) mit einem Gericht" >}}
 {{% markdown %}}
 ## Onboarding für die qualifizierte elektronische Signatur (QES)
