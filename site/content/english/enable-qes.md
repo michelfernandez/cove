@@ -216,11 +216,12 @@ Sa: 09.00 - 16.00
 {{< cta-group >}}
 {{< cta
   title="Lenzerheide"
-  label="Schedule an E-ID appointment"
-  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  label="079 292 45 23"
+  href="tel: +41 79 292 45 23"
   target="_blank"
   class="id-site"
   outlined="true"
+  icon="phone"
 >}}
 
 {{< picture
@@ -236,6 +237,8 @@ Sa: 09.00 - 16.00
 Coa Crapera 1
 CH-7078 Lenzerheide
 
+**Opening hours:**
+Mo - Fr: 09.00 - 17.30
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
