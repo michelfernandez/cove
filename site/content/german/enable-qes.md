@@ -357,7 +357,7 @@ CH-8001 Zürich
 **Swisscom Shop 
 Flughafen Zürich**
 Airport Shopping Center
-Checkin 3
+Check-in 3
 Flughafenstrasse 3
 CH-8302 Kloten
 
