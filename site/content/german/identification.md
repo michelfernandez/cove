@@ -8,27 +8,33 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content width=narrow >}}
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Identitätsprüfung für <br class="hide-for-mobile">elektronisches Signieren
-Jede E-Signatur muss eindeutig einer Person zugewiesen werden können. <br class="hide-for-mobile">Deshalb setzt Skribble die Identifikation der Signierenden voraus. <br class="hide-for-mobile">Die Verfahren unterscheiden sich je nach Anwendungsfall.
+# Identitätsprüfung für elektronisches Signieren
+Jede E-Signatur muss eindeutig einer Person zugewiesen werden können.
+Deshalb setzt Skribble die Identifikation der Signierenden voraus. 
+Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{% /markdown %}}
+{{< /content >}}
 
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
-&nbsp;
 
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Verträge ohne Formvorschrift
 Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetzt voraus, dass die Identität <br class="hide-for-mobile">der Signierenden im Nachhinein rekonstruiert werden kann.
 {{% /markdown %}}
+{{< /content >}}
 
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
-{{% markdown center %}}
+{{< content text=center width=narrow >}}
+{{% markdown %}}
 **Identifikationsoptionen für die fortgeschrittene elektronische Signatur (FES):**
+{{% /markdown %}}
 {{< /content >}}
 
-{{< content width=wide display=flex >}}
+{{< content text=center width=wide display=flex >}}
 {{< plan
   purple
   ""
@@ -38,8 +44,8 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
   "_blank"
   "outline"
 >}}
-{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
+{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
 Signaturstandards, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
 {{< /plan >}}
@@ -91,7 +97,8 @@ Für Verträge mit Formvorschrift wird typischerweise die qualifizierte elektron
 
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
-{{% markdown center %}}
+{{< content text=center width=narrow >}}
+{{% markdown %}}
 **Identifikationsoptionen für die qualifizierte elektronische Signatur (QES):**
 {{% /markdown %}}
 {{< /content >}}
@@ -168,14 +175,12 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, <br class="hide-for-mobile">schalten die QES automatisch frei.
 {{% /markdown %}}
 
-
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
 {{% markdown %}}
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signeiren
 {{% /markdown %}}
 {{< /content >}}
-
 
 {{< content >}}
 {{% markdown %}}
@@ -198,9 +203,15 @@ Bei der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identi
 
 {{< /content >}}
 
+{{< cta
+  label="Download Factsheet"
+  href=""
+  target="_blank"
+  outlined="true"
+>}}
+
 {{% markdown %}}
-**Hast du Fragen?
-Wir helfen dir gerne telefonisch weiter.**
+**Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
 {{% /markdown %}}
 {{< /cta >}}
 
