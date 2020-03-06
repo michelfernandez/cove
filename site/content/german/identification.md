@@ -17,16 +17,16 @@ Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture identification 500 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Verträge ohne Formvorschrift
-Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetzt voraus, dass die Identität <br class="hide-for-mobile">der Signierenden im Nachhinein rekonstruiert werden kann.
+Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetzt voraus, dass die Identität der Signierenden im Nachhinein rekonstruiert werden kann.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture contract-no-requirement 480 "Eine Frau sitzt auf einen Vertrag, ein Mann blickt hinter dem Vertrag hervor." >}}
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
@@ -36,7 +36,7 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< content text=left width=wide display=flex >}}
 {{< plan
-  purple
+  white
   ""
   "Firmen E-Mail-Adresse"
   ""
@@ -45,22 +45,22 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
   "outline"
 >}}
 
-{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture company-email 280 "Ein Softwarfenster mit einem Mann und einer Frau in einer Blase." >}}
 
 Signaturstandards, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
 {{< /plan >}}
 
 {{< plan
-  gold
+  white
   ""
-  "Mobiltelefonnummer"
+  "Mobiltelefonnummer (CH)"
   ""
   ""
   "_blank"
   "outline"
 >}}
 
-{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture mobile-nr 260 "Ein mobiles Telefon ragt aus den Häusern hervor." >}}
 
 Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
 {{% /plan %}}
@@ -104,7 +104,7 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture contract-with-requirement 480 "Eine Frau mit einem Handy blickt hinter einem Vertrag hervor und davor steht ein Geschäftsmann mit einem Laptop." >}}
 
 {{< content text=center top=8 bottom=0 width=narrow >}}
 {{% markdown %}}
@@ -119,49 +119,58 @@ Du lässt die Identität der Signierenden von Skribble prüfen oder führst du I
 {{% /markdown %}}
 {{< /content >}}
 
+
 {{< content width=wide display=flex >}}
-{{% plan
-  purple
+
+{{< plan
+  white
   "Identification"
   "Easy"
   "Jetzt kontaktieren"
   ""
   "_blank"
   "outline"
-%}}
+>}}
 
-**Wir** kommen vorbrei und identifizieren euch.
+{{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
+
+Wir kommen vorbrei und identifizieren euch.
 
 Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 
-{{% plan
-  gold
+{{< plan
+  white
   "Identification"
   "Unlimited"
   "Jetzt kontaktieren"
   ""
   "_blank"
   "outline"
-%}}
+>}}
 
-**Ihr** führt die Identifikationen selbst durch.
+{{< picture id-unlimited 210 "Ein Mann identifiziert eine Person mit einer Luppe und prüft ihre Identitätskarte" >}}
+
+Ihr führt die Identifikationen selbst durch.
 
 Passend, wenn laufend neue 
 QES-Signierende hinzukommen.
 &nbsp;
 {{% /plan %}}
 
-{{% plan
-  gold
+{{< plan
+  white
   "Identification"
   "Direct"
   "Mehr erfahren"
   ""
   "_blank"
   "outline"
-%}}
-**Du** kommst bei uns oder einem unserer Partner vorbei.
+>}}
+
+{{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
+
+Du kommst bei uns oder einem unserer Partner vorbei.
 
 Passend für einzelne Signierende.
 &nbsp;
@@ -181,7 +190,7 @@ Passend für einzelne Signierende.
 {{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
 
 {{% markdown %}}
-**Identifikation für die QES: <br class="hide-for-mobile">Skribble macht es einfach**
+**Identifikation für die QES: Skribble macht es einfach**
 Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
 {{% /markdown %}}
 {{< /cta >}}
@@ -191,7 +200,7 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 
 {{% markdown %}}
 # Elektronische Identität (E-ID)
-Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, <br class="hide-for-mobile">schalten die QES automatisch frei.
+Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
 {{% /markdown %}}
 
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
