@@ -17,7 +17,7 @@ Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture identification 500 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+{{< picture identification 500 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft." >}}
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
@@ -84,7 +84,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 
 {{< cta
   label="Mehr infos"
-  href=""
+  href="https://www.skribble.com/signaturstandards/"
   target=""
   outlined="true"
 >}}
@@ -127,7 +127,7 @@ Du lässt die Identität der Signierenden von Skribble prüfen oder führst du I
   "Identification"
   "Easy"
   "Jetzt kontaktieren"
-  ""
+  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   "_blank"
   "outline"
 >}}
@@ -144,7 +144,7 @@ Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
   "Identification"
   "Unlimited"
   "Jetzt kontaktieren"
-  ""
+  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
   "_blank"
   "outline"
 >}}
@@ -163,7 +163,7 @@ QES-Signierende hinzukommen.
   "Identification"
   "Direct"
   "Mehr erfahren"
-  ""
+  "https://www.skribble.com/de/qes-freischalten/"
   "_blank"
   "outline"
 >}}
@@ -206,7 +206,7 @@ Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die
 {{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
 {{% markdown %}}
-Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signeiren
+Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signeiren.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -220,10 +220,6 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
 Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter https://www.skribble.com/de/signaturstandards/
-{{% /collapsible %}}
-
-{{% collapsible 11 "Kann ich die Identifikations-Services in der Schweiz und in Deutschland nutzen?" %}}
-Erklärung…
 {{% /collapsible %}}
 
 {{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der FES und der QES?" %}}
