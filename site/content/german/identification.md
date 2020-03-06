@@ -8,7 +8,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 bottom=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Identitätsprüfung für elektronisches Signieren
 Jede E-Signatur muss eindeutig einer Person zugewiesen werden können.
@@ -19,7 +19,7 @@ Die Verfahren unterscheiden sich je nach Anwendungsfall.
 
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
-{{< content text=center top=12 bottom=12 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Verträge ohne Formvorschrift
 Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische Signatur (FES) eingesetzt. Bei der FES setzt das Gesetzt voraus, dass die Identität <br class="hide-for-mobile">der Signierenden im Nachhinein rekonstruiert werden kann.
@@ -28,13 +28,13 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
-{{< content text=center width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Identifikationsoptionen für die fortgeschrittene elektronische Signatur (FES):**
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center width=wide display=flex >}}
+{{< content text=left width=wide display=flex >}}
 {{< plan
   purple
   ""
@@ -50,7 +50,7 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 Signaturstandards, die die Identität ihrer Mitarbeitenden standardmässig erfassen, können die FES via Firmen-E-Mail-Adresse freischalten. Wer über eine entsprechenden E-Mail-Adresse verfügt, kann sofort mit FES signieren.
 {{< /plan >}}
 
-{{% plan
+{{< plan
   gold
   ""
   "Mobiltelefonnummer"
@@ -58,23 +58,17 @@ Signaturstandards, die die Identität ihrer Mitarbeitenden standardmässig erfas
   ""
   "_blank"
   "outline"
-%}}
-Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
-{{% /plan %}}
-{{< /content >}}
-
-{{< cta-group >}}
-{{< cta
-  label="Mehr infos"
-  href=""
-  target=""
-  outlined="true"
 >}}
 
-{{% markdown %}}
-**Signaturstandards: <br class="hide-for-mobile">Wann nutze ich QES, wann FES?**
-{{% /markdown %}}
-{{< /cta >}}
+{{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
+
+Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder Pass ihrer Kunden zu erfassen. Wer sich mit einer Schweizer Mobiltelefonnummer auf Skribble registriert, kann sofort mit FES signieren.
+{{% /plan %}}
+
+{{< /content >}}
+
+{{< content text=center top=8 width=narrow >}}
+{{< cta-group >}}
 
 {{< cta
   label="Download Factsheet"
@@ -87,42 +81,63 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 **FES für Business: Organisationsweite Einführung mit wenigen Klicks**
 {{% /markdown %}}
 {{< /cta >}}
-{{< /cta-group >}}
 
-{{< content width=narrow >}}
+{{< cta
+  label="Mehr infos"
+  href=""
+  target=""
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Signaturstandards: Wann nutze ich QES, wann FES?**
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
+{{< /content >}}
+
+
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Verträge mit Formvorschrift
-Für Verträge mit Formvorschrift wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetzt voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
+Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Bei der QES setzt das Gesetzt voraus, dass die Identität der Signierenden im Voraus im persönlichen Kontakt geprüft wird.
 {{% /markdown %}}
+{{< /content >}}
 
 {{< picture identification 482 "Die identität einer frau, die in einem handy steht, wird von zwei personen überprüft" >}}
 
-{{< content text=center width=narrow >}}
+{{< content text=center top=8 bottom=0 width=narrow >}}
 {{% markdown %}}
 **Identifikationsoptionen für die qualifizierte elektronische Signatur (QES):**
 {{% /markdown %}}
 {{< /content >}}
 
+{{< content text=center top=8 bottom=4 width=narrow >}}
+{{% markdown %}}
+**Identififkations-Service**
+Du lässt die Identität der Signierenden von Skribble prüfen oder führst du Identifikationen selbst durch. Dir stehen drei Optinen zur Verfügung.
+{{% /markdown %}}
+{{< /content >}}
+
 {{< content width=wide display=flex >}}
 {{% plan
-  gold
-  "Identifikations-Service"
+  purple
+  "Identification"
   "Easy"
   "Jetzt kontaktieren"
   ""
   "_blank"
   "outline"
 %}}
-**Wir** identifizieren
-die Signierenden.
 
-Passend, wenn du die QES
-in einem vordefinierten Personenkreis einsetzt.
+**Wir** kommen vorbrei und identifizieren euch.
+
+Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
 
 {{% plan
-  purple
-  "Identifikations-Service"
+  gold
+  "Identification"
   "Unlimited"
   "Jetzt kontaktieren"
   ""
@@ -130,29 +145,31 @@ in einem vordefinierten Personenkreis einsetzt.
   "outline"
 %}}
 
-**Du** identifizierst<br class="hide-for-mobile">
-die Signierenden.
+**Ihr** führt die Identifikationen selbst durch.
 
-Passend, wenn laufend
-neue Signierende
-hinzukommen.
+Passend, wenn laufend neue 
+QES-Signierende hinzukommen.
+&nbsp;
 {{% /plan %}}
 
 {{% plan
   gold
-  "Identifikations-Service"
+  "Identification"
   "Direct"
   "Mehr erfahren"
   ""
   "_blank"
   "outline"
 %}}
-**Wir** oder einer unserer **Partner** kommt vorbei.
+**Du** kommst bei uns oder einem unserer Partner vorbei.
 
 Passend für einzelne Signierende.
-
+&nbsp;
+&nbsp;
 {{% /plan %}}
 {{< /content >}}
+
+{{< content text=center top=8 width=narrow >}}
 
 {{< cta
   label="Download Factsheet"
@@ -168,8 +185,10 @@ Passend für einzelne Signierende.
 Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
 {{% /markdown %}}
 {{< /cta >}}
+{{< /content >}}
 
-{{< content width=narrow >}}
+{{< content text=center top=12 bottom=4 width=narrow >}}
+
 {{% markdown %}}
 # Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, <br class="hide-for-mobile">schalten die QES automatisch frei.
@@ -182,10 +201,13 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Alles klar?
 {{% /markdown %}}
+{{< /content >}}
+
+{{< content text=left width=narrow >}}
 
 {{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
 Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter https://www.skribble.com/de/signaturstandards/
@@ -203,6 +225,7 @@ Bei der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identi
 
 {{< /content >}}
 
+{{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
   label="Download Factsheet"
   href=""
@@ -210,10 +233,13 @@ Bei der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identi
   outlined="true"
 >}}
 
+{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+
 {{% markdown %}}
 **Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
 {{% /markdown %}}
 {{< /cta >}}
+{{< /content >}}
 
 
 {{< outro   >}}
