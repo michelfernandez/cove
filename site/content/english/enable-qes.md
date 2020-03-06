@@ -227,14 +227,14 @@ Sa: 09.00 - 16.00
 {{< picture
   name="map-crativ"
   w="120"
-  alt="Crativ GmbH, Coa Crapera 1, CH-7078 Lenzerheide"
-  href="https://goo.gl/maps/aL5b5yquYpvG8UTaA"
+  alt="Crativ GmbH, Voa Crapera 1, CH-7078 Lenzerheide"
+  href="https://goo.gl/maps/y7XYmYNUtVvfQn7s9"
   target="_target"
 >}}
 
 {{% markdown %}}
 **Crativ GmbH**
-Coa Crapera 1
+Voa Crapera 1
 CH-7078 Lenzerheide
 
 **Opening hours:**
