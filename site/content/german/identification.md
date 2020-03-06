@@ -77,6 +77,8 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
   outlined="true"
 >}}
 
+{{< picture aes-biz-teaser 90 "Ein Haus als Organisation und eine Pfeil." >}}
+
 {{% markdown %}}
 **FES für Business: Organisationsweite Einführung mit wenigen Klicks**
 {{% /markdown %}}

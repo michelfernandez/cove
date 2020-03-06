@@ -79,6 +79,8 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
   outlined="true"
 >}}
 
+{{< picture aes-biz-teaser 90 "Une maison en tant qu'organisation et une flèche." >}}
+
 {{% markdown %}}
 **SEA pour Business : implémentation à toute l'organisation en quelques clics**
 {{% /markdown %}}

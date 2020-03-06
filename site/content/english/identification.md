@@ -78,6 +78,8 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
   outlined="true"
 >}}
 
+{{< picture aes-biz-teaser 90 "A house as an organization and an arrow." >}}
+
 {{% markdown %}}
 **AES for Business - Organisation-wide implementation with a few clicks**
 {{% /markdown %}}
