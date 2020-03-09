@@ -28,7 +28,7 @@ Für formfreie Verträge wird typischerweise die fortgeschrittene elektronische 
 
 {{< picture contract-no-requirement 480 "Eine Frau sitzt auf einen Vertrag, ein Mann blickt hinter dem Vertrag hervor." >}}
 
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Identifikationsoptionen für die fortgeschrittene elektronische Signatur (FES):**
 {{% /markdown %}}
@@ -86,10 +86,12 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 
 {{< cta
   label="Mehr infos"
-  href="https://www.skribble.com/signaturstandards/"
+  href="https://www.skribble.com/de/signaturstandards/"
   target=""
   outlined="true"
 >}}
+
+{{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
 **Signaturstandards: Wann nutze ich QES, wann FES?**
@@ -129,7 +131,7 @@ Du lässt die Identität der Signierenden von Skribble prüfen oder führst du I
   "Identification"
   "Easy"
   "Jetzt kontaktieren"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   "_blank"
   "outline"
 >}}
@@ -146,7 +148,7 @@ Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
   "Identification"
   "Unlimited"
   "Jetzt kontaktieren"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   "_blank"
   "outline"
 >}}
@@ -166,7 +168,7 @@ QES-Signierende hinzukommen.
   "Direct"
   "Mehr erfahren"
   "https://www.skribble.com/de/qes-freischalten/"
-  "_blank"
+  ""
   "outline"
 >}}
 
@@ -184,7 +186,7 @@ Passend für einzelne Signierende.
 
 {{< cta
   label="Download Factsheet"
-  href=""
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
   target="_blank"
   outlined="true"
 >}}
@@ -221,7 +223,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{< content text=left width=narrow >}}
 
 {{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
-Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter https://www.skribble.com/de/signaturstandards/
+Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
 {{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der FES und der QES?" %}}
@@ -234,8 +236,8 @@ Bei der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identi
 
 {{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
-  label="Download Factsheet"
-  href=""
+  label="Telefontermin vereinbaren"
+  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
   outlined="true"
 >}}

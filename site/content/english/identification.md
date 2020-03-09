@@ -87,10 +87,12 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 
 {{< cta
   label="Learn more"
-  href="https://www.skribble.com/signaturstandards/"
+  href="https://www.skribble.com/signaturestandards/"
   target=""
   outlined="true"
 >}}
+
+{{< picture signaturestandard-teaser 90 "A hand with a fountain pen signs a green contract." >}}
 
 {{% markdown %}}
 **Signature standards - When do I use QES, when AES?**
@@ -164,8 +166,8 @@ Appropriate if new QES signers are constantly being added.
   "Identification"
   "Direct"
   "Learn more"
-  "https://www.skribble.com/qes-freischalten/"
-  "_blank"
+  "https://www.skribble.com/enable-qes/"
+  ""
   "outline"
 >}}
 
@@ -183,7 +185,7 @@ Suitable for individual signatories.
 
 {{< cta
   label="Download Factsheet"
-  href=""
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
   target="_blank"
   outlined="true"
 >}}
@@ -219,7 +221,7 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 {{< content text=left width=narrow >}}
 
 {{% collapsible 10 "When do I use which signature standard?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at https://www.skribble.com/signaturestandards/
+The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
 {{% collapsible 12 "Why is identification different for AES and QES?" %}}
@@ -230,8 +232,8 @@ The legal identification requirements are not the same. QES is the highest stand
 
 {{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
-  label="Download Factsheet"
-  href=""
+  label="Schedule a phone call"
+  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich?pk_vid=9255ddb07f7fc8e515837572375a2471"
   target="_blank"
   outlined="true"
 >}}

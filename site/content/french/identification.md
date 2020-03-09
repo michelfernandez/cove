@@ -88,10 +88,12 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 
 {{< cta
   label="En savoir plus"
-  href="https://www.skribble.com/fr/signaturstandards/"
+  href="https://www.skribble.com/fr/normessignature/"
   target=""
   outlined="true"
 >}}
+
+{{< picture signaturestandard-teaser 90 "Une main avec un stylo plume signe un contrat vert." >}}
 
 {{% markdown %}}
 **Normes de signature - Quand dois-je utiliser la SEQ, quand la SEA ?**
@@ -131,7 +133,7 @@ Vous pouvez faire vérifier l'identité des signataires par Skribble ou vous pou
   "Identification"
   "Easy"
   "Contactez-nous dès maintenant"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   "_blank"
   "outline"
 >}}
@@ -148,7 +150,7 @@ Approprié si vous utilisez la SEQ pour un groupe de personnes prédéfini.
   "Identification"
   "Unlimited"
   "Contactez-nous dès maintenant"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   "_blank"
   "outline"
 >}}
@@ -167,8 +169,8 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
   "Identification"
   "Direct"
   "En savoir plus"
-  "https://www.skribble.com/fr/qes-freischalten/"
-  "_blank"
+  "https://www.skribble.com/fr/debloquez-seq/"
+  ""
   "outline"
 >}}
 
@@ -186,7 +188,7 @@ Convient aux signataires individuels.
 
 {{< cta
   label="Télécharger factsheet"
-  href=""
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
   target="_blank"
   outlined="true"
 >}}
@@ -223,7 +225,7 @@ Un nombre croissant de personnes en Europe a une identité électronique validé
 {{< content text=left width=narrow >}}
 
 {{% collapsible 10 "Quand dois-je utiliser quelle norme de signature?" %}}
-La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site https://www.skribble.com/fr/signaturstandards/.
+La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
 {{% /collapsible %}}
 
 {{% collapsible 12 "Pourquoi l'identification est-elle différente entre la SEA et la SEQ ?" %}}
@@ -236,8 +238,8 @@ Avec la SEA, les fournisseurs sont plus libres. Lors de la sélection des procé
 
 {{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
-  label="Télécharger factsheet"
-  href=""
+  label="Organiser un appel"
+  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble?pk_vid=9255ddb07f7fc8e515837572965a2471"
   target="_blank"
   outlined="true"
 >}}
