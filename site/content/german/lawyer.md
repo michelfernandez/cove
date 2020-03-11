@@ -105,7 +105,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Unser Kunden haben gut lachen
+# Unser Kunden haben gut lachen {#altenburger}
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /markdown %}}
 {{< /content >}}
