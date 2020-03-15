@@ -8,9 +8,11 @@ slug: signaturestandards
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# How much legal weight <br class="hide-for-mobile">does my e-signature need?
-The law distinguishes between qualified e-signatures (QES) and advanced
-e-signatures (AES). The two standards vary in terms of area of application and legal weight. At Skribble you have the choice.
+# How much legal weight does my e-signature need?
+The law distinguishes between qualified e-signatures (QES),
+advanced e-signatures (AES) and simple electronic signature (SES). 
+The three standards vary in terms of area of application 
+and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -92,7 +94,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 
 {{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
-## QES vs. AES at a glance
+## QES vs. AES vs. SES at a glance
 {{% /markdown %}}
 {{< /content >}}
 
@@ -123,6 +125,14 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 <td><ul><li>Swiss mobile phone number</li></ul></td>
 <td><ul><li>Contracts without formal requirement</li></ul></td>
 <td><ul><li>Rental contracts</li><li>Purchase contracts</li><li>Mortgages</li><li>Simple employment contract</li></ul></td>
+</tr>
+
+<tr>
+<td><div class="icon-ses">SES</div></td>
+<td><strong>Standard</strong></td>
+<td><ul><li>e-mail address</li></ul></td>
+<td><ul><li>Non-formal contracts on the basis of superordinate contractual relationships</li></ul></td>
+<td><ul><li>Information letter</li><li>Unilateral notices</li><li>Internal organizational processes</li></ul></td>
 </tr>
 </tbody>
 

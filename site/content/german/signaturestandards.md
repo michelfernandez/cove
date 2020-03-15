@@ -9,8 +9,9 @@ slug: signaturstandards
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Wie viel Beweiskraft braucht meine E-Signatur?
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und
-der fortgeschrittenen E-Signatur (FES). Die beiden Standards variieren punkto Einsatzgebiet und Beweiskraft. Auf Skribble kannst du wählen.
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES),
+der fortgeschrittenen E-Signatur (FES) und der einfachen E-Signatur (EES). 
+Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -94,7 +95,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## QES vs. FES auf einen Blick
+## QES vs. FES vs. EES auf einen Blick
 {{% /markdown %}}
 {{< /content >}}
 {{< table-dense id="qes-fes-table" >}}
@@ -124,6 +125,14 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <td><ul><li>Schweizer Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Formfreie Verträge</li></ul></td>
 <td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
+</tr>
+
+<tr>
+<td><div class="icon-ses">EES</div></td>
+<td><strong>Standard</strong></td>
+<td><ul><li>E-Mail Adresse</li></ul></td>
+<td><ul><li>Formfreie Verträge auf Basis übergeordneter Vertragsbeziehungen</li></ul></td>
+<td><ul><li>Informationsschreiben</li><li>Bekanntmachungen</li><li>Organisationsinterne Prozesse</li></ul></td>
 </tr>
 </tbody>
 

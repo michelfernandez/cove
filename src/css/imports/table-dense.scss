@@ -42,7 +42,7 @@
     }
 
     #qes-fes-table {
-      .icon-qes, .icon-fes {
+      .icon-qes, .icon-fes, .icon-ses {
         width: 44px;
         height: 44px;
         color: white;
@@ -59,6 +59,10 @@
 
       .icon-fes {
         background-color: #006fe6;
+      }
+
+      .icon-ses {
+        background-color: #20ABFD;
       }
 
       ul {

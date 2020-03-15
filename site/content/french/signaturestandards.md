@@ -9,10 +9,10 @@ slug: normessignature
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # De combien de force probante ma e-signature a-t-elle besoin ?
-La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
-et les signatures électroniques avancées (SEA). Les deux normes varient
-en termes de domaine d'application et de force probante. Sur Skribble,
-vous pouvez choisir entre les deux.
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ),
+les signatures électroniques avancées (SEA) et signature électronique 
+simple (SES). Les deux normes varient en termes de domaine d'application 
+et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -93,7 +93,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 
 {{< content text=center top=12 bottom=6 width=narrow >}}
 {{% markdown %}}
-## SEQ vs SAE en un coup d'œil
+## SEQ vs SAE vs SES en un coup d'œil
 {{% /markdown %}}
 {{< /content >}}
 
@@ -124,6 +124,14 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 <td><ul><li>Numéro de téléphone mobile suisse</li></ul></td>
 <td><ul><li>Contrats sans exigence de forme</li></ul></td>
 <td><ul><li>Contrats de location</li><li>Contrats d'achat</li><li>Hypothèques</li><li>Contrat de travail simple</li></ul></td>
+</tr>
+
+<tr>
+<td><div class="icon-ses">SEA</div></td>
+<td><strong>Standard</strong></td>
+<td><ul><li>Adresse électronique</li></ul></td>
+<td><ul><li>Contrats sans forme sur la base de rapports contractuels hiérarchiques</li></ul></td>
+<td><ul><li>Lettre d'information</li><li>Annonces</li><li>Processus organisationnels internes</li></ul></td>
 </tr>
 </tbody>
 

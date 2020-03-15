@@ -127,9 +127,9 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 # Mit Skribble maximierst du die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
-und der fortgeschrittenen E-Signatur (FES). Die beiden Standards
-variieren punkto Einsatzgebiet und Beweiskraft.
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES),
+der fortgeschrittenen E-Signatur (FES) und der einfachen E-Signatur (EES). 
+Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -145,7 +145,7 @@ variieren punkto Einsatzgebiet und Beweiskraft.
 
 {{% markdown %}}
 **Auf Skribble kannst du zwischen
-den Signaturstandards FES und QES wählen.**
+den Signaturstandards EES, FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 

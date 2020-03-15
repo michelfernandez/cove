@@ -133,9 +133,10 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 # Use Skribble to maximise the legal weight of your signature
-The law distinguishes between qualified e-signatures (QES)
-and advanced e-signatures (AES). The two standards vary in terms
-of area of application and legal weight.
+The law distinguishes between qualified e-signatures (QES),
+advanced e-signatures (AES) and simple electronic signature (SES). 
+The three standards vary in terms of area of application 
+and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -149,7 +150,7 @@ of area of application and legal weight.
 >}}
 
 {{% markdown %}}
-**At Skribble you have the choice between the signature standards AES and QES.**
+**At Skribble you have the choice between the signature standards SES, AES and QES.**
 {{% /markdown %}}
 {{< /cta >}}
 
