@@ -11,8 +11,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Identity verification for electronic signing
-Each e-signature must be uniquely attributable to one person. 
-Therefore, Skribble requires the identification of the signatories. 
+Each e-signature must be uniquely attributable to one person.
+Therefore, Skribble requires the identification of the signatories.
 The procedures differ depending on the application.
 {{% /markdown %}}
 {{< /content >}}
@@ -22,8 +22,8 @@ The procedures differ depending on the application.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Contracts without written form
-The advanced electronic signature (AES) is typically used for contracts 
-without formal requirements. With AES, the law requires that the identity 
+The advanced electronic signature (AES) is typically used for contracts
+without formal requirements. With AES, the law requires that the identity
 of the signatory can be reconstructed afterwards.
 {{% /markdown %}}
 {{< /content >}}
@@ -55,7 +55,7 @@ Companies that record the identity of their employees by default can activate AE
 {{< plan
   white
   ""
-  "Mobile phone number (CH)"
+  "Mobile number (CH)"
   ""
   ""
   "_blank"
