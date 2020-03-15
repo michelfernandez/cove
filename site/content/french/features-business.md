@@ -89,15 +89,15 @@ ou à la norme de signature souhaitée.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-fes-de img-width=460 img-alt="Ein grosser Vertrag (FES) vor einem Haus" >}}
+{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-fes-de img-width=460 img-alt="A large contract (FES) in front of a house" >}}
 {{% markdown %}}
 ## Intégration pour la signature électronique avancée (SEA)
 Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux contrats sans exigences formelles.
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  ""
+  "Télécharger factsheet"
+  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
   "_blank"
   "outline">}}
 {{< /side-by-side >}}
