@@ -97,7 +97,7 @@ Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux c
 <br>
 {{< button
   "Télécharger factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
+  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Identification_Organisation_SEA_FR.pdf"
   "_blank"
   "outline">}}
 {{< /side-by-side >}}
