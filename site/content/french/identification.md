@@ -28,7 +28,6 @@ La signature électronique avancée (SEA) est généralement utilisée pour les 
 
 {{< picture contract-no-requirement 480 "Une femme est assise sur un contrat, un homme regarde derrière le contrat." >}}
 
-
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 **Options d'identification pour la signature électronique avancée (SEA):**
@@ -74,8 +73,8 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 
 {{< cta
   label="Télécharger la factsheet"
-  href=""
-  target=""
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
+  target="_blank"
   outlined="true"
 >}}
 
@@ -101,7 +100,6 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 {{< /cta >}}
 {{< /cta-group >}}
 {{< /content >}}
-
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
@@ -138,7 +136,7 @@ Vous pouvez faire vérifier l'identité des signataires par Skribble ou vous pou
   "outline"
 >}}
 
-{{< picture id-easy 270 "Une femme et un homme sont debout devant une grande fenêtre de logiciel et l'homme tient une grande trappe avec une carte d'identité à l'intérieur." >}}
+{{< picture id-unlimited 210 "Un homme identifie une personne avec un bol de soupe et vérifie sa carte d'identité." >}}
 
 Nous passons dans votre entreprise pour vous identifier.
 
@@ -155,7 +153,7 @@ Approprié si vous utilisez la SEQ pour un groupe de personnes prédéfini.
   "outline"
 >}}
 
-{{< picture id-unlimited 210 "Un homme identifie une personne avec un bol de soupe et vérifie sa carte d'identité." >}}
+{{< picture id-easy 270 "Une femme et un homme sont debout devant une grande fenêtre de logiciel et l'homme tient une grande trappe avec une carte d'identité à l'intérieur." >}}
 
 Vous faites les identifications vous-même.
 
@@ -209,7 +207,7 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent automatiquement la SEQ.
 {{% /markdown %}}
 
-{{< picture e-id-map 826 "E-ID, où vous pourrez bientôt vous inscrire avec Skribble." >}}
+{{< picture e-id-map 790 "E-ID, où vous pourrez bientôt vous inscrire avec Skribble." >}}
 
 {{% markdown %}}
 Un nombre croissant de personnes en Europe a une identité électronique validée (e-ID). Skribble les met en réseau. Cela signifie que des millions de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identification supplémentaire.

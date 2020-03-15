@@ -73,8 +73,8 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 
 {{< cta
   label="Download Factsheet"
-  href=""
-  target=""
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
+  target="_blank"
   outlined="true"
 >}}
 
@@ -100,6 +100,8 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 {{< /cta >}}
 {{< /cta-group >}}
 {{< /content >}}
+
+
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
@@ -136,7 +138,7 @@ You can have the identity of the signers verified by Skribble or you can perform
   "outline"
 >}}
 
-{{< picture id-easy 270 "A woman and a man are standing in front of a large software window and the man is holding a big hatch with an identity card inside." >}}
+{{< picture id-unlimited 210 "A man identifies a person with a doll and checks their identity card." >}}
 
 We come and identify you.
 
@@ -153,7 +155,8 @@ Suitable if you use the QES in a predefined group of people.
   "outline"
 >}}
 
-{{< picture id-unlimited 210 "A man identifies a person with a doll and checks their identity card." >}}
+{{< picture id-easy 270 "A woman and a man are standing in front of a large software window and the man is holding a big hatch with an identity card inside." >}}
+
 
 You perform the identifications yourself.
 
@@ -205,7 +208,7 @@ Suitable for individual signatories.
 People who log on to Skribble with a verified e-ID automatically activate QES.
 {{% /markdown %}}
 
-{{< picture e-id-map 826 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
+{{< picture e-id-map 790 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
 
 {{% markdown %}}
 A growing number of people in Europe have a validated electronic identity (e-ID). Skribble works with all of them. This means that millions of people can sign immediately with QES without additional identification procedures.

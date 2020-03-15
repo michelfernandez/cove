@@ -72,8 +72,8 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 
 {{< cta
   label="Download Factsheet"
-  href=""
-  target=""
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Identification_Organisation_FES.pdf"
+  target="_blank"
   outlined="true"
 >}}
 
@@ -136,7 +136,7 @@ Du lässt die Identität der Signierenden von Skribble prüfen oder führst du I
   "outline"
 >}}
 
-{{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
+{{< picture id-unlimited 210 "Ein Mann identifiziert eine Person mit einer Luppe und prüft ihre Identitätskarte" >}}
 
 Wir kommen vorbrei und identifizieren euch.
 
@@ -153,7 +153,8 @@ Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
   "outline"
 >}}
 
-{{< picture id-unlimited 210 "Ein Mann identifiziert eine Person mit einer Luppe und prüft ihre Identitätskarte" >}}
+{{< picture id-easy 270 "Eine Frau und ein Mann stehen vor einem grossen Softwarefenster und der Mann haltet eine grosse Luppe mit einer Identitätskarte drin." >}}
+
 
 Ihr führt die Identifikationen selbst durch.
 
@@ -207,7 +208,7 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
 {{% /markdown %}}
 
-{{< picture e-id-map 826 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
+{{< picture e-id-map 790 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
 
 {{% markdown %}}
 Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektronische Identität (E-ID). Skribble bindet diese an. So können Millionen von Menschen ohne zusätzliche Identifikationsverfahren sofort mit QES signeiren.
