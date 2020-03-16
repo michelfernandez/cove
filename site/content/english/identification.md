@@ -72,9 +72,9 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 {{< cta-group >}}
 
 {{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
-  target="_blank"
+  label="Learn more"
+  href="identification/aes-for-business"
+  target=""
   outlined="true"
 >}}
 

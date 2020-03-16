@@ -2,7 +2,7 @@
 title: Identitätsprüfung für die QES - Skribble macht es einfach
 description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
 draft: false
-slug: identifikation
+slug: /de/identifikation/fes-fuer-business/
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
 
@@ -71,9 +71,9 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< cta-group >}}
 
 {{< cta
-  label="Mehr infos"
-  href="/de/identifikation/fes-fuer-business/"
-  target=""
+  label="Download Factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Identification_Organisation_FES.pdf"
+  target="_blank"
   outlined="true"
 >}}
 
