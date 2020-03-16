@@ -57,13 +57,29 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 bottom=8 >}}
+{{< content text=center top=12 bottom=8 >}}
 {{% markdown %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifizieren.
 Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
 {{% /markdown %}}
 {{< /content >}}
+
+{{< cta
+  label="Support kontaktieren"
+  href="support@skribble.com"
+  target="_blank"
+  outlined="true"
+>}}
+
+{{< picture info-banner 90 "Circle with info sign." >}}
+
+{{% markdown %}}
+**Aufgrund der aktuellen Coronavirus-Situation können keine persönlichen Identifkationstermine wahrgenommen werden.**
+Bei Fragen bitte an Support wenden.
+{{% /markdown %}}
+{{< /cta >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
