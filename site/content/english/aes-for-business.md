@@ -4,7 +4,7 @@ description: The qualified electronic signature (QES) requires the signing party
 draft: false
 slug: aes-for-business
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-aes-for-business.jpg
 
 ---
 
