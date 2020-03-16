@@ -72,9 +72,9 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 {{< cta-group >}}
 
 {{< cta
-  label="Télécharger la factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Identification_Organisation_SEA_FR.pdf"
-  target="_blank"
+  label="En savoir plus"
+  href="sea-pour-business"
+  target=""
   outlined="true"
 >}}
 
@@ -84,6 +84,7 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 **SEA pour Business : implémentation à toute l'organisation en quelques clics**
 {{% /markdown %}}
 {{< /cta >}}
+
 
 {{< cta
   label="En savoir plus"

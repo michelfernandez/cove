@@ -1,17 +1,17 @@
 ---
-title: Identity verification for QES – Skribble makes it easy
-description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
+title: Identitätsprüfung für die QES - Skribble macht es einfach
+description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
 draft: false
-slug: aes-for-business
+slug: fes-fuer-business
 # opengraph image (for facebook and twitter)
-og_image: og/og-aes-for-business.jpg
+og_image: og/og-skribble-identification.jpg
 
 ---
 
 {{< content text=center top=12 >}}
 {{< button
   "Go back"
-  "identification"
+  "de/identifikation"
   ""
   "outline"
 >}}
@@ -186,17 +186,17 @@ No. AES can also be activated using a Swiss mobile phone number. This second sol
 {{< /content >}}
 
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
+{{< outro   >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+# Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
-  "https://my.skribble.com/signup?lang=en"
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
 {{< /outro >}}
