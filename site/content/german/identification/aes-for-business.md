@@ -10,7 +10,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=12 >}}
 {{< button
-  "Go back"
+  "Zurück"
   "de/identifikation"
   ""
   "outline"
@@ -19,22 +19,22 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# AES for Business: Organisation-wide implementation with just a few clicks
-Enable your entire staff to sign with the advanced electronic signature.
+# FES für Business: Organisationsweite Einführung mit wenigen Klicks
+Deine gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-main 375 "A big house with a big arrow and a tree." >}}
+{{< picture aes-biz-main 375 "Ein grosses Haus mit einem grossen Pfeil und einem Baum." >}}
 
 {{< cta
   label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Identification_Organisation_FES.pdf"
   target="_blank"
   outlined="true"
 >}}
 {{% markdown %}}
-**AES for Business - Organisation-wide 
-implementation with a few clicks**
+**FES für Business: Organisationsweite 
+Einführung mit wenigen Klicks**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -42,18 +42,15 @@ implementation with a few clicks**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Company e-mail address as identification element
+# Firmen-Mail-Adresse als Identifikationselement
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-e-mail-company 400 "A house with a large browser and two people with an e-mail." >}}
+{{< picture aes-biz-e-mail-company 400 "Ein Haus mit einem grossen Browser und zwei Personen mit einer E-Mail." >}}
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-With AES for Business, your company domain (e.g. yourcompany.com) 
-enables signing. Anyone who registers with Skribble using an e-mail address 
-from your organisation (e.g. john.smith@yourcompany.com) and is a member 
-of your Business account can sign with AES without any further action. 
+Bei FES für Business schaltet deine Firmen-Domäne (z.B. deinefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse deiner Organisation bei Skribble registriert (z.B. erika.mustermann@deinefirma.com) und Mitglied deines Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -61,20 +58,21 @@ of your Business account can sign with AES without any further action.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# One-time registration
+# Einmalige Registration
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-one-time-registration 385 "A browser with a fulfilled checklist and a business administrator who is happy that his staff can now sign." >}}
+{{< picture aes-biz-one-time-registration 385 "Ein Browser mit einer ausgefüllten Checkliste und ein Business-Administrator, der sich freut, dass seine Mitarbeiter nun unterschreiben können." >}}
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-You can register for AES for Business directly in your Skribble Business account. We will need the following information from you:
-- Domain which should enable signing with AES (e.g. yourcompany.com)
-- Trade register number of your organisation
-- Name and e-mail address of an internal contact person
+FES für Business kannst du direkt in deinem Skribble Business-Konto beantragen. Wir werden von dir folgende Informationen brauchen:
 
-If we can verify the information, AES for Business will be activated and ready for use within 5 to 6 working days. 
+- Domäne, die die FES freischalten soll (z.B. deinefirma.com)
+- Handelsregisternummer deiner Organisation
+- Name und E-Mail-Adresse einer Ansprechperson innerhalb deiner Organisation
+
+Können wir die Angaben verifizieren, wird FES für Business innerhalb von 5 bis 6 Arbeitstagen aktiviert und ist einsatzbereit. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -82,15 +80,15 @@ If we can verify the information, AES for Business will be activated and ready f
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# AES: Widely applicable signature standard
+# FES: Breit einsetzbarer Signatur-Standard
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Legal-weight barometer with the legal-weight high and very high." >}}
+{{< picture legal_weight 664 "Barometer, der die Beweiskraft anzeigt von hoch bis sehr hoch." >}}
 
 {{< content width=narrow >}}
 {{% markdown %}}
-The law distinguishes between qualified electronic signatures (QES) and advanced electronic signatures (AES). The two standards vary in terms of area of application and legal weight. The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form. This applies to most types of contracts, such as rental, purchase or mortgage agreements. 
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES) und der fortgeschrittenen E-Signatur (FES). Die beiden Standards variieren punkto Einsatzgebiet und Beweiskraft. Die FES ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt. Zu dieser Kategorie gehören der Grossteil aller Vertragsarten – von Kaufverträgen über Mietverträge bis Hypotheken. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -98,31 +96,19 @@ The law distinguishes between qualified electronic signatures (QES) and advanced
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Self-explanatory for employees
+# Selbsterklärend für Mitarbeitende
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-self-explanatory 390 "a browser with two people who can sign immediately." >}}
+{{< picture aes-biz-self-explanatory 390 "Einen Browser mit zwei Personen, die sofort unterschreiben können." >}}
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-Skribble's signing platform is designed so that new employees can get started without the need for explanation. Signing can be done via a browser from any device online at Skribble.com. Alternatively, you can connect Skribble to your existing systems (via API). This allows employees to sign directly from your usual software.
+Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erklärungsbedarf loslegen können. Signieren kann man über jedes Endgerät online auf Skribble.com. Alternativ bindet ihr Skribble an eure bestehenden Systeme an (via API). So können Mitarbeitende direkt aus eurer gewohnten Software heraus signieren.
 {{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
-  target="_blank"
-  outlined="true"
->}}
-
-{{% markdown %}}
-**AES for Business - Organisation-wide implementation with a few clicks**
-{{% /markdown %}}
-{{< /cta >}}
 
 {{< cta
   label="Arrange a call"
@@ -131,7 +117,7 @@ Skribble's signing platform is designed so that new employees can get started wi
   outlined="true"
 >}}
 
-{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
+{{< picture consult 92 "Identifikation für die QES. Lassen Sie sich von uns beraten und finden Sie die richtige Identifikationslösung für Ihr Unternehmen." >}}
 
 {{% markdown %}}
 **Register for AES for Business by phone**
@@ -144,50 +130,49 @@ All employees can sign contracts without formal requirements
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# AES for Business
-The most important questions & answers
+# FES für Business
+Die wichtigsten Fragen und Antworten
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture onboarding-aes-en 460 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
+{{< picture onboarding-aes-en 460 "Identifikation für die QES. Lassen Dich von uns beraten und finde die richtige Identifikationslösung für dein Unternehmen." >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Do I have to manually identify all my employees to enable them to sign?" %}}
-No. The company e-mail address serves as a means of identification. Any person in your Business account with such an address can sign with AES. The prerequisite is that your organisation has checked the passport or identity card of the employees once (e.g. during the hiring process).
+{{% collapsible 1 "Muss ich alle meine Mitarbeitenden manuell für das Signieren identifizieren?" %}}
+Nein. Die Firmen-E-Mail-Adresse dient als Identifikationsmittel: Jede Person in deinem Business-Konto mit einer solchen Adresse kann mit FES signieren. Voraussetzung ist, dass deine Organisation den Pass oder die Identitätskarte der Mitarbeitenden einmalig geprüft hat (z.B. im Anstellungsprozess).
 {{% /collapsible %}}
 
-{{% collapsible 2 "In which countries can I use AES for Business?" %}}
-AES for Business can be used globally.
+{{% collapsible 2 "In welchen Ländern kann ich FES für Business einsetzen?" %}}
+FES für Business kann global eingesetzt werden. 
 {{% /collapsible %}}
 
-{{% collapsible 3 "Which contracts can I sign with AES?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form, such as rental, purchase or mortgage agreements. 
+{{% collapsible 3 "Welche Verträge kann ich mit FES signieren?" %}}
+Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt – von Kauf- und Mietverträgen über Hypotheken bis hin zu Steuererklärungen. 
 {{% /collapsible %}}
 
-{{% collapsible 4 "Can I combine AES and QES in my company?" %}}
-Yes, the persons who are to sign at QES level go through an additional identification process. More information is available at https://www.skribble.com/identification/
+{{% collapsible 4 "Kann ich FES und QES in meiner Firma kombinieren?" %}}
+Ja. Mitarbeitende, die auf QES-Level signieren sollen, durchlaufen dafür einen zusätzlichen Identifikationsprozess. Mehr Informationen dazu unter https://www.skribble.com/de/identifikation/
 {{% /collapsible %}}
 
-{{% collapsible 5 "Can I use AES for Business if my organisation is not listed in the trade register?" %}}
-This is generally possible with an additional check required during registration. Contact us for an individual evaluatio
+{{% collapsible 5 "Kann ich FES für Business nutzen, wenn meine Organisation nicht im Handelsregister eingetragen ist?" %}}
+Mit einem zusätzlichen Prüfschritt ist das grundsätzlich möglich. Kontaktiere uns für eine individuelle Abklärung.
 {{% /collapsible %}}
 
-{{% collapsible 6 "Who is the certification provider?" %}}
-The signature certificates on which Skribble’s AES for Business is based are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company. 
+{{% collapsible 6 "Wer ist der Zertifizierungsanbieter?" %}}
+Die Signaturzertifikate, auf denen die FES für Business von Skribble  basiert, stammen von GMO GlobalSign, einer europäischen Zertifizierungsstelle und Identitätsmanagement-Firma. 
 {{% /collapsible %}}
 
-{{% collapsible 7 "Do I need a Business Account to use AES for Business?" %}}
-Yes, this offer is exclusively available to Skribble Business customers.
+{{% collapsible 7 "Brauche ich ein Business-Konto, um FES für Business nutzen zu können?" %}}
+Ja. Das Angebot steht exklusiv Skribble Business-Kunden zur Verfügung.
 {{% /collapsible %}}
 
-{{% collapsible 8 "Is the company email address the only method of identification for AES?" %}}
-No. AES can also be activated using a Swiss mobile phone number. This second solution is independent of AES for Business and is based on a collaboration with Swisscom.
+{{% collapsible 8 "Ist die Firmen-E-Mail-Adresse die einzige Identifikationsmethode für FES?" %}}
+Nein. Die FES wird auch freigeschaltet, wenn sich jemand mit einer Schweizer Mobiltelefonnummer anmeldet. Diese Lösung ist unabhängig von FES für Business und basiert auf einer Zusammenarbeit mit der Firma Swisscom.
 {{% /collapsible %}}
 {{< /content >}}
 
 
-
-{{< outro   >}}
+{{< outro >}}
 {{% markdown center %}}
 # Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder

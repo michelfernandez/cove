@@ -10,8 +10,8 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=12 >}}
 {{< button
-  "Go back"
-  "fr/identification"
+  "Retour"
+  "fr/identifikation"
   ""
   "outline"
 >}}
@@ -19,22 +19,22 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# AES for Business: Organisation-wide implementation with just a few clicks
-Enable your entire staff to sign with the advanced electronic signature.
+# SEA pour Business : implémentation à toute l'organisation en quelques clics
+Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA).
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-main 375 "A big house with a big arrow and a tree." >}}
+{{< picture aes-biz-main 375 "Une grande maison avec une grande flèche et un arbre." >}}
 
 {{< cta
   label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Identification_Organisation_SEA_FR.pdf"
   target="_blank"
   outlined="true"
 >}}
 {{% markdown %}}
-**AES for Business - Organisation-wide 
-implementation with a few clicks**
+**SEA pour Business : implémentation à toute 
+l'organisation en quelques clics**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -42,18 +42,15 @@ implementation with a few clicks**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Company e-mail address as identification element
+# Adresse e-mail professionnelle comme élément d'identification
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-e-mail-company 400 "A house with a large browser and two people with an e-mail." >}}
+{{< picture aes-biz-e-mail-company 400 "Une maison avec un grand navigateur et deux personnes avec un e-mail." >}}
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-With AES for Business, your company domain (e.g. yourcompany.com) 
-enables signing. Anyone who registers with Skribble using an e-mail address 
-from your organisation (e.g. john.smith@yourcompany.com) and is a member 
-of your Business account can sign with AES without any further action. 
+Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith@votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre compte Business peut signer avec SEA sans autre mesure. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -61,20 +58,21 @@ of your Business account can sign with AES without any further action.
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# One-time registration
+# Inscription unique
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-one-time-registration 385 "A browser with a fulfilled checklist and a business administrator who is happy that his staff can now sign." >}}
+{{< picture aes-biz-one-time-registration 385 "Un navigateur avec une liste de contrôle complétée et un administrateur d'entreprise qui est heureux que ses employés puissent maintenant signer." >}}
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-You can register for AES for Business directly in your Skribble Business account. We will need the following information from you:
-- Domain which should enable signing with AES (e.g. yourcompany.com)
-- Trade register number of your organisation
-- Name and e-mail address of an internal contact person
+Vous pouvez faire une demande de SEA pour Business directement depuis votre compte Skribble Business. Nous aurons besoin des informations suivantes de votre part:
 
-If we can verify the information, AES for Business will be activated and ready for use within 5 to 6 working days. 
+- Domaine qui doit permettre de signer avec AES (par ex. votreentreprise.com)
+- Numéro de registre du commerce de votre organisation
+- Nom et adresse e-mail d'une personne de contact interne
+
+Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt à être utilisé dans les 5 à 6 jours ouvrables. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -82,15 +80,18 @@ If we can verify the information, AES for Business will be activated and ready f
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# AES: Widely applicable signature standard
+# SEA: Norme de signature largement applicable
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Legal-weight barometer with the legal-weight high and very high." >}}
+{{< picture legal_weight 664 "Baromètre qui montre le caractère concluant de haut à très haut." >}}
 
 {{< content width=narrow >}}
 {{% markdown %}}
-The law distinguishes between qualified electronic signatures (QES) and advanced electronic signatures (AES). The two standards vary in terms of area of application and legal weight. The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form. This applies to most types of contracts, such as rental, purchase or mortgage agreements. 
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ)
+et les signatures électroniques avancées (SEA). Les deux normes varient
+en matière de champ d'application et de force probante. La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.
+C’est le cas pour la plupart des types de contrats, tels que les contrats de location, d’achat ou d’hypothèque. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -98,31 +99,19 @@ The law distinguishes between qualified electronic signatures (QES) and advanced
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Self-explanatory for employees
+# Explication évidente pour les employés
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-biz-self-explanatory 390 "a browser with two people who can sign immediately." >}}
+{{< picture aes-biz-self-explanatory 390 "Un navigateur avec deux personnes qui peuvent signer immédiatement." >}}
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-Skribble's signing platform is designed so that new employees can get started without the need for explanation. Signing can be done via a browser from any device online at Skribble.com. Alternatively, you can connect Skribble to your existing systems (via API). This allows employees to sign directly from your usual software.
+La plate-forme de signature Skribble est conçue pour que les nouveaux signataires puissent commencer sans avoir besoin d'explications. La signature peut être faite via n'importe quel appareil sur Skribble.com. Vous pouvez également connecter Skribble à vos systèmes existants (via API). Cela permet aux employés de signer directement à partir de votre logiciel habituel.
 {{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
-  target="_blank"
-  outlined="true"
->}}
-
-{{% markdown %}}
-**AES for Business - Organisation-wide implementation with a few clicks**
-{{% /markdown %}}
-{{< /cta >}}
 
 {{< cta
   label="Arrange a call"
@@ -131,11 +120,11 @@ Skribble's signing platform is designed so that new employees can get started wi
   outlined="true"
 >}}
 
-{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
+{{< picture consult 92 "Identification pour le QES. Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise." >}}
 
 {{% markdown %}}
-**Register for AES for Business by phone**
-All employees can sign contracts without formal requirements
+**SEA pour Business**
+Les questions et réponses les plus importantes
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -144,44 +133,44 @@ All employees can sign contracts without formal requirements
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# AES for Business
-The most important questions & answers
+# FES für Business
+Die wichtigsten Fragen und Antworten
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture onboarding-aes-en 460 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
+{{< picture onboarding-aes-en 460 "Identification pour le QES. Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise." >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Do I have to manually identify all my employees to enable them to sign?" %}}
-No. The company e-mail address serves as a means of identification. Any person in your Business account with such an address can sign with AES. The prerequisite is that your organisation has checked the passport or identity card of the employees once (e.g. during the hiring process).
+{{% collapsible 1 "Dois-je identifier manuellement tous mes employés pour leur permettre de signer?" %}}
+Non. L'adresse e-mail de l'entreprise sert de moyen d'identification: toute personne de votre compte Business ayant une adresse e-mail de votre organisation peut signer avec la SEA. La condition préalable est que votre organisation ait vérifié une fois le passeport ou la carte d'identité des employés (par exemple lors du processus d'embauche).
 {{% /collapsible %}}
 
-{{% collapsible 2 "In which countries can I use AES for Business?" %}}
-AES for Business can be used globally.
+{{% collapsible 2 "Dans quels pays puis-je utiliser SEA pour Business?" %}}
+EA pour Business peut être utilisée globalement.
 {{% /collapsible %}}
 
-{{% collapsible 3 "Which contracts can I sign with AES?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form, such as rental, purchase or mortgage agreements. 
+{{% collapsible 3 "Quels contrats puis-je signer avec la SEA?" %}}
+La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique, tels que les contrats de location, d'achat ou d'hypothèque. 
 {{% /collapsible %}}
 
-{{% collapsible 4 "Can I combine AES and QES in my company?" %}}
-Yes, the persons who are to sign at QES level go through an additional identification process. More information is available at https://www.skribble.com/identification/
+{{% collapsible 4 "Puis-je combiner la SEA et la SEQ dans mon entreprise?" %}}
+Oui, les personnes qui doivent signer avec la SEQ passent par un processus d'identification supplémentaire. Vous trouverez plus d'informations via ce lien https://www.skribble.com/fr/identification.
 {{% /collapsible %}}
 
-{{% collapsible 5 "Can I use AES for Business if my organisation is not listed in the trade register?" %}}
-This is generally possible with an additional check required during registration. Contact us for an individual evaluatio
+{{% collapsible 5 "Puis-je utiliser SEA pour Business si mon organisation n'est pas inscrite au registre du commerce?" %}}
+Cela est généralement possible avec une étape de contrôle supplémentaire pendent la registration. Contactez-nous pour une évaluation individuelle.
 {{% /collapsible %}}
 
-{{% collapsible 6 "Who is the certification provider?" %}}
-The signature certificates on which Skribble’s AES for Business is based are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company. 
+{{% collapsible 6 "Qui est le fournisseur de certification?" %}}
+Les certificats de signature sur lesquels Skribble SEA pour Business est basé proviennent de GMO GlobalSign, Ltd, une autorité de certification européenne. 
 {{% /collapsible %}}
 
-{{% collapsible 7 "Do I need a Business Account to use AES for Business?" %}}
-Yes, this offer is exclusively available to Skribble Business customers.
+{{% collapsible 7 "Ai-je besoin d'un compte Skribble Business pour utiliser SEA pour Business?" %}}
+Oui, cette offre est exclusivement disponible pour les clients de Skribble Business.
 {{% /collapsible %}}
 
-{{% collapsible 8 "Is the company email address the only method of identification for AES?" %}}
-No. AES can also be activated using a Swiss mobile phone number. This second solution is independent of AES for Business and is based on a collaboration with Swisscom.
+{{% collapsible 8 "L'adresse e-mail de l'entreprise est-elle la seule méthode d'identification pour la SEA?" %}}
+Non. La SEA est également activée lorsqu'une personne s'inscrit avec un numéro de téléphone portable suisse. Cette deuxième solution est indépendante de SEA pour Business et est basée sur une collaboration avec Swisscom.
 {{% /collapsible %}}
 {{< /content >}}
 

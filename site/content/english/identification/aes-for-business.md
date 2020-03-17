@@ -113,18 +113,6 @@ Skribble's signing platform is designed so that new employees can get started wi
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
-  target="_blank"
-  outlined="true"
->}}
-
-{{% markdown %}}
-**AES for Business - Organisation-wide implementation with a few clicks**
-{{% /markdown %}}
-{{< /cta >}}
-
-{{< cta
   label="Arrange a call"
   href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   target="_blank"
