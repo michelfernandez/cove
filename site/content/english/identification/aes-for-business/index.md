@@ -1,7 +1,7 @@
 ---
 title: Identity verification for QES – Skribble makes it easy
 description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
-draft: false
+type: default
 slug: aes-for-business
 # opengraph image (for facebook and twitter)
 og_image: og/og-aes-for-business.jpg
@@ -33,7 +33,7 @@ Enable your entire staff to sign with the advanced electronic signature.
   outlined="true"
 >}}
 {{% markdown %}}
-**AES for Business - Organisation-wide 
+**AES for Business - Organisation-wide
 implementation with a few clicks**
 {{% /markdown %}}
 {{< /cta >}}
@@ -50,10 +50,10 @@ implementation with a few clicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-With AES for Business, your company domain (e.g. yourcompany.com) 
-enables signing. Anyone who registers with Skribble using an e-mail address 
-from your organisation (e.g. john.smith@yourcompany.com) and is a member 
-of your Business account can sign with AES without any further action. 
+With AES for Business, your company domain (e.g. yourcompany.com)
+enables signing. Anyone who registers with Skribble using an e-mail address
+from your organisation (e.g. john.smith@yourcompany.com) and is a member
+of your Business account can sign with AES without any further action.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -74,7 +74,7 @@ You can register for AES for Business directly in your Skribble Business account
 - Trade register number of your organisation
 - Name and e-mail address of an internal contact person
 
-If we can verify the information, AES for Business will be activated and ready for use within 5 to 6 working days. 
+If we can verify the information, AES for Business will be activated and ready for use within 5 to 6 working days.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -90,7 +90,7 @@ If we can verify the information, AES for Business will be activated and ready f
 
 {{< content width=narrow >}}
 {{% markdown %}}
-The law distinguishes between qualified electronic signatures (QES) and advanced electronic signatures (AES). The two standards vary in terms of area of application and legal weight. The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form. This applies to most types of contracts, such as rental, purchase or mortgage agreements. 
+The law distinguishes between qualified electronic signatures (QES) and advanced electronic signatures (AES). The two standards vary in terms of area of application and legal weight. The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form. This applies to most types of contracts, such as rental, purchase or mortgage agreements.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -161,7 +161,7 @@ AES for Business can be used globally.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Which contracts can I sign with AES?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form, such as rental, purchase or mortgage agreements. 
+The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form, such as rental, purchase or mortgage agreements.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Can I combine AES and QES in my company?" %}}
@@ -173,7 +173,7 @@ This is generally possible with an additional check required during registration
 {{% /collapsible %}}
 
 {{% collapsible 6 "Who is the certification provider?" %}}
-The signature certificates on which Skribble’s AES for Business is based are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company. 
+The signature certificates on which Skribble’s AES for Business is based are from GMO GlobalSign, Ltd, a European Certification Authority and Identity Management Company.
 {{% /collapsible %}}
 
 {{% collapsible 7 "Do I need a Business Account to use AES for Business?" %}}

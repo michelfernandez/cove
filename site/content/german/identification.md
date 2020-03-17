@@ -12,7 +12,7 @@ og_image: og/og-skribble-identification.jpg
 {{% markdown %}}
 # Identitätsprüfung für elektronisches Signieren
 Jede E-Signatur muss eindeutig einer Person zugewiesen werden können.
-Deshalb setzt Skribble die Identifikation der Signierenden voraus. 
+Deshalb setzt Skribble die Identifikation der Signierenden voraus.
 Die Verfahren unterscheiden sich je nach Anwendungsfall.
 {{% /markdown %}}
 {{< /content >}}
@@ -72,7 +72,7 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 
 {{< cta
   label="Mehr infos"
-  href="fes-fuer-business"
+  href="de/identification/fes-fuer-business/"
   target=""
   outlined="true"
 >}}
@@ -158,7 +158,7 @@ Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
 
 Ihr führt die Identifikationen selbst durch.
 
-Passend, wenn laufend neue 
+Passend, wenn laufend neue
 QES-Signierende hinzukommen.
 &nbsp;
 {{% /plan %}}

@@ -11,8 +11,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Vérification de l'identité pour la signature électronique
-Chaque signature électronique doit être attribuable à une seule personne. 
-Skribble nécessite donc l'identification des signataires. 
+Chaque signature électronique doit être attribuable à une seule personne.
+Skribble nécessite donc l'identification des signataires.
 Les procédures diffèrent en fonction de la demande.
 {{% /markdown %}}
 {{< /content >}}
@@ -73,7 +73,7 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 
 {{< cta
   label="En savoir plus"
-  href="sea-pour-business"
+  href="fr/identification/sea-pour-business/"
   target=""
   outlined="true"
 >}}
