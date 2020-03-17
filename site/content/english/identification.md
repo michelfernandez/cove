@@ -1,7 +1,6 @@
 ---
 title: Identity verification for QES – Skribble makes it easy
 description: The qualified electronic signature (QES) requires the signing party to verify his or her identity. Skribble offers suitable means of identification for every business context.
-draft: false
 slug: identification
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-identification.jpg
