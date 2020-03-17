@@ -196,6 +196,7 @@ Suitable for individual signatories.
 
 {{% markdown %}}
 **Identification for QES - Skribble makes it easy**
+Let us advise you and find the right identification solution for your company.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}

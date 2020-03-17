@@ -196,7 +196,7 @@ Convient aux signataires individuels.
 
 {{% markdown %}}
 **Identification pour la SQE - Skribble facilite les choses**
-Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma.
+Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}

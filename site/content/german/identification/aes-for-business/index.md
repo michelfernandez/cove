@@ -112,7 +112,7 @@ Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erkl√
 
 {{< cta
   label="Telefontermin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
   target="_blank"
   outlined="true"
 >}}

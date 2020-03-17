@@ -114,7 +114,7 @@ La plate-forme de signature Skribble est conçue pour que les nouveaux signatair
 
 {{< cta
   label="Organiser un appel"
-  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  href="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
   target="_blank"
   outlined="true"
 >}}
