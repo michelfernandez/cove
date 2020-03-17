@@ -11,7 +11,7 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=12 >}}
 {{< button
   "Retour"
-  "fr/identifikation"
+  "fr/identification"
   ""
   "outline"
 >}}
@@ -33,8 +33,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
   outlined="true"
 >}}
 {{% markdown %}}
-**SEA pour Business : implémentation à toute 
-l'organisation en quelques clics**
+**SEA pour Business : implémentation à toute l'organisation en quelques clics**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -50,13 +49,13 @@ l'organisation en quelques clics**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith@votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre compte Business peut signer avec SEA sans autre mesure. 
+Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith @ votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre compte Business peut signer avec SEA sans autre mesure. 
 {{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< content text=center top=8 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Inscription unique
 {{% /markdown %}}
@@ -84,7 +83,7 @@ Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Baromètre qui montre le caractère concluant de haut à très haut." >}}
+{{< picture force_probante 664 "Baromètre qui montre le caractère concluant de haut à très haut." >}}
 
 {{< content width=narrow >}}
 {{% markdown %}}
@@ -114,7 +113,7 @@ La plate-forme de signature Skribble est conçue pour que les nouveaux signatair
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
-  label="Arrange a call"
+  label="Organiser un appel"
   href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   target="_blank"
   outlined="true"
@@ -123,8 +122,7 @@ La plate-forme de signature Skribble est conçue pour que les nouveaux signatair
 {{< picture consult 92 "Identification pour le QES. Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise." >}}
 
 {{% markdown %}}
-**SEA pour Business**
-Les questions et réponses les plus importantes
+**Enregistrez-vous maintenant pour l'AES for Business**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -133,8 +131,8 @@ Les questions et réponses les plus importantes
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# FES für Business
-Die wichtigsten Fragen und Antworten
+# SEA pour Business
+Les questions et réponses les plus importantes
 {{% /markdown %}}
 {{< /content >}}
 

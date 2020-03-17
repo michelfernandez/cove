@@ -52,7 +52,7 @@ implementation with a few clicks**
 {{% markdown %}}
 With AES for Business, your company domain (e.g. yourcompany.com)
 enables signing. Anyone who registers with Skribble using an e-mail address
-from your organisation (e.g. john.smith@yourcompany.com) and is a member
+from your organisation (e.g. john.smith @ yourcompany.com) and is a member
 of your Business account can sign with AES without any further action.
 {{% /markdown %}}
 {{< /content >}}
@@ -122,8 +122,7 @@ Skribble's signing platform is designed so that new employees can get started wi
 {{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
 
 {{% markdown %}}
-**Register for AES for Business by phone**
-All employees can sign contracts without formal requirements
+**Register now for AES for Business**
 {{% /markdown %}}
 {{< /cta >}}
 

@@ -50,7 +50,7 @@ Einführung mit wenigen Klicks**
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Bei FES für Business schaltet deine Firmen-Domäne (z.B. deinefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse deiner Organisation bei Skribble registriert (z.B. erika.mustermann@deinefirma.com) und Mitglied deines Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren. 
+Bei FES für Business schaltet deine Firmen-Domäne (z.B. deinefirma.com) das Signieren frei. Jede Person, die sich mit einer E-Mail-Adresse deiner Organisation bei Skribble registriert (z.B. erika.mustermann @ deinefirma.com) und Mitglied deines Business-Kontos ist, kann ohne weitere Massnahmen mit FES signieren. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -84,7 +84,7 @@ Können wir die Angaben verifizieren, wird FES für Business innerhalb von 5 bis
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Barometer, der die Beweiskraft anzeigt von hoch bis sehr hoch." >}}
+{{< picture beweiskraft 664 "Barometer, der die Beweiskraft anzeigt von hoch bis sehr hoch." >}}
 
 {{< content width=narrow >}}
 {{% markdown %}}
@@ -111,7 +111,7 @@ Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erkl�
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
-  label="Arrange a call"
+  label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
   target="_blank"
   outlined="true"
@@ -120,8 +120,7 @@ Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erkl�
 {{< picture consult 92 "Identifikation für die QES. Lassen Sie sich von uns beraten und finden Sie die richtige Identifikationslösung für Ihr Unternehmen." >}}
 
 {{% markdown %}}
-**Register for AES for Business by phone**
-All employees can sign contracts without formal requirements
+**Jetzt für AES for Business anmelden**
 {{% /markdown %}}
 {{< /cta >}}
 
