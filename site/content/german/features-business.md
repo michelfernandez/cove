@@ -48,7 +48,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 {{< content text=center top=24 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Skribble Business bettet sich <br class="hide-for-mobile">in deine bestehende Infrastruktur ein
+# Skribble Business bettet sich in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /markdown %}}
 {{< /content >}}
@@ -96,7 +96,7 @@ Geeignet für Verträge ohne Formvorschrift.
 <br>
 {{< button
   "Mehr erfahren"
-  "/identifikation/fes-fuer-business/"
+  "/de/identifikation/fes-fuer-business/"
   ""
   "outline">}}
 {{< /side-by-side >}}
