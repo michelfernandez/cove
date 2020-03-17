@@ -95,7 +95,7 @@ Geeignet für Verträge ohne Formvorschrift.
 {{% /markdown %}}
 <br>
 {{< button
-  "Mehr erfahren"
+  "Mehr infos"
   "/de/identifikation/fes-fuer-business/"
   ""
   "outline">}}
@@ -111,7 +111,7 @@ Geeignet für Verträge mit Formvorschrift.
 {{% /markdown %}}
 <br>
 {{< button
-  "Mehr erfahren"
+  "Mehr infos"
   "/de/identifikation/"
   ""
   "outline">}}
