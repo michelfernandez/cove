@@ -16,7 +16,7 @@
       {{ end }}
       {{ if .Get "img" }}
         <div class="side-by-side__img">
-          {{ partial "picture" (dict "alt" (.Get "img-alt") "filename" (.Get "img") "natural_width" (.Get "img-width")) }}
+          {{ partial "picture" (dict "alt" (.Get "img-alt") "filename" (.Get "img") "natural_width" (.Get "img-width") "site" .Site) }}
         </div>
       {{ end }}
       {{ if ne (.Get "img-position") "right" }}
