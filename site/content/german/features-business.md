@@ -79,7 +79,7 @@ den Alltag für uns und unseren Kunden."{{< /testimonial >}}
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Organisationsweite Einführung <br class="hide-for-mobile">ist einfach und schnell
+# Organisationsweite Einführung ist einfach und schnell
 Befähige neue und bestehende Mitarbeitende in kürzester Zeit
 zum elektronischen Signieren. Wähle den Onboarding-Prozess, der zu deinem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /markdown %}}
@@ -95,9 +95,9 @@ Geeignet für Verträge ohne Formvorschrift.
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Identification_Organisation_FES.pdf"
-  "_blank"
+  "Mehr erfahren"
+  "/identifikation/fes-fuer-business/"
+  ""
   "outline">}}
 {{< /side-by-side >}}
 
@@ -111,9 +111,9 @@ Geeignet für Verträge mit Formvorschrift.
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
-  "_blank"
+  "Mehr erfahren"
+  "/de/identifikation/"
+  ""
   "outline">}}
 {{< /side-by-side >}}
 

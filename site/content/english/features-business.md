@@ -97,9 +97,9 @@ Suitable for contracts without formal requirements.
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Identification_Organization_AES_EN.pdf"
-  "_blank"
+  "Learn more"
+  "/identification/aes-for-business/"
+  ""
   "outline">}}
 {{< /side-by-side >}}
 
@@ -112,9 +112,9 @@ Identification services for highest demands on the legal weight of the signature
 {{% /markdown %}}
 <br>
 {{< button
-  "Download Factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
-  "_blank"
+  "Learn more"
+  "/identification/"
+  ""
   "outline"
 >}}
 {{< /side-by-side >}}

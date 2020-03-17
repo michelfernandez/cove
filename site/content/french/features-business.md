@@ -96,9 +96,9 @@ Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux c
 {{% /markdown %}}
 <br>
 {{< button
-  "Télécharger factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Identification_Organisation_SEA_FR.pdf"
-  "_blank"
+  "En savour plus"
+  "/fr/identification/sea-pour-business"
+  ""
   "outline">}}
 {{< /side-by-side >}}
 
@@ -111,9 +111,9 @@ Services d'identification pour les plus hautes exigences en matière de force pr
 {{% /markdown %}}
 <br>
 {{< button
-  "Télécharger factsheet"
-  "https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
-  "_blank"
+  "En savour plus"
+  "/fr/identification/"
+  ""
   "outline"
 >}}
 {{< /side-by-side >}}
