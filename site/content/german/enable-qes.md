@@ -16,7 +16,7 @@ Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
 in dem du dich im persönlichen Kontakt mit der ID-App
 von Swisscom identifizieren lässt.
 {{% /markdown %}}
-{{% /content %}}
+{{< /content >}}
 
 {{< content top=12 width=narrow display=flex >}}
 {{< step >}}

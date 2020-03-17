@@ -366,7 +366,7 @@ CH-8001 Zurich
 >}}
 
 {{% markdown %}}
-**Swisscom Shop 
+**Swisscom Shop
 Flughafen Zürich**
 Airport Shopping Center
 Check-in 3
