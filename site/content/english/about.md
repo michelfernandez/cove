@@ -47,7 +47,7 @@ Skribble is a one-stop shop for electronic signatures that makes signature proce
 Security does not come at the expense of simplicity: every company, regardless of size and technological experience, should be able to benefit from the advantages of digital transformation. This is wyh Skribble can be used securely evene without any IT knowledge. 
 
 ## And that's just the beginning:
-Building trust in digital business relationships should become as simple and
+Building trust in digital business relationships should be as simple and
 intuitive as shaking hands. Since its founding in 2018, a growing team of 
 trust shapers has been working towards this future at Skribble.
 {{< /markdown >}}
@@ -65,4 +65,3 @@ No credit card, entrance fee or commitment required.
   "_blank"
 >}}
 {{< /outro >}}
-
