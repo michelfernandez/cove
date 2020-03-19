@@ -44,7 +44,7 @@ Agreements should no longer have to take a detour via printer and paper in order
 
 Skribble is a one-stop shop for electronic signatures that makes signature processes 100% digital. Skribble provides the legally suitable electronic signature for every type of contract – even if the law requires the same legal weight as a handwritten signature.
 
-Security does not come at the expense of simplicity: every company, regardless of size and technological experience, should be able to benefit from the advantages of digital transformation. This is wyh Skribble can be used securely evene without any IT knowledge. 
+Security does not come at the expense of simplicity: every company, regardless of size and technological experience, should be able to benefit from the advantages of digital transformation. This is why Skribble can be used securely even without any IT knowledge. 
 
 ## And that's just the beginning:
 Building trust in digital business relationships should be as simple and
