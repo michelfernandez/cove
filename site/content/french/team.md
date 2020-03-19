@@ -10,7 +10,7 @@ type: team
 # expects jpg and web image formats
 groups:
   - title: Trust Shapers
-    text: The people behind Skribble
+    text: Les gens derrière Skribble
     people:
       - name: Philipp Dick
         position: CEO & Co-Founder
