@@ -40,7 +40,7 @@ The remaining ten percent require a high degree of trust, for example signing em
 
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
-Agreements should no longer have to take the detour via printer and paper in order to be legally signed: 
+Agreements should no longer have to take a detour via printer and paper in order to be legally signed: 
 
 Skribble is a one-stop shop for electronic signatures that makes signature processes 100% digital. Skribble provides the legally suitable electronic signature for every type of contract – even if the law requires the same legal weight as a handwritten signature.
 
@@ -65,5 +65,4 @@ No credit card, entrance fee or commitment required.
   "_blank"
 >}}
 {{< /outro >}}
-
 
