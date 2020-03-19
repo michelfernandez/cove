@@ -40,9 +40,13 @@ languages:
           url: "/de/identifikation/"
           weight: 30
           parent: plattform
+        - name: FES für Business
+          url: "/de/identifikation/fes-fuer-business/"
+          weight: 35
+          parent: plattform
         - name: QES freischalten
           url: "/de/qes-freischalten/"
-          weight: 35
+          weight: 40
           parent: plattform
         # Solutions dropdown
         - name: Lösungen
@@ -74,9 +78,12 @@ languages:
         - name: Identifikation
           url: /de/identifikation/
           weight: 20
+        - name: FES für Business
+          url: "/de/identifikation/fes-fuer-business/"
+          weight: 25
         - name: QES freischalten
           url: /de/qes-freischalten/
-          weight: 25
+          weight: 30
       footer2:
         - name: HR
           url: /de/hr/
@@ -208,9 +215,13 @@ languages:
           url: "/identification/"
           weight: 30
           parent: platform
+        - name: AES for Business
+          url: "/identification/aes-for-business/"
+          weight: 35
+          parent: platform
         - name: Enable QES
           url: "/enable-qes/"
-          weight: 35
+          weight: 40
           parent: platform
         # Solutions dropdown
         - name: Solutions
@@ -242,9 +253,12 @@ languages:
         - name: Identification
           url: /identification/
           weight: 30
+        - name: AES for Business
+          url: /identification/aes-for-business/
+          weight: 35
         - name: Enable QES
           url: /enable-qes/
-          weight: 35
+          weight: 40
       footer2:
         - name: HR
           url: /hr/
@@ -376,9 +390,13 @@ languages:
           url: "/fr/identification/"
           weight: 25
           parent: platforme
+        - name: SEA pour Business
+          url: "/fr/identification/sea-pour-business/"
+          weight: 30
+          parent: platforme
         - name: Débloquez SEQ
           url: "/fr/debloquez-seq/"
-          weight: 30
+          weight: 35
           parent: platforme
         # Solutions dropdown
         - name: Solutions
@@ -410,9 +428,12 @@ languages:
         - name: Identification
           url: /fr/identification/
           weight: 20
+        - name: SEA pour Business
+          url: "/fr/identification/sea-pour-business/"
+          weight: 25
         - name: Débloquez SEQ
           url: /fr/debloquez-seq/
-          weight: 25
+          weight: 30
       footer2:
         - name: RH
           url: /fr/ressources-humaines/

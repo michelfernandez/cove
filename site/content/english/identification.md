@@ -215,6 +215,21 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 {{% /markdown %}}
 {{< /content >}}
 
+{{< content text=left top=4 bottom=8 width=narrow >}}
+{{< cta
+  label="Download factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_ID-Options_EN.pdf"
+  target="_blank"
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**All identification options at a glance.**
+{{% /markdown %}}
+{{< /cta >}}
+{{< /content >}}
+
+
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # All clear?

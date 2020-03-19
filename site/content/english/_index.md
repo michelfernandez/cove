@@ -38,7 +38,7 @@ legally binding in accordance with Swiss & EU law.
   {{< logos-item src="logos/baggenstos-205w.svg" alt="Baggenstoss">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
-  {{< logos-item src="logos/altenburger-204w.svg" alt="Altenburger Legal">}}
+  {{< logos-item src="logos/kellerhalscarrard-124w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/wincasa-185w.svg" alt="Wincasa">}}
 {{< /logos-container >}}
 
@@ -152,6 +152,21 @@ of area of application and legal weight.
 **At Skribble you have the choice between the signature standards AES and QES.**
 {{% /markdown %}}
 {{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="A large company building with a big cursor." >}}
+{{% markdown %}}
+## Organisation-wide implementation with just a few clicks
+Enable your entire staff to sign with the advanced electronic signature (AES) within just a few days.
+{{% /markdown %}}
+<br>
+{{< button
+  "Learn more"
+  "/identification/aes-for-business/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

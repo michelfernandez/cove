@@ -215,6 +215,21 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{% /markdown %}}
 {{< /content >}}
 
+{{< content text=left top=4 bottom=8 width=narrow >}}
+{{< cta
+  label="Factsheet herunterlden"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_ID-Optionen_DE.pdf"
+  target="_blank"
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Alle Identifikationsoptionen im Überblick.**
+{{% /markdown %}}
+{{< /cta >}}
+{{< /content >}}
+
+
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Alles klar?
