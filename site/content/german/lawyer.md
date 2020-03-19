@@ -176,8 +176,8 @@ aus und lass dich identifizieren**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
-"Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten"
+{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
+"Unsere Mandanten können schneller bedient werden und unsere Anwälte sparen Zeit - der Einsatz von Technologie zur Effizienzsteigerung ist eine der Prioritäten der Kanzleien".
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

@@ -215,6 +215,20 @@ Un nombre croissant de personnes en Europe a une identité électronique validé
 {{% /markdown %}}
 {{< /content >}}
 
+{{< content text=left top=4 bottom=8 width=narrow >}}
+{{< cta
+  label="Télécharcher factsheet"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_ID-Options_FR.pdf"
+  target="_blank"
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Toutes les options d'identification en un coup d'œil.**
+{{% /markdown %}}
+{{< /cta >}}
+{{< /content >}}
+
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Tout va bien?
