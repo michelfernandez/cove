@@ -87,7 +87,7 @@ Immédiatement prête à l'emploi grâce à des exigences d'identification rédu
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **La signature électronique avancée (SEA) est juridiquement valable pour les contrats dont la loi ne prescrit pas de forme particulière.**
-C'est le cas pour la plupart des types de contrats, tels que les contrats de location, d'achat ou d'hypothèque. Quiconque possède un numéro de téléphone portable suisse peut commencer immédiatement à signer sur Skribble avec la SEA.
+C’est le cas pour la plupart des types de contrats, tels que les contrats de location, d’achat ou d’hypothèque. Quiconque possède un numéro de téléphone portable suisse ou appartenant à une entreprise enregistrée au service SEA pour Business peut commencer immédiatement à signer avec la SEA.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -121,7 +121,7 @@ C'est le cas pour la plupart des types de contrats, tels que les contrats de loc
 <tr>
 <td><div class="icon-fes">SEA</div></td>
 <td><strong>Haute</strong></td>
-<td><ul><li>Numéro de téléphone mobile suisse</li></ul></td>
+<td><ul><li>Numéro de téléphone mobile suisse</li><li>Adresse e-mail professionnelle</li></ul></td>
 <td><ul><li>Contrats sans exigence de forme</li></ul></td>
 <td><ul><li>Contrats de location</li><li>Contrats d'achat</li><li>Hypothèques</li><li>Contrat de travail simple</li></ul></td>
 </tr>

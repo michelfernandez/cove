@@ -88,7 +88,7 @@ Instantly operational thanks to lower requirements
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**
-This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number can start signing with AES on Skribble immediately.
+This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number or is a memeber of a registered AES for Business company can start signing with AES immediately. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -122,7 +122,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 <tr>
 <td><div class="icon-fes">AES</div></td>
 <td><strong>High</strong></td>
-<td><ul><li>Swiss mobile phone number</li></ul></td>
+<td><ul><li>Swiss mobile phone number</li><li>Company e-mail address</li></ul></td>
 <td><ul><li>Contracts without formal requirement</li></ul></td>
 <td><ul><li>Rental contracts</li><li>Purchase contracts</li><li>Mortgages</li><li>Simple employment contract</li></ul></td>
 </tr>

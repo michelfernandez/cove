@@ -89,7 +89,7 @@ Sofort einsatzbereit dank geringeren Auflagen
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **Die fortgeschrittene elektronische Signatur (FES) ist rechtsgültig bei Verträgen, bei denen das Gesetz keine spezielle Form vorschreibt.**
-Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- oder Hypothekarverträgen. Jeder, der eine Schweizer Mobiltelefonnummer hat, kann auf Skribble sofort mit dem Signieren mit FES loslegen.
+Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- oder Hypothekarverträgen. Jeder, der eine Schweizer Mobiltelefonnummer hat oder zu einer für FES für Business registrierten Firma gehört, kann sofort mit dem Signieren mit FES loslegen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -122,7 +122,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tr>
 <td><div class="icon-fes">FES</div></td>
 <td><strong>Hoch</strong></td>
-<td><ul><li>Schweizer Mobiltelefonnummer</li></ul></td>
+<td><ul><li>Schweizer Mobiltelefonnummer</li><li>Firmen-E-Mail-Adresse</li></ul></td>
 <td><ul><li>Formfreie Verträge</li></ul></td>
 <td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
 </tr>
