@@ -127,7 +127,7 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 </tr>
 
 <tr>
-<td><div class="icon-ses">SEA</div></td>
+<td><div class="icon-ses">SES</div></td>
 <td><strong>Standard</strong></td>
 <td><ul><li>Adresse électronique</li></ul></td>
 <td><ul><li>Contrats sans forme sur la base de rapports contractuels hiérarchiques</li></ul></td>

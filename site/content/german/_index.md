@@ -103,7 +103,7 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Mit Skribble erfüllst du <br class="hide-for-mobile">die rechtlichen Anforderungen
+# Mit Skribble erfüllst du die rechtlichen Anforderungen
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -126,10 +126,10 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Mit Skribble maximierst du die Beweiskraft deiner Signatur
-Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES),
-der fortgeschrittenen E-Signatur (FES) und der einfachen E-Signatur (EES). 
-Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
+# Signiere immer mit dem optimalen Standard 
+Das Gesetz unterscheidet drei Signaturstandards. Sie variieren 
+punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhältst 
+du alle Standards aus einer Hand.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -144,8 +144,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 >}}
 
 {{% markdown %}}
-**Auf Skribble kannst du zwischen
-den Signaturstandards EES, FES und QES wählen.**
+**Auf Skribble hast du die Wahl zwischen den Signaturstandards QES, FES und EES.**
 {{% /markdown %}}
 {{< /cta >}}
 
