@@ -155,7 +155,7 @@ of area of application and legal weight.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="A large company building with a big cursor." >}}
+{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="A large company building with a big cursor." >}}
 {{% markdown %}}
 ## Organisation-wide implementation with just a few clicks
 Enable your entire staff to sign with the advanced electronic signature (AES) within just a few days.
