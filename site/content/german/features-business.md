@@ -46,7 +46,20 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
     description="Sehe die aktuelle und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
-{{< content text=center top=24 bottom=12 width=narrow >}}
+{{< content text=center top=4 bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
+den Alltag für uns und unseren Kunden."{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business bettet sich in deine bestehende Infrastruktur ein
 Das Onboarding neuer Signierenden ist intuitiv und schnell.
@@ -69,15 +82,14 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 
 {{< /features-container >}}
 
+{{< content text=center bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
-den Alltag für uns und unseren Kunden."{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Organisationsweite Einführung ist einfach und schnell
 Befähige neue und bestehende Mitarbeitende in kürzester Zeit
@@ -103,7 +115,7 @@ Geeignet für Verträge ohne Formvorschrift.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 img=onboarding-qes-de img-width=380 img-alt="Ein grosser Vertrag (QES) mit einem Gericht" >}}
+{{< side-by-side top=4 bottom=12 img=onboarding-qes-de img-width=380 img-alt="Ein grosser Vertrag (QES) mit einem Gericht" >}}
 {{% markdown %}}
 ## Onboarding für die qualifizierte elektronische Signatur (QES)
 Identifikationsservices für höchste Ansprüche an die Beweiskraft der Signatur.
@@ -119,7 +131,7 @@ Geeignet für Verträge mit Formvorschrift.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=8 bottom=8 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Ideales Kosten-Nutzen-Verhältnis
 Wähle das passende Preismodell für deine Organisation

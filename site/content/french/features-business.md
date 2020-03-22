@@ -47,7 +47,20 @@ avec une administration centrale des membres et une facturation commune.
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{< content text=center top=24 bottom=12 width=narrow >}}
+{{< content text=center bottom=12 width=narrow >}}
+{{% markdown %}}
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
+Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Skribble Business s'intègre <br class="hide-for-mobile">dans votre infrastructure existante
 L'intégration des nouveaux signataires est intuitive et rapide.
@@ -72,12 +85,6 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
-Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # La mise en œuvre à l'échelle de l'organisation est simple et rapide
@@ -89,7 +96,7 @@ ou à la norme de signature souhaitée.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=12 bottom=12 img-position=right img=onboarding-sea-fr img-width=460 img-alt="Un grand contrat (FES) devant une maison" >}}
+{{< side-by-side top=8 bottom=12 img-position=right img=onboarding-sea-fr img-width=460 img-alt="Un grand contrat (FES) devant une maison" >}}
 {{% markdown %}}
 ## Intégration pour la signature électronique avancée (SEA)
 Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux contrats sans exigences formelles.
@@ -104,7 +111,7 @@ Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux c
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{< side-by-side top=4 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
@@ -120,7 +127,7 @@ Services d'identification pour les plus hautes exigences en matière de force pr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Rapport coût-bénéfice idéal
 Choisissez le bon modèle de prix pour votre organisation.
