@@ -52,7 +52,7 @@ With Skribble you not only sign legally, but also with ease.
 
   {{< features-item src="features/assign-signer.svg"
     headline="Assign signatures"
-    description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
+    description="Pass on a received signature invitation to the required people.">}}
 
 {{< /features-container >}}
 
