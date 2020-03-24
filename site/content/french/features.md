@@ -51,7 +51,7 @@ légalement valable, mais aussi simple.
 
   {{< features-item src="features/assign-signer.svg"
     headline="Assigner la signature"
-    description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
+    description="Transmettez une invitation de signature reçue aux personnes requises.">}}
 
 {{< /features-container >}}
 
