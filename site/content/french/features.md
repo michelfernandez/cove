@@ -50,7 +50,7 @@ légalement valable, mais aussi simple.
     description="Permettre aux signataires d'inviter d'autres personnes à signer.">}}
 
   {{< features-item src="features/assign-signer.svg"
-    headline="Assigner la signature"
+    headline="Assigner les signatures"
     description="Transmettez une invitation de signature reçue aux personnes requises.">}}
 
 {{< /features-container >}}
