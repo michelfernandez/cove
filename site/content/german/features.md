@@ -46,7 +46,7 @@ sondern auch einfach.
     description="Personalisiere deine persönliche visuelle Signatur und laden deine handschriftliche Unterschrift als PNG, JPG oder GIF hoch.">}}
   
   {{< features-item src="features/additional-signer.svg"
-    headline="Einladen zum Signieren"
+    headline="Signaturanfrage erweitern"
     description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
 
   {{< features-item src="features/assign-signer.svg"
