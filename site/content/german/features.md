@@ -47,7 +47,7 @@ sondern auch einfach.
   
   {{< features-item src="features/additional-signer.svg"
     headline="Signaturanfrage erweitern"
-    description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
+    description="Erlaube den Signierenden, zusätzliche Personen zum Signieren einzuladen.">}}
 
   {{< features-item src="features/assign-signer.svg"
     headline="Signaturen zuweisen"
