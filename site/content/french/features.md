@@ -47,7 +47,7 @@ légalement valable, mais aussi simple.
 
   {{< features-item src="features/additional-signer.svg"
     headline="Étendre la demande de signature"
-    description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
+    description="Permettre aux signataires d'inviter d'autres personnes à signer.">}}
 
   {{< features-item src="features/assign-signer.svg"
     headline="Assigner la signature"
