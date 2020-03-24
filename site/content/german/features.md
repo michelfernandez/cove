@@ -51,7 +51,7 @@ sondern auch einfach.
 
   {{< features-item src="features/assign-signer.svg"
     headline="Signaturen zuweisen"
-    description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
+    description="Leite eine erhaltene Signatureinladung an die erforderlichen Personen weiter.">}}
 
 {{< /features-container >}}
 
