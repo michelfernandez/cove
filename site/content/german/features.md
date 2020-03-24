@@ -50,7 +50,7 @@ sondern auch einfach.
     description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
 
   {{< features-item src="features/assign-signer.svg"
-    headline="Signatur zuweisen"
+    headline="Signaturen zuweisen"
     description="TODO: New text to lorem ipsum dolor et ipsum set…">}}
 
 {{< /features-container >}}
