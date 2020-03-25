@@ -46,8 +46,7 @@ With Skribble you not only sign legally, but also with ease.
     description="Customise your personal visual signature and upload your personal handwritten signature as a PNG, JPG or GIF.">}}
 
   {{< features-item src="features/additional-signer.svg"
-    headline="Extend signature request
-"
+    headline="Extend signature request"
     description="Allow the signers to invite additional people to sign.">}}
 
   {{< features-item src="features/assign-signer.svg"
