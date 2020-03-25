@@ -112,9 +112,9 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 <tbody>
 <tr>
 <td><div class="icon-qes">SEQ</div></td>
-<td><strong>Très haute</strong></td>
+<td><strong>Maximale</strong></td>
 <td><ul><li>Identification personnelle ou e-ID</li><li>Numéro de téléphone mobile</li></ul></td>
-<td><ul><li>Contrats avec exigence de forme écrite</li><li>Maximiser la force probante des contrats informels (minimisation des risques)</li></ul></td>
+<td><ul><li>Contrats exigeant la forme écrite</li><li>Maximiser la force probante des contrats informels (minimisation des risques)</li></ul></td>
 <td><ul><li>Contrat de crédit</li><li>Contrat de travail avec clause de concurrence</li><li>Accord non formel délicat</li></ul></td>
 </tr>
 
@@ -122,16 +122,16 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 <td><div class="icon-fes">SEA</div></td>
 <td><strong>Haute</strong></td>
 <td><ul><li>Numéro de téléphone mobile suisse</li><li>Adresse e-mail professionnelle</li></ul></td>
-<td><ul><li>Contrats sans exigence de forme</li></ul></td>
+<td><ul><li>Contrats sans exigence formelle</li></ul></td>
 <td><ul><li>Contrats de location</li><li>Contrats d'achat</li><li>Hypothèques</li><li>Contrat de travail simple</li></ul></td>
 </tr>
 
 <tr>
 <td><div class="icon-ses">SES</div></td>
-<td><strong>Standard</strong></td>
+<td><strong>De base</strong></td>
 <td><ul><li>Adresse électronique</li></ul></td>
-<td><ul><li>Contrats sans forme sur la base de rapports contractuels hiérarchiques</li></ul></td>
-<td><ul><li>Lettre d'information</li><li>Annonces</li><li>Processus organisationnels internes</li></ul></td>
+<td><ul><li>Documents informels</li></ul></td>
+<td><ul><li>Lettre d'information</li><li>Annonces</li><li>Documents d'organisation interne</li></ul></td>
 </tr>
 </tbody>
 

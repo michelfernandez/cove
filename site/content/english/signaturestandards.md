@@ -113,7 +113,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 <tbody>
 <tr>
 <td><div class="icon-qes">QES</div></td>
-<td><strong>Very high</strong></td>
+<td><strong>Maximum</strong></td>
 <td><ul><li>Personal identification or e-ID</li><li>Mobile phone number</li></ul></td>
 <td><ul><li>Contracts requiring the written form</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
 <td><ul><li>Loan agreement</li><li>Employment contract with competition clause</li><li>Sensitive contracts without formal requirement</li></ul></td>
@@ -129,10 +129,10 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 
 <tr>
 <td><div class="icon-ses">SES</div></td>
-<td><strong>Standard</strong></td>
+<td><strong>Basic</strong></td>
 <td><ul><li>e-mail address</li></ul></td>
-<td><ul><li>Non-formal contracts on the basis of superordinate contractual relationships</li></ul></td>
-<td><ul><li>Information letter</li><li>Unilateral notices</li><li>Internal organizational processes</li></ul></td>
+<td><ul><li>Informal documents</li></ul></td>
+<td><ul><li>Information letter</li><li>Unilateral notices</li><li>Internal organizational documents</li></ul></td>
 </tr>
 </tbody>
 

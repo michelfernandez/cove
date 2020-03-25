@@ -113,7 +113,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tbody>
 <tr>
 <td><div class="icon-qes">QES</div></td>
-<td><strong>Sehr Hoch</strong></td>
+<td><strong>Maximal</strong></td>
 <td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnummer</li></ul></td>
 <td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
 <td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
@@ -123,16 +123,16 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <td><div class="icon-fes">FES</div></td>
 <td><strong>Hoch</strong></td>
 <td><ul><li>Schweizer Mobiltelefonnummer</li><li>Firmen-E-Mail-Adresse</li></ul></td>
-<td><ul><li>Formfreie Verträge</li></ul></td>
+<td><ul><li>Verträge ohne Formvorschrift</li></ul></td>
 <td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
 </tr>
 
 <tr>
 <td><div class="icon-ses">EES</div></td>
-<td><strong>Standard</strong></td>
+<td><strong>Basic</strong></td>
 <td><ul><li>E-Mail Adresse</li></ul></td>
-<td><ul><li>Formfreie Verträge auf Basis übergeordneter Vertragsbeziehungen</li></ul></td>
-<td><ul><li>Informationsschreiben</li><li>Bekanntmachungen</li><li>Organisationsinterne Prozesse</li></ul></td>
+<td><ul><li>Informelle Dokumente</li></ul></td>
+<td><ul><li>Informationsschreiben</li><li>Bekanntmachungen</li><li>Organisationsinterne Dokumente</li></ul></td>
 </tr>
 </tbody>
 
