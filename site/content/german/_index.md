@@ -151,7 +151,7 @@ den Signaturstandards FES und QES wählen.**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
+{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
 {{% markdown %}}
 ## Organisationsweite Einführung mit wenigen Klicks
 Deine gesamte Mitarbeiterschaft kann innert weniger Tage mit der fortgeschrittenen elektronischen Signatur (FES) signieren.

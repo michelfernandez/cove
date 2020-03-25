@@ -148,7 +148,7 @@ en termes de domaine d'application et de force probante. Sur Skribble, vous pouv
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
+{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
 {{% markdown %}}
 ## Implémentation à toute l'organisation en quelques clics
 Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA) en quelques jours seulement.
