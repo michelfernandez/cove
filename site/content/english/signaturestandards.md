@@ -212,7 +212,7 @@ Instantly operational thanks to lower requirements
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**
-This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number or is a memeber of a registered AES for Business company can start signing with AES immediately.
+This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number or is a member of a registered AES for Business company can start signing with AES immediately.
 {{% /markdown %}}
 {{< /content >}}
 
