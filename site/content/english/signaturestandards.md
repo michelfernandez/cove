@@ -10,13 +10,137 @@ slug: signaturestandards
 {{% markdown %}}
 # How much legal weight does my e-signature need?
 The law distinguishes between qualified e-signatures (QES),
-advanced e-signatures (AES) and simple electronic signature (SES). 
-The three standards vary in terms of area of application 
+advanced e-signatures (AES) and simple electronic signature (SES).
+The three standards vary in terms of area of application
 and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Evidential value of the AES and the QES" >}}
+{{< table bottom=12 lock-for-mobile="true" class="table--qualities" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">AES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">Beweiskraft</th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=SES
+        top-right="Einfache elektronische Signature "
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Hoch
+        top-left=FES
+        top-right="Fortgeschrittene elektronische Signatur "
+        bottom-right="Adobe Trust-list compatible "
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Hoch
+        top-left=QES
+        top-right="Qualifizierte elektronische Signatur "
+        bottom-right="ZertES, eIDAS "
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Anwendung</th>
+    <td>
+{{% markdown %}}
+**Dokumente**
+ohne Formvorschrift
+
+**Beispiel**
+Interne Dokumente
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Dokumente**
+ohne gesetzliche
+Formvorschrift
+
+**Beispiel**
+Miet- oder Kaufvertrag
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Verträge**
+mit Formvorschrift
+
+**Beispiel**
+Arbeits- oder Kreditvertrag
+{{% /markdown %}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Rechtssicherheit</th>
+    <td>
+{{% markdown %}}
+**Keine Anforderungen**
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Hohe Anforderungen**
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Maximale Anforderungen**
+{{% /markdown %}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">Vertrauen</th>
+    <td>
+{{% markdown %}}
+**Minimales Vertrauen**
+in gentutzte Identität garantiert
+
+**Beispiel**
+• E-Mail Adresse
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Hohes Vertrauen**
+in gentutzte Identität
+garantiert
+
+**Beispiel**
+• Mobile Telefonnummer CH
+• Firmen E-Mail Adresse
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Maximales Vertrauen**
+in gentutzte Identität garantiert
+
+**Beispiel**
+• Identifikation durch
+  authorisierte ID-Stellen
+• Starke 2-Faktor-
+  Authentisierung
+{{% /markdown %}}
+    </td>
+  </tr>
+</tbody>
+{{< /table >}}
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
@@ -88,7 +212,7 @@ Instantly operational thanks to lower requirements
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **The advanced electronic signature (AES) is legally valid for contracts where the law does not prescribe a specific form.**
-This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number or is a memeber of a registered AES for Business company can start signing with AES immediately. 
+This applies to most types of contracts, such as rental, purchase or mortgage agreements. Anyone who has a Swiss mobile phone number or is a memeber of a registered AES for Business company can start signing with AES immediately.
 {{% /markdown %}}
 {{< /content >}}
 

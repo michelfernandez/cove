@@ -4,6 +4,24 @@
   border-collapse: collapse;
   font-size: 1.6rem;
 
+  &-lock-container {
+    overflow: hidden;
+    @media only screen and (max-width: 870px) {
+      overflow: auto;
+      max-width: 100%;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+
+    .table {
+      min-width: 870px;
+    }
+  }
+
+  &--fixed {
+    table-layout: fixed;
+  }
+
   tr {
     td {
       &:first-child {
@@ -47,6 +65,55 @@
     color: $c-text-alt;
     @include max-width {
       font-size: 1.8rem;
+    }
+  }
+
+  &--qualities {
+    border-bottom: 0;
+
+    &, strong {
+      font-size: 1.4rem;
+    }
+
+    thead th {
+      width: 25%;
+      height: 0;
+      padding: 0;
+      font-size: .1px;
+      color: transparent;
+    }
+
+    tbody {
+      tr {
+        &:first-child td {
+          border: 0;
+        }
+      }
+    }
+
+    tr td:last-child {
+      padding-right: 20px;
+    }
+
+    td {
+      border: 1px solid $c-border;
+    }
+
+    th {
+      font-weight: bold;
+      color: $c-text-alt;
+    }
+
+    th, td {
+      padding: 20px;
+      vertical-align: top;
+      white-space: normal;
+    }
+
+    .signature-quality-bar,
+    tr .signature-quality-bar:last-child {
+      padding: 0;
+      vertical-align: bottom;
     }
   }
 }
