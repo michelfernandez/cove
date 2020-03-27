@@ -27,7 +27,9 @@ and legal weight.
 </thead>
 <tbody>
   <tr>
-    <th scope="row">Beweiskraft</th>
+    <th scope="row">
+      <div class="table__row-title">Beweiskraft</div>
+    </th>
     <td class="signature-quality-bar">
       {{< signature-quality-bar
         class=ses
@@ -56,7 +58,9 @@ and legal weight.
     </td>
   </tr>
   <tr>
-    <th scope="row">Anwendung</th>
+    <th scope="row">
+      <div class="table__row-title">Anwendung</div>
+    </th>
     <td>
 {{% markdown %}}
 **Dokumente**
@@ -87,7 +91,9 @@ Arbeits- oder Kreditvertrag
     </td>
   </tr>
   <tr>
-    <th scope="row">Rechtssicherheit</th>
+    <th scope="row">
+      <div class="table__row-title">Rechtssicherheit</div>
+    </th>
     <td>
 {{% markdown %}}
 **Keine Anforderungen**
@@ -105,7 +111,9 @@ Arbeits- oder Kreditvertrag
     </td>
   </tr>
   <tr>
-    <th scope="row">Vertrauen</th>
+    <th scope="row">
+      <div class="table__row-title">Vertrauen</div>
+    </th>
     <td>
 {{% markdown %}}
 **Minimales Vertrauen**
