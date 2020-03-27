@@ -69,18 +69,28 @@
   }
 
   &--qualities {
+    width: 870px;
+    margin-left: auto;
+    margin-right: auto;
     border-bottom: 0;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
 
     &, strong {
       font-size: 1.4rem;
     }
 
     thead th {
-      width: 25%;
+      width: 26%;
       height: 0;
       padding: 0;
       font-size: .1px;
       color: transparent;
+      &:first-child {
+        width: 22%;
+      }
     }
 
     tbody {
@@ -121,7 +131,7 @@
       &:before {
         position: absolute;
         left: 0;
-        right: 20px;
+        right: 40px;
         top: 0;
         height: 2px;
         background: $c-border;
