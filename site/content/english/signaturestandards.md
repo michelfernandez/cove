@@ -16,7 +16,7 @@ and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< table bottom=12 lock-for-mobile="true" class="table--qualities" layout=fixed >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities" layout=fixed >}}
 <thead>
   <tr>
     <th scope="col"></th>
