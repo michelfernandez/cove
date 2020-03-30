@@ -206,6 +206,8 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 {{% markdown %}}
 # Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
+
+**Bald verfügbar:**
 {{% /markdown %}}
 
 {{< picture e-id-map 790 "E-ID, wo du in kürze bei Skribble signieren kannst." >}}
