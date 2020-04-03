@@ -132,7 +132,74 @@ unique pour toutes les normes.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture force_probante 664 "Force_Probante" >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">SEA</th>
+    <th scope="col">SEQ</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basique
+        top-left=SES
+        top-right="Signature électronique simple"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Elevée
+        top-left=SEA
+        top-right="Signature électronique avancée"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=SEQ
+        top-right="Signature électronique qualifiée"
+        bottom-right="équivaut à une signature manuscrite devant la loi"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+    <td>
+{{% markdown %}}
+
+**Documents**
+sans exigences formelles juridiques avec un faible risque de responsabilité.
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+sans exigence formelle juridique avec un risque de responsabilité calculable.
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Documents**
+avec exigences formelles juridiques ou avec un risque de responsabilité fort. 
+
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
 
 {{< cta
   bottom=24

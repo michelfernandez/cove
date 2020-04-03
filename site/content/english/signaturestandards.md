@@ -28,125 +28,84 @@ and legal weight.
 <tbody>
   <tr>
     <th scope="row">
-      <div class="table__row-title">Beweiskraft</div>
+      <div class="table__row-title">Legal weight</div>
     </th>
     <td class="signature-quality-bar">
       {{< signature-quality-bar
         class=ses
         title=Basic
         top-left=SES
-        top-right="Einfache elektronische Signature "
+        top-right="Simple electronic signature"
       >}}
     </td>
     <td class="signature-quality-bar">
       {{< signature-quality-bar
         class=aes
-        title=Hoch
-        top-left=FES
-        top-right="Fortgeschrittene elektronische Signatur "
-        bottom-right="Adobe Trust-list compatible "
+        title=High
+        top-left=AES
+        top-right="Advanced electronic signature"
+        bottom-right=""
       >}}
     </td>
     <td class="signature-quality-bar">
       {{< signature-quality-bar
         class=qes
-        title=Hoch
+        title=Maximum
         top-left=QES
-        top-right="Qualifizierte elektronische Signatur "
-        bottom-right="ZertES, eIDAS "
+        top-right="Qualified electronic signature"
+        bottom-right="Legally equivalent to the handwritten signature"
       >}}
     </td>
   </tr>
   <tr>
     <th scope="row">
-      <div class="table__row-title">Anwendung</div>
+      <div class="table__row-title">Area of application</div>
     </th>
     <td>
 {{% markdown %}}
-**Dokumente**
-ohne Formvorschrift
+**Documents**
+without formal requirements with low liability risk
+&nbsp;
 
-**Beispiel**
-Interne Dokumente
+**Examples:**
+Supplier offers
+Orders
+Organization internal documents
+Announcements
+
 {{% /markdown %}}
     </td>
     <td>
 {{% markdown %}}
-**Dokumente**
-ohne gesetzliche
-Formvorschrift
+**Documents**
+without legal form requirement and with calculable liability risk.
 
-**Beispiel**
-Miet- oder Kaufvertrag
+
+**Examples:**
+Rental agreement 
+Contract of sale
+Simple employment contract
+Account opening
+
 {{% /markdown %}}
     </td>
     <td>
 {{% markdown %}}
-**Verträge**
-mit Formvorschrift
+**Documents**
+with legal form requirements or high liability risk.
+&nbsp;
 
-**Beispiel**
-Arbeits- oder Kreditvertrag
+**Examples:**
+Consumer credit contract
+Temporary employment contracts
+Management employment contracts
+Audit reports
+Entries with authorities
+
 {{% /markdown %}}
     </td>
   </tr>
-  <tr>
-    <th scope="row">
-      <div class="table__row-title">Rechtssicherheit</div>
-    </th>
-    <td>
-{{% markdown %}}
-**Keine Anforderungen**
-{{% /markdown %}}
-    </td>
-    <td>
-{{% markdown %}}
-**Hohe Anforderungen**
-{{% /markdown %}}
-    </td>
-    <td>
-{{% markdown %}}
-**Maximale Anforderungen**
-{{% /markdown %}}
-    </td>
-  </tr>
-  <tr>
-    <th scope="row">
-      <div class="table__row-title">Vertrauen</div>
-    </th>
-    <td>
-{{% markdown %}}
-**Minimales Vertrauen**
-in gentutzte Identität garantiert
 
-**Beispiel**
-• E-Mail Adresse
-{{% /markdown %}}
-    </td>
-    <td>
-{{% markdown %}}
-**Hohes Vertrauen**
-in gentutzte Identität
-garantiert
-
-**Beispiel**
-• Mobile Telefonnummer CH
-• Firmen E-Mail Adresse
-{{% /markdown %}}
-    </td>
-    <td>
-{{% markdown %}}
-**Maximales Vertrauen**
-in gentutzte Identität garantiert
-
-**Beispiel**
-• Identifikation durch
-  authorisierte ID-Stellen
-• Starke 2-Faktor-
-  Authentisierung
-{{% /markdown %}}
-    </td>
-  </tr>
 </tbody>
 {{< /table >}}
 
@@ -224,7 +183,27 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 bottom=6 width=narrow >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+# SES: The digital handshake
+The one-click solution for everyday documents
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture ses-visual 297 "A woman sitting on a chair and signing a contract on a laptop." >}}
+
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
+**The simple electronic signature (EES) is used when there is a low liability risk.**
+It is legally valid for documents where the law does not prescribe a specific form. Typical use cases are information letters, orders and internal documents. Anyone who has an e-mail address can start signing with EES immediately on Skribble.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 bottom=6 width=narrow >}}
 {{% markdown %}}
 ## QES vs. AES vs. SES at a glance
 {{% /markdown %}}
@@ -236,7 +215,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 <tr>
 <th>Standard</th>
 <th>Legal weight </th>
-<th>Requirements</th>
+<th>Identification requirements</th>
 <th>Area of application</th>
 <th>Examples</th>
 </tr>
@@ -246,25 +225,25 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 <tr>
 <td><div class="icon-qes">QES</div></td>
 <td><strong>Maximum</strong></td>
-<td><ul><li>Personal identification or e-ID</li><li>Mobile phone number</li></ul></td>
-<td><ul><li>Contracts requiring the written form</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
-<td><ul><li>Loan agreement</li><li>Employment contract with competition clause</li><li>Sensitive contracts without formal requirement</li></ul></td>
+<td><ul><li>Personal identification/ verified e-ID and</li><li>Mobile phone number</li></ul></td>
+<td><ul><li>Documents with legal form requirements (requiring the written form)</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
+<td><ul><li>Consumer credit contract</li><li>Temporary employment contracts</li><li>Management employment contracts</li><li>Audit reports</li><li>Entries with authorities</li><li>Contracts of high value or long duration</li></ul></td>
 </tr>
 
 <tr>
 <td><div class="icon-fes">AES</div></td>
 <td><strong>High</strong></td>
-<td><ul><li>Swiss mobile phone number</li><li>Company e-mail address</li></ul></td>
-<td><ul><li>Contracts without formal requirement</li></ul></td>
-<td><ul><li>Rental contracts</li><li>Purchase contracts</li><li>Mortgages</li><li>Simple employment contract</li></ul></td>
+<td><ul><li>Swiss mobile phone number or</li><li>AES-enabled company e-mail address</li></ul></td>
+<td><ul><li>Documents without legal form requirement and with calculable liability risk</li></ul></td>
+<td><ul><li>Rental agreement</li><li>Contract of sale</li><li>Simple employment contract</li><li>Account opening</li><li>Mortgages</li></ul></td>
 </tr>
 
 <tr>
 <td><div class="icon-ses">SES</div></td>
 <td><strong>Basic</strong></td>
-<td><ul><li>e-mail address</li></ul></td>
-<td><ul><li>Informal documents</li></ul></td>
-<td><ul><li>Information letter</li><li>Unilateral notices</li><li>Internal organizational documents</li></ul></td>
+<td><ul><li>E-mail address</li></ul></td>
+<td><ul><li>Documents without formal requirements with low liability risk</li></ul></td>
+<td><ul><li>Supplier offers</li><li>Orders</li><li>Organization internal documents</li><li>Announcements</li><li>Information letters</li><li>Informal documents</li></ul></td>
 </tr>
 </tbody>
 
@@ -276,7 +255,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 {{< cta
   label="Contact Skribble"
   href="mailto:info@skribble.com"
-  outlined=""
+  outlined="true"
 >}}
 
 {{< picture "contact" 92 "Do you have any questions? We will be happy to help you." >}}

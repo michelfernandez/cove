@@ -15,7 +15,99 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture beweiskraft 664 "Beweiskraft der FES und der QES" >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">EES</th>
+    <th scope="col">FES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">
+      <div class="table__row-title">Beweiskraft</div>
+    </th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=EES
+        top-right="Einfache elektronische Signatur"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Hoch
+        top-left=FES
+        top-right="Fortgeschrittene elektronische Signatur"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximal
+        top-left=QES
+        top-right="Qualifizierte elektronische Signatur"
+        bottom-right="Handschriftlichen Unterschrift vor dem Gesetz gleichgestellt"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">
+      <div class="table__row-title">Anwendung</div>
+    </th>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko
+&nbsp;
+
+**Beispiele:**
+Lieferanten-Offerten
+Bestellungen/Aufträge
+Organisationsinterne Dokumente
+Bekanntmachungen
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Dokumente**
+ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko
+
+**Beispiele:**
+Mietvertrag 
+Kaufvertrag
+Einfacher Arbeitsvertrag
+Kontoeröffnung
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Dokumente**
+mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko 
+&nbsp;
+
+**Beispiele:**
+Konsumkreditvertrag
+Leiharbeitsverträge Kader-Arbeitsverträge
+Revisionsberichte
+Behördendokumente
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
@@ -93,7 +185,27 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 width=narrow >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+# EES: Der digitale Handschlag
+Die Ein-Klick-Lösung für Alltagsdokumente
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture ses-visual 297 "Eine Frau sitz auf dem Stuhl vor ihrem Laptop." >}}
+
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
+**Die einfache elektronische Signatur (EES) kommt zur Anwendung, wenn ein geringes Haftungsrisiko vorliegt.**
+Sie ist rechtsgültig bei Dokumenten, bei denen das Gesetz keine spezielle Form vorschreibt. Typische Anwendungsfälle sind Informationsschreiben, Bestellungen und organisationsinterne Dokumente. Jeder, der über eine E-Mail-Adresse verfügt, kann auf Skribble sofort mit dem Signieren mit EES loslegen.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## QES vs. FES vs. EES auf einen Blick
 {{% /markdown %}}
@@ -104,7 +216,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tr>
 <th>Standard</th>
 <th>Beweiskraft</th>
-<th>Voraussetzungen</th>
+<th>Identifizierungs-Anforderungen</th>
 <th>Anwendungsbereich</th>
 <th>Anwendungsbeispiele</th>
 </tr>
@@ -114,9 +226,9 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 <tr>
 <td><div class="icon-qes">QES</div></td>
 <td><strong>Maximal</strong></td>
-<td><ul><li>Persönliche Identifikation oder E-ID</li><li>Mobiltelefonnummer</li></ul></td>
-<td><ul><li>Verträge mit Schriftlichkeitserfordernis</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
-<td><ul><li>Kreditvertrag</li><li>Arbeitsvertrag mit Konkurrenzklausel</li><li>heikler formfreier Vertrag</li></ul></td>
+<td><ul><li>Persönliche Identifikation/ verifizierte E-ID und</li><li>Mobiltelefonnummer</li></ul></td>
+<td><ul><li>Dokumente mit gesetzlicher Formvorschrift (Schriftlichkeitserfordernis)</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
+<td><ul><li>Konsumkreditvertrag</li><li>Leiharbeitsverträge Kader-Arbeitsverträge</li><li>Revisionsberichte</li><li>Behördendokumente</li></ul></td>
 </tr>
 
 <tr>
@@ -143,7 +255,7 @@ Das trifft für die meisten Vertragsarten zu, so zum Beispiel bei Miet-, Kauf- o
 {{< cta
   label="Skribble kontaktieren"
   href="mailto:info@skribble.com"
-  outlined=""
+  outlined="true"
 >}}
 
 {{< picture "contact" 92 "Hast du Fragen? Wir helfen dir gerne weiter." >}}

@@ -16,7 +16,100 @@ et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture force_probante 664 "Force probante de la SEQ et de la SEA" >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">SEA</th>
+    <th scope="col">SEQ</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">
+      <div class="table__row-title">Force probante</div>
+    </th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basique
+        top-left=SES
+        top-right="Signature électronique simple"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Elevée
+        top-left=SEA
+        top-right="Signature électronique avancée"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=SEQ
+        top-right="Signature électronique qualifiée"
+        bottom-right="équivaut à une signature manuscrite devant la loi"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row">
+      <div class="table__row-title">Champ d'application</div>
+    </th>
+    <td>
+{{% markdown %}}
+
+**Documents**
+sans exigences formelles juridiques avec un faible risque de responsabilité.
+
+**Exemples :**
+Offres des fournisseurs
+Commandes/ordonnances
+Documents internes de l'organisation
+Annonces
+
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+**Documents**
+sans exigence formelle juridique avec un risque de responsabilité calculable.
+
+**Exemples :**
+Contrat de location 
+Contrat de vente
+Contrat de travail simple
+Ouverture de compte
+
+
+{{% /markdown %}}
+    </td>
+    <td>
+{{% markdown %}}
+
+**Documents**
+avec exigences formelles juridiques ou avec un risque de responsabilité fort. 
+
+**Exemples :**
+Contrat de crédit à la consommation
+Contrats de travail temporaire
+Contrats de travail de cadres 
+Rapports d'audit
+Soumissions aux autorités
+{{% /markdown %}}
+    </td>
+  </tr>
+
+</tbody>
+{{< /table >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
@@ -91,7 +184,27 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 bottom=6 width=narrow >}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+# SES : La poignée de main numérique
+La solution en un seul clic pour les documents de tous les jours
+{{% /markdown %}}
+{{< /content >}}
+
+{{< picture ses-visual 297 "Une femme est assise sur la chaise devant son ordinateur portable." >}}
+
+{{< content top=6 bottom=6 width=narrow >}}
+{{% markdown %}}
+**La signature électronique simple (SES) est utilisée si le risque de responsabilité est faible.**
+Elle est juridiquement valable si la loi ne prescrit pas de forme particulière. Les cas d'utilisation typiques sont les lettres d'information, les commandes et les documents internes. Toute personne disposant d'une adresse électronique peut commencer à signer avec la SES immédiatement sur Skribble.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 bottom=6 width=narrow >}}
 {{% markdown %}}
 ## SEQ vs SAE vs SES en un coup d'œil
 {{% /markdown %}}
@@ -103,7 +216,7 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 <tr>
 <th>Norme</th>
 <th>Force probante</th>
-<th>Prérequis</th>
+<th>Prérequis d'identification</th>
 <th>Champ d'application	</th>
 <th>Exemples d'application</th>
 </tr>
@@ -112,26 +225,26 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 <tbody>
 <tr>
 <td><div class="icon-qes">SEQ</div></td>
-<td><strong>Maximale</strong></td>
-<td><ul><li>Identification personnelle ou e-ID</li><li>Numéro de téléphone mobile</li></ul></td>
-<td><ul><li>Contrats exigeant la forme écrite</li><li>Maximiser la force probante des contrats informels (minimisation des risques)</li></ul></td>
-<td><ul><li>Contrat de crédit</li><li>Contrat de travail avec clause de concurrence</li><li>Accord non formel délicat</li></ul></td>
+<td><strong>Maximum</strong></td>
+<td><ul><li>Identification personnelle/ e-ID verifiée et</li><li>Numéro de téléphone mobile</li></ul></td>
+<td><ul><li>Documents avec exigences formelles juridiques (exigence de forme écrite)</li><li>Maximiser la force probante des contrats informels (minimisation des risques)</li></ul></td>
+<td><ul><li>Contrat de crédit à la consommation</li><li>Contrats de travail temporaire</li><li>Contrats de travail de cadres</li><li>Rapports d'audit</li><li>Soumissions aux autorités</li><li>Contrats de grande valeur ou de longue durée</li></ul></td>
 </tr>
 
 <tr>
 <td><div class="icon-fes">SEA</div></td>
-<td><strong>Haute</strong></td>
-<td><ul><li>Numéro de téléphone mobile suisse</li><li>Adresse e-mail professionnelle</li></ul></td>
-<td><ul><li>Contrats sans exigence formelle</li></ul></td>
-<td><ul><li>Contrats de location</li><li>Contrats d'achat</li><li>Hypothèques</li><li>Contrat de travail simple</li></ul></td>
+<td><strong>Elevée</strong></td>
+<td><ul><li>Numéro de téléphone portable suisse ou</li><li>Adresse électronique d'entreprise activée pour la SEA</li></ul></td>
+<td><ul><li>Documents sans exigence formelle juridique avec un risque de responsabilité calculable.</li></ul></td>
+<td><ul><li>Contrat de location</li><li>Contrat de vente</li><li>Contrat de travail simple</li><li>Ouverture de compte</li><li>Hypothèques</li></ul></td>
 </tr>
 
 <tr>
 <td><div class="icon-ses">SES</div></td>
-<td><strong>De base</strong></td>
+<td><strong>Basique</strong></td>
 <td><ul><li>Adresse électronique</li></ul></td>
-<td><ul><li>Documents informels</li></ul></td>
-<td><ul><li>Lettre d'information</li><li>Annonces</li><li>Documents d'organisation interne</li></ul></td>
+<td><ul><li>Documents sans exigences formelles juridiques avec un faible risque de responsabilité</li></ul></td>
+<td><ul><li>Offres des fournisseurs</li><li>Commandes/ordonnances</li><li>Documents internes de l'organisation</li><li>Annonces</li><li>Lettres d'information</li><li>Documents informels</li></ul></td>
 </tr>
 </tbody>
 
@@ -142,7 +255,7 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 {{< cta
   label="Contacter Skribble"
   href="mailto:info@skribble.com"
-  outlined=""
+  outlined="true"
 >}}
 
 {{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
