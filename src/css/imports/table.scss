@@ -15,6 +15,10 @@
 
     .table {
       min-width: 870px;
+
+      &--qualities-no-legend {
+        min-width: 660px;
+      }
     }
   }
 
@@ -143,6 +147,14 @@
     tr .signature-quality-bar:last-child {
       padding: 0;
       vertical-align: bottom;
+    }
+
+    &-no-legend {
+      width: 660px;
+
+      thead th:first-child {
+        width: 0;
+      }
     }
   }
 }

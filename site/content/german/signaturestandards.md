@@ -68,10 +68,10 @@ ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
 &nbsp;
 
 **Beispiele:**
-Lieferanten-Offerten
-Bestellungen/Aufträge
-Organisationsinterne Dokumente
-Bekanntmachungen
+- Lieferanten-Offerten
+- Bestellungen/Aufträge
+- Organisationsinterne Dokumente
+- Bekanntmachungen
 
 {{% /markdown %}}
     </td>
@@ -81,10 +81,10 @@ Bekanntmachungen
 ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
 
 **Beispiele:**
-Mietvertrag 
-Kaufvertrag
-Einfacher Arbeitsvertrag
-Kontoeröffnung
+- Mietvertrag 
+- Kaufvertrag
+- Einfacher Arbeitsvertrag
+- Kontoeröffnung
 
 {{% /markdown %}}
     </td>
@@ -96,10 +96,10 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 &nbsp;
 
 **Beispiele:**
-Konsumkreditvertrag
-Leiharbeitsverträge Kader-Arbeitsverträge
-Revisionsberichte
-Behördendokumente
+- Konsumkreditvertrag
+- Leiharbeitsverträge Kader-Arbeitsverträge
+- Revisionsberichte
+- Behördendokumente
 {{% /markdown %}}
     </td>
   </tr>

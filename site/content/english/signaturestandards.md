@@ -68,10 +68,10 @@ without formal requirements with low liability risk.
 &nbsp;
 
 **Examples:**
-Supplier offers
-Orders
-Organization internal documents
-Announcements
+- Supplier offers
+- Orders
+- Organization internal documents
+- Announcements
 
 {{% /markdown %}}
     </td>
@@ -82,10 +82,10 @@ without legal form requirement and with calculable liability risk.
 
 
 **Examples:**
-Rental agreement 
-Contract of sale
-Simple employment contract
-Account opening
+- Rental agreement 
+- Contract of sale
+- Simple employment contract
+- Account opening
 
 {{% /markdown %}}
     </td>
@@ -96,11 +96,11 @@ with legal form requirements or high liability risk.
 &nbsp;
 
 **Examples:**
-Consumer credit contract
-Temporary employment contracts
-Management employment contracts
-Audit reports
-Entries with authorities
+- Consumer credit contract
+- Temporary employment contracts
+- Management employment contracts
+- Audit reports
+- Entries with authorities
 
 {{% /markdown %}}
     </td>

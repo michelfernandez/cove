@@ -68,10 +68,10 @@ et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 sans exigences formelles juridiques avec un faible risque de responsabilité.
 
 **Exemples :**
-Offres des fournisseurs
-Commandes/ordonnances
-Documents internes de l'organisation
-Annonces
+- Offres des fournisseurs
+- Commandes/ordonnances
+- Documents internes de l'organisation
+- Annonces
 
 
 {{% /markdown %}}
@@ -82,10 +82,10 @@ Annonces
 sans exigence formelle juridique avec un risque de responsabilité calculable.
 
 **Exemples :**
-Contrat de location 
-Contrat de vente
-Contrat de travail simple
-Ouverture de compte
+- Contrat de location 
+- Contrat de vente
+- Contrat de travail simple
+- Ouverture de compte
 
 
 {{% /markdown %}}
@@ -97,11 +97,11 @@ Ouverture de compte
 avec exigences formelles juridiques ou avec un risque de responsabilité fort. 
 
 **Exemples :**
-Contrat de crédit à la consommation
-Contrats de travail temporaire
-Contrats de travail de cadres 
-Rapports d'audit
-Soumissions aux autorités
+- Contrat de crédit à la consommation
+- Contrats de travail temporaire
+- Contrats de travail de cadres 
+- Rapports d'audit
+- Soumissions aux autorités
 {{% /markdown %}}
     </td>
   </tr>
