@@ -178,7 +178,7 @@ du alle Standards aus einer Hand.
 {{% markdown %}}
 
 **Dokumente**
-ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
 &nbsp;
 
 **Beispiele:**
@@ -192,7 +192,7 @@ Bekanntmachungen
     <td>
 {{% markdown %}}
 **Dokumente**
-ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko
+ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
 
 **Beispiele:**
 Mietvertrag 
@@ -206,7 +206,7 @@ Kontoeröffnung
 {{% markdown %}}
 
 **Dokumente**
-mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko 
+mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
 &nbsp;
 
 **Beispiele:**

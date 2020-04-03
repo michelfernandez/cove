@@ -52,7 +52,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
         title=Maximal
         top-left=QES
         top-right="Qualifizierte elektronische Signatur"
-        bottom-right="Handschriftlichen Unterschrift vor dem Gesetz gleichgestellt"
+        bottom-right="Der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt"
       >}}
     </td>
   </tr>
@@ -64,7 +64,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 {{% markdown %}}
 
 **Dokumente**
-ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
 &nbsp;
 
 **Beispiele:**
@@ -78,7 +78,7 @@ Bekanntmachungen
     <td>
 {{% markdown %}}
 **Dokumente**
-ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko
+ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
 
 **Beispiele:**
 Mietvertrag 
@@ -92,7 +92,7 @@ Kontoeröffnung
 {{% markdown %}}
 
 **Dokumente**
-mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko 
+mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
 &nbsp;
 
 **Beispiele:**

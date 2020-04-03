@@ -64,7 +64,7 @@ and legal weight.
     <td>
 {{% markdown %}}
 **Documents**
-without formal requirements with low liability risk
+without formal requirements with low liability risk.
 &nbsp;
 
 **Examples:**
