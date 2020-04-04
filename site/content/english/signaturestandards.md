@@ -80,9 +80,8 @@ without formal requirements with low liability risk.
 **Documents**
 without legal form requirement and with calculable liability risk.
 
-
 **Examples:**
-- Rental agreement 
+- Rental agreement
 - Contract of sale
 - Simple employment contract
 - Account opening
