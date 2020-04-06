@@ -8,7 +8,9 @@ slug: signaturestandards
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# How much legal weight does my e-signature need?
+How much legal weight 
+does my e-signature need?
+=========================
 The law distinguishes between qualified e-signatures (QES),
 advanced e-signatures (AES) and simple electronic signature (SES).
 The three standards vary in terms of area of application
@@ -126,7 +128,7 @@ with legal form requirements or high liability risk.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# QES: The same legal validity <br class="hide-for-mobile">as signing by hand
+# QES: The same legal validity as signing by hand
 The all-round carefree signature for the highest demands
 {{% /markdown %}}
 {{< /content >}}
