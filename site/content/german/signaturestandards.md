@@ -109,6 +109,20 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta
+  label="Mehr Infos"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/Skribble_Legal-Weight-Barometer.pdf.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Prüfe nach welche Sicherheits- und Vetrauensbasis du benötigst.** 
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # QES: Dieselbe Rechtssicherheit <br class="hide-for-mobile">wie das Unterschreiben von Hand

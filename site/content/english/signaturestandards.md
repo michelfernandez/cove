@@ -108,6 +108,22 @@ with legal form requirements or high liability risk.
 </tbody>
 {{< /table >}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta
+  label="More info"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/Skribble_Legal-Weight-Barometer.pdf.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Check what security and confidence base you need.** 
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # QES: The same legal validity <br class="hide-for-mobile">as signing by hand

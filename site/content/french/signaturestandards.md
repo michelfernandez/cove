@@ -111,6 +111,20 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta
+  label="Plus d'informations"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/Skribble_Legal-Weight-Barometer.pdf.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Vérifiez la base de sécurité et de confiance dont vous avez besoin.** 
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 # SEQ: La même sécurité juridique que la signature manuscrite
