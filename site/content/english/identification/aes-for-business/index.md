@@ -20,7 +20,7 @@ og_image: og/og-aes-for-business.jpg
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# AES for Business: Organisation-wide implementation with just a few clicks
+# AES for Business: Organisation-wide implementation within just a few days
 Enable your entire staff to sign with the advanced electronic signature.
 {{% /markdown %}}
 {{< /content >}}

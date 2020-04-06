@@ -20,7 +20,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# FES für Business: Organisationsweite Einführung mit wenigen Klicks
+# FES für Business: Organisationsweite Einführung in wenigen Tagen
 Deine gesamte Mitarbeiterschaft kann innerhalb kürzester Zeit mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
 {{% /markdown %}}
 {{< /content >}}

@@ -80,7 +80,8 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< picture aes-biz-teaser 90 "Ein Haus als Organisation und eine Pfeil." >}}
 
 {{% markdown %}}
-**FES für Business: Organisationsweite Einführung mit wenigen Klicks**
+**FES für Business**
+Organisationsweite Einführung in wenigen Tagen.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -94,7 +95,8 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
-**Signaturstandards: Wann nutze ich QES, wann FES?**
+**Signaturstandards**
+Wann nutze ich QES, wann FES?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

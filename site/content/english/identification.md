@@ -80,7 +80,8 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 {{< picture aes-biz-teaser 90 "A house as an organization and an arrow." >}}
 
 {{% markdown %}}
-**AES for Business - Organisation-wide implementation with a few clicks**
+**AES for Business**
+Organisation-wide implementation within just a few days.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -94,7 +95,8 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 {{< picture signaturestandard-teaser 90 "A hand with a fountain pen signs a green contract." >}}
 
 {{% markdown %}}
-**Signature standards - When do I use QES, when AES?**
+**Signature standards**
+When do I use QES, when AES?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}

@@ -81,7 +81,8 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 {{< picture aes-biz-teaser 90 "Une maison en tant qu'organisation et une flèche." >}}
 
 {{% markdown %}}
-**SEA pour Business : implémentation à toute l'organisation en quelques clics**
+**SEA pour Business :** 
+Implémentation à toute l’organisation en quelques jours seulement.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -96,7 +97,8 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 {{< picture signaturestandard-teaser 90 "Une main avec un stylo plume signe un contrat vert." >}}
 
 {{% markdown %}}
-**Normes de signature - Quand dois-je utiliser la SEQ, quand la SEA ?**
+**Normes de signature**
+Quand dois-je utiliser la SEQ, quand la SEA ?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
