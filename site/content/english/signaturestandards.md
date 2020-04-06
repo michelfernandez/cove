@@ -112,7 +112,7 @@ with legal form requirements or high liability risk.
 
 {{< cta
   label="More info"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/Skribble_Legal-Weight-Barometer.pdf.pdf"
+  href=""
   outlined="true"
   target="_blank"
 >}}
