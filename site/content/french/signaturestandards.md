@@ -1,5 +1,5 @@
 ---
-title: SEQ vs SAE en un coup d'œil. Sur Skribble, vous pouvez choisir entre les deux
+title: SEQ vs SEA en un coup d'œil. Sur Skribble, vous pouvez choisir entre les deux
 description: La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (SEA).
 draft: false
 slug: normessignature
@@ -10,8 +10,8 @@ slug: normessignature
 {{% markdown %}}
 # De combien de force probante ma e-signature a-t-elle besoin ?
 La loi établit une distinction entre les signatures électroniques qualifiées (SEQ),
-les signatures électroniques avancées (SEA) et signature électronique 
-simple (SES). Les deux normes varient en termes de domaine d'application 
+les signatures électroniques avancées (SEA) et signature électronique
+simple (SES). Les deux normes varient en termes de domaine d'application
 et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 {{% /markdown %}}
 {{< /content >}}
@@ -82,7 +82,7 @@ sans exigences formelles juridiques avec un faible risque de responsabilité.
 sans exigence formelle juridique avec un risque de responsabilité calculable.
 
 **Exemples :**
-- Contrat de location 
+- Contrat de location
 - Contrat de vente
 - Contrat de travail simple
 - Ouverture de compte
@@ -94,12 +94,12 @@ sans exigence formelle juridique avec un risque de responsabilité calculable.
 {{% markdown %}}
 
 **Documents**
-avec exigences formelles juridiques ou avec un risque de responsabilité fort. 
+avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 **Exemples :**
 - Contrat de crédit à la consommation
 - Contrats de travail temporaire
-- Contrats de travail de cadres 
+- Contrats de travail de cadres
 - Rapports d'audit
 - Soumissions aux autorités
 {{% /markdown %}}
@@ -206,7 +206,7 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 
 {{< content text=center top=24 bottom=6 width=narrow >}}
 {{% markdown %}}
-## SEQ vs SAE vs SES en un coup d'œil
+## SEQ vs SEA vs SES en un coup d'œil
 {{% /markdown %}}
 {{< /content >}}
 
