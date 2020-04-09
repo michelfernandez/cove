@@ -99,7 +99,7 @@ Als Skribble Business-Kunde kannst du das Freischalten der FES via Firmen-E-Mail
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture aes-increase 520 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+{{< picture aes-increase 520 "Ein mobiles Telefon ragt aus den Häusern hervor." >}}
 
 
 {{< content text=center top=8 width=narrow >}}
@@ -129,7 +129,7 @@ Die QES schaltest du frei, in dem du dich im persönlichen Kontakt mit der ID-Ap
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture qes-increase 315 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
+{{< picture qes-increase 315 "in Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
 
 
 {{< content text=center top=8 width=narrow >}}

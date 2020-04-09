@@ -82,12 +82,15 @@ languages:
         - name: Identifikation
           url: /de/identifikation/
           weight: 20
+        - name: Beweikraft erhöhen
+          url: "/de/beweiskraft-erhoehen/"
+          weight: 25 
         - name: FES für Business
           url: "/de/identifikation/fes-fuer-business/"
-          weight: 25
+          weight: 30
         - name: QES freischalten
           url: /de/qes-freischalten/
-          weight: 30
+          weight: 35
       footer2:
         - name: HR
           url: /de/hr/

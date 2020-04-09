@@ -87,7 +87,50 @@ If we can verify the information, AES for Business will be activated and ready f
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture legal_weight 664 "Legal-weight barometer with the legal-weight high and very high." >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">AES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=SES
+        top-right="Simple electronic signature"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=High
+        top-left=AES
+        top-right="Advanced electronic signature"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=QES
+        top-right="Qualified electronic signature"
+        bottom-right="Legally equivalent to the handwritten signature"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+  </tr>
+</tbody>
+{{< /table >}}
 
 {{< content width=narrow >}}
 {{% markdown %}}

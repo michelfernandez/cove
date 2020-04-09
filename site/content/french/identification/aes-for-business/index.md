@@ -84,7 +84,51 @@ Si nous pouvons vérifier l'information, SEA pour Business sera activé et prêt
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture force_probante 664 "Baromètre qui montre le caractère concluant de haut à très haut." >}}
+{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">SES</th>
+    <th scope="col">SEA</th>
+    <th scope="col">SEQ</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basique
+        top-left=SES
+        top-right="Signature électronique simple"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Elevée
+        top-left=SEA
+        top-right="Signature électronique avancée"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximum
+        top-left=SEQ
+        top-right="Signature électronique qualifiée"
+        bottom-right="équivaut à une signature manuscrite devant la loi"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+  </tr>
+
+</tbody>
+{{< /table >}}
 
 {{< content width=narrow >}}
 {{% markdown %}}
