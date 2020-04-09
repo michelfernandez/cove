@@ -19,6 +19,7 @@ and to develop Skribble and yourself.
 
 {{< picture career 640 "3 applicants with their checklists" >}}
 
+{{< cta-group >}}
 {{< cta
   title="Open positions"
   label="More info"
@@ -27,11 +28,35 @@ and to develop Skribble and yourself.
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales-Manager, Germany (100%)**
+**Sales Manager, Germany (100%)**
 (Job description in German)
 {{% /markdown %}}
 {{< /cta >}}
 
+{{< cta
+  label="More info"
+  href="/careers/467/customer-success-manager-de/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Customer Success Manager, Germany (100%)**
+(Job description in German)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="More info"
+  href="/careers/466/country-manager-de"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Country Manager, Germany (100%)**
+(Job description in German)
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
