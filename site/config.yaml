@@ -40,13 +40,17 @@ languages:
           url: "/de/identifikation/"
           weight: 30
           parent: plattform
+        - name: Beweikraft erhöhen
+          url: "/de/beweiskraft-erhoehen/"
+          weight: 35
+          parent: plattform
         - name: FES für Business
           url: "/de/identifikation/fes-fuer-business/"
-          weight: 35
+          weight: 40
           parent: plattform
         - name: QES freischalten
           url: "/de/qes-freischalten/"
-          weight: 40
+          weight: 45
           parent: plattform
         # Solutions dropdown
         - name: Lösungen

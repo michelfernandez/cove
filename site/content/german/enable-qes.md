@@ -9,9 +9,11 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Maximiere die Beweiskraft deiner E-Signatur
+Maximiere die Beweiskraft 
+deiner E-Signatur
+===============
 Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
 in dem du dich im persönlichen Kontakt mit der ID-App
 von Swisscom identifizieren lässt.
