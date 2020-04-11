@@ -176,7 +176,7 @@ languages:
         text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
-          href: /de/qes-freischalten/
+          href: /de/beweiskraft-erhoehen/
           target:
       rightSlot:
         title: Demo vereinbaren?
@@ -222,13 +222,17 @@ languages:
           url: "/identification/"
           weight: 30
           parent: platform
+        - name: Increase legal weight
+          url: "/increase-legal-weight/"
+          weight: 35
+          parent: platform
         - name: AES for Business
           url: "/identification/aes-for-business/"
-          weight: 35
+          weight: 40
           parent: platform
         - name: Enable QES
           url: "/enable-qes/"
-          weight: 40
+          weight: 45
           parent: platform
         # Solutions dropdown
         - name: Solutions
@@ -260,12 +264,15 @@ languages:
         - name: Identification
           url: /identification/
           weight: 30
+        - name: Increase legal weight
+          url: /increase-legal-weight/
+          weight: 35
         - name: AES for Business
           url: /identification/aes-for-business/
-          weight: 35
+          weight: 40
         - name: Enable QES
           url: /enable-qes/
-          weight: 40
+          weight: 45
       footer2:
         - name: HR
           url: /hr/
@@ -354,7 +361,7 @@ languages:
         text: Get identified and unlock the highest e-signature standard.
         button:
           label: Get identified
-          href: /enable-qes/
+          href: /increase-legal-weight/
           target:
       rightSlot:
         title: Want to schedule a demo session?
@@ -400,13 +407,17 @@ languages:
           url: "/fr/identification/"
           weight: 25
           parent: platforme
+        - name: Maximiser force probante
+          url: "/fr/maximiser-force-probante/"
+          weight: 30
+          parent: platforme
         - name: SEA pour Business
           url: "/fr/identification/sea-pour-business/"
-          weight: 30
+          weight: 35
           parent: platforme
         - name: Débloquez SEQ
           url: "/fr/debloquez-seq/"
-          weight: 35
+          weight: 40
           parent: platforme
         # Solutions dropdown
         - name: Solutions
@@ -427,23 +438,26 @@ languages:
           weight: 25
       footer1:
         - name: Fonctionnalités
-          url: "/fr/fonctionnalites/"
+          url: /fr/fonctionnalites/
           weight: 5
         - name: Fonctionnalités affaires
-          url: "/fr/fonctionnalites-affaires/"
+          url: /fr/fonctionnalites-affaires/
           weight: 10
         - name: Integrations
-          url: "/fr/integrations/"
+          url: /fr/integrations/
           weight: 15
         - name: Identification
           url: /fr/identification/
           weight: 20
-        - name: SEA pour Business
-          url: "/fr/identification/sea-pour-business/"
+        - name: Maximiser force probante
+          url: /fr/maximiser-force-probante/
           weight: 25
+        - name: SEA pour Business
+          url: /fr/identification/sea-pour-business/
+          weight: 30
         - name: Débloquez SEQ
           url: /fr/debloquez-seq/
-          weight: 30
+          weight: 35
       footer2:
         - name: RH
           url: /fr/ressources-humaines/
@@ -530,7 +544,7 @@ languages:
         text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
         button:
           label: S'identifier
-          href: /fr/debloquez-qes/
+          href: /fr/maximiser-force-probante/
           target:
       rightSlot:
         title: Organiser une démonstration?

@@ -5,7 +5,7 @@ type: default
 slug: aes-for-business
 translationKey: identification-aes-for-business
 # opengraph image (for facebook and twitter)
-og_image: og/og-aes-for-business.jpg
+og_image: og/og-skribble-aes-for-business.jpg
 
 ---
 

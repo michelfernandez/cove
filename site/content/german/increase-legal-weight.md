@@ -1,10 +1,10 @@
 ---
-title: Identitätsprüfung für die QES - Skribble macht es einfach
-description: Für die qualifizierte elektronische Signatur (QES) muss der Unterzeichnende seine Identität beweisen. Skribble bietet für jeden Geschäftskontext eine passende Identifikationsmöglichkeit an.
+title: Erhöhe die Beweiskraft deiner E-Signatur
+description: Schalte einen E-Signatur-Standard mit höherer Beweiskraft frei. Das Verfahren unterscheidet sich je nach Standard. Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann, desto höher deren Beweiskraft.
 draft: false
 slug: beweiskraft-erhoehen
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-skribble-increase-legal-weight.jpg
 
 ---
 
@@ -19,6 +19,8 @@ Je eindeutiger deine E-Singatur dir als Person zugeordnet werden kann,
 desto höher deren Beweiskraft.
 {{% /markdown %}}
 {{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< table top=4 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
 <thead>
@@ -129,7 +131,7 @@ Die QES schaltest du frei, in dem du dich im persönlichen Kontakt mit der ID-Ap
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture qes-increase 315 "in Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
+{{< picture qes-increase 315 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
 
 
 {{< content text=center top=8 width=narrow >}}

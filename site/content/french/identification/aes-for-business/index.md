@@ -5,7 +5,7 @@ draft: false
 slug: sea-pour-business
 translationKey: identification-aes-for-business
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-skribble-aes-for-business.jpg
 
 ---
 

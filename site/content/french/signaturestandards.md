@@ -3,7 +3,6 @@ title: SEQ vs SEA en un coup d'œil. Sur Skribble, vous pouvez choisir entre les
 description: La loi établit une distinction entre les signatures électroniques qualifiées (SEQ) et les signatures électroniques avancées (SEA).
 draft: false
 slug: normessignature
-
 ---
 
 {{< content text=center top=16 width=narrow >}}
