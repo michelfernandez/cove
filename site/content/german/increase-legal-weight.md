@@ -116,7 +116,8 @@ Als Skribble Business-Kunde kannst du das Freischalten der FES via Firmen-E-Mail
 {{< picture aes-biz-teaser 90 "Ein Haus als Organisation und eine Pfeil." >}}
 
 {{% markdown %}}
-**FES für Business: Organisationsweite Einführung mit wenigen Klicks**
+**FES für Business**
+Organisationsweite Einführung mit wenigen Klicks
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}
