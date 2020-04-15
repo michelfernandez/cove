@@ -91,8 +91,8 @@ Nous nous réjouissons de de ta candidature !
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Si vous avez des questions, notre responsable du bonheur, Patrick, 
-se fera un [plaisir d'y répondre](https://help.skribble.com/kb-tickets/new).
+Si vous [avez des questions](https://help.skribble.com/kb-tickets/new), notre responsable du bonheur, Patrick, 
+se fera un plaisir d'y répondre.
 {{% /markdown %}}
 {{< /content >}}
 
