@@ -34,7 +34,7 @@ Deutschland, 100%, unbefristet
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
 ## Unterschreibst du noch oder skribblest du schon?
-Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seinem One-Stop-Shop für elektronisches Signieren Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz sollen nun auch Firmen und Privatpersonen in Deutschland ihre Signaturprozess digitalisieren können. Skribble verfolgt die Vision, für jede Form der handschriftlichen Unterschrift ein digitales Pendant anzubieten, das leicht in der Anwendung ist und alle gesetzlichen Anforderungen erfüllt. 
+Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seinem One-Stop-Shop für elektronisches Signieren Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz sollen nun auch Firmen und Privatpersonen in Deutschland ihre Signaturprozesse digitalisieren können. Skribble verfolgt die Vision, für jede Form von Dokument mit handschriftlicher Unterschrift ein digitales Pendant anzubieten, das leicht in der Anwendung ist und alle gesetzlichen Anforderungen erfüllt.
 
 ## So begeisterst du uns:
 Deine Talente als Sales Manager sind gefragt: als unser Gesicht in Deutschland, im Knüpfen von Kontakten zu Unternehmen und Behörden oder als Unterstützer unserer Inbound-Marketing-Strategie. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig, ein Produkt mit echtem Mehrwert anbieten zu können. Dein Wunsch ist es, Mühsames einfach zu machen.

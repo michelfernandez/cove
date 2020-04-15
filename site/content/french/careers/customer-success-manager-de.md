@@ -36,7 +36,7 @@ Allemagne, 100%, illimité
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
 ## Unterschreibst du noch oder skribblest du schon?
-Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seinem One-Stop-Shop für elektronisches Signieren Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz sollen nun auch Firmen und Privatpersonen in Deutschland ihre Signaturprozess digitalisieren können. Skribble verfolgt die Vision, für jede Form der handschriftlichen Unterschrift ein digitales Pendant anzubieten, das leicht in der Anwendung ist und alle gesetzlichen Anforderungen erfüllt. 
+Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seinem One-Stop-Shop für elektronisches Signieren Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz sollen nun auch Firmen und Privatpersonen in Deutschland ihre Signaturprozesse digitalisieren können. Skribble verfolgt die Vision, für jede Form von Dokument mit handschriftlicher Unterschrift ein digitales Pendant anzubieten, das leicht in der Anwendung ist und alle gesetzlichen Anforderungen erfüllt.
 
 ## So begeisterst du uns:
 Deine Talente als Customer Success Manager sind gefragt: im Kontakt mit unseren wichtigsten Kunden verstärkst du die Zusammenarbeit mit Skribble und unterstützt die Integration unserer Signaturlösung. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig,mit deiner Arbeit echten Mehrwert zu erzeugen. Dein Wunsch ist es, Mühsames einfach zu machen.
