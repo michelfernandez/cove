@@ -88,7 +88,7 @@ Dann bewirb dich bei Skribble. Wir freuen uns auf dich!
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Bei Fragen steht dir unser Happiness Manager, Patrick, 
+Bei [Fragen](https://help.skribble.com/kb-tickets/new) steht dir unser Happiness Manager, Patrick, 
 gerne zur Verfügung.
 {{% /markdown %}}
 {{< /content >}}

@@ -90,7 +90,8 @@ Apply now at Skribble. We look forward to you
 {{< content text=center top=12 >}}
 {{% markdown %}}
 Our Happiness Manager, Patrick, 
-will be happy to answer your questions.
+will be happy to [answer your questions](https://help.skribble.com/kb-tickets/new).
+
 {{% /markdown %}}
 {{< /content >}}
 
