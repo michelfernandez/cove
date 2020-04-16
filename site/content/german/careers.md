@@ -33,7 +33,7 @@ und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen ge
 
 {{< cta
   label="Mehr Infos"
-  href="/de/karriere/467/customer-success-manager-de/"
+  href="/de/karriere/172/customer-success-manager-de/"
   target=""
   outlined="true"
 >}}
@@ -44,7 +44,7 @@ und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen ge
 
 {{< cta
   label="Mehr Infos"
-  href="/de/karriere/466/country-manager-de/"
+  href="/de/karriere/294/country-manager-de/"
   target=""
   outlined="true"
 >}}

@@ -35,7 +35,7 @@ et de développer Skribble et toi-même.
 
 {{< cta
   label="Plus d'info"
-  href="/fr/carriere/467/customer-success-manager-de/"
+  href="/fr/carriere/172/customer-success-manager-de/"
   target=""
   outlined="true"
 >}}
@@ -47,7 +47,7 @@ et de développer Skribble et toi-même.
 
 {{< cta
   label="Plus d'info"
-  href="/fr/carriere/466/country-manager-de"
+  href="/fr/carriere/294/country-manager-de"
   target=""
   outlined="true"
 >}}

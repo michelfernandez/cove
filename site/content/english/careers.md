@@ -35,7 +35,7 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
-  href="/careers/467/customer-success-manager-de/"
+  href="/careers/172/customer-success-manager-de/"
   target=""
   outlined="true"
 >}}
@@ -47,7 +47,7 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
-  href="/careers/466/country-manager-de"
+  href="/careers/294/country-manager-de"
   target=""
   outlined="true"
 >}}

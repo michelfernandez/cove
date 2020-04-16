@@ -2,7 +2,7 @@
 title: Votre carrière au Skribble
 description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
 draft: false
-url: /fr/carriere/466/country-manager-de/
+url: /fr/carriere/294/country-manager-de/
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
 
