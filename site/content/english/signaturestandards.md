@@ -12,9 +12,8 @@ How much legal weight
 does my e-signature need?
 =========================
 The law distinguishes between qualified e-signatures (QES),
-advanced e-signatures (AES) and simple electronic signature (SES).
-The three standards vary in terms of area of application
-and legal weight.
+advanced e-signatures (AES) and simple electronic signature (SES). The three 
+standards vary in terms of area of application and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -65,6 +64,7 @@ and legal weight.
     </th>
     <td>
 {{% markdown %}}
+
 **Documents**
 without formal requirements with low liability risk.
 &nbsp;
@@ -114,13 +114,14 @@ with legal form requirements or high liability risk.
 
 {{< cta
   label="More info"
-  href=""
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/English/skribble-legalweight-barometer.pdf"
   outlined="true"
   target="_blank"
 >}}
 
 {{% markdown %}}
-**Check what security and confidence base you need.** 
+**More information about:** 
+Legal security and identity verification and authentication methods.
 {{% /markdown %}}
 {{< /cta >}}
 

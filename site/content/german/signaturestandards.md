@@ -113,13 +113,14 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 {{< cta
   label="Mehr Infos"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/Skribble_Legal-Weight-Barometer.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/skribble-beweiskraftbarometer.pdf"
   outlined="true"
   target="_blank"
 >}}
 
 {{% markdown %}}
-**Prüfe nach welche Sicherheits- und Vetrauensbasis du benötigst.** 
+**Weitere Informationen zu:** 
+Rechtssicherheit und Identitätsprüfung sowie Authentisierungsverfahren.
 {{% /markdown %}}
 {{< /cta >}}
 
