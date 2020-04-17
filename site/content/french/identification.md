@@ -10,7 +10,9 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Vérification de l'identité pour la signature électronique
+Vérification de l'identité pour 
+la signature électronique
+===============	
 Chaque signature électronique doit être attribuable à une seule personne.
 Skribble nécessite donc l'identification des signataires.
 Les procédures diffèrent en fonction de la demande.
