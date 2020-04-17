@@ -233,53 +233,6 @@ Un nombre croissant de personnes en Europe a une identité électronique validé
 {{< /cta >}}
 {{< /content >}}
 
-
-{{< content text=center top=24 bottom=12 width=narrow >}}
-{{% markdown %}}
-# De quelles pièces d'identité ai-je besoin ?
-{{% /markdown %}}
-{{< /content >}}
-
-{{< table-dense id="qes-fes-table" >}}
-
-<thead>
-<tr>
-<th>Norme</th>
-<th>Force probante</th>
-<th>Prérequis d'identification</th>
-<th>Champ d'application	</th>
-<th>Exemples d'application</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td><div class="icon-qes">SEQ</div></td>
-<td><strong>Maximum</strong></td>
-<td><ul><li>Identification personnelle/ e-ID verifiée et</li><li>Numéro de téléphone mobile</li></ul></td>
-<td><ul><li>Documents avec exigences formelles juridiques (exigence de forme écrite)</li><li>Maximiser la force probante des contrats informels (minimisation des risques)</li></ul></td>
-<td><ul><li>Contrat de crédit à la consommation</li><li>Contrats de travail temporaire</li><li>Contrats de travail de cadres</li><li>Rapports d'audit</li><li>Soumissions aux autorités</li><li>Contrats de grande valeur ou de longue durée</li></ul></td>
-</tr>
-
-<tr>
-<td><div class="icon-fes">SEA</div></td>
-<td><strong>Elevée</strong></td>
-<td><ul><li>Numéro de téléphone portable suisse ou</li><li>Adresse électronique d'entreprise activée pour la SEA</li></ul></td>
-<td><ul><li>Documents sans exigence formelle juridique avec un risque de responsabilité calculable.</li></ul></td>
-<td><ul><li>Contrat de location</li><li>Contrat de vente</li><li>Contrat de travail simple</li><li>Ouverture de compte</li><li>Hypothèques</li></ul></td>
-</tr>
-
-<tr>
-<td><div class="icon-ses">SES</div></td>
-<td><strong>Basique</strong></td>
-<td><ul><li>Adresse électronique</li></ul></td>
-<td><ul><li>Documents sans exigences formelles juridiques avec un faible risque de responsabilité</li></ul></td>
-<td><ul><li>Offres des fournisseurs</li><li>Commandes/ordonnances</li><li>Documents internes de l'organisation</li><li>Annonces</li><li>Lettres d'information</li><li>Documents informels</li></ul></td>
-</tr>
-</tbody>
-
-{{< /table-dense >}}
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 

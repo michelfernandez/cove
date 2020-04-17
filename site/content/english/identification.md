@@ -9,7 +9,9 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Identity verification for electronic signing
+Identity verification 
+for electronic signing
+===============
 Each e-signature must be uniquely attributable to one person.
 Therefore, Skribble requires the identification of the signatories.
 The procedures differ depending on the application.
@@ -233,62 +235,6 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 {{< /cta >}}
 {{< /content >}}
 
-
-
-{{< content top=6 bottom=6 width=narrow >}}
-{{% markdown %}}
-**The simple electronic signature (EES) is used when there is a low liability risk.**
-It is legally valid for documents where the law does not prescribe a specific form. Typical use cases are information letters, orders and internal documents. Anyone who has an e-mail address can start signing with EES immediately on Skribble.
-{{% /markdown %}}
-{{< /content >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 bottom=12 width=narrow >}}
-{{% markdown %}}
-# Which identification do I need?
-{{% /markdown %}}
-{{< /content >}}
-
-{{< table-dense id="qes-fes-table" >}}
-
-<thead>
-<tr>
-<th>Standard</th>
-<th>Legal weight </th>
-<th>Identification requirements</th>
-<th>Area of application</th>
-<th>Examples</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td><div class="icon-qes">QES</div></td>
-<td><strong>Maximum</strong></td>
-<td><ul><li>Personal identification/ verified e-ID and</li><li>Mobile phone number</li></ul></td>
-<td><ul><li>Documents with legal form requirements (requiring the written form)</li><li>Maximising the legal weight of contracts without formal requirement (risk minimisation)</li></ul></td>
-<td><ul><li>Consumer credit contract</li><li>Temporary employment contracts</li><li>Management employment contracts</li><li>Audit reports</li><li>Entries with authorities</li><li>Contracts of high value or long duration</li></ul></td>
-</tr>
-
-<tr>
-<td><div class="icon-fes">AES</div></td>
-<td><strong>High</strong></td>
-<td><ul><li>Swiss mobile phone number or</li><li>AES-enabled company e-mail address</li></ul></td>
-<td><ul><li>Documents without legal form requirement and with calculable liability risk</li></ul></td>
-<td><ul><li>Rental agreement</li><li>Contract of sale</li><li>Simple employment contract</li><li>Account opening</li><li>Mortgages</li></ul></td>
-</tr>
-
-<tr>
-<td><div class="icon-ses">SES</div></td>
-<td><strong>Basic</strong></td>
-<td><ul><li>E-mail address</li></ul></td>
-<td><ul><li>Documents without formal requirements with low liability risk</li></ul></td>
-<td><ul><li>Supplier offers</li><li>Orders</li><li>Organization internal documents</li><li>Announcements</li><li>Information letters</li><li>Informal documents</li></ul></td>
-</tr>
-</tbody>
-
-{{< /table-dense >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

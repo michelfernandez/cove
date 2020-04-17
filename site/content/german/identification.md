@@ -207,7 +207,8 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 
 {{% markdown %}}
 # Elektronische Identität (E-ID)
-Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
+Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, 
+schalten die QES automatisch frei.
 
 **Bald verfügbar:**
 {{% /markdown %}}
@@ -233,55 +234,8 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{< /cta >}}
 {{< /content >}}
 
-{{< content text=center top=24 bottom=12 width=narrow >}}
-{{% markdown %}}
-# Welche Identifikation benötige ich?
-{{% /markdown %}}
-{{< /content >}}
-
-{{< table-dense id="qes-fes-table" >}}
-
-<thead>
-<tr>
-<th>Standard</th>
-<th>Beweiskraft</th>
-<th>Identifizierungs-Anforderungen</th>
-<th>Anwendungsbereich</th>
-<th>Anwendungsbeispiele</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td><div class="icon-qes">QES</div></td>
-<td><strong>Maximal</strong></td>
-<td><ul><li>Persönliche Identifikation/ verifizierte E-ID und</li><li>Mobiltelefonnummer</li></ul></td>
-<td><ul><li>Dokumente mit gesetzlicher Formvorschrift (Schriftlichkeitserfordernis)</li><li>Maximierung der Beweiskraft formfreier Verträge (Risikominimierung)</li></ul></td>
-<td><ul><li>Konsumkreditvertrag</li><li>Leiharbeitsverträge Kader-Arbeitsverträge</li><li>Revisionsberichte</li><li>Behördendokumente</li></ul></td>
-</tr>
-
-<tr>
-<td><div class="icon-fes">FES</div></td>
-<td><strong>Hoch</strong></td>
-<td><ul><li>Schweizer Mobiltelefonnummer</li><li>Firmen-E-Mail-Adresse</li></ul></td>
-<td><ul><li>Verträge ohne Formvorschrift</li></ul></td>
-<td><ul><li>Mietverträge</li><li>Kaufverträge</li><li>Hypotheken</li><li>einfacher Arbeitsvertrag</li></ul></td>
-</tr>
-
-<tr>
-<td><div class="icon-ses">EES</div></td>
-<td><strong>Basic</strong></td>
-<td><ul><li>E-Mail Adresse</li></ul></td>
-<td><ul><li>Informelle Dokumente</li></ul></td>
-<td><ul><li>Informationsschreiben</li><li>Bekanntmachungen</li><li>Organisationsinterne Dokumente</li></ul></td>
-</tr>
-</tbody>
-
-{{< /table-dense >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
 
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
