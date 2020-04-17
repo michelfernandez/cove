@@ -40,7 +40,7 @@ languages:
           url: "/de/identifikation/"
           weight: 30
           parent: plattform
-        - name: Beweikraft erhöhen
+        - name: Beweiskraft erhöhen
           url: "/de/beweiskraft-erhoehen/"
           weight: 35
           parent: plattform
