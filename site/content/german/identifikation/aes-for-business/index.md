@@ -166,7 +166,7 @@ Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erkl�
 {{< picture consult 92 "Identifikation für die QES. Lassen Sie sich von uns beraten und finden Sie die richtige Identifikationslösung für Ihr Unternehmen." >}}
 
 {{% markdown %}}
-**Jetzt für FES for Business anmelden**
+**Jetzt für FES für Business anmelden**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -180,7 +180,7 @@ Die wichtigsten Fragen und Antworten
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture onboarding-aes-en 460 "Identifikation für die QES. Lassen Dich von uns beraten und finde die richtige Identifikationslösung für dein Unternehmen." >}}
+{{< picture onboarding-fes-de 460 "Identifikation für die QES. Lassen Dich von uns beraten und finde die richtige Identifikationslösung für dein Unternehmen." >}}
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Muss ich alle meine Mitarbeitenden manuell für das Signieren identifizieren?" %}}
