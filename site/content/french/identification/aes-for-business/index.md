@@ -20,7 +20,7 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# SEA pour Business : implémentation à toute l'organisation en quelques clics
+# SEA pour Business : Implémentation à toute l’organisation en quelques jours seulement
 Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA).
 {{% /markdown %}}
 {{< /content >}}

@@ -10,7 +10,9 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Vérification de l'identité pour la signature électronique
+Vérification de l'identité pour 
+la signature électronique
+===============	
 Chaque signature électronique doit être attribuable à une seule personne.
 Skribble nécessite donc l'identification des signataires.
 Les procédures diffèrent en fonction de la demande.
@@ -81,7 +83,8 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 {{< picture aes-biz-teaser 90 "Une maison en tant qu'organisation et une flèche." >}}
 
 {{% markdown %}}
-**SEA pour Business : implémentation à toute l'organisation en quelques clics**
+**SEA pour Business :** 
+Implémentation à toute l’organisation en quelques jours seulement.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -96,7 +99,8 @@ Les fournisseurs de télécommunications suisses sont tenus d'enregistrer la car
 {{< picture signaturestandard-teaser 90 "Une main avec un stylo plume signe un contrat vert." >}}
 
 {{% markdown %}}
-**Normes de signature - Quand dois-je utiliser la SEQ, quand la SEA ?**
+**Normes de signature**
+Quand dois-je utiliser la SEQ, quand la SEA ?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -230,6 +234,9 @@ Un nombre croissant de personnes en Europe a une identité électronique validé
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}

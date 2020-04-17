@@ -54,7 +54,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
         title=Maximal
         top-left=QES
         top-right="Qualifizierte elektronische Signatur"
-        bottom-right="Der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt"
+        bottom-right="Der handschriftlichen Unterschrift gemäss Schweizer und EU-Recht gleichgestellt"
       >}}
     </td>
   </tr>
@@ -108,6 +108,21 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 </tbody>
 {{< /table >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta
+  label="Mehr Infos"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/skribble-beweiskraftbarometer.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Weitere Informationen zu:** 
+Rechtssicherheit und Identitätsprüfung sowie Authentisierungsverfahren.
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

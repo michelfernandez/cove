@@ -8,7 +8,7 @@ slug: preise
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Signiere einfacher </br> mit dem passenden Preismodell
+# Signiere einfacher mit dem passenden Preismodell
 Skribble eignet sich sowohl für gelegentliches
 wie auch für häufiges Signieren.
 {{% /markdown %}}

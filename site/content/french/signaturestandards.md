@@ -55,7 +55,7 @@ et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
         title=Maximum
         top-left=SEQ
         top-right="Signature électronique qualifiée"
-        bottom-right="équivaut à une signature manuscrite devant la loi"
+        bottom-right="Équivaut à une signature manuscrite en vertu du droit suisse et européen"
       >}}
     </td>
   </tr>
@@ -110,6 +110,21 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 </tbody>
 {{< /table >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta
+  label="Plus d'informations"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Francais/skribble-force-probante-barometre.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Plus d'informations sur :** 
+Sécurité juridique et procédures de vérification et d'authentification de l'identité.
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

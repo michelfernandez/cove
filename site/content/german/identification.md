@@ -80,7 +80,8 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< picture aes-biz-teaser 90 "Ein Haus als Organisation und eine Pfeil." >}}
 
 {{% markdown %}}
-**FES für Business: Organisationsweite Einführung mit wenigen Klicks**
+**FES für Business**
+Organisationsweite Einführung in wenigen Tagen.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -94,7 +95,8 @@ Schweizer Telecom-Anbieter sind dazu verpflichtet, vor Vertragsabschluss ID oder
 {{< picture signaturestandard-teaser 90 "Eine Hand mit einem Füllfederhalter unterzeichnet einen grünen Vertrag." >}}
 
 {{% markdown %}}
-**Signaturstandards: Wann nutze ich QES, wann FES?**
+**Signaturstandards**
+Wann nutze ich QES, wann FES?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -205,7 +207,8 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 
 {{% markdown %}}
 # Elektronische Identität (E-ID)
-Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, schalten die QES automatisch frei.
+Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, 
+schalten die QES automatisch frei.
 
 **Bald verfügbar:**
 {{% /markdown %}}
@@ -230,6 +233,9 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}
+
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
 {{< content text=center top=12 bottom=8 width=narrow >}}

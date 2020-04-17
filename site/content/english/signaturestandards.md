@@ -12,9 +12,8 @@ How much legal weight
 does my e-signature need?
 =========================
 The law distinguishes between qualified e-signatures (QES),
-advanced e-signatures (AES) and simple electronic signature (SES).
-The three standards vary in terms of area of application
-and legal weight.
+advanced e-signatures (AES) and simple electronic signature (SES). The three 
+standards vary in terms of area of application and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -55,7 +54,7 @@ and legal weight.
         title=Maximum
         top-left=QES
         top-right="Qualified electronic signature"
-        bottom-right="Legally equivalent to the handwritten signature"
+        bottom-right="Equal to a handwritten signature according to Swiss and EU law"
       >}}
     </td>
   </tr>
@@ -65,6 +64,7 @@ and legal weight.
     </th>
     <td>
 {{% markdown %}}
+
 **Documents**
 without formal requirements with low liability risk.
 &nbsp;
@@ -110,9 +110,26 @@ with legal form requirements or high liability risk.
 </tbody>
 {{< /table >}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< cta
+  label="More info"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/English/skribble-legalweight-barometer.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**More information about:** 
+Legal security and identity verification and authentication methods.
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# QES: The same legal validity <br class="hide-for-mobile">as signing by hand
+# QES: The same legal validity as signing by hand
 The all-round carefree signature for the highest demands
 {{% /markdown %}}
 {{< /content >}}

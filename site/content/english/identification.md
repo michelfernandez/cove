@@ -9,7 +9,9 @@ og_image: og/og-skribble-identification.jpg
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Identity verification for electronic signing
+Identity verification 
+for electronic signing
+===============
 Each e-signature must be uniquely attributable to one person.
 Therefore, Skribble requires the identification of the signatories.
 The procedures differ depending on the application.
@@ -80,7 +82,8 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 {{< picture aes-biz-teaser 90 "A house as an organization and an arrow." >}}
 
 {{% markdown %}}
-**AES for Business - Organisation-wide implementation with a few clicks**
+**AES for Business**
+Organisation-wide implementation within just a few days.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -94,7 +97,8 @@ Swiss telecom providers are obliged to record the ID or passport of their custom
 {{< picture signaturestandard-teaser 90 "A hand with a fountain pen signs a green contract." >}}
 
 {{% markdown %}}
-**Signature standards - When do I use QES, when AES?**
+**Signature standards**
+When do I use QES, when AES?
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
@@ -230,6 +234,9 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /content >}}
+
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
