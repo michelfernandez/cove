@@ -55,7 +55,7 @@ and legal weight.
         title=Maximum
         top-left=QES
         top-right="Qualified electronic signature"
-        bottom-right="Legally equivalent to the handwritten signature"
+        bottom-right="Equal to a handwritten signature according to Swiss and EU law"
       >}}
     </td>
   </tr>
