@@ -82,7 +82,7 @@ languages:
         - name: Identifikation
           url: /de/identifikation/
           weight: 20
-        - name: Beweikraft erhöhen
+        - name: Beweiskraft erhöhen
           url: "/de/beweiskraft-erhoehen/"
           weight: 25 
         - name: FES für Business
