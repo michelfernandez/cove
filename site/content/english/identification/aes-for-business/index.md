@@ -122,7 +122,7 @@ If we can verify the information, AES for Business will be activated and ready f
         title=Maximum
         top-left=QES
         top-right="Qualified electronic signature"
-        bottom-right="Legally equivalent to the handwritten signature"
+        bottom-right="Equal to a handwritten signature according to Swiss and EU law"
       >}}
     </td>
   </tr>

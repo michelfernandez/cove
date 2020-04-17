@@ -168,7 +168,7 @@ du alle Standards aus einer Hand.
         title=Maximal
         top-left=QES
         top-right="Qualifizierte elektronische Signatur"
-        bottom-right="Handschriftlichen Unterschrift vor dem Gesetz gleichgestellt"
+        bottom-right="Der handschriftlichen Unterschrift gemäss Schweizer und EU-Recht gleichgestellt"
       >}}
     </td>
   </tr>

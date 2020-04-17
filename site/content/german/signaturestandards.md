@@ -54,7 +54,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
         title=Maximal
         top-left=QES
         top-right="Qualifizierte elektronische Signatur"
-        bottom-right="Der handschriftlichen Unterschrift vor dem Gesetz gleichgestellt"
+        bottom-right="Der handschriftlichen Unterschrift gemäss Schweizer und EU-Recht gleichgestellt"
       >}}
     </td>
   </tr>

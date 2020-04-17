@@ -56,7 +56,7 @@ plus sa force probante est élevée.
         title=Maximum
         top-left=SEQ
         top-right="Signature électronique qualifiée"
-        bottom-right="équivaut à une signature manuscrite devant la loi"
+        bottom-right="Équivaut à une signature manuscrite en vertu du droit suisse et européen"
       >}}
     </td>
   </tr>

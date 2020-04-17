@@ -54,7 +54,7 @@ et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
         title=Maximum
         top-left=SEQ
         top-right="Signature électronique qualifiée"
-        bottom-right="équivaut à une signature manuscrite devant la loi"
+        bottom-right="Équivaut à une signature manuscrite en vertu du droit suisse et européen"
       >}}
     </td>
   </tr>
