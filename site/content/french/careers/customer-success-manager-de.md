@@ -2,7 +2,7 @@
 title: Votre carrière au Skribble
 description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
 draft: false
-url: /fr/carriere/465/sales-manager-de/
+url: /fr/carriere/172/customer-success-manager-de/
 # opengraph image (for facebook and twitter)
 og_image: og/og-career.jpg
 
@@ -20,7 +20,7 @@ og_image: og/og-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Sales Manager Allemagne 
+Customer Success Manager Allemagne 
 avec une start-up suisse
 ===============
 Allemagne, 100%, illimité
@@ -39,25 +39,26 @@ Allemagne, 100%, illimité
 Die Digitalisierung hat die Art, wie und wem wir vertrauen, grundlegend verändert. Dieser Wandel wird nicht zuletzt von neuen Technologien angetrieben. Skribble schafft mit seinem One-Stop-Shop für elektronisches Signieren Vertrauen in digitale Prozesse. Nach erfolgreichem Start in der Schweiz sollen nun auch Firmen und Privatpersonen in Deutschland ihre Signaturprozesse digitalisieren können. Skribble verfolgt die Vision, für jede Form von Dokument mit handschriftlicher Unterschrift ein digitales Pendant anzubieten, das leicht in der Anwendung ist und alle gesetzlichen Anforderungen erfüllt.
 
 ## So begeisterst du uns:
-Deine Talente als Sales Manager sind gefragt: als unser Gesicht in Deutschland, im Knüpfen von Kontakten zu Unternehmen und Behörden oder als Unterstützer unserer Inbound-Marketing-Strategie. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig, ein Produkt mit echtem Mehrwert anbieten zu können. Dein Wunsch ist es, Mühsames einfach zu machen.
+Deine Talente als Customer Success Manager sind gefragt: im Kontakt mit unseren wichtigsten Kunden verstärkst du die Zusammenarbeit mit Skribble und unterstützt die Integration unserer Signaturlösung. Du bist von den Vorteilen der Digitalisierung überzeugt und es ist dir wichtig,mit deiner Arbeit echten Mehrwert zu erzeugen. Dein Wunsch ist es, Mühsames einfach zu machen.
 
 ## Das kannst du bewirken:
-- Du repräsentierst Skribble bei Entscheidungsträgern in Wirtschaft, Politik und Medien in Deutschland
-- Du arbeitest mit unserem Business Development Team zusammen, um eine Sales-Strategie für Deutschland zu entwickeln und diese selbstständig umzusetzen
-- Unser Digital Marketing Team und dein Country Manager generieren dir Leads, die du auf allen Kommunikationskanälen aktiv angehst
-- Du knüpfst auf eigene Initiative neue Partnerschaften
-- Du stehst laufend im Dialog mit deinen Leads und bearbeitest Kundenanliegen aktiv mit unserem Product Management
-- Du unterstützt unsere Inbound-Marketing-Strategie mit deiner Expertise
-- Du unterstützt den Aufbau unseres deutschen Sales Teams und bringst unsere Unternehmenskultur nach Deutschland
+- Du bist in ständigem Austausch mit unseren Kunden, um ihre Anliegen besser zu verstehen und Skribble ideal einbinden zu können
+- Du bist die Stimme unserer User bei der Produktentwicklung und bringst Feedback und Inputs direkt aus der Praxis
+- Du arbeitest mit unserem Business Development Team zusammen, um Kunden ab dem Onboarding aktiv zu begleiten und Skribble schnell und unkompliziert in ihre Prozesse einzubinden
+- Als Coach bist du vor Ort, wenn unsere Kunden Unterstützung benötigen
+- Du kommuniziert aktiv deine Erfahrungen und dein Know-how mittels Webinaren, Videos und Blog-Artikeln
+- Neue Features und Verbesserungen kommunizierst du aktiv und regelmässig auf allen Kommunikationskanälen oder an Veranstaltungen
+- Mit deiner Eigeninitiative baust du die Beziehungen zu bestehenden Kunden aus
+- Du lebst und repräsentierst die Skribble-Kultur im täglichen Kontakt 
 
 ## Das bringst du mit:
-- Du hast Erfahrung im B2B-Vertrieb
 - Du hast deine Beratungskompetenz bereits unter Beweis gestellt
+- Du kommunizierst offen und empathisch und bist ein guter Zuhörer
+- Du begeisterst – egal ob schriftlich, am Telefon oder als Speaker 
 - Du bist technologiebegeistert und immer auf dem neuesten Stand
 - Du arbeitest dort, wo der Kunde ist und bist gerne unterwegs
 - Du zeigst ein hohes Mass an Eigeninitiative und Zielorientierung
-- Du lebst einen offenen Kommunikationsstil und hast Spass an deiner Tätigkeit
-- Du überzeugst in Gesprächen mit Kompetenz und respektvollem Auftreten
+- Du hast Spass an deiner Tätigkeit
 
 ## So begeistern wir dich:
 Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das erreichen? Mit der besten Unternehmenskultur und attraktiven Anstellungsbedingungen. Überzeuge dich selbst:
@@ -65,10 +66,9 @@ Gemeinsam wollen wir Vertrauen in der digitalen Welt schaffen. Wie wir das errei
 - Wir setzen auf schnelle Entscheidungswege
 - Wir sind agil und bieten dir Freiraum bei der Gestaltung deiner Arbeitszeit und deines Arbeitsorts
 - Wir begegnen einander auf Augenhöhe. Dafür stehen unsere offene Kommunikation, flache Hierarchien sowie die Du-Kultur
-- Wir bieten einen marktüblichen Lohn mit Bonus und möglicher Unternehmensbeteiligung
+- Wir bieten marktüblichen Lohn mit Bonus und möglicher Unternehmensbeteiligung
+- Wir bieten dir den nötigen Freiraum für deine Ideen und die Möglichkeit ein schnell wachsendes Start-up mitzugestalten
 - Skribble ist ein Start-up ohne Bullshit: Wir packen unsere ganze Energie in Produkt und Team
-
-
 {{% /markdown %}}
 {{< /content >}}
 

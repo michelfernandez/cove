@@ -19,6 +19,7 @@ et de développer Skribble et toi-même.
 
 {{< picture career 640 "3 candidats avec leurs listes de contrôle" >}}
 
+{{< cta-group >}}
 {{< cta
   title="Nous recherchons"
   label="Plus d'info"
@@ -31,6 +32,31 @@ et de développer Skribble et toi-même.
 (Annonce en Allemand)
 {{% /markdown %}}
 {{< /cta >}}
+
+{{< cta
+  label="Plus d'info"
+  href="/fr/carriere/172/customer-success-manager-de/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Customer Success Manager, Allemagne (100%)**
+(Annonce en Allemand)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="Plus d'info"
+  href="/fr/carriere/294/country-manager-de"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Country Manager, Allemagne (100%)**
+(Annonce en Allemand)
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

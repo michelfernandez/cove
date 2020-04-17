@@ -18,6 +18,7 @@ und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen ge
 
 {{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
 
+{{< cta-group >}}
 {{< cta
   title="Offene Stellen"
   label="Mehr Infos"
@@ -29,6 +30,29 @@ und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen ge
 **Sales Manager/in, Deutschland (100%)**
 {{% /markdown %}}
 {{< /cta >}}
+
+{{< cta
+  label="Mehr Infos"
+  href="/de/karriere/172/customer-success-manager-de/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Customer Success Manager/in, Deutschland (100%)**
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="Mehr Infos"
+  href="/de/karriere/294/country-manager-de/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Country Manager/in, Deutschland (100%)**
+{{% /markdown %}}
+{{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
