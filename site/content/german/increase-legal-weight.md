@@ -134,9 +134,7 @@ Die QES schaltest du frei, in dem du dich im persönlichen Kontakt mit der ID-Ap
 
 {{< picture qes-increase 315 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
 
-
-{{< content text=center top=8 width=narrow >}}
-
+{{< cta-group >}}
 {{< cta
   label="Mehr erfahren"
   href="de/qes-freischalten/"
@@ -151,11 +149,7 @@ Die QES schaltest du frei, in dem du dich im persönlichen Kontakt mit der ID-Ap
 So schaltest du die QES auf Skribble frei.
 {{% /markdown %}}
 {{< /cta >}}
-{{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
   label="Telefontermin vereinbaren"
   href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
@@ -169,10 +163,9 @@ So schaltest du die QES auf Skribble frei.
 **Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
 {{% /markdown %}}
 {{< /cta >}}
-{{< /content >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< outro   >}}
 {{% markdown center %}}

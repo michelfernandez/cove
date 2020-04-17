@@ -133,9 +133,7 @@ by personal contact with the ID app by Swisscom.
 
 {{< picture qes-increase 315 "A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-
-{{< content text=center top=8 width=narrow >}}
-
+{{< cta-group >}}
 {{< cta
   label="Learn more"
   href="/enable-qes/"
@@ -150,11 +148,7 @@ by personal contact with the ID app by Swisscom.
 This is how you unlock QES on Skribble
 {{% /markdown %}}
 {{< /cta >}}
-{{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
   label="Contact Skribble"
   href="mailto:info@skribble.com"
@@ -168,7 +162,8 @@ This is how you unlock QES on Skribble
 We are happy to help you.**
 {{% /markdown %}}
 {{< /cta >}}
-{{< /content >}}
+
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
