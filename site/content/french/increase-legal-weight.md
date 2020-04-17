@@ -136,9 +136,7 @@ avec l’ID-app de Swisscom.
 
 {{< picture qes-increase 315 "in Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
 
-
-{{< content text=center top=8 width=narrow >}}
-
+{{< cta-group >}}
 {{< cta
   label="En savoir plus"
   href="/fr/debloquez-seq/"
@@ -153,11 +151,7 @@ avec l’ID-app de Swisscom.
 Comment déverrouiller la SEQ sur Skribble
 {{% /markdown %}}
 {{< /cta >}}
-{{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta
   label="Contacter Skribble"
   href="mailto:info@skribble.com"
@@ -170,7 +164,7 @@ Comment déverrouiller la SEQ sur Skribble
 **Vous avez des questions? Nous nous ferons un plaisir de vous aider.**
 {{% /markdown %}}
 {{< /cta >}}
-{{< /content >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
