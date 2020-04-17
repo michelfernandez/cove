@@ -181,7 +181,7 @@ Les questions et réponses les plus importantes
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture onboarding-aes-en 460 "Identification pour le QES. Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise." >}}
+{{< picture onboarding-sea-fr 460 "Identification pour le QES. Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise." >}}
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Dois-je identifier manuellement tous mes employés pour leur permettre de signer?" %}}
