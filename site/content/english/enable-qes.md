@@ -8,10 +8,41 @@ slug: enable-qes
 og_image: og/og-skribble-identification.jpg
 
 ---
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
+# Maximise the legal weight of your electronic signature
+Enable the QES by getting yourself identified online via video-call or
+by personal contact with the ID app by Swisscom.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+{{% markdown %}}
+Online identification 
+via video
+===============
+Enable the highest e-signature standard QES 
+from home.    
+{{% /markdown %}}
+<br>
+{{< button
+  "Enable QES now"
+  "http://videoident.me"
+  "_blank"
+  "outline"
+>}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Maximise the legal weight of your electronic signature
+Identification 
+by personal contact
+===============
 Enable the highest e-signing standard (QES) by getting yourself identified
 by personal contact with the Swisscom ID app.
 {{% /markdown %}}
@@ -56,7 +87,7 @@ The legal weight of your signature is raised to 100% (QES level)
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 
-{{< content text=center top=12 bottom=8 >}}
+{{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Identification sites
 Come by and get identified for free. Bring a valid passport
