@@ -178,7 +178,7 @@ du alle Standards aus einer Hand.
 {{% markdown %}}
 
 **Dokumente**
-ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
+interner oder informeller Natur mit geringem Haftungsrisiko.
 &nbsp;
 
 **Beispiele:**

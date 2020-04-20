@@ -66,7 +66,7 @@ standards vary in terms of area of application and legal weight.
 {{% markdown %}}
 
 **Documents**
-without formal requirements and with low liability risk
+that are informal or internal and have a low liability risk.
 &nbsp;
 
 **Examples:**

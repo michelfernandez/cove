@@ -66,7 +66,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 {{% markdown %}}
 
 **Dokumente**
-ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
+interner oder informeller Natur mit geringem Haftungsrisiko.
 &nbsp;
 
 **Beispiele:**

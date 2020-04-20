@@ -184,7 +184,7 @@ Skribble is your one-stop-shop for all standards.
     <td>
 {{% markdown %}}
 **Documents**
-without formal requirements with low liability risk.
+that are informal or internal and have a low liability risk.
 &nbsp;
 {{% /markdown %}}
     </td>

@@ -177,7 +177,7 @@ unique pour toutes les normes.
 {{% markdown %}}
 
 **Documents**
-sans exigences formelles juridiques avec un faible risque de responsabilité.
+informelles ou internes avec un faible risque de responsabilité.
 
 {{% /markdown %}}
     </td>
