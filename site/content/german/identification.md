@@ -121,7 +121,8 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Identififkations-Service**
-Du lässt die Identität der Signierenden von Skribble prüfen oder führst du Identifikationen selbst durch. Dir stehen drei Optinen zur Verfügung.
+Die QES schaltest du frei, in dem du dich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 

@@ -124,7 +124,9 @@ For contracts requiring the written form, the qualified electronic signature (QE
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Identification Service**
-You can have the identity of the signers verified by Skribble or you can perform identifications yourself.
+Enable the QES by getting yourself identified online via video-call or
+by personal contact with the ID app by Swisscom.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 

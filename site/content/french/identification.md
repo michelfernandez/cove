@@ -124,7 +124,10 @@ Pour les contrats comportant des exigences formelles, la signature électronique
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Service d'identification**
-Vous pouvez faire vérifier l'identité des signataires par Skribble ou vous pouvez procéder vous-même aux identifications.
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant en ligne par appel vidéo ou 
+par contact personnel avec l’ID-app de Swisscom.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 

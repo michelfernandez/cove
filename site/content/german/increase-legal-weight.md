@@ -128,7 +128,8 @@ Organisationsweite Einführung mit wenigen Klicks
 {{% markdown %}}
 **Maximale Beweiskraft** 
 # Qualifizierte elektronische Signatur (QES)
-Die QES schaltest du frei, in dem du dich im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+Die QES schaltest du frei, in dem du dich online via Video-Call 
+oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
 {{% /markdown %}}
 {{< /content >}}
 

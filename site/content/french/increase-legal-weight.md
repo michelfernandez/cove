@@ -129,8 +129,8 @@ Implémentation à toute l'organisation en quelques jours
 **Force probante maximum** 
 # Signature électronique qualifiée (SEQ)
 Déverrouillez la norme de signature électronique 
-la plus élevée (SEQ) en vous identifiant par contact personnel 
-avec l’ID-app de Swisscom.
+la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo 
+ou par contact personnel avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 
