@@ -219,9 +219,19 @@ with legal form requirements or high liability risk.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="A large company building with a big cursor." >}}
+{{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-## Organisation-wide implementation with just a few clicks
+Online identification via video
+or in a few days the whole organization
+===============
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=4 bottom=24 width=narrow display=flex >}}
+{{< step >}}
+{{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
+{{% markdown %}}
+**Organisation-wide implementation with just a few clicks**
 Enable your entire staff to sign with the advanced electronic signature (AES) within just a few days.
 {{% /markdown %}}
 <br>
@@ -230,7 +240,22 @@ Enable your entire staff to sign with the advanced electronic signature (AES) wi
   "/identification/aes-for-business/"
   ""
   "outline">}}
-{{< /side-by-side >}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
+{{% markdown %}}
+**Online identifikation**
+Enable the QES by getting yourself identified online via video-call or
+by personal contact with the ID app by Swisscom.
+{{% /markdown %}}
+{{< button
+  "Learn more"
+  "https://www.videoident.me/"
+  "_blank"
+  "outline">}}
+{{< /step >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

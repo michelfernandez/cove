@@ -215,9 +215,19 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side width=narrow bottom=16 img-position=left img=aes-for-biz-home img-width=345 img-alt="Ein grosses Gebäude mit einem grossen Mauszeiger." >}}
+{{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-## Implémentation à toute l'organisation en quelques clics
+Identification en direct par vidéo
+ou en quelques jours toute l'organisation
+===============
+{{% /markdown %}}
+{{< /content >}}
+
+{{< content top=4 bottom=24 width=narrow display=flex >}}
+{{< step >}}
+{{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
+{{% markdown %}}
+**Implémentation à toute l'organisation en quelques clics**
 Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA) en quelques jours seulement.
 {{% /markdown %}}
 <br>
@@ -226,7 +236,21 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
   "/fr/identification/sea-pour-business/"
   ""
   "outline">}}
-{{< /side-by-side >}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
+{{% markdown %}}
+**Identification vidéo**
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo ou par contact personnel avec l’ID-app de Swisscom.
+{{% /markdown %}}
+{{< button
+  "En savoir plus"
+  "https://www.videoident.me/"
+  "_blank"
+  "outline">}}
+{{< /step >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
