@@ -5,7 +5,7 @@ draft: false
 slug: fes-fuer-business
 translationKey: identification-aes-for-business
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-identification.jpg
+og_image: og/og-skribble-aes-for-business.jpg
 
 ---
 
@@ -85,7 +85,52 @@ Können wir die Angaben verifizieren, wird FES für Business innerhalb von 5 bis
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture beweiskraft 664 "Barometer, der die Beweiskraft anzeigt von hoch bis sehr hoch." >}}
+
+{{< table top=4 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+<thead>
+  <tr>
+    <th scope="col"></th>
+    <th scope="col">EES</th>
+    <th scope="col">FES</th>
+    <th scope="col">QES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row"></th>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=ses
+        title=Basic
+        top-left=EES
+        top-right="Einfache elektronische Signatur"
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=aes
+        title=Hoch
+        top-left=FES
+        top-right="Fortgeschrittene elektronische Signatur"
+        bottom-right=""
+      >}}
+    </td>
+    <td class="signature-quality-bar">
+      {{< signature-quality-bar
+        class=qes
+        title=Maximal
+        top-left=QES
+        top-right="Qualifizierte elektronische Signatur"
+        bottom-right="Der handschriftlichen Unterschrift gemäss Schweizer und EU-Recht gleichgestellt"
+      >}}
+    </td>
+  </tr>
+  <tr>
+    <th scope="row"></th>
+  </tr>
+
+</tbody>
+{{< /table >}}
 
 {{< content width=narrow >}}
 {{% markdown %}}
@@ -121,7 +166,7 @@ Skribbles Signatur-Plattform ist so konzipiert, dass neue Signierende ohne Erkl�
 {{< picture consult 92 "Identifikation für die QES. Lassen Sie sich von uns beraten und finden Sie die richtige Identifikationslösung für Ihr Unternehmen." >}}
 
 {{% markdown %}}
-**Jetzt für FES for Business anmelden**
+**Jetzt für FES für Business anmelden**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -135,7 +180,7 @@ Die wichtigsten Fragen und Antworten
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture onboarding-aes-en 460 "Identifikation für die QES. Lassen Dich von uns beraten und finde die richtige Identifikationslösung für dein Unternehmen." >}}
+{{< picture onboarding-fes-de 460 "Identifikation für die QES. Lassen Dich von uns beraten und finde die richtige Identifikationslösung für dein Unternehmen." >}}
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Muss ich alle meine Mitarbeitenden manuell für das Signieren identifizieren?" %}}

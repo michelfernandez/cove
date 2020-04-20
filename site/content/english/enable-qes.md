@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Maximise the legal weight of your electronic signature
 Enable the highest e-signing standard (QES) by getting yourself identified

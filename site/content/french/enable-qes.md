@@ -9,7 +9,7 @@ og_image: og/og-skribble-identification.jpg
 
 ---
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 # Maximisez la valeur probante de votre signature électronique
 Déverrouillez la norme de signature électronique la plus élevée (SEQ)
