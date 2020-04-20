@@ -119,8 +119,8 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 >}}
 
 {{% markdown %}}
-**Weitere Informationen zu:** 
-Rechtssicherheit und Identitätsprüfung sowie Authentisierungsverfahren.
+**Weitere Informationen zu** 
+Rechtssicherheit, Identitätsprüfung und Authentisierungsverfahren.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -140,7 +140,7 @@ Die rundum-sorglos-Signatur für höchste Ansprüche
 **Die qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur rechtlich gleichgestellt.**
 Du setzt die QES ein, um die Beweiskraft deiner Verträge zu maximieren oder wenn das Gesetz die Schriftlichkeit verlangt.
 Letzteres trifft z.B. bei Kredit- oder Arbeitsverträgen mit Konkurrenzklausel zu.
-Für das Signieren mit QES auf Skribble wird eine vorgängige Identitätsprüfung im persönlichen Kontakt oder eine E-ID vorausgesetzt.
+Das Signieren mit QES auf Skribble setzt eine vorgängige Identitätsprüfung im persönlichen Kontakt oder per Video oder eine bestehende E-ID voraus.
 {{% /markdown %}}
 {{< /content >}}
 

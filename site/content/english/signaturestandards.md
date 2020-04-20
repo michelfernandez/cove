@@ -120,8 +120,8 @@ with legal form requirements or high liability risk.
 >}}
 
 {{% markdown %}}
-**More information about:** 
-Legal security and identity verification and authentication methods.
+**More information about** 
+Legal security, identity check and authentication methods.
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -139,7 +139,7 @@ The all-round carefree signature for the highest demands
 {{< content top=6 bottom=6 width=narrow >}}
 {{% markdown %}}
 **The qualified electronic signature (QES) is legally equal to the handwritten signature.**
-You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. The latter applies, for example, to loan or wage agreements with a competition clause. For signing with QES on Skribble, a prior identity check in personal contact or an e-ID is required.
+You use QES to maximise the legal weight of your contracts or when the law requires it to be in writing. The latter applies, for example, to loan or wage agreements with a competition clause. For signing with QES on Skribble, a prior identity check in personal contact or via video call or an e-ID is required.
 {{% /markdown %}}
 {{< /content >}}
 
