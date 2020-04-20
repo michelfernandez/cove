@@ -14,6 +14,11 @@ La loi établit une distinction entre les signatures électroniques qualifiées 
 les signatures électroniques avancées (SEA) et signature électronique
 simple (SES). Les deux normes varient en termes de domaine d'application
 et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
+
+La loi établit une distinction entre les signatures électroniques qualifiées (SEQ), 
+les signatures électroniques avancées (SEA) et signature électronique 
+simple (SES). Les deux normes varient en termes de domaine d’application 
+et de force probante. Sur Skribble, vous pouvez choisir entre les deux.
 {{% /markdown %}}
 {{< /content >}}
 
