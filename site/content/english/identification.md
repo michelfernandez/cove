@@ -170,16 +170,16 @@ Appropriate if new QES signers are constantly being added.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "Learn more"
-  "https://www.skribble.com/enable-qes/"
-  ""
+  "Directly by video"
+  "Enable QES now"
+  "https://www.videoident.me/"
+  "_blank"
   "outline"
 >}}
 
 {{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-You come to us or one of our partners for identification.
+Enable the highest e-signature standard QES from home.
 
 Suitable for individual signatories.
 &nbsp;

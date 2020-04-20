@@ -170,17 +170,15 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "En savoir plus"
-  "https://www.skribble.com/fr/debloquez-seq/"
-  ""
+  "Directement par vidéo"
+  "Débloquez SEQ maintenant"
+  "https://www.videoident.me/"
+  "_blank"
   "outline"
 >}}
 
 {{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
-
-Vous venez chez nous ou chez l'un de nos partenaires pour vous faire identifier.
-
+Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
 Convient aux signataires individuels.
 &nbsp;
 &nbsp;

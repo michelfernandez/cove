@@ -168,25 +168,21 @@ QES-Signierende hinzukommen.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "Mehr erfahren"
-  "https://www.skribble.com/de/qes-freischalten/"
-  ""
+  "Direkt per Video"
+  "Jetzt QES freischalten"
+  "https://www.videoident.me/"
+  "_blank"
   "outline"
 >}}
 
 {{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-
-Du kommst bei uns oder einem unserer Partner vorbei.
-
-Passend für einzelne Signierende.
+Schalte den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 &nbsp;
 &nbsp;
 {{% /plan %}}
 {{< /content >}}
 
 {{< content text=center top=8 width=narrow >}}
-
 {{< cta
   label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
