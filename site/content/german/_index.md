@@ -246,7 +246,21 @@ oder in wenigen Tagen die ganze Organisation
 
 {{< content top=4 bottom=24 width=narrow display=flex >}}
 {{< step >}}
-{{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
+{{< picture "video-ident" 250 "Eine lupe vergrößert das bild eines mannes in einem pass." >}}
+{{% markdown %}}
+**Video-Identifikation**
+Schalte die QES von zu Hause aus frei, in dem du dich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+{{% /markdown %}}
+<br>
+{{< button
+  "Mehr infos"
+  "https://www.videoident.me/"
+  "_blank"
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "Ein grosser Pfeil, wie er eine Organsation, ein Hochhaus anklickt." >}}
 {{% markdown %}}
 **Organisationsweite Einführung mit wenigen Klicks**
 Deine gesamte Mitarbeiterschaft kann innert weniger Tage mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
@@ -256,19 +270,6 @@ Deine gesamte Mitarbeiterschaft kann innert weniger Tage mit der fortgeschritten
   "Mehr infos"
   "/de/identifikation/fes-fuer-business/"
   ""
-  "outline">}}
-{{< /step >}}
-
-{{< step >}}
-{{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
-{{% markdown %}}
-**Video-Identifikation**
-Schalte die QES von zu Hause aus frei, in dem du dich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
-{{% /markdown %}}
-{{< button
-  "Mehr infos"
-  "https://www.videoident.me/"
-  "_blank"
   "outline">}}
 {{< /step >}}
 {{< /content >}}

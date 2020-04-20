@@ -225,7 +225,21 @@ ou en quelques jours toute l'organisation
 
 {{< content top=4 bottom=24 width=narrow display=flex >}}
 {{< step >}}
-{{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
+{{< picture "video-ident" 250 "Une loupe agrandit l'image d'un homme dans un passeport." >}}
+{{% markdown %}}
+**Identification vidéo**
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo ou par contact personnel avec l’ID-app de Swisscom.
+{{% /markdown %}}
+<br>
+{{< button
+  "En savoir plus"
+  "https://www.videoident.me/"
+  "_blank"
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "Une grande flèche, un clic sur une organisation, un immeuble de grande hauteur." >}}
 {{% markdown %}}
 **Implémentation à toute l'organisation en quelques clics**
 Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA) en quelques jours seulement.
@@ -238,18 +252,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
   "outline">}}
 {{< /step >}}
 
-{{< step >}}
-{{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
-{{% markdown %}}
-**Identification vidéo**
-Déverrouillez la norme de signature électronique la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo ou par contact personnel avec l’ID-app de Swisscom.
-{{% /markdown %}}
-{{< button
-  "En savoir plus"
-  "https://www.videoident.me/"
-  "_blank"
-  "outline">}}
-{{< /step >}}
+
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

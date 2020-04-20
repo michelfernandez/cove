@@ -229,7 +229,22 @@ or in a few days the whole organization
 
 {{< content top=4 bottom=24 width=narrow display=flex >}}
 {{< step >}}
-{{< picture "identification-step-1" 252 "Eine lupe vergrößert das bild eines mannes in einem pass" >}}
+{{< picture "video-ident" 250 "A magnifying glass enlarges the image of a man in a passport." >}}
+{{% markdown %}}
+**Online identifikation**
+Enable the QES by getting yourself identified online via video-call or
+by personal contact with the ID app by Swisscom.
+{{% /markdown %}}
+<br>
+{{< button
+  "Learn more"
+  "https://www.videoident.me/"
+  "_blank"
+  "outline">}}
+{{< /step >}}
+
+{{< step >}}
+{{< picture "aes-for-biz-home-id" 280 "A big arrow, clicking on an organization, a high-rise building." >}}
 {{% markdown %}}
 **Organisation-wide implementation with just a few clicks**
 Enable your entire staff to sign with the advanced electronic signature (AES) within just a few days.
@@ -239,20 +254,6 @@ Enable your entire staff to sign with the advanced electronic signature (AES) wi
   "Learn more"
   "/identification/aes-for-business/"
   ""
-  "outline">}}
-{{< /step >}}
-
-{{< step >}}
-{{< picture "identification-step-2" 158 "Eine elektronische identität auf einem mobiltelefon" >}}
-{{% markdown %}}
-**Online identifikation**
-Enable the QES by getting yourself identified online via video-call or
-by personal contact with the ID app by Swisscom.
-{{% /markdown %}}
-{{< button
-  "Learn more"
-  "https://www.videoident.me/"
-  "_blank"
   "outline">}}
 {{< /step >}}
 {{< /content >}}
