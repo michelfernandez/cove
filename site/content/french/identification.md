@@ -174,7 +174,7 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
   white
   "Identification"
   "Directement par vidéo"
-  "Débloquez SEQ maintenant"
+  "Déverrouiller SEQ maintenant"
   "https://www.videoident.me/"
   "_blank"
   "outline"
