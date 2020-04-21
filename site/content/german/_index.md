@@ -262,7 +262,7 @@ Schalte die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in
 {{< step >}}
 {{< picture "aes-for-biz-home-id" 280 "Ein grosser Pfeil, wie er eine Organsation, ein Hochhaus anklickt." >}}
 {{% markdown %}}
-**Organisationsweite Einführung mit wenigen Klicks**
+**Organisationsweite Einführung**
 Deine gesamte Mitarbeiterschaft kann innert weniger Tage mit der fortgeschrittenen elektronischen Signatur (FES) signieren.
 {{% /markdown %}}
 <br>
