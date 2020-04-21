@@ -231,7 +231,7 @@ or in a few days the whole organization
 {{< step >}}
 {{< picture "video-ident" 250 "A magnifying glass enlarges the image of a man in a passport." >}}
 {{% markdown %}}
-**Online identifikation**
+**Online identification**
 Enable the QES by getting yourself identified online via video-call or
 by personal contact with the ID app by Swisscom.
 {{% /markdown %}}
