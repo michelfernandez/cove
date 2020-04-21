@@ -59,20 +59,17 @@ légalement valable, mais aussi simple.
 
 {{< /features-container >}}
 
-{{< content text=center top=4 bottom=12 width=narrow >}}
-{{% markdown %}}
-{{% /markdown %}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=12 >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
+Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z.
-Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=12 bottom=8 width=narrow >}}
+{{< content text=center top=20 bottom=8 width=narrow >}}
 {{% markdown %}}
 # À venir
 Notre vision est grande. Nous développons Skribble jour après jour.
@@ -100,6 +97,15 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=20 >}}
+{{< testimonial "testimonial/kantonschaffhausen-300w.png" "Titus Fleck, IT Manager, Canton de Schaffhausen" >}}
+"Avec le certificat d'organisation et la SEQ, Skribble nous fournit les éléments techniques décisifs pour la numérisation de bout en bout de nos services aux citoyens."
+{{< /testimonial >}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< outro >}}
 {{% markdown center %}}

@@ -59,20 +59,18 @@ sondern auch einfach.
 
 {{< /features-container >}}
 
-{{< content text=center top=4 bottom=12 width=narrow >}}
-{{% markdown %}}
-{{% /markdown %}}
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=12 >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
+den Alltag für uns und unseren Kunden." 
+{{< /testimonial >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
-den Alltag für uns und unseren Kunden." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=12 bottom=8 width=narrow >}}
+{{< content text=center top=20 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Folgt in Kürze
 Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
@@ -96,8 +94,15 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
   {{< features-item src="features/archive.svg"
     headline="Archivierbereit herunterladen"
     description="Lade signierte Dokumente im anerkannten PDF X/A herunter, um es rechtsgültuig archivieren zu können.">}}
-
 {{< /features-container >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=20 >}}
+{{< testimonial "testimonial/kantonschaffhausen-300w.png" "Titus Fleck, IT Manager, Kanton Schaffhausen" >}}
+"Skribble liefert uns mit dem Organisationszertifikat und der QES die entscheidenden technischen Komponenten für die durchgehende Digitalisierung unserer Bürgerservices."
+{{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
