@@ -254,8 +254,8 @@ Schalte die QES von zu Hause aus frei, in dem du dich online via Video-Call oder
 <br>
 {{< button
   "Mehr infos"
-  "https://www.videoident.me/"
-  "_blank"
+  "/de/qes-freischalten/"
+  ""
   "outline">}}
 {{< /step >}}
 

@@ -238,8 +238,8 @@ by personal contact with the ID app by Swisscom.
 <br>
 {{< button
   "Learn more"
-  "https://www.videoident.me/"
-  "_blank"
+  "/enable-qes/"
+  ""
   "outline">}}
 {{< /step >}}
 

@@ -233,8 +233,8 @@ Déverrouillez la norme de signature électronique la plus élevée (SEQ) en vou
 <br>
 {{< button
   "En savoir plus"
-  "https://www.videoident.me/"
-  "_blank"
+  "/fr/debloquez-seq/"
+  ""
   "outline">}}
 {{< /step >}}
 

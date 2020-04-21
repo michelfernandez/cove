@@ -181,7 +181,7 @@ Appropriate if new QES signers are constantly being added.
 
 {{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-Enable the highest e-signature standard (QES) from home.
+Enable the highest e-signature standard QES from home.
 
 Suitable for individual signatories.
 &nbsp;
