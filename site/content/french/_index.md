@@ -228,7 +228,7 @@ ou en quelques jours toute l'organisation
 {{< picture "video-ident" 250 "Une loupe agrandit l'image d'un homme dans un passeport." >}}
 {{% markdown %}}
 **Identification vidéo**
-Déverrouillez la norme de signature électronique la plus élevée (SEQ) en vous identifiant en ligne par appel vidéo ou par contact personnel avec l’ID-app de Swisscom.
+Déverrouillez la signature électronique qualifiée (SEQ) depuis votre domicile en vous identifiant en ligne par appel vidéo.
 {{% /markdown %}}
 <br>
 {{< button
