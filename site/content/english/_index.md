@@ -246,7 +246,7 @@ by personal contact with the ID app by Swisscom.
 {{< step >}}
 {{< picture "aes-for-biz-home-id" 280 "A big arrow, clicking on an organization, a high-rise building." >}}
 {{% markdown %}}
-**Organisation-wide implementation with just a few clicks**
+**Organisation-wide implementation**
 Enable your entire staff to sign with the advanced electronic signature (AES) within just a few days.
 {{% /markdown %}}
 <br>
