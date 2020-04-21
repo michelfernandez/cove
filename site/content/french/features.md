@@ -53,6 +53,10 @@ légalement valable, mais aussi simple.
     headline="Assigner les signatures"
     description="Transmettez une invitation de signature reçue aux personnes requises.">}}
 
+  {{< features-item src="features/archive-auto-delation.svg"
+    headline="Aide à l'archivage"
+    description="Nous vous rappelons de sauvegarder correctement les documents finalisés dans la période d'archivage de 30 jours.">}}
+
 {{< /features-container >}}
 
 {{< content text=center top=4 bottom=12 width=narrow >}}
