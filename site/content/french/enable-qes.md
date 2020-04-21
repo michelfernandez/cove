@@ -29,7 +29,7 @@ la plus élevée depuis chez vous.
 {{% /markdown %}}
 <br>
 {{< button
-  "Débloquez SEQ maintenant"
+  "Déverrouiller SEQ maintenant"
   "http://videoident.me"
   "_blank"
   "outline"
