@@ -249,7 +249,7 @@ oder in wenigen Tagen die ganze Organisation
 {{< picture "video-ident" 250 "Eine lupe vergrößert das bild eines mannes in einem pass." >}}
 {{% markdown %}}
 **Video-Identifikation**
-Schalte die QES von zu Hause aus frei, in dem du dich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+Schalte die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in dem du dich via Video-Call identifizieren lässt.
 {{% /markdown %}}
 <br>
 {{< button
