@@ -11,8 +11,8 @@ og_image: og/og-skribble-identification.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Maximise the legal weight of your electronic signature
-Enable the QES by getting yourself identified online via video-call or
-by personal contact with the ID app by Swisscom.
+Enable the QES by getting yourself identified online via video-call 
+or by personal contact with the ID app by Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 
