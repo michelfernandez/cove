@@ -26,8 +26,8 @@ avec l’ID-app de Swisscom.
 Identification 
 par vidéo en ligne
 ===============
-Déverrouillez la norme de signature électronique SEQ 
-la plus élevée depuis chez vous.       
+Déverrouillez la norme de signature 
+électronique SEQ la plus élevée depuis chez vous.       
 {{% /markdown %}}
 <br>
 {{< button
