@@ -232,7 +232,7 @@ or in a few days for your whole organization
 {{< picture "video-ident" 250 "A magnifying glass enlarges the image of a man in a passport." >}}
 {{% markdown %}}
 **Online identification**
-Enable the QES by getting yourself identified online via video-call or
+Enable the qualified electronic signature (QES) from home by getting yourself identified via video-call.
 by personal contact with the ID app by Swisscom.
 {{% /markdown %}}
 <br>
