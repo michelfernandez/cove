@@ -222,7 +222,7 @@ with legal form requirements or high liability risk.
 {{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
 Online identification via video
-or in a few days the whole organization
+or in a few days for your whole organization
 ===============
 {{% /markdown %}}
 {{< /content >}}
