@@ -238,7 +238,7 @@ Behördendokumente
 
 {{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-Online Identifikation per Video 
+Mit wenigen Klicks zu mehr Beweiskraft 
 oder in wenigen Tagen die ganze Organisation
 ===============
 {{% /markdown %}}
