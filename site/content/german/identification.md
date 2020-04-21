@@ -169,7 +169,7 @@ QES-Signierende hinzukommen.
 {{< plan
   white
   "Identification"
-  "Direkt per Video"
+  "Online via Video"
   "Jetzt QES freischalten"
   "https://www.videoident.me/"
   "_blank"

@@ -173,8 +173,8 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
 {{< plan
   white
   "Identification"
-  "Directement par vidéo"
-  "Débloquez SEQ maintenant"
+  "En ligne par vidéo"
+  "Déverrouiller SEQ maintenant"
   "https://www.videoident.me/"
   "_blank"
   "outline"

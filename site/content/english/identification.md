@@ -172,7 +172,7 @@ Appropriate if new QES signers are constantly being added.
 {{< plan
   white
   "Identification"
-  "Directly by video"
+  "Online via video"
   "Enable QES now"
   "https://www.videoident.me/"
   "_blank"
