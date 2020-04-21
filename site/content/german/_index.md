@@ -253,7 +253,7 @@ Schalte die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in
 {{% /markdown %}}
 <br>
 {{< button
-  "Mehr infos"
+  "Mehr erfahren"
   "/de/qes-freischalten/"
   ""
   "outline">}}
