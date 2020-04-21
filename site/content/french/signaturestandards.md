@@ -113,7 +113,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
-  label="Plus d'informations"
+  label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Francais/skribble-force-probante-barometre.pdf"
   outlined="true"
   target="_blank"

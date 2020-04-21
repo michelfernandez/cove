@@ -111,7 +111,7 @@ with legal form requirements or high liability risk.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
-  label="More info"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/English/skribble-legalweight-barometer.pdf"
   outlined="true"
   target="_blank"

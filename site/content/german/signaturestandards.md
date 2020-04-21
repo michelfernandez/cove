@@ -112,7 +112,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
-  label="Mehr Infos"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Barometer/Deutsch/skribble-beweiskraftbarometer.pdf"
   outlined="true"
   target="_blank"
