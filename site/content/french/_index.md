@@ -242,7 +242,7 @@ Déverrouillez la norme de signature électronique la plus élevée (SEQ) en vou
 {{< picture "aes-for-biz-home-id" 280 "Une grande flèche, un clic sur une organisation, un immeuble de grande hauteur." >}}
 {{% markdown %}}
 **Implémentation à toute l'organisation**
-Permettez à l'ensemble de votre personnel de signer avec la signature électronique avancée (SEA) en quelques jours seulement.
+Déverrouillez la signature électronique avancée (SEA) pour l'ensemble de votre personnel en quelques jours seulement.
 {{% /markdown %}}
 <br>
 {{< button
