@@ -217,7 +217,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 {{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-Identification en direct par vidéo
+Plus de force probante en quelques clics
 ou en quelques jours toute l'organisation
 ===============
 {{% /markdown %}}
