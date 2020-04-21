@@ -43,6 +43,7 @@ technological security with simplicity.
     description="Skribble's optimised user interface gives you an intuitive user experience for all modern browsers and devices.">}}
 {{< /features-container >}}
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=12 >}}
@@ -53,7 +54,7 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=16 width=narrow >}}
+{{< content text=center top=16 bottom=16 width=narrow >}}
 {{% markdown %}}
 # With Skribble you benefit from the highest standards of technology and security
 {{% /markdown %}}
@@ -87,13 +88,19 @@ technological security with simplicity.
 
 {{< /features-container >}}
 
+
+{{< content text=center top=4 bottom=4 width=narrow >}}
+{{% markdown %}}
+&nbsp;
+{{% /markdown %}}
+{{< /content >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble holds the label
-<a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, which stands
-for quality, reliability and precision in software development.
+{{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, CEO of Descarte Finance" >}}
+"Thanks to Skribble, we are able to process the entire onboarding process of our pillar 3a product in digital form. The cooperation with a local partner with Swiss hosting underlines our positioning as a Swiss provider".
 {{< /testimonial >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -124,6 +131,20 @@ Check out our API documentation.
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
+
+{{< content text=center top=4 bottom=4 width=narrow >}}
+{{% markdown %}}
+&nbsp;
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble holds the label
+Swiss made Software , which stands
+for quality, reliability and precision in software development.
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

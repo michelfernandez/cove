@@ -47,15 +47,17 @@ qui allie sécurité technologique et simplicité.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=12 >}}
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, PDG de Softcom" >}}
 "Nous avons intégré l'API pour le canton
 de Fribourg en une demi-journée.
 L'API de Skribble ne laisse rien à désirer."
 {{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=16 width=narrow >}}
+{{< content text=center top=16 bottom=16 width=narrow >}}
 {{% markdown %}}
 # Avec Skribble, vous travaillez selon <br class="hide-for-mobile">les plus hauts standards de technologie et de sécurité.
 {{% /markdown %}}
@@ -91,11 +93,11 @@ L'API de Skribble ne laisse rien à désirer."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
-Skribble porte le label
-<a href="https://www.swissmadesoftware.org/en/home/home.html" target="_blank" class="text-decoration: none;">Swiss made Software</a>, qui est synonyme
-de qualité, de fiabilité et de précision dans le développement de logiciels.
+{{< content top=12 >}}
+{{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, PDG de Descarte Finance" >}}
+"Grâce à Skribble, nous sommes en mesure de gérer tout l'embarquement de notre produit du pilier 3a de manière numérique. La coopération avec un partenaire local disposant d'un hébergement suisse souligne notre positionnement en tant que fournisseur suisse".
 {{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -127,6 +129,20 @@ Consultez notre documentation API. (en Anglais)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
+
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=12 >}}
+{{< testimonial "testimonial/swissmade-logo-300w.png" "" >}}
+Skribble porte le label 
+Swiss made Software, qui est synonyme
+de qualité, de fiabilité et 
+de précision dans le développement 
+de logiciels.
+{{< /testimonial >}}
+{{< /content >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
