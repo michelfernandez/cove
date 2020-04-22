@@ -77,7 +77,9 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=12 text=center width=narrow >}}
 {{% markdown %}}
-# En signant avec Skribble, vous gagnez du temps au travail
+En signant avec Skribble, 
+vous gagnez du temps au travail
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -101,7 +103,9 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Avec Skribble, vous remplissez <br class="hide-for-mobile">les exigences légales
+Avec Skribble, vous remplissez 
+les exigences légales
+===============
 Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
 {{% /markdown %}}
@@ -125,7 +129,9 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Signez toujours avec la norme optimale
+Signez toujours 
+avec la norme optimale
+===============
 La loi distingue trois normes de signature. Ils varient en termes 
 de domaine d’application et de force probante. Skribble est votre guichet 
 unique pour toutes les normes.
@@ -217,8 +223,8 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 {{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-Plus de force probante en quelques clics
-ou en quelques jours toute l'organisation
+Plus de force probante 
+en quelques clics
 ===============
 {{% /markdown %}}
 {{< /content >}}

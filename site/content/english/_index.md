@@ -81,7 +81,9 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# If you sign with Skribble you save time at work
+If you sign with Skribble 
+you save time at work
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -221,8 +223,8 @@ with legal form requirements or high liability risk.
 
 {{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-More legal weight with just a few clicks
-or in a few days for your whole organization
+More legal weight 
+with just a few clicks
 ===============
 {{% /markdown %}}
 {{< /content >}}
@@ -233,7 +235,6 @@ or in a few days for your whole organization
 {{% markdown %}}
 **Online identification**
 Enable the qualified electronic signature (QES) from home by getting yourself identified via video-call.
-by personal contact with the ID app by Swisscom.
 {{% /markdown %}}
 <br>
 {{< button

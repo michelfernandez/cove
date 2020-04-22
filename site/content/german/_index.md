@@ -79,7 +79,9 @@ und EU-Recht.
 
 {{< content top=12 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
-# Signierst du mit Skribble, <br class="hide-for-mobile">sparst du Zeit im Arbeitsalltag
+Signierst du mit Skribble, 
+sparst du Zeit im Arbeitsalltag
+===============
 {{% /markdown %}}
 {{< /content >}}
 
@@ -103,7 +105,9 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-# Mit Skribble erfüllst du die rechtlichen Anforderungen
+Mit Skribble erfüllst du 
+die rechtlichen Anforderungen
+===============
 Signiere rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -126,7 +130,9 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-# Signiere immer mit dem optimalen Standard 
+Signiere immer 
+mit dem optimalen Standard 
+===============
 Das Gesetz unterscheidet drei Signaturstandards. Sie variieren 
 punkto Einsatzgebiet und Beweiskraft. Bei Skribbble erhältst 
 du alle Standards aus einer Hand.
@@ -238,8 +244,8 @@ Behördendokumente
 
 {{< content text=center top=4 width=narrow >}}
 {{% markdown %}}
-Mit wenigen Klicks zu mehr Beweiskraft 
-oder in wenigen Tagen die ganze Organisation
+Mit wenigen Klicks 
+zu mehr Beweiskraft 
 ===============
 {{% /markdown %}}
 {{< /content >}}
@@ -267,7 +273,7 @@ Schalte die fortgeschrittene elektronische Signatur (FES) innert weniger Tage f�
 {{% /markdown %}}
 <br>
 {{< button
-  "Mehr infos"
+  "Mehr erfahren"
   "/de/identifikation/fes-fuer-business/"
   ""
   "outline">}}
