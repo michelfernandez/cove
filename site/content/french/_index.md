@@ -138,7 +138,7 @@ unique pour toutes les normes.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
 <thead>
   <tr>
     <th scope="col"></th>

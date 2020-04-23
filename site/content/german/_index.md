@@ -139,7 +139,7 @@ du alle Standards aus einer Hand.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< table top=12 bottom=12 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
+{{< table top=8 lock-for-mobile="true" class="table--qualities table--qualities-no-legend" layout=fixed >}}
 <thead>
   <tr>
     <th scope="col"></th>
@@ -186,25 +186,12 @@ du alle Standards aus einer Hand.
 **Dokumente**
 interner oder informeller Natur mit geringem Haftungsrisiko.
 &nbsp;
-
-**Beispiele:**
-Lieferanten-Offerten
-Bestellungen/Aufträge
-Organisationsinterne Dokumente
-Bekanntmachungen
-
 {{% /markdown %}}
     </td>
     <td>
 {{% markdown %}}
 **Dokumente**
 ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
-
-**Beispiele:**
-Mietvertrag 
-Kaufvertrag
-Einfacher Arbeitsvertrag
-Kontoeröffnung
 
 {{% /markdown %}}
     </td>
@@ -214,12 +201,6 @@ Kontoeröffnung
 **Dokumente**
 mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
 &nbsp;
-
-**Beispiele:**
-Konsumkreditvertrag
-Leiharbeitsverträge Kader-Arbeitsverträge
-Revisionsberichte
-Behördendokumente
 {{% /markdown %}}
     </td>
   </tr>
