@@ -175,17 +175,17 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       leftSlot:
-        title: Beweiskraft maximieren?
-        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
+        title: Beweiskraft bestimmen?
+        text: Wir erklären welcher E-Signatur-Standard wan eingesetzt wird?
         button:
-          label: Identifizieren lassen
-          href: /de/beweiskraft-erhoehen/
+          label: Mehr erfahren
+          href: /de/signaturstandards/
           target:
       rightSlot:
-        title: Demo vereinbaren?
-        text: Wir kommen gerne persönlich vorbei um dir Skribble zu zeigen.
+        title: Kontakt aufnehmen?
+        text: Gerne kontaktiert dich Skribble um deine Fragen zu beantworten.
         button:
-          label:  Telefongespräch vereinbaren
+          label: Kontakt aufnehmen
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
           target: _blank
       navigation:
