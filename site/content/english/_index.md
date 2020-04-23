@@ -35,7 +35,7 @@ legally binding in accordance with Swiss & EU law.
 
 {{< logos-container top=12 bottom=24 width=wide title="Trusted by:">}}
   {{< logos-item src="logos/canon-142w.svg" alt="Canon">}}
-  {{< logos-item src="logos/baggenstos-205w.svg" alt="Baggenstoss">}}
+  {{< logos-item src="logos/helvetia-186w.svg" alt="Helvetia Versicherung">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
   {{< logos-item src="logos/kellerhalscarrard-124w.svg" alt="Kellerhals Carrard">}}
