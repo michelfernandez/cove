@@ -133,6 +133,9 @@ languages:
         - name: QES-Validator
           url: /de/qes-validator/
           weight: 25
+        - name: Status
+          url: /status/
+          weight: 30  
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
@@ -500,7 +503,9 @@ languages:
         - name: Validateur SEQ
           url: /fr/validateur-seq/
           weight: 25
-
+        - name: Status
+          url: /status/
+          weight: 30  
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
