@@ -23,6 +23,18 @@ and to develop Skribble and yourself.
 {{< cta
   title="Open positions"
   label="More info"
+  href="/careers/378/account-executive-ch"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Account Executive, Zurich (100%)**
+(Job description in German)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="More info"
   href="/careers/465/sales-manager-de"
   target=""
   outlined="true"

@@ -23,6 +23,18 @@ et de développer Skribble et toi-même.
 {{< cta
   title="Nous recherchons"
   label="Plus d'info"
+  href="/fr/carriere/378/account-executive-ch"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Account Executive, Zurich (100%)**
+(Annonce en Allemand)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="Plus d'info"
   href="/fr/carriere/465/sales-manager-de"
   target=""
   outlined="true"

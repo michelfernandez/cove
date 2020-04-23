@@ -11,8 +11,9 @@ og_image: og/og-career.jpg
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Arbeiten bei Skribble
-Entwickle dich und deine Karriere zusammen mit motivierten
-und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen gemeinsam zu lösen und zu wachsen.
+Plane deinen nächsten Karriereschritt und trete unserem hoch motivierten
+und inspirierenden Team bei. Wir bieten dir die Chance, gemeinsam 
+an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -21,6 +22,17 @@ und inspirierenden Personen. Wir bieten dir die Chance neue Herausforderungen ge
 {{< cta-group >}}
 {{< cta
   title="Offene Stellen"
+  label="Mehr Infos"
+  href="/de/karriere/378/account-executive-ch"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Account Executive, Zürich (100%)**
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
   label="Mehr Infos"
   href="/de/karriere/465/sales-manager-de"
   target=""
