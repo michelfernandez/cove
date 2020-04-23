@@ -43,7 +43,7 @@ Nach erfolgreichem Go-Live im 2019 steht nun das internationale Wachstum im B2B-
 Du möchtest etwas bewegen und mitgestalten. Du bist flexibel und bereit, verschiedene Aufgaben im Salesprozess zu übernehmen. Du fühlst dich wohl in einer dynamischen und schnell ändernden Umgebung und arbeitest selbstständig. Du bist kommunikativ, empathisch und hast Spass an deiner Tätigkeit. Du setzt dich gerne mit neuen Technologien auseinander und bringst deine eigene Persönlichkeit in unser Team.
 
 ## Das kannst du bewirken:
-- Du entwickelst und implementiert mit den Gründern einen skalierbaren Prozess für die Qualifikation von Inbound-Leads
+- Du entwickelst und implementierst mit den Gründern einen skalierbaren Prozess für die Qualifikation von Inbound-Leads
 - Du gestaltest den Aufbau unserer Pre-Sales Organisation (SDR – Sales Development Reps) mit und unterstützt den Aufbau eines Top-Teams
 - Du unterstützt das Sales-Team beim Anbahnen und Vorbereiten von Kunden-Terminen
 - Du übernimmst nach deinem Onboarding selbstständig neue Leads und konvertierst sie zu Kunden
