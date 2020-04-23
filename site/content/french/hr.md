@@ -196,8 +196,8 @@ des identités numériques de confiance."
 Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 (hébergement bancaire standard).
 {{% /collapsible %}}
 
-{{% collapsible 11 "Et si je n'ai pas encore été identifié personnellement?" %}}
-L'identification en contact personnel n'est requise que pour signer avec la norme la plus élevée de signature électronique (SEQ). Si vous n'avez pas encore été identifié personnellement, vous signez avec la deuxième norme la plus élevée (SEA).
+{{% collapsible 11 "Et si je n'ai pas encore été identifié ?" %}}
+L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}

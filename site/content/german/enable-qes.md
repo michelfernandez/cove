@@ -447,7 +447,7 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 {{% /collapsible %}}
 
 {{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 {{< /content >}}
 

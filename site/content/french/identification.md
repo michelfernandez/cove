@@ -247,8 +247,8 @@ Un nombre croissant de personnes en Europe a une identité électronique validé
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "Quand dois-je utiliser quelle norme de signature?" %}}
-La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
+{{% collapsible 10 "Quand dois-je utiliser quelle norme de signature ?" %}}
+La signature électronique simple (SES) convient principalement aux documents informels ou internes présentant un faible risque de responsabilité.La signature électronique simple (SES) convient principalement aux documents informels ou internes présentant un faible risque de responsabilité. La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
 {{% /collapsible %}}
 
 {{% collapsible 12 "Pourquoi l'identification est-elle différente entre la SEA et la SEQ ?" %}}

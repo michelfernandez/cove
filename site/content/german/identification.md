@@ -219,7 +219,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Factsheet herunterlden"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_ID-Optionen_DE.pdf"
   target="_blank"
   outlined="true"
@@ -243,8 +243,8 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
-Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
+{{% collapsible 10 "Wann verwende ich welchen E-Signatur-Standard?" %}}
+Die einfache elektronische Signatur (EES) eignet sich vorwiegend für informelle oder interne Dokumente mit geringem Haftungsrisiko. Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
 {{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der FES und der QES?" %}}

@@ -195,8 +195,8 @@ Skribble' s data centre is located in Switzerland and is ISO 270001 certified (a
 {{% /collapsible %}}
 
 {{% collapsible 11 "What if I haven't been identified yet?" %}}
-Personal identification is only required in order to sign with the highest e-signature standard (QES). If you haven't been identified yet, you can sign with the second highest standard (AES).
-{{% /collapsible %}}
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
+{{< /collapsible >}}
 
 {{% collapsible 12 "Do I need additional hardware for signing with Skribble?" %}}
 No. You don't need a USB stick or a card reader to sign with Skribble. The two-factor authentication takes place with Skribble via mobile phone (Mobile ID or one time password).

@@ -443,6 +443,10 @@ de Swisscom en Suisse (certification Tier IV).
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
 Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
 {{% /collapsible %}}
+
+{{% collapsible 6 "Et si je n'ai pas encore été identifié ?" %}}
+L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
+{{< /collapsible >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

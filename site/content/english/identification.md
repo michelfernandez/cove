@@ -249,8 +249,8 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "When do I use which signature standard?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
+{{% collapsible 10 "When do I use which e-signature standard?" %}}
+The simple electronic signature (SES) is primarily suited for informal or internal documents with low liability risk. The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
 {{% collapsible 12 "Why is identification different for AES and QES?" %}}

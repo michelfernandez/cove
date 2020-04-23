@@ -447,7 +447,7 @@ If this is not the case, a new SIM card with Mobile ID can be ordered
 {{< /collapsible >}}
 
 {{% collapsible 6 "What if I haven't been identified yet?" %}}
-Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign with the second highest standard (AES).
+Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
 {{< /collapsible >}}
 {{< /content >}}
 

@@ -194,7 +194,7 @@ Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifizier
 {{% /collapsible %}}
 
 {{% collapsible 11 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Brauche ich für das Signieren mit Skribble zusätzliche Hardware?" %}}
