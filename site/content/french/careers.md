@@ -28,7 +28,7 @@ et de développer Skribble et toi-même.
   outlined="true"
 >}}
 {{% markdown %}}
-**Account Executive, Zürich (100%)**
+**Account Executive, Zurich (100%)**
 (Annonce en Allemand)
 {{% /markdown %}}
 {{< /cta >}}
