@@ -11,8 +11,8 @@ slug: preise
 Signiere einfacher 
 mit dem passenden Preismodell
 ===============	
-Skribble eignet sich sowohl Einzelpersonen 
-wie auch für Firmen die häufig signieren.
+Skribble eignet sich sowohl für Einzelpersonen 
+als auch für Organisationen, die häufig signieren. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -42,12 +42,12 @@ eines der folgenden Modelle umstellen:
   bottom=6
   width=narrow
   title="Fair Flat"
-  description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
+  description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.–</span> pro Monat</strong></p>"
   has-comparison="true"
   comparison-caption="Lädst du andere zum Signieren ein, kommen weitere CHF 2.00 - 2.50 pro Signatur dazu. Downgrade jederzeit möglich."
   button-text="Jetzt ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
-  subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
+  subtext="Keine Abonnements-Verpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
 >}}
     {{< picture fair-flat-visual 290 "" >}}
 {{< /action-card >}}
