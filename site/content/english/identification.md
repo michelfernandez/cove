@@ -225,7 +225,7 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Download factsheet"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_ID-Options_EN.pdf"
   target="_blank"
   outlined="true"
@@ -253,8 +253,8 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 The simple electronic signature (SES) is primarily suited for informal or internal documents with low liability risk. The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
-{{% collapsible 12 "Why is identification different for AES and QES?" %}}
-The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With AES, providers have more freedom. When selecting identification procedures for AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
+{{% collapsible 12 "Why are identification requirements different for each e-signature standard?" %}}
+The legal identification requirements and the corresponding legal weight arenot the same. QES is the highest standard and legally equivalent to a handwritten signature. Its identification requirements is precisely defined by the law. In the case of SES and AES, providers have more freedom in choosing the respective identification procedures. Skribble focuses on easeof use and maximisation of legal weight.
 {{% /collapsible %}}
 
 {{< /content >}}
