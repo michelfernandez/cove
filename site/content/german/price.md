@@ -64,9 +64,9 @@ eines der folgenden Modelle umstellen:
   bottom=6
   width=narrow
   title="Business"
-  description="<p>Du nutzt Skribble in deiner Organisation. Profitiere von zentraler Benutzerverwaltung und bezahle bequem auf Rechnung.</p><p>Die Business-Flatrate kostet CHF 85.– pro Monat (jährliche Abrechnung) und beinhaltet 600 Signaturen pro Jahr für alle Nutzer, inkl. externe Parteien (gilt für alle E-Signatur-Standards: EES, FES und QES).</p><p>EES: CHF 1.20</p><p>FES: CHF 1.70</p><p>QES: CHF 2.50</p>"
-  comparison-title="Zusätzliche Signaturen werden im Pay-per-Use Preismodell abgerechnet:"
+  description="Du nutzt Skribble in deiner Organisation. Profitiere von zentraler Benutzerverwaltung und bezahle bequem auf Rechnung."
   has-comparison="true"  
+  comparison-single="<p>Die Business-Flatrate kostet CHF 85.– pro Monat (jährliche Abrechnung) und beinhaltet 600 Signaturen pro Jahr für alle Nutzer, inkl. externe Parteien (gilt für alle E-Signatur-Standards: EES, FES und QES).</p><h4><strong>Zusätzliche Signaturen werden im Pay-per-Use Preismodell abgerechnet:</strong></h4><p><strong>EES:</strong> CHF 1.20</p><p><strong>FES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
   comparison-caption="Monatliche Abrechnung: CHF 100.– pro Monat mit 50 Signaturen (jeder E-Signatur-Standard) für alle Nutzer inkl. externe Parteien"
   button-text="Jetzt beraten lassen"
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
