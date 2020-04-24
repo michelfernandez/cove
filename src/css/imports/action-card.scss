@@ -73,8 +73,8 @@
                 width: 55%;
 
                 .picture {
-                    padding: 0px 16px 0px 0px;
-                    justify-content: right;
+                    padding: 0px;
+                    justify-content: flex-end;
                 }
 
                 @media only screen and (max-width: 720px) {
