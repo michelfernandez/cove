@@ -175,11 +175,11 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       leftSlot:
-        title: Beweiskraft bestimmen?
-        text: Wir erklären welcher E-Signatur-Standard wan eingesetzt wird?
+        title: Beweiskraft maximieren?
+        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
         button:
-          label: Mehr erfahren
-          href: /de/signaturstandards/
+          label: Identifizieren lassen
+          href: /de/beweiskraft-erhoehen/
           target:
       rightSlot:
         title: Kontakt aufnehmen?
