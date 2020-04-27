@@ -69,10 +69,10 @@ to one of the following plans at any time:
   comparison-single="<p><strong>CHF <span class='large'>85.–</span> per month (yearly billing)</strong></p>and includes 600 signatures per year for all users, including external parties</p><p> (applies to all e-signature standards: SES, AES and QES).</p><h4><strong>Additional signatures are billed according to the Pay-per-use plan:</strong></h4><p><strong>SES:</strong> CHF 1.20</p><p><strong>AES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
   has-comparison="true"
   comparison-title="The business flat rate costs:"
-  comparison-caption="The prices decrease significantly if you sign more or with a different standard."
+  comparison-caption="Monthly billing: CHF 100.– per month with 50 signatures (any e-signature standard) for all users including external parties."
   button-text="Get advice now"
   button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  subtext=""
+  subtext="Monthly or yearly termination"
 >}}
   {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
@@ -194,12 +194,6 @@ to one of the following plans at any time:
 </tr>
 
 <tr>
-<td></td>
-<td></td>
-<td>The more signatures, the cheaper the unit price.<br>The more users, the lower the flat rate.</td>
-</tr>
-
-<tr>
 <td><strong>Price range</strong></td>
 <td><strong>Price range</strong></td>
 <td><strong>Price range</strong></td>
@@ -211,12 +205,6 @@ to one of the following plans at any time:
 <td>CHF 1.20 for the SES, CHF 1.70 for the AES or CHF 2.50 for the QES.</td>
 </tr>
 
-<tr>
-<td></td>
-<td></td>
-<td><strong>Flat rate
-</strong><br>CHF 10.- up to a max. of 25.- per user (excl. VAT)</td>
-</tr>
 
 <tr>
 <td>{{< button

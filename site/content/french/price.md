@@ -72,10 +72,10 @@ passer à l'un des modèles tarifaires suivants:
   comparison-title="Le forfait d’entreprise coûte :"
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Pour les employés qui signent <strong>moins</strong> de 12 fois par mois et pour les personnes externes à l'entreprise.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p> par signature au maximum</p>"
   or="Ou"
-  comparison-caption="Les prix diminuent significativement en fonction du volume de signatures ou en signant avec une norme différente."
+  comparison-caption="Facturation mensuelle : 100.– CHF par mois avec 50 signatures (toute norme de signature électronique) pour tous les utilisateurs, y compris les parties externes."
   button-text="Obtenir des conseils"
   button-link="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  subtext=""
+  subtext="Résiliation mensuelle ou annuelle"
 >}}
     {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
@@ -188,12 +188,6 @@ passer à l'un des modèles tarifaires suivants:
 </tr>
 
 <tr>
-<td></td>
-<td></td>
-<td>Plus il y a de signatures, moins l'unité est chère.<br>Plus il y a de signataires, plus le forfait est avantageux</td>
-</tr>
-
-<tr>
 <td><strong>Gamme de prix</strong></td>
 <td><strong>Gamme de prix</strong></td>
 <td><strong>Gamme de prix</strong></td>
@@ -203,12 +197,6 @@ passer à l'un des modèles tarifaires suivants:
 <td></td>
 <td>CHF 2.– pour la SES et la SEA  ou CHF 2.50 pour la SEQ</td>
 <td>CHF 1.20 pour la SES, CHF 1.70 pour la SEA ou CHF 2.50 pour la SEQ.</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td><strong>Flat rate</strong><br>CHF 10.- jusqu'à max. 25.- par utilisateur (hors TVA)</td>
 </tr>
 
 <tr>

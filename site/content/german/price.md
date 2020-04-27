@@ -67,10 +67,10 @@ eines der folgenden Modelle umstellen:
   has-comparison="true"  
   comparison-single="<p><strong>CHF <span class='large'>85.–</span> pro Monat (jährliche Abrechnung)</strong></p>und beinhaltet 600 Signaturen pro Jahr für alle Nutzer, inkl. externe Parteien</p><p>(gilt für alle E-Signatur-Standards: EES, FES und QES).</p><h4><strong>Zusätzliche Signaturen werden im Pay-per-Use Preismodell abgerechnet:</strong></h4><p><strong>EES:</strong> CHF 1.20</p><p><strong>FES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
   comparison-title="Die Business-Flatrate kostet:"
-  comparison-caption="Monatliche Abrechnung: CHF 100.– pro Monat mit 50 Signaturen (jeder E-Signatur-Standard) für alle Nutzer inkl. externe Parteien"
+  comparison-caption="Monatliche Abrechnung: CHF 100.– pro Monat inkl. 50 Signaturen (jeder E-Signatur-Standard) für alle Nutzer inkl. externe Parteien"
   button-text="Jetzt beraten lassen"
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  subtext=""
+  subtext="Monatlich oder jährlich kündbar"
 >}}
     {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
@@ -189,12 +189,6 @@ eines der folgenden Modelle umstellen:
 </tr>
 
 <tr>
-<td></td>
-<td></td>
-<td>Je mehr Signaturen, desto günstiger das Stück<br>Je mehr Flat-Nutzer, desto günstiger die Flatrate</td>
-</tr>
-
-<tr>
 <td><strong>Preisspanne</strong></td>
 <td><strong>Preisspanne</strong></td>
 <td><strong>Preisspanne</strong></td>
@@ -206,11 +200,6 @@ eines der folgenden Modelle umstellen:
 <td>CHF 1.20 für EES, CHF 1.70 für FES  oder CHF 2.50 für QES</td>
 </tr>
 
-<tr>
-<td></td>
-<td></td>
-<td><strong>Flatrate</strong><br>CHF 10.- bis max. 25.- pro Nutzer (exkl. MwSt.)</td>
-</tr>
 
 <tr>
 <td>{{< button
