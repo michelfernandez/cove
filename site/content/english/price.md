@@ -147,13 +147,6 @@ to one of the following plans at any time:
 <tr>
 <td></td>
 <td></td>
-<td>Assign user to plan</td>
-</tr>
-
-
-<tr>
-<td></td>
-<td></td>
 <td>Activity overview</td>
 </tr>
 

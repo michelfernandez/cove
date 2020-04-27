@@ -143,12 +143,6 @@ eines der folgenden Modelle umstellen:
 <tr>
 <td></td>
 <td></td>
-<td>Nutzer einem Preismodell zuordnen</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
 <td>Aktivitätsübersicht</td>
 </tr>
 

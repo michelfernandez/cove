@@ -142,12 +142,6 @@ passer à l'un des modèles tarifaires suivants:
 <tr>
 <td></td>
 <td></td>
-<td>Affecter des utilisateurs à un modèle tarifaire</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
 <td>Historique d'activités</td>
 </tr>
 
