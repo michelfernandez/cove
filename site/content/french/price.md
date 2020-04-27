@@ -188,18 +188,6 @@ passer à l'un des modèles tarifaires suivants:
 </tr>
 
 <tr>
-<td><strong>Evolution des prix</strong></td>
-<td><strong>Evolution des prix</strong></td>
-<td><strong>Evolution des prix</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td>Coûts réduits grâce à l'utilisation de la norme de signature électronique inférieure (SEA)</td>
-<td>Coûts réduits grâce à l'utilisation de la norme de signature électronique inférieure (SEA)</td>
-</tr>
-
-<tr>
 <td></td>
 <td></td>
 <td>Plus il y a de signatures, moins l'unité est chère.<br>Plus il y a de signataires, plus le forfait est avantageux</td>

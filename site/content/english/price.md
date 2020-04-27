@@ -194,18 +194,6 @@ to one of the following plans at any time:
 </tr>
 
 <tr>
-<td><strong>Price scale</strong></td>
-<td><strong>Price scale</strong></td>
-<td><strong>Price scale</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td>Lower costs when using the lower e-signature standard (AES)</td>
-<td>Lower costs when using the lower e-signature standard (AES)</td>
-</tr>
-
-<tr>
 <td></td>
 <td></td>
 <td>The more signatures, the cheaper the unit price.<br>The more users, the lower the flat rate.</td>

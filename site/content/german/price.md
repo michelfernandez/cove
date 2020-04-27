@@ -190,12 +190,6 @@ eines der folgenden Modelle umstellen:
 
 <tr>
 <td></td>
-<td>Tiefere Kosten bei der Nutzung des tieferen E-Signatur-Standards (FES)</td>
-<td>Tiefere Kosten bei der Nutzung des tieferen E-Signatur-Standards (FES)</td>
-</tr>
-
-<tr>
-<td></td>
 <td></td>
 <td>Je mehr Signaturen, desto günstiger das Stück<br>Je mehr Flat-Nutzer, desto günstiger die Flatrate</td>
 </tr>
