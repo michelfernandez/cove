@@ -75,7 +75,7 @@ passer à l'un des modèles tarifaires suivants:
   comparison-caption="Facturation mensuelle : 100.– CHF par mois avec 50 signatures (toute norme de signature électronique) pour tous les utilisateurs, y compris les parties externes."
   button-text="Obtenir des conseils"
   button-link="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  subtext="Résiliation mensuelle ou annuelle"
+  subtext="Résiliable mensuellement ou anuellement"
 >}}
     {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
