@@ -8,9 +8,11 @@ slug: preise
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Signiere einfacher mit dem passenden Preismodell
-Skribble eignet sich sowohl für gelegentliches
-wie auch für häufiges Signieren.
+Signiere einfacher 
+mit dem passenden Preismodell
+===============	
+Skribble eignet sich sowohl für Einzelpersonen 
+als auch für Organisationen, die häufig signieren. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -40,16 +42,15 @@ eines der folgenden Modelle umstellen:
   bottom=6
   width=narrow
   title="Fair Flat"
-  description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.-</span> pro Monat</strong></p>"
+  description="<p>Geeignet für dich, wenn du <strong>mehr als 2 Mal pro Monat</strong> selbst signierst oder andere zum Signieren einlädst.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</span> pro Signatur</strong></p><p>bis zu einer Obergrenze von</p><p><strong>CHF <span class='large'>30.–</span> pro Monat</strong></p>"
   has-comparison="true"
-  comparison-caption="Lädst du andere zum Signieren ein, kommen weitere 2.50.- pro Signatur dazu."
+  comparison-caption="Lädst du andere zum Signieren ein, kommen weitere CHF 2.00 bis 2.50 pro Signatur hinzu. Downgrade auf das Preismodell Free jederzeit möglich."
   button-text="Jetzt ausprobieren"
   button-link="https://my.skribble.com/signup?lang=de"
-  subtext="Keine Abonnementsverpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
+  subtext="Keine Abonnements-Verpflichtungen. Die ersten zwei Signaturen sind jeden Monat kostenlos."
 >}}
     {{< picture fair-flat-visual 290 "" >}}
 {{< /action-card >}}
-
 
 {{< content text=center top=6 width=narrow >}}
 {{% markdown %}}
@@ -62,16 +63,14 @@ eines der folgenden Modelle umstellen:
   bottom=6
   width=narrow
   title="Business"
-  description="<p>Du nutzt Skribble in deiner Organisation. Die Benutzerverwaltung ist zentralisiert, die Verrechnung erfolgt einheitlich auf Rechnung.</p>"
-  has-comparison="true"
-  comparison-title="Wähle für jeden Signierenden das passende Modell:"
-  comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Für Mitarbeitende, die <strong>weniger</strong> als 12 Mal pro Monat signieren und für Firmen-Externe.</p><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p>pro Signatur</p>"
-  or="Oder"
-  comparison-second="<p><strong>Flatrate</strong></p><p>Für Mitarbeitende, die <strong>mehr</strong> als 12 Mal pro Monat signieren.</p><br><p class='top-spaced'>Maximal</p><p><strong>CHF <span class='large'>25</strong></span></p><p>pro Nutzer / Monat</p>"
-  comparison-caption="Die Preise sinken deutlich, wenn mehr signiert wird oder mit einem anderen Standard."
+  description="<strong>Du nutzt Skribble in deiner Organisation.</strong> Profitiere von zentraler Benutzerverwaltung und bezahle bequem auf Rechnung."
+  has-comparison="true"  
+  comparison-single="<p><strong>CHF <span class='large'>85.–</span> pro Monat (jährliche Abrechnung)</strong></p>und beinhaltet 600 Signaturen pro Jahr für alle Nutzer, inkl. externe Parteien</p><p>(gilt für alle E-Signatur-Standards: EES, FES und QES).</p><h4><strong>Zusätzliche Signaturen werden im Pay-per-Use Preismodell abgerechnet:</strong></h4><p><strong>EES:</strong> CHF 1.20</p><p><strong>FES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
+  comparison-title="Die Business-Flatrate kostet:"
+  comparison-caption="Monatliche Abrechnung: CHF 100.– pro Monat inkl. 50 Signaturen (jeder E-Signatur-Standard) für alle Nutzer inkl. externe Parteien"
   button-text="Jetzt beraten lassen"
   button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  subtext=""
+  subtext="Monatlich oder jährlich kündbar"
 >}}
     {{< picture business-visual 270 "" >}}
 {{< /action-card >}}
@@ -144,12 +143,6 @@ eines der folgenden Modelle umstellen:
 <tr>
 <td></td>
 <td></td>
-<td>Nutzer einem Preismodell zuordnen</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
 <td>Aktivitätsübersicht</td>
 </tr>
 
@@ -190,24 +183,6 @@ eines der folgenden Modelle umstellen:
 </tr>
 
 <tr>
-<td><strong>Preisentwicklung</strong></td>
-<td><strong>Preisentwicklung</strong></td>
-<td><strong>Preisentwicklung</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td>Tiefere Kosten bei der Nutzung des tieferen E-Signatur-Standards (FES)</td>
-<td>Tiefere Kosten bei der Nutzung des tieferen E-Signatur-Standards (FES)</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Je mehr Signaturen, desto günstiger das Stück<br>Je mehr Flat-Nutzer, desto günstiger die Flatrate</td>
-</tr>
-
-<tr>
 <td><strong>Preisspanne</strong></td>
 <td><strong>Preisspanne</strong></td>
 <td><strong>Preisspanne</strong></td>
@@ -215,15 +190,10 @@ eines der folgenden Modelle umstellen:
 
 <tr>
 <td></td>
-<td>CHF 2.00 oder CHF 2.50 pro Signatur (inkl. MwSt.)</td>
-<td><strong>Pay-Per-Use</strong><br>CHF 0.60 bis max. 2.50 pro Signatur (exkl. MwSt.)</td>
+<td>CHF 2.– für EES und FES oder CHF 2.50 für QES</td>
+<td>CHF 1.20 für EES, CHF 1.70 für FES  oder CHF 2.50 für QES</td>
 </tr>
 
-<tr>
-<td></td>
-<td></td>
-<td><strong>Flatrate</strong><br>CHF 10.- bis max. 25.- pro Nutzer (exkl. MwSt.)</td>
-</tr>
 
 <tr>
 <td>{{< button

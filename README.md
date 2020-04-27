@@ -271,11 +271,18 @@ A picture can be inserted inside the shortcode in the regular picture format sho
 - `button-text`
 - `button-link`
 - `subtext`
-- `has-comparison` (optional) set to `true` in case you want to have an internal comparison panel between two options
-- `comparison-title` (optional) if `has-comparison` is set to true, this text will be the title of the comparison
-- `comparison-first` (optional) if `has-comparison` is set to true, this will be the content of the first element
-- `comparison-second` (optional) if `has-comparison` is set to true, this will be the content of the second element
-- `comparison-caption` (optional) if `has-comparison` is set to true, this text will be the caption of the comparison
+- `has-comparison` (optional) set to `true` in case you want to have an internal comparison panel.
+
+If `has-comparison` is set to true, you have the following additional options:
+- `comparison-title` (optional) title of the comparison panel
+- `comparison-caption` (optional) caption of the comparison panel
+
+The comparison panel can either be a full width single panel:
+- `comparison-single` (optional) content of the full width comparison panel
+
+Or alternatively, two side-by-side panels (top-and-bottom in mobile)
+- `comparison-first` (optional) content of the first element
+- `comparison-second` (optional) content of the second element
 
 Full example:
 ```
