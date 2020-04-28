@@ -180,7 +180,7 @@ languages:
     footer:
       leftSlot:
         title: Beweiskraft erhöhen?
-        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
+        text: Lass dich identifizieren und schalte einen höheren E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
           href: /de/beweiskraft-erhoehen/
@@ -369,13 +369,13 @@ languages:
     footer:
       leftSlot:
         title: Want to increase the legal weight?
-        text: Get identified and unlock the highest e-signature standard.
+        text: Get identified and unlock a higher e-signature standard.
         button:
           label: Get identified
           href: /increase-legal-weight/
           target:
       rightSlot:
-        title: Get in touch?
+        title: Want to get in touch?
         text: Skribble will be glad to contact you to answer your questions.
         button:
           label: Arrange a call
@@ -558,16 +558,16 @@ languages:
     footer:
       leftSlot:
         title: Augmenter la force probante?
-        text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
+        text: Identifiez-vous et débloquez une norme de signature électronique plus élevée.
         button:
           label: S'identifier
           href: /fr/maximiser-force-probante/
           target:
       rightSlot:
-        title: Prendre contact ?
+        title: Entrer en contact?
         text: Nous nous ferons un plaisir de vous contacter pour répondre à vos questions.
         button:
-          label: Organiser un appel téléphonique
+          label: Organiser un appel
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
           target: _blank
       navigation:
