@@ -24,7 +24,7 @@ map:
         email: info@skribble.com
         phone: 
           title: Téléphone
-          text: "+41 78 123 45 67"
+          text: "+41 44 505 16 64"
         opening_hours:
           title: Horaires d'ouverture
           text: De 9h à 17h
