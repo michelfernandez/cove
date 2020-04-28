@@ -69,6 +69,10 @@ languages:
         - name: Preise
           url: "/de/preise/"
           weight: 20
+        # Kontakt
+        - name: Kontakt
+          url: "/de/kontakt/"
+          weight: 25
       footer1:
         - name: Features
           url: /de/features/
@@ -176,7 +180,7 @@ languages:
     footer:
       leftSlot:
         title: Beweiskraft erhöhen?
-        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
+        text: Lass dich identifizieren und schalte einen höheren E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
           href: /de/beweiskraft-erhoehen/
@@ -185,7 +189,7 @@ languages:
         title: Kontakt aufnehmen?
         text: Gerne kontaktiert dich Skribble um deine Fragen zu beantworten.
         button:
-          label: Kontakt aufnehmen
+          label: Telefonat vereinbaren
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
           target: _blank
       navigation:
@@ -254,6 +258,10 @@ languages:
         - name: Pricing
           url: "/pricing/"
           weight: 20
+        # Contact
+        - name: Contact
+          url: "/Contact/"
+          weight: 25
       footer1:
         - name: Features
           url: /features/
@@ -361,14 +369,14 @@ languages:
     footer:
       leftSlot:
         title: Want to increase the legal weight?
-        text: Get identified and unlock the highest e-signature standard.
+        text: Get identified and unlock a higher e-signature standard.
         button:
           label: Get identified
           href: /increase-legal-weight/
           target:
       rightSlot:
-        title: Want to schedule a demo session?
-        text: We are pleased to come by to introduce you to Skribble.
+        title: Want to get in touch?
+        text: Skribble will be glad to contact you to answer your questions.
         button:
           label: Arrange a call
           href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
@@ -439,6 +447,10 @@ languages:
         - name: Tarifs
           url: "/fr/tarifs/"
           weight: 25
+        # Contact
+        - name: Contact
+          url: "/fr/Contact/"
+          weight: 35
       footer1:
         - name: Fonctionnalités
           url: /fr/fonctionnalites/
@@ -545,17 +557,17 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: Maximiser la force probante?
-        text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
+        title: Augmenter la force probante?
+        text: Identifiez-vous et débloquez une norme de signature électronique plus élevée.
         button:
           label: S'identifier
           href: /fr/maximiser-force-probante/
           target:
       rightSlot:
-        title: Organiser une démonstration?
-        text: Nous passons volontiers en personne afin de vous présenter Skribble.
+        title: Entrer en contact?
+        text: Nous nous ferons un plaisir de vous contacter pour répondre à vos questions.
         button:
-          label: Organiser un appel téléphonique
+          label: Organiser un appel
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
           target: _blank
       navigation:
