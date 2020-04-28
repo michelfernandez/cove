@@ -558,7 +558,7 @@ languages:
     footer:
       leftSlot:
         title: Augmenter la force probante?
-        text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
+        text: Identifiez-vous et débloquez une norme de signature électronique plus élevée.
         button:
           label: S'identifier
           href: /fr/maximiser-force-probante/
