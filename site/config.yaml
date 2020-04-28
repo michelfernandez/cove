@@ -189,7 +189,7 @@ languages:
         title: Kontakt aufnehmen?
         text: Gerne kontaktiert dich Skribble um deine Fragen zu beantworten.
         button:
-          label: Kontakt aufnehmen
+          label: Telefonat vereinbaren
           href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
           target: _blank
       navigation:
