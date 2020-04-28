@@ -69,6 +69,10 @@ languages:
         - name: Preise
           url: "/de/preise/"
           weight: 20
+        # Kontakt
+        - name: Kontakt
+          url: "/de/kontakt/"
+          weight: 25
       footer1:
         - name: Features
           url: /de/features/
@@ -254,6 +258,10 @@ languages:
         - name: Pricing
           url: "/pricing/"
           weight: 20
+        # Contact
+        - name: Contact
+          url: "/Contact/"
+          weight: 25
       footer1:
         - name: Features
           url: /features/
@@ -439,6 +447,10 @@ languages:
         - name: Tarifs
           url: "/fr/tarifs/"
           weight: 25
+        # Contact
+        - name: Contact
+          url: "/fr/Contact/"
+          weight: 35
       footer1:
         - name: Fonctionnalités
           url: /fr/fonctionnalites/
