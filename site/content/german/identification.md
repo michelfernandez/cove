@@ -140,7 +140,7 @@ Du lässt die Identität der Signierenden von Skribble prüfen oder führst du I
 
 {{< picture id-unlimited 210 "Ein Mann identifiziert eine Person mit einer Luppe und prüft ihre Identitätskarte" >}}
 
-Wir kommen vorbrei und identifizieren euch.
+Wir kommen vorbei und identifizieren euch.
 
 Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
 {{% /plan %}}
