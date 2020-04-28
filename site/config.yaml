@@ -567,7 +567,7 @@ languages:
         title: Entrer en contact?
         text: Nous nous ferons un plaisir de vous contacter pour répondre à vos questions.
         button:
-          label: Organiser un appel téléphonique
+          label: Organiser un appel
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
           target: _blank
       navigation:
