@@ -367,8 +367,8 @@ languages:
           href: /increase-legal-weight/
           target:
       rightSlot:
-        title: Want to schedule a demo session?
-        text: We are pleased to come by to introduce you to Skribble.
+        title: Get in touch?
+        text: Skribble will be glad to contact you to answer your questions.
         button:
           label: Arrange a call
           href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
@@ -545,15 +545,15 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: Maximiser la force probante?
+        title: Augmenter la force probante?
         text: Identifiez-vous et débloquez le standard de signature électronique le plus élevé.
         button:
           label: S'identifier
           href: /fr/maximiser-force-probante/
           target:
       rightSlot:
-        title: Organiser une démonstration?
-        text: Nous passons volontiers en personne afin de vous présenter Skribble.
+        title: Prendre contact ?
+        text: Nous nous ferons un plaisir de vous contacter pour répondre à vos questions.
         button:
           label: Organiser un appel téléphonique
           href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
