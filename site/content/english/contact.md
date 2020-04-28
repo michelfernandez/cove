@@ -28,9 +28,9 @@ map:
           title: Opening hours
           text: From 9 to 17
         contact_form:
-          title: Contact form
+          title: Contact 
           link:
-            label: Help center
+            label: Contact by form
             href: https://help.skribble.com/kb-tickets/new
     - title: Karlsruhe (Ettlingen)
       picture:
