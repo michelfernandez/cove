@@ -180,7 +180,7 @@ languages:
     footer:
       leftSlot:
         title: Beweiskraft erhöhen?
-        text: Lass dich identifizieren und schalte den höchsten E-Signatur-Standard frei.
+        text: Lass dich identifizieren und schalte einen höheren E-Signatur-Standard frei.
         button:
           label: Identifizieren lassen
           href: /de/beweiskraft-erhoehen/
@@ -369,7 +369,7 @@ languages:
     footer:
       leftSlot:
         title: Want to increase the legal weight?
-        text: Get identified and unlock the highest e-signature standard.
+        text: Get identified and unlock a higher e-signature standard.
         button:
           label: Get identified
           href: /increase-legal-weight/
