@@ -21,10 +21,6 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Preismodell pro Mitglied wählen"
-    description="Aktivere für häufig signierende Mitglieder das Flatrate-Modell und senke so deine Kosten.">}}
-
   {{< features-item src="features-biz/preismodell.svg"
     headline="Gemeinsame Abrechnung"
     description="Abgerechnet wird für die ganze Organisation am Ende des Monats per Rechnung.">}}
