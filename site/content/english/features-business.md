@@ -22,10 +22,6 @@ Skribble Business customers sign organised as a group - with
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Select price model per member"
-    description="Activate the flat rate model for frequent signers and reduce your costs.">}}
-
   {{< features-item src="features-biz/preismodell.svg"
     headline="Joint billing"
     description="The entire organisation is invoiced at the end of the month by invoice.">}}

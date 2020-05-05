@@ -22,10 +22,6 @@ avec une administration centrale des membres et une facturation commune.
 
 {{< features-container >}}
 
-  {{< features-item src="features-biz/abrechnung.svg"
-    headline="Sélectionnez le modèle de prix par membre"
-    description="Activez le modèle de tarif Forfait pour les abonnés fréquents et réduisez vos coûts.">}}
-
   {{< features-item src="features-biz/preismodell.svg"
     headline="Comptabilité commune"
     description="Toute l'organisation est facturée à la fin du mois par facture.">}}
