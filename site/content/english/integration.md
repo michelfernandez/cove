@@ -25,7 +25,7 @@ technological security with simplicity.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
  {{< features-item src="integrations/api.svg"
     headline="Modern interface with detailed documentation"
     description="The modern JSON REST API is easy and quick to integrate. Our API documentation gives you all the details you need.">}}
@@ -60,7 +60,7 @@ technological security with simplicity.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container bottom=16 width=wide >}}
 
   {{< features-item src="integrations/http-web.svg"
     headline="HTTPS web communication"
@@ -87,13 +87,6 @@ technological security with simplicity.
     description="Help base, FAQ, chat bot, live chat, hotline (9.00–  12.00 and 14.00– 17.00). Monitoring and management of the server is guaranteed 24/7.">}}
 
 {{< /features-container >}}
-
-
-{{< content text=center top=4 bottom=4 width=narrow >}}
-{{% markdown %}}
-&nbsp;
-{{% /markdown %}}
-{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
