@@ -25,7 +25,7 @@ technologische Sicherheit und Einfachheit vereint.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="integrations/api.svg"
     headline="Moderne Schnittstelle mit detaillierter Dokumentation"
@@ -60,7 +60,7 @@ technologische Sicherheit und Einfachheit vereint.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide bottom=16 >}}
 
   {{< features-item src="integrations/http-web.svg"
     headline="HTTPS Web-Kommunikation"

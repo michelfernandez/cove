@@ -19,7 +19,7 @@ légalement valable, mais aussi simple.
 
 {{< picture skribble-ui-fr 1020 "Skribble plate-forme - interface utilisateur" >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/dragdrop.svg"
     headline="Télécharger par cliquer-glisser"
@@ -72,7 +72,7 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/eid-sign.svg"
     headline="Signer avec SwissID/e-ID+"

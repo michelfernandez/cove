@@ -25,7 +25,7 @@ qui allie sécurité technologique et simplicité.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="integrations/api.svg"
     headline="Interface moderne avec une documentation détaillée"
@@ -63,7 +63,7 @@ L'API de Skribble ne laisse rien à désirer."
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide bottom=16 >}}
 
   {{< features-item src="integrations/http-web.svg"
     headline="Communication web HTTPS"

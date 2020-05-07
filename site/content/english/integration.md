@@ -90,10 +90,11 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=12 >}}
 {{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, CEO of Descarte Finance" >}}
 "Thanks to Skribble, we are able to process the entire onboarding process of our pillar 3a product in digital form. The cooperation with a local partner with Swiss hosting underlines our positioning as a Swiss provider".
 {{< /testimonial >}}
-
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

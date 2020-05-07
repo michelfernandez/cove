@@ -20,7 +20,7 @@ avec une administration centrale des membres et une facturation commune.
 
 {{< picture skribble-biz-ui-fr 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/abrechnung.svg"
     headline="Sélectionnez le modèle de prix par membre"
@@ -67,7 +67,7 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="Intégration de l'API"

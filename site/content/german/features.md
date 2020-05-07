@@ -19,7 +19,7 @@ sondern auch einfach.
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - benutzeroberfläche" >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/dragdrop.svg"
     headline="Per Drag & Drop hochladen"
@@ -73,7 +73,7 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/eid-sign.svg"
     headline="Mit SwissID/ eID+ signieren"

@@ -19,7 +19,7 @@ With Skribble you not only sign legally, but also with ease.
 
 {{< picture skribble-ui-en 1020 "Skribble plattform - user interface" >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/dragdrop.svg"
     headline="Upload via drag & drop"
@@ -72,7 +72,7 @@ Our vision is great. We develop Skribble day by day.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features/eid-sign.svg"
     headline="Signing with SwissID/ eID+"
