@@ -124,7 +124,10 @@ Pour les contrats comportant des exigences formelles, la signature électronique
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Service d'identification**
-Vous pouvez faire vérifier l'identité des signataires par Skribble ou vous pouvez procéder vous-même aux identifications.
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant en ligne par appel vidéo ou par contact personnel 
+avec l’ID-app de Swisscom.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 
@@ -170,17 +173,15 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "En savoir plus"
-  "https://www.skribble.com/fr/debloquez-seq/"
-  ""
+  "En ligne par vidéo"
+  "Déverrouiller SEQ maintenant"
+  "https://www.videoident.me/"
+  "_blank"
   "outline"
 >}}
 
 {{< picture id-direct 210 "Un homme est assis devant un ordinateur portable, au-dessus de lui se trouve une fenêtre de sotware, où une femme avec une grosse loupe fait saillie et vérifie une carte d'identité." >}}
-
-Vous venez chez nous ou chez l'un de nos partenaires pour vous faire identifier.
-
+Déverrouillez la norme de signature électronique SEQ la plus élevée depuis chez vous.
 Convient aux signataires individuels.
 &nbsp;
 &nbsp;
@@ -215,13 +216,14 @@ Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent au
 {{< picture e-id-map 810 "E-ID, où vous pourrez bientôt vous inscrire avec Skribble." >}}
 
 {{% markdown %}}
-Un nombre croissant de personnes en Europe a une identité électronique validée (e-ID). Skribble les met en réseau. Cela signifie que des millions de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identification supplémentaire.
+Un nombre croissant de personnes en Europe a une identité électronique validée (e-ID). Skribble les met en réseau. Cela signifie que des millions 
+de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identification supplémentaire.
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Télécharcher factsheet"
+  label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_ID-Options_FR.pdf"
   target="_blank"
   outlined="true"
@@ -244,14 +246,12 @@ Un nombre croissant de personnes en Europe a une identité électronique validé
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "Quand dois-je utiliser quelle norme de signature?" %}}
-La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
+{{% collapsible 10 "Quand dois-je utiliser quelle norme de signature ?" %}}
+La signature électronique simple (SES) convient principalement aux documents informels ou internes présentant un faible risque de responsabilité.La signature électronique simple (SES) convient principalement aux documents informels ou internes présentant un faible risque de responsabilité. La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique (contrats sans forme). Vous utilisez la signature électronique qualifiée (SEQ) pour les contrats comportant une exigence formelle ou pour répondre à des exigences de conformité internes. Vous trouverez des exemples et de plus amples informations sur le site: https://www.skribble.com/fr/normessignature/.
 {{% /collapsible %}}
 
-{{% collapsible 12 "Pourquoi l'identification est-elle différente entre la SEA et la SEQ ?" %}}
-Les exigences légales d'identification ne sont pas les mêmes.
-La SEQ est la norme la plus élevée et équivaut à une signature manuscrite. Les exigences d'identification pour la SEQ sont précisément définies dans la loi.
-Avec la SEA, les fournisseurs sont plus libres. Lors de la sélection des procédures d'identification pour la SEA, Skribble est attentif à la simplicité d'utilisation et à la maximisation de la force probante.
+{{% collapsible 12 "Pourquoi les exigences d’identification sont-elles différentes pour chaque norme de signature électronique ?" %}}
+Les exigences légales d’identification et la force probante correspondante ne sont pas les mêmes.La SEQ est la norme la plus élevée et équivaut à une signature manuscrite.Ses exigences d’identification sont précisément définies par la loi.Dans le cas de SES et  SEA, les fournisseurs ont plus de liberté dans le choix des procédures d'identification respectives. Skribble s'attache à mettre l'accent surla facilité d’utilisation et à la maximisation de la force probante.
 {{% /collapsible %}}
 
 {{< /content >}}

@@ -8,12 +8,45 @@ slug: debloquez-seq
 og_image: og/og-skribble-identification.jpg
 
 ---
+{{< content text=center top=16 bottom=8 width=narrow >}}
+{{% markdown %}}
+Maximisez la valeur probante 
+de votre signature électronique
+===============
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant en ligne par appel vidéo ou par contact personnel 
+avec l’ID-app de Swisscom.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+{{% markdown %}}
+Identification 
+par vidéo en ligne
+===============
+Déverrouillez la norme de signature 
+électronique SEQ la plus élevée depuis chez vous.       
+{{% /markdown %}}
+<br>
+{{< button
+  "Déverrouiller SEQ maintenant"
+  "http://videoident.me"
+  "_blank"
+  "outline"
+>}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-# Maximisez la valeur probante de votre signature électronique
-Déverrouillez la norme de signature électronique la plus élevée (SEQ)
-en vous identifiant par contact personnel avec l'ID-app de Swisscom.
+Identification 
+par contact personnel
+===============
+Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
+en vous identifiant par contact personnel avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -56,7 +89,7 @@ La force probante de votre signature est portée à 100% (niveau SEQ)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=8 >}}
+{{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Sites d'identification
 Venez vous identifier gratuitement. Apportez votre passeport
@@ -410,6 +443,10 @@ de Swisscom en Suisse (certification Tier IV).
 {{% collapsible 5 "Le QSE nécessite-t-elle un Mobile ID?" %}}
 Non. Mais avec un Mobile ID, la signature est plus rapide et plus facile, c'est pourquoi nous vous le recommandons. Sur Mobile-ID.ch, vous pouvez vérifier si votre smartphone possède déjà un Mobile ID et si la fonction est déjà activée. Si tel n'est pas le cas, une nouvelle carte SIM avec Mobile ID peut être commandée gratuitement auprès de la plupart des fournisseurs.
 {{% /collapsible %}}
+
+{{% collapsible 6 "Et si je n'ai pas encore été identifié ?" %}}
+L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
+{{< /collapsible >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

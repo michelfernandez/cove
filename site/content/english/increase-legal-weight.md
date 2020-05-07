@@ -126,7 +126,7 @@ Organisation-wide implementation in just a few days
 {{% markdown %}}
 **Maximum legal weight** 
 # Qualified electronic signature (QES)
-Enable the QES by getting yourself identified 
+Enable the QES by getting yourself identified online via video-call or
 by personal contact with the ID app by Swisscom.
 {{% /markdown %}}
 {{< /content >}}

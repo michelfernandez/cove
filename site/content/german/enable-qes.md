@@ -8,15 +8,46 @@ slug: qes-freischalten
 og_image: og/og-skribble-identification.jpg
 
 ---
-
-{{< content text=center top=16 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 Maximiere die Beweiskraft 
 deiner E-Signatur
 ===============
-Schalte den höchsten verfügbaren E-Signatur-Standard (QES) frei,
-in dem du dich im persönlichen Kontakt mit der ID-App
+Die (QES) schaltest du frei, in dem du dich online via Video-Call 
+der im persönlichen Kontakt mit der ID-App 
 von Swisscom identifizieren lässt.
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
+{{% markdown %}}
+Video-Identifikation 
+online
+===============
+Schalte den höchsten E-Signatur-Standard QES 
+von zu Hause aus frei.      
+{{% /markdown %}}
+<br>
+{{< button
+  "Jetzt QES freischalten"
+  "http://videoident.me"
+  "_blank"
+  "outline"
+>}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
+Identifikation 
+im persönlichen Kontakt
+===============
+Die QES schaltest du frei, in dem du dich im persönlichen Kontakt
+mit der ID-App von Swisscom identifizieren lässt.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -59,7 +90,7 @@ Die Beweiskraft deiner Signatur wird auf 100% angehoben (QES-Level)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=8 >}}
+{{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
 # Standorte für die Identitätsprüfung
 Komm vorbei und lass dich kostenlos identifizieren.
@@ -416,7 +447,7 @@ Nein. Aber mit einer Mobile-ID geht das Signieren schneller und einfacher, daher
 {{% /collapsible %}}
 
 {{% collapsible 6 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du mit dem zweithöchsten Standard (FES).
+Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurdest du noch nicht persönlich identifiziert, signierst du entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
 {{% /collapsible %}}
 {{< /content >}}
 

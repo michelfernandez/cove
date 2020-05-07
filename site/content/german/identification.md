@@ -121,7 +121,8 @@ Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typisc
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Identififkations-Service**
-Du lässt die Identität der Signierenden von Skribble prüfen oder führst du Identifikationen selbst durch. Dir stehen drei Optinen zur Verfügung.
+Die QES schaltest du frei, in dem du dich online via Video-Call oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 
@@ -168,25 +169,21 @@ QES-Signierende hinzukommen.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "Mehr erfahren"
-  "https://www.skribble.com/de/qes-freischalten/"
-  ""
+  "Online via Video"
+  "Jetzt QES freischalten"
+  "https://www.videoident.me/"
+  "_blank"
   "outline"
 >}}
 
 {{< picture id-direct 210 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
-
-Du kommst bei uns oder einem unserer Partner vorbei.
-
-Passend für einzelne Signierende.
+Schalte den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 &nbsp;
 &nbsp;
 {{% /plan %}}
 {{< /content >}}
 
 {{< content text=center top=8 width=narrow >}}
-
 {{< cta
   label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
@@ -220,7 +217,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Factsheet herunterlden"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_ID-Optionen_DE.pdf"
   target="_blank"
   outlined="true"
@@ -244,14 +241,12 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
-Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
+{{% collapsible 10 "Wann verwende ich welchen E-Signatur-Standard?" %}}
+Die einfache elektronische Signatur (EES) eignet sich vorwiegend für informelle oder interne Dokumente mit geringem Haftungsrisiko. Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
-{{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der FES und der QES?" %}}
-Die gesetzlichen Identifikations-Anforderungen sind nicht dieselben.
-Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderung für die QES sind im Gesetzt genau definiert.
-Bei der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identifikationsverfahren für die FES auf die Einfachheit der Anwendung und die Maximierung der Beweiskraft.
+{{% collapsible 12 "Worin unterscheidet sich die Identifikation für die verschiedenen E-Signatur-Standards?" %}}
+Die gesetzlichen Identifikations-Anforderungen und die entsprechende Beweiskraft sind nicht dieselben.Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Ihre Identifikationsanforderung ist im Gesetz genau definiert.Bei der EES und FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identifikationsverfahren für diese beiden Standardsauf die Einfachheit der Anwendung und die Maximierung der Beweiskraft.
 {{% /collapsible %}}
 
 {{< /content >}}

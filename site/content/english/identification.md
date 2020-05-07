@@ -124,7 +124,9 @@ For contracts requiring the written form, the qualified electronic signature (QE
 {{< content text=center top=8 bottom=4 width=narrow >}}
 {{% markdown %}}
 **Identification Service**
-You can have the identity of the signers verified by Skribble or you can perform identifications yourself.
+Enable the QES by getting yourself identified online via video-call or
+by personal contact with the ID app by Swisscom.
+&nbsp;
 {{% /markdown %}}
 {{< /content >}}
 
@@ -170,16 +172,16 @@ Appropriate if new QES signers are constantly being added.
 {{< plan
   white
   "Identification"
-  "Direct"
-  "Learn more"
-  "https://www.skribble.com/enable-qes/"
-  ""
+  "Online via video"
+  "Enable QES now"
+  "https://www.videoident.me/"
+  "_blank"
   "outline"
 >}}
 
 {{< picture id-direct 210 "A man is sitting in front of a laptop, above him is a sotware window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-You come to us or one of our partners for identification.
+Enable the highest e-signature standard QES from home.
 
 Suitable for individual signatories.
 &nbsp;
@@ -221,7 +223,7 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 
 {{< content text=left top=4 bottom=8 width=narrow >}}
 {{< cta
-  label="Download factsheet"
+  label="Download Factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_ID-Options_EN.pdf"
   target="_blank"
   outlined="true"
@@ -245,12 +247,12 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "When do I use which signature standard?" %}}
-The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
+{{% collapsible 10 "When do I use which e-signature standard?" %}}
+The simple electronic signature (SES) is primarily suited for informal or internal documents with low liability risk. The advanced electronic signature (AES) is legally valid for all contracts for which the law does not prescribe a specific form (contracts without the written form). You use the qualified electronic signature (QES) for contracts with a written requirement or to meet internal compliance requirements. You can find examples and more information at: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
-{{% collapsible 12 "Why is identification different for AES and QES?" %}}
-The legal identification requirements are not the same. QES is the highest standard and is equivalent to a handwritten signature. The identification requirements for QES are precisely defined in the law. With AES, providers have more freedom. When selecting identification procedures for AES, Skribble pays attention to simplicity of use and maximisation of legal weight.
+{{% collapsible 12 "Why are identification requirements different for each e-signature standard?" %}}
+The legal identification requirements and the corresponding legal weight arenot the same. QES is the highest standard and legally equivalent to a handwritten signature. Its identification requirements is precisely defined by the law. In the case of SES and AES, providers have more freedom in choosing the respective identification procedures. Skribble focuses on easeof use and maximisation of legal weight.
 {{% /collapsible %}}
 
 {{< /content >}}
