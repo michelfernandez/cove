@@ -53,10 +53,6 @@ sondern auch einfach.
     headline="Signaturen zuweisen"
     description="Leite eine erhaltene Signatureinladung an die erforderlichen Personen weiter.">}}
 
-  {{< features-item src="features/archive-auto-delation.svg"
-    headline="Archivierungsassistenz"
-    description="Wir erinnern dich daran, finalisierte Dokumente innerhalb der 30-tägigen Archivierungsfrist korrekt abzulegen.">}}
-
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

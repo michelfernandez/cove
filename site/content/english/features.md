@@ -53,10 +53,6 @@ With Skribble you not only sign legally, but also with ease.
     headline="Assign signatures"
     description="Pass on a received signature invitation to the required people.">}}
 
-  {{< features-item src="features/archive-auto-delation.svg"
-    headline="Archiving assistance"
-    description="We remind you to correctly file finalised documents within the 30-day archiving period.">}}
-
 {{< /features-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
