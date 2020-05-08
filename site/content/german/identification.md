@@ -171,8 +171,8 @@ QES-Signierende hinzukommen.
   "Identification"
   "Online via Video"
   "Jetzt QES freischalten"
-  "https://www.videoident.me/"
-  "_blank"
+  "/de/qes-freischalten/"
+  ""
   "outline"
 >}}
 

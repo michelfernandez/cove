@@ -174,8 +174,8 @@ Appropriate if new QES signers are constantly being added.
   "Identification"
   "Online via video"
   "Enable QES now"
-  "https://www.videoident.me/"
-  "_blank"
+  "/enable-qes/"
+  ""
   "outline"
 >}}
 

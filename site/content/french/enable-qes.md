@@ -97,22 +97,6 @@ ou votre carte d'identité en cours de validité et votre téléphone portable.
 {{% /markdown %}}
 {{< /content >}}
 
-
-{{< cta
-  label="Contactez support"
-  href="support@skribble.com"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture info-banner 90 "Circle with info sign." >}}
-
-{{% markdown %}}
-**En raison de la situation actuelle des coronavirus, rendez-vous d'identification par contact personnel ne peuvent plus être tenus.**
-Pour toute question complémentaire, veuillez contacter notre support.
-{{% /markdown %}}
-{{< /cta >}}
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
@@ -356,12 +340,12 @@ CH-7742 Poschiavo
 
 {{< cta-group >}}
 {{< cta
-  title="Zurich"
-  label="Organiser un rendez-vous E-ID"
-  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble"
-  target="_blank"
+  title="Zürich"
+  label="076 200 77 48"
+  href="tel: +41 76 200 77 48"
   class="id-site"
   outlined="true"
+  icon="phone"
 >}}
 
 {{< picture
@@ -373,10 +357,12 @@ CH-7742 Poschiavo
 >}}
 
 {{% markdown %}}
-**Skribble AG**
-FlexOffice
+**FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zurich
+
+**Horaires d'ouverture:**
+Lu - Ve: 09.00 - 17.00
 {{% /markdown %}}
 {{< /cta >}}
 

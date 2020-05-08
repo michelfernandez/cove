@@ -98,22 +98,6 @@ Bringe deinen gültigen Pass oder Identitätskarte mit sowie dein Mobiltelefon.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< cta
-  label="Support kontaktieren"
-  href="support@skribble.com"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture info-banner 90 "Circle with info sign." >}}
-
-{{% markdown %}}
-**Aufgrund der aktuellen Coronavirus-Situation können keine persönlichen Identifkationstermine wahrgenommen werden.**
-Bei Fragen bitte an Support wenden.
-{{% /markdown %}}
-{{< /cta >}}
-
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< cta
@@ -361,11 +345,11 @@ CH-7742 Poschiavo
 
 {{< cta
   title="Zürich"
-  label="E-ID-Termin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/identifikation-bei-skribble"
-  target="_blank"
+  label="076 200 77 48"
+  href="tel: +41 76 200 77 48"
   class="id-site"
   outlined="true"
+  icon="phone"
 >}}
 
 {{< picture
@@ -377,10 +361,12 @@ CH-7742 Poschiavo
 >}}
 
 {{% markdown %}}
-**Skribble AG**
-FlexOffice
+**FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zürich
+
+**Öffnungszeiten:**
+Mo - Fr: 09.00 - 17.00
 {{% /markdown %}}
 {{< /cta >}}
 
