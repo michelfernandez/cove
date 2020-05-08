@@ -93,7 +93,7 @@ L'API de Skribble ne laisse rien à désirer."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
+{{< content top=4 >}}
 {{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, PDG de Descarte Finance" >}}
 "Grâce à Skribble, nous sommes en mesure de gérer tout l'embarquement de notre produit du pilier 3a de manière numérique. La coopération avec un partenaire local disposant d'un hébergement suisse souligne notre positionnement en tant que fournisseur suisse".
 {{< /testimonial >}}
@@ -101,7 +101,7 @@ L'API de Skribble ne laisse rien à désirer."
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 bottom=4 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Essayez l'API
 Vous pouvez créer une clé de démonstration

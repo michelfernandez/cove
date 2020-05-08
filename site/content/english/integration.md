@@ -19,7 +19,7 @@ technological security with simplicity.
 
 {{< picture integration-main 580 "An engineer stands in front of an API window with API documentation." >}}
 
-{{< content text=center top=12 bottom=8 width=narrow >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ### Use Skribble via your browser or integrate the platform into your existing software environment via API
 {{% /markdown %}}
@@ -46,7 +46,7 @@ technological security with simplicity.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
+{{< content top=4 bottom=4 >}}
 {{< testimonial "testimonial/softcom-logo-108w.png" "Rémy Tzaud, CEO of Softcom" >}}
 "We integrated the API for the Canton of Fribourg in half a day. The API from Skribble leaves nothing to be desired."
 {{< /testimonial >}}

@@ -89,7 +89,7 @@ technologische Sicherheit und Einfachheit vereint.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 >}}
+{{< content top=4 >}}
 {{< testimonial "testimonial/descartesfinance-300w.png" "Adriano Lucatelli, CEO von Descarte Finance" >}}
 "Mit Skribble wickeln wir das komplette Onboarding für unser Säule 3a-Produkt digital ab. Die Zusammenarbeit mit einem lokalen Partner mit Schweizer Hosting unterstreicht unsere Positionierung als Schweizer Anbieter."
 {{< /testimonial >}}
@@ -97,7 +97,7 @@ technologische Sicherheit und Einfachheit vereint.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=14 bottom=4 width=narrow >}}
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # API ausprobieren
 In deinem Skribble Business Konto kannst du
