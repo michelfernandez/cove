@@ -156,7 +156,7 @@ groups:
           retina_landscape: team/barbara-stutz-l@2x
           alt_text:
       - name: Soraya Kohler
-        position: Customer Support
+        position: Happiness Managerin
         type: 0
         images:
           regular_portrait: team/soraya-kohler-l
