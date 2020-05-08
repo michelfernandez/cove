@@ -173,6 +173,15 @@ groups:
           regular_landscape: team/maxim-markert-l
           retina_landscape: team/maxim-markert-l@2x
           alt_text:
+      - name: Jevgenija Litvina
+        position: UX-Writing & Communication
+        type: 1
+        images:
+          regular_portrait: team/jevgenija-litvina-l
+          retina_portrait: team/jevgenija-litvina-l@2x
+          regular_landscape: team/jevgenija-litvina-l
+          retina_landscape: team/jevgenija-litvina-l@2x
+          alt_text:
   - title: Advisors
     people:
       - name: Karl Kagermeier
