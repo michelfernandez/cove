@@ -175,8 +175,8 @@ Approprié si de nouveaux signataires de SEQ sont constamment ajoutés.
   "Identification"
   "En ligne par vidéo"
   "Déverrouiller SEQ maintenant"
-  "https://www.videoident.me/"
-  "_blank"
+  "/fr/debloquez-seq/"
+  ""
   "outline"
 >}}
 
