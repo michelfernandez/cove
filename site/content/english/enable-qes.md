@@ -345,7 +345,7 @@ CH-7742 Poschiavo
 {{< cta
   title="Zürich"
   label="076 200 77 48"
-  href="tel: +41 76 200 77 48"
+  href="tel:+41762007748"
   class="id-site"
   outlined="true"
   icon="phone"
