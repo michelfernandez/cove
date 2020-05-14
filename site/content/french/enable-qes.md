@@ -14,8 +14,8 @@ Maximisez la valeur probante
 de votre signature électronique
 ===============
 Déverrouillez la norme de signature électronique la plus élevée (SEQ) 
-en vous identifiant en ligne par appel vidéo ou par contact personnel 
-avec l’ID-app de Swisscom.
+en vous identifiant en ligne par appel vidéo ou par contact 
+personnel avec l’ID-app de Swisscom.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -26,8 +26,7 @@ avec l’ID-app de Swisscom.
 Identification 
 par vidéo en ligne
 ===============
-Déverrouillez la norme de signature 
-électronique SEQ la plus élevée depuis chez vous.       
+L'identification est proposée en coopération avec nos partenaires Swisscom Trust Services et IdentityTM.    
 {{% /markdown %}}
 <br>
 {{< button
