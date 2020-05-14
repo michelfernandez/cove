@@ -137,6 +137,11 @@ to one of the following plans at any time:
 <td>Billing history</td>
 </tr>
 
+<tr>
+<td></td>
+<td>Direct Sign</td>
+<td>Direct Sign</td>
+</tr>
 
 <tr>
 <td></td>
@@ -154,12 +159,6 @@ to one of the following plans at any time:
 <td></td>
 <td></td>
 <td>Integration via API</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Direct Sign</td>
 </tr>
 
 <tr>

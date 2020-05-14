@@ -136,6 +136,12 @@ eines der folgenden Modelle umstellen:
 
 <tr>
 <td></td>
+<td>Direct Sign</td>
+<td>Direct Sign</td>
+</tr>
+
+<tr>
+<td></td>
 <td></td>
 <td>Nutzer hinzufügen/entfernen</td>
 </tr>
@@ -150,12 +156,6 @@ eines der folgenden Modelle umstellen:
 <td></td>
 <td></td>
 <td>Anbindung via API</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Direct Sign</td>
 </tr>
 
 <tr>
