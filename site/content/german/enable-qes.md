@@ -13,9 +13,9 @@ og_image: og/og-skribble-identification.jpg
 Maximiere die Beweiskraft 
 deiner E-Signatur
 ===============
-Die (QES) schaltest du frei, in dem du dich online via Video-Call 
-der im persönlichen Kontakt mit der ID-App 
-von Swisscom identifizieren lässt.
+Die (QES) schaltest du frei, in dem du dich online 
+via Video-Call oder im persönlichen Kontakt 
+mit der ID-App von Swisscom identifizieren lässt.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -26,8 +26,7 @@ von Swisscom identifizieren lässt.
 Video-Identifikation 
 online
 ===============
-Schalte den höchsten E-Signatur-Standard QES 
-von zu Hause aus frei.      
+Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Services und IdentityTM angeboten. 
 {{% /markdown %}}
 <br>
 {{< button

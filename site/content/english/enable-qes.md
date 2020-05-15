@@ -27,8 +27,8 @@ with the ID app by Swisscom.
 Online identification 
 via video
 ===============
-Enable the highest e-signature standard QES 
-from home.    
+The identification is offered in cooperation 
+with our partners Swisscom Trust Services and IdentityTM.  
 {{% /markdown %}}
 <br>
 {{< button
