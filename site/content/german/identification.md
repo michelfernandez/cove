@@ -241,12 +241,18 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content text=left width=narrow >}}
 
-{{% collapsible 10 "Wann verwende ich welchen E-Signatur-Standard?" %}}
-Die einfache elektronische Signatur (EES) eignet sich vorwiegend für informelle oder interne Dokumente mit geringem Haftungsrisiko. Die fortgeschrittene elektronische Signatur (FES) ist bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
+{{% collapsible 10 "Wann verwende ich welchen Signaturstandard?" %}}
+Die einfache und die fortgeschrittene elektronische Signatur (EES und FES) sind bei allen Verträgen rechtsgültig, bei denen das Gesetz keine spezielle Form vorschreibt (formfreie Verträge). Die qualifizierte elektronische Signatur (QES) nutzt du bei Verträgen mit Formvorschrift oder um internen Compliance-Anforderungen zu genügen. Beispiele und mehr Informationen findest du unter: https://www.skribble.com/de/signaturstandards/
 {{% /collapsible %}}
 
-{{% collapsible 12 "Worin unterscheidet sich die Identifikation für die verschiedenen E-Signatur-Standards?" %}}
-Die gesetzlichen Identifikations-Anforderungen und die entsprechende Beweiskraft sind nicht dieselben.Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Ihre Identifikationsanforderung ist im Gesetz genau definiert.Bei der EES und FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identifikationsverfahren für diese beiden Standardsauf die Einfachheit der Anwendung und die Maximierung der Beweiskraft.
+{{% collapsible 11 "Welche Identifikationmsmassnahmen werden für die einfache elektronische Signatur (EES) vorausgesetzt?" %}}
+Bei der EES dient die E-Mail-Adresse als Identifikationselement. Die E-Mail-Adresse muss mit Klick auf einen Link, der an die entsprechende E-Mail-Adresse gesendet wird, bestätigt werden.
+{{% /collapsible %}}
+
+{{% collapsible 12 "Wieso unterscheidet sich die Identifikation bei der EES, der FES und der QES?" %}}
+Die gesetzlichen Identifikationsanforderungen sind nicht dieselben.
+Die QES ist der höchste Standard und der handschriftlichen Unterschrift gleichgestellt. Die Identifikationsanforderungen für die QES sind im Gesetzt genau definiert.
+Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswahl der Identifikationsverfahren für die EES und die FES auf die Einfachheit der Anwendung und die Maximierung der Beweiskraft.
 {{% /collapsible %}}
 
 {{< /content >}}
