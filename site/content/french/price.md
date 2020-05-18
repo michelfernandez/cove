@@ -135,6 +135,12 @@ passer à l'un des modèles tarifaires suivants:
 
 <tr>
 <td></td>
+<td>Direct Sign</td>
+<td>Direct Sign</td>
+</tr>
+
+<tr>
+<td></td>
 <td></td>
 <td>Ajouter/supprimer des utilisateurs</td>
 </tr>
@@ -149,12 +155,6 @@ passer à l'un des modèles tarifaires suivants:
 <td></td>
 <td></td>
 <td>Connexion via API</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Direct Sign</td>
 </tr>
 
 <tr>

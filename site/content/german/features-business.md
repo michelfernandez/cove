@@ -19,7 +19,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 {{< picture skribble-biz-ui-de 1020 "Skribble Business-Account - benutzeroberfläche" >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/preismodell.svg"
     headline="Gemeinsame Abrechnung"
@@ -62,7 +62,7 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< features-container >}}
+{{< features-container width=wide >}}
 
   {{< features-item src="features-biz/api-integration.svg"
     headline="API-Integration"

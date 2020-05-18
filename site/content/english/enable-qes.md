@@ -27,8 +27,8 @@ with the ID app by Swisscom.
 Online identification 
 via video
 ===============
-Enable the highest e-signature standard QES 
-from home.    
+The identification is offered in cooperation 
+with our partners Swisscom Trust Services and IdentityTM.  
 {{% /markdown %}}
 <br>
 {{< button
@@ -97,21 +97,6 @@ Come by and get identified for free. Bring a valid passport
 or your identity card as well as your mobile phone.
 {{% /markdown %}}
 {{< /content >}}
-
-{{< cta
-  label="Contact Support"
-  href="support@skribble.com"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture info-banner 90 "Circle with info sign." >}}
-
-{{% markdown %}}
-**Due to the coronavirus situation, appointements for a face to face identification can no longer be made.**
-Please contact our support if you have further questions. 
-{{% /markdown %}}
-{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -358,12 +343,12 @@ CH-7742 Poschiavo
 {{< cta-group >}}
 
 {{< cta
-  title="Zurich"
-  label="Schedule an E-ID appointment"
-  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
-  target="_blank"
+  title="Zürich"
+  label="076 200 77 48"
+  href="tel:+41762007748"
   class="id-site"
   outlined="true"
+  icon="phone"
 >}}
 
 {{< picture
@@ -375,10 +360,12 @@ CH-7742 Poschiavo
 >}}
 
 {{% markdown %}}
-**Skribble AG**
-FlexOffice
+**FlexOffice**
 Fraumünsterstrasse 16
 CH-8001 Zurich
+
+**Opening hours:**
+Mo - Fr: 09.00 - 17.00
 {{% /markdown %}}
 {{< /cta >}}
 
