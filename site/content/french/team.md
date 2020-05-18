@@ -174,6 +174,15 @@ groups:
           regular_landscape: team/maxim-markert-l
           retina_landscape: team/maxim-markert-l@2x
           alt_text:
+      - name: Jevgenija Litvina
+        position: Content & Communication
+        type: 1
+        images:
+          regular_portrait: team/jevgenija-litvina-l
+          retina_portrait: team/jevgenija-litvina-l@2x
+          regular_landscape: team/jevgenija-litvina-l
+          retina_landscape: team/jevgenija-litvina-l@2x
+          alt_text:
       - name: Roland Jordan
         position: Customer Growth Manager
         type: 2
@@ -183,7 +192,6 @@ groups:
           regular_landscape: team/roland-jordan-l
           retina_landscape: team/roland-jordan-l@2x
           alt_text:
-
   - title: Advisors
     people:
       - name: Karl Kagermeier
