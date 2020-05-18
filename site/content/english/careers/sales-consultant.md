@@ -19,8 +19,8 @@ og_image: og/og-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Sales Development 
-Representative (SDR), Skribble
+Sales Consultant 
+Germany
 ===============
 Zurich, 100%, permanent
 {{% /markdown %}}
@@ -55,6 +55,7 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 - You are flexible and enjoy working in a dynamic environment
 - German is your native language and you are fluent in English (other languages are a plus)
 - You’re a team player, driven by purpose and results
+
 
 ## Our Offering
 - Opportunity to be part of a fast growing tech company with an ambitious and experienced team 
