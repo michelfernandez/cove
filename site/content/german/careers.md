@@ -23,45 +23,49 @@ an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
 {{< cta
   title="Offene Stellen"
   label="Mehr Infos"
-  href="/de/karriere/378/account-executive-ch"
+  href="/de/karriere/395/sales-development-representative/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Account Executive, Zürich (100%)**
+**Sales Development Representative (SDR)**
+Zürich (100%)
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="Mehr Infos"
-  href="/de/karriere/465/sales-manager-de"
+  href="/de/karriere/388/account-executive/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Manager/in, Deutschland (100%)**
+**Account Executive, Deutschland**
+Zürich (100%) 
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="Mehr Infos"
-  href="/de/karriere/172/customer-success-manager-de/"
+  href="/de/karriere/268/sales-consultant/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Customer Success Manager/in, Deutschland (100%)**
+**Sales Consultant, Deutschland**
+Zürich (100%)
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="Mehr Infos"
-  href="/de/karriere/294/country-manager-de/"
+  href="/de/karriere/216/success-manager/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Country Manager/in, Deutschland (100%)**
+**Success Manager**
+Zürich (100%)
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
