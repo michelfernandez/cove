@@ -89,6 +89,26 @@
   from = "/de/karriere/465/sales-manager-de/"
   to = "/de/karriere/"
 
+[[redirects]]
+  from = "/fr/carriere/378/account-executive-ch/"
+  to = "/fr/carriere/"
+
+[[redirects]]
+  from = "/fr/carriere/294/country-manager-de/"
+  to = "/fr/carriere/"
+
+[[redirects]]
+  from = "/fr/carriere/172/customer-success-manager-de/"
+  to = "/fr/carriere/"
+
+[[redirects]]
+  from = "/fr/carriere/465/sales-manager-de/"
+  to = "/fr/carriere/"
+
+
+
+
+
 
 
 

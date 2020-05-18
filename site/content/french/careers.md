@@ -24,51 +24,52 @@ et de développer Skribble et toi-même.
 {{< cta
   title="Nous recherchons"
   label="Plus d'info"
-  href="/fr/carriere/378/account-executive-ch"
+  href="/fr/carriere/395/sales-development-representative/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Account Executive, Zurich (100%)**
-(Annonce en Allemand)
+**Sales Development Representative (SDR)**
+Zurich (100%)
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="Plus d'info"
-  href="/fr/carriere/465/sales-manager-de"
+  href="/fr/carriere/388/account-executive/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Manager, Allemagne (100%)**
-(Annonce en Allemand)
+**Account Executive, Allemagne**
+Zurich (100%)
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="Plus d'info"
-  href="/fr/carriere/172/customer-success-manager-de/"
+  href="/fr/carriere/268/sales-consultant/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Customer Success Manager, Allemagne (100%)**
-(Annonce en Allemand)
+**Sales Consultant, Allemagne**
+Zurich (100%)
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="Plus d'info"
-  href="/fr/carriere/294/country-manager-de"
+  href="/fr/carriere/216/success-manager/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Country Manager, Allemagne (100%)**
-(Annonce en Allemand)
+**Success Manager**
+Zurich (100%)
 {{% /markdown %}}
 {{< /cta >}}
+
 {{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
