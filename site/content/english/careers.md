@@ -23,49 +23,49 @@ and to develop Skribble and yourself.
 {{< cta
   title="Open positions"
   label="More info"
-  href="/careers/378/account-executive-ch"
+  href="/careers/395/sales-Development-representative/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Account Executive, Zurich (100%)**
-(Job description in German)
+**Sales Development Representative (SDR)**
+Zurich (100%), permanent
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="More info"
-  href="/careers/465/sales-manager-de"
+  href="/careers/388/account-executive/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Manager, Germany (100%)**
-(Job description in German)
+**Account Executive, Germany**
+Zurich (100%), permanent
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="More info"
-  href="/careers/172/customer-success-manager-de/"
+  href="/careers/268/sales-consultant/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Customer Success Manager, Germany (100%)**
-(Job description in German)
+**Sales Consultant, Germany**
+Zurich (100%), permanent
 {{% /markdown %}}
 {{< /cta >}}
 
 {{< cta
   label="More info"
-  href="/careers/294/country-manager-de"
+  href="/careers/216/success-manager/"
   target=""
   outlined="true"
 >}}
 {{% markdown %}}
-**Country Manager, Germany (100%)**
-(Job description in German)
+**Success Manager**
+Zurich (100%), permanent
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
