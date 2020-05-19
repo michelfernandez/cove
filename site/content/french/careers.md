@@ -29,7 +29,7 @@ et de développer Skribble et toi-même.
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Development Representative (100%)**
+**Sales Development Representative (100%), Zurich**
 (Annonce en Anglais)
 {{% /markdown %}}
 {{< /cta >}}
@@ -41,7 +41,7 @@ et de développer Skribble et toi-même.
   outlined="true"
 >}}
 {{% markdown %}}
-**Account Executive (100%), Allemagne**
+**Account Executive Allemagne (100%), Zurich**
 (Annonce en Anglais)
 {{% /markdown %}}
 {{< /cta >}}
@@ -53,7 +53,7 @@ et de développer Skribble et toi-même.
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Consultant (100%), Allemagne**
+**Sales Consultant Allemagne (100%), Zurich**
 (Annonce en Anglais)
 {{% /markdown %}}
 {{< /cta >}}
@@ -65,7 +65,7 @@ et de développer Skribble et toi-même.
   outlined="true"
 >}}
 {{% markdown %}}
-**Success Manager (100%)**
+**Success Manager (100%), Zurich**
 (Annonce en Anglais)
 {{% /markdown %}}
 {{< /cta >}}

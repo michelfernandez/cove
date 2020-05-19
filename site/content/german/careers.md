@@ -28,7 +28,7 @@ an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Development Representative (100%)**
+**Sales Development Representative (100%), Zürich**
 Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
@@ -40,7 +40,7 @@ Job-Beschreibung in Englisch
   outlined="true"
 >}}
 {{% markdown %}}
-**Account Executive (100%), Deutschland**
+**Account Executive Deutschland (100%), Zürich**
 Job-Beschreibung in Englisch 
 {{% /markdown %}}
 {{< /cta >}}
@@ -52,7 +52,7 @@ Job-Beschreibung in Englisch
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Consultant (100%), Deutschland**
+**Sales Consultant Deutschland (100%), Zürich**
 Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
@@ -64,7 +64,7 @@ Job-Beschreibung in Englisch
   outlined="true"
 >}}
 {{% markdown %}}
-**Success Manager (100%)**
+**Success Manager (100%), Zürich**
 Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
