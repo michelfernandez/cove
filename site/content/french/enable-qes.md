@@ -156,11 +156,41 @@ CH-3123 Belp
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< cta-group >}}
+{{< cta
+  label="031 318 06 45"
+  href="tel: +41 031 318 06 45"
+  target="_blank"
+  title="Bern"
+  class="id-site"
+  outlined="true"
+  icon="phone"
+>}}
+
+{{< picture
+  name="map-swisscom-bern-hb"
+  w="120"
+  alt="Swisscom Shop Bern Bahnhof, Bahnhofplatz 10 b, 3011 Bern"
+  href="https://goo.gl/maps/RVVkbAMC3xjqpsK67"
+  target="_target"
+>}}
+
+{{% markdown %}}
+**Swisscom Shop Bern Bahnhof**
+Bahnhofplatz 10 b
+3011 Bern
+
+**Horaires d'ouverture:**
+Lu - Sa: 09.00 - 20.00
+Di: 10.00 - 20.00
+{{% /markdown %}}
+{{< /cta >}}
+
 {{< cta
   label="031 381 70 60"
   href="tel: +41 031 381 70 60"
   target="_blank"
-  title="Bern"
+  title=""
   class="id-site"
   outlined="true"
   icon="phone"
@@ -180,6 +210,7 @@ Belpstrasse 45
 CH-3007 Bern
 {{% /markdown %}}
 {{< /cta >}}
+{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
