@@ -57,7 +57,6 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 - German is your native language and you are fluent in English (other languages are a plus)
 - You’re a team player, driven by purpose and results
 
-
 ## Our Offering
 - Opportunity to be part of a fast growing tech company with an ambitious and experienced team 
 - A job with a purpose: save human and environmental resources by enabling digital signatures #worksmarter
@@ -68,23 +67,23 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 {{% /markdown %}}
 {{< /content >}}
 
-
 {{< content text=center top=12 >}}
 {{% markdown %}}
 # Postulez maintenant
 Si vous [avez des questions](https://help.skribble.com/kb-tickets/new), notre responsable du bonheur, Patrick, 
 se fera un plaisir d'y répondre.
-
 {{% /markdown %}}
 {{< /content >}}
-{{< content text=center top=6 >}}
+
+{{< content text=center top=4 >}}
 {{< button
   "Postulez maintenant"
   "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
-  "outline"
+  ""
 >}}
 {{< /content >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

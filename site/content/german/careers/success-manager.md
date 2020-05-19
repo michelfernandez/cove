@@ -79,7 +79,7 @@ gerne zur Verfügung.
   "Jetzt bewerben"
   "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
-  "outline"
+  ""
 >}}
 {{< /content >}}
 

@@ -71,15 +71,15 @@ You are the first, fantastic contact our future customers will have with Skribbl
 # Postulez maintenant
 Si vous [avez des questions](https://help.skribble.com/kb-tickets/new), notre responsable du bonheur, Patrick, 
 se fera un plaisir d'y répondre.
-
 {{% /markdown %}}
 {{< /content >}}
-{{< content text=center top=6 >}}
+
+{{< content text=center top=4 >}}
 {{< button
   "Postulez maintenant"
   "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
   "_blank"
-  "outline"
+  ""
 >}}
 {{< /content >}}
 

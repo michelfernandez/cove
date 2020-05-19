@@ -28,8 +28,8 @@ an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Development Representative (SDR)**
-Zürich (100%)
+**Sales Development Representative (100%)**
+Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -40,8 +40,8 @@ Zürich (100%)
   outlined="true"
 >}}
 {{% markdown %}}
-**Account Executive, Deutschland**
-Zürich (100%) 
+**Account Executive (100%), Deutschland**
+Job-Beschreibung in Englisch 
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -52,8 +52,8 @@ Zürich (100%)
   outlined="true"
 >}}
 {{% markdown %}}
-**Sales Consultant, Deutschland**
-Zürich (100%)
+**Sales Consultant (100%), Deutschland**
+Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -64,8 +64,8 @@ Zürich (100%)
   outlined="true"
 >}}
 {{% markdown %}}
-**Success Manager**
-Zürich (100%)
+**Success Manager (100%)**
+Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
 {{< /cta-group >}}
