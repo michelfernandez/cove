@@ -221,7 +221,12 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=4 width=narrow >}}
+{{< testimonial "testimonial/swisscanto-300w.svg" "Nadja Zurflüh, Marketing et communication, Swisscanto Freizügigkeits-Stiftungen" >}}
+"Nous sommes fiers que le compte de libre passage puisse être ouvert entièrement numériquement chez nous grâce à Skribble. Avec sa signature électronique avancée, Skribble nous offre une solution sécurisée à haute valeur probante". {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 Plus de force probante 
 en quelques clics

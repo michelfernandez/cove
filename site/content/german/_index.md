@@ -223,7 +223,12 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=4 width=narrow >}}
+{{< testimonial "testimonial/swisscanto-300w.svg" "Nadja Zurflüh, Marketing & Kommunikation, Swisscanto Freizügigkeits-Stiftungen" >}}
+"Wir sind stolz, dass das Freizügigkeitskonto bei uns dank Skribble komplett digital eröffnet werden kann. Skribble liefert uns mit der fortgeschrittenen elektronischen Signatur eine sichere Lösung mit hoher Beweiskraft." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 Mit wenigen Klicks 
 zu mehr Beweiskraft 
