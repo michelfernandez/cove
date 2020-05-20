@@ -137,23 +137,6 @@ avec l’ID-app de Swisscom.
 {{< plan
   white
   "Identification"
-  "Easy"
-  "Contactez-nous dès maintenant"
-  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
-  "_blank"
-  "outline"
->}}
-
-{{< picture id-unlimited 210 "Un homme identifie une personne avec un bol de soupe et vérifie sa carte d'identité." >}}
-
-Nous passons dans votre entreprise pour vous identifier.
-
-Approprié si vous utilisez la SEQ pour un groupe de personnes prédéfini.
-{{% /plan %}}
-
-{{< plan
-  white
-  "Identification"
   "Unlimited"
   "Contactez-nous dès maintenant"
   "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"

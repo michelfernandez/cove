@@ -136,23 +136,6 @@ by personal contact with the ID app by Swisscom.
 {{< plan
   white
   "Identification"
-  "Easy"
-  "Contact Skribble"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
-  "_blank"
-  "outline"
->}}
-
-{{< picture id-unlimited 210 "A man identifies a person with a doll and checks their identity card." >}}
-
-We come and identify you.
-
-Suitable if you use the QES in a predefined group of people.
-{{% /plan %}}
-
-{{< plan
-  white
-  "Identification"
   "Unlimited"
   "Contact Skribble"
   "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
