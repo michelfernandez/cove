@@ -221,7 +221,12 @@ with legal form requirements or high liability risk.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=4 width=narrow >}}
+{{< testimonial "testimonial/swisscanto-300w.svg" "Nadja Zurflüh, Marketing & Communication, Swisscanto Freizügigkeits-Stiftungen" >}}
+"We are proud that our customers can open a vested benefits account fully digitally, thanks to Skribble. With its advanced electronic signature, Skribble provides a secure solution with high legal weight". {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 More legal weight 
 with just a few clicks
