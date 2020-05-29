@@ -136,7 +136,6 @@ ou par contact personnel avec l’ID-app de Swisscom.
 
 {{< picture qes-increase 315 "in Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
 
-{{< cta-group >}}
 {{< cta
   label="En savoir plus"
   href="/fr/debloquez-seq/"
@@ -164,7 +163,6 @@ Comment déverrouiller la SEQ sur Skribble
 **Vous avez des questions? Nous nous ferons un plaisir de vous aider.**
 {{% /markdown %}}
 {{< /cta >}}
-{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -166,7 +166,7 @@ groups:
           retina_landscape: team/soraya-kohler-l@2x
           alt_text:
       - name: Maxim Markert
-        position: Sales & Business Engineering
+        position: Chief Growth Officer
         type: 1
         images:
           regular_portrait: team/maxim-markert-l
