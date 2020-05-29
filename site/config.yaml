@@ -44,14 +44,6 @@ languages:
           url: "/de/beweiskraft-erhoehen/"
           weight: 35
           parent: plattform
-        - name: FES für Business
-          url: "/de/identifikation/fes-fuer-business/"
-          weight: 40
-          parent: plattform
-        - name: QES freischalten
-          url: "/de/qes-freischalten/"
-          weight: 45
-          parent: plattform
         # Solutions dropdown
         - name: Lösungen
           url: "/de/hr/"
@@ -233,14 +225,6 @@ languages:
           url: "/increase-legal-weight/"
           weight: 35
           parent: platform
-        - name: AES for Business
-          url: "/identification/aes-for-business/"
-          weight: 40
-          parent: platform
-        - name: Enable QES
-          url: "/enable-qes/"
-          weight: 45
-          parent: platform
         # Solutions dropdown
         - name: Solutions
           url: "/hr/"
@@ -421,14 +405,6 @@ languages:
         - name: Maximiser force probante
           url: "/fr/maximiser-force-probante/"
           weight: 30
-          parent: platforme
-        - name: SEA pour Business
-          url: "/fr/identification/sea-pour-business/"
-          weight: 35
-          parent: platforme
-        - name: Débloquez SEQ
-          url: "/fr/debloquez-seq/"
-          weight: 40
           parent: platforme
         # Solutions dropdown
         - name: Solutions
