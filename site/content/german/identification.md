@@ -200,8 +200,8 @@ Lass dich beraten und finde die passende Identifikations-Lösung für deine Firm
 {{< /cta >}}
 {{< /content >}}
 
-{{< content text=center top=12 bottom=4 width=narrow >}}
 
+{{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, 
@@ -229,9 +229,15 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 {{< /cta >}}
 {{< /content >}}
 
-
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=4 >}}
+{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, Leiter IT der Gruppe Mobiliar" >}}
+“Die Investition bei Skribble ist die perfekte Ergänzung zu unserem Engagement bei SwissID. Beide Lösungen vervielfachen ihren Mehrwert durch die Integration auf einen Schlag. Eine ideale Symbiose und Musterbeispiel für die Zusammenarbeit im Schweizer Technologie-Ökosystem.” 
+{{< /testimonial >}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
@@ -256,6 +262,7 @@ Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswah
 {{% /collapsible %}}
 
 {{< /content >}}
+
 
 {{< content text=left top=12 bottom=8 width=narrow >}}
 {{< cta

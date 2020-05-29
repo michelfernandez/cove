@@ -127,6 +127,11 @@ Geeignet für Verträge mit Formvorschrift.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
+"Wir sind stolz, dass das Freizügigkeitskonto bei uns dank Skribble komplett digital eröffnet werden kann. Skribble liefert uns mit der fortgeschrittenen elektronischen Signatur eine sichere Lösung mit hoher Beweiskraft." {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Ideales Kosten-Nutzen-Verhältnis
