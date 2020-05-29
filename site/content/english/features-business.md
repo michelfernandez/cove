@@ -130,6 +130,12 @@ Identification services for highest demands on the legal weight of the signature
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
+"We are proud that our customers can open a vested benefits account fully digitally, thanks to Skribble. With its advanced electronic signature, Skribble provides a secure solution with high legal weight". {{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Ideal cost-benefit ratio
