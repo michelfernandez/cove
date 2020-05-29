@@ -138,7 +138,7 @@ oder im persönlichen Kontakt mit der ID-App von Swisscom identifizieren lässt.
 
 {{< picture qes-increase 315 "Ein Mann sitzt vor einem Laptop, darüber ist eine Sotware-Fenster, wo eine Frau mit einer grossen Lupe herausragt und überprüft eine Identitätskarte." >}}
 
-{{< cta-group >}}
+
 {{< cta
   label="Mehr erfahren"
   href="de/qes-freischalten/"
@@ -167,7 +167,6 @@ So schaltest du die QES auf Skribble frei.
 **Hast du Fragen? Wir helfen dir gerne telefonisch weiter.**
 {{% /markdown %}}
 {{< /cta >}}
-{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

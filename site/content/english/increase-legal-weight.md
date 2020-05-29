@@ -133,7 +133,7 @@ by personal contact with the ID app by Swisscom.
 
 {{< picture qes-increase 315 "A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 
-{{< cta-group >}}
+
 {{< cta
   label="Learn more"
   href="/enable-qes/"
@@ -163,7 +163,6 @@ We are happy to help you.**
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< /cta-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
