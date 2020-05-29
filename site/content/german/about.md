@@ -28,7 +28,7 @@ Es war einmal die Unterschrift &ndash; heute signieren wir mit Skribble.
 {{% markdown %}}
 Die Digitalisierung macht vieles schneller, günstiger und einfacher. Das gilt auch für den Geschäftsalltag, zumindest bei 90 Prozent der Prozesse.
 
-Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse &ndash; auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormen Mehraufwand garantiert. Zumindest bis anhin.
+Bei den übrigen zehn Prozent handelt es sich um Schritte, die ein hohes Mass an Vertrauen verlangen, zum Beispiel das Unterschreiben von Arbeitsverträgen. Hierbei verlassen sich viele Firmen noch auf bewährte analoge Prozesse &ndash; auf dem digitalen Weg ist dieselbe Rechtsgrundlage nicht oder nur mit enormem Mehraufwand garantiert. Zumindest bis anhin.
 
 ## Skribble will das ändern:
 {{% /markdown %}}
@@ -45,7 +45,7 @@ Mit Skribble wickeln Firmen jeden Signaturprozess zu 100% digital ab. Als One-St
 Dabei geht die Sicherheit nicht auf Kosten von Einfachheit: Jede Firma, unabhängig von Grösse und technologischem Know-how, soll von den Vorteilen der digitalen Transformation profitieren können. Deshalb kann Skribble auch ohne jedes IT-Wissen sicher eingesetzt werden.
 
 ## Und das ist nur der Anfang:
-Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuitiv werden wie Händeschütteln. Du sollst dir bei jedem Vertragsabschluss sicher sein können, dass er in deinem besten Sinn abgeschlossen wurde. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
+Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuitiv werden wie Händeschütteln. Firmen sollen sich bei jedem Vertragsabschluss sicher sein können, dass er in ihrem besten Sinn abgeschlossen wurde. Seit der Gründung 2018 arbeitet ein wachsendes Team von Trust Shapern auf diese Zukunft hin.
 {{% /markdown %}}
 {{< /content >}}
 
