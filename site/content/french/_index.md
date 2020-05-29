@@ -221,8 +221,9 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
-"Nous sommes fiers que le compte de libre passage puisse être ouvert entièrement numériquement chez nous grâce à Skribble. Avec sa signature électronique avancée, Skribble nous offre une solution sécurisée à haute force probante". {{< /testimonial >}}
+{{< testimonial "testimonial/helvetia-300w.svg" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
+A l'Helvetia, les signatures "humides" sont requises dans de nombreux domaines, par exemple dans l'assurance-vie, mais aussi dans les processus internes. Avec Skribble, nous pouvons complètement numériser ces processus". 
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
