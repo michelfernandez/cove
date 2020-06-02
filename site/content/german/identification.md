@@ -132,23 +132,6 @@ Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persön
 {{< plan
   white
   "Identification"
-  "Easy"
-  "Jetzt kontaktieren"
-  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  "_blank"
-  "outline"
->}}
-
-{{< picture id-unlimited 210 "Ein Mann identifiziert eine Person mit einer Luppe und prüft ihre Identitätskarte" >}}
-
-Wir kommen vorbei und identifizieren euch.
-
-Passend, wenn ihr die QES in einem vordefinierten Personenkreis einsetzt.
-{{% /plan %}}
-
-{{< plan
-  white
-  "Identification"
   "Unlimited"
   "Jetzt kontaktieren"
   "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
