@@ -233,7 +233,7 @@ Eine wachsende Anzahl Menschen in Europa verfügt über eine geprüfte elektroni
 
 {{< content top=4 >}}
 {{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, Leiter IT der Gruppe Mobiliar" >}}
-“Die Investition bei Skribble ist die perfekte Ergänzung zu unserem Engagement bei SwissID. Beide Lösungen vervielfachen ihren Mehrwert durch die Integration auf einen Schlag. Eine ideale Symbiose und Musterbeispiel für die Zusammenarbeit im Schweizer Technologie-Ökosystem.” 
+"Die Investition bei Skribble ist die perfekte Ergänzung zu unserem Engagement bei SwissID. Beide Lösungen vervielfachen ihren Mehrwert durch die Integration auf einen Schlag. Eine ideale Symbiose und Musterbeispiel für die Zusammenarbeit im Schweizer Technologie-Ökosystem." 
 {{< /testimonial >}}
 {{< /content >}}
 

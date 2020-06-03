@@ -222,7 +222,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/helvetia-300w.svg" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
-A l'Helvetia, les signatures "humides" sont requises dans de nombreux domaines, par exemple dans l'assurance-vie, mais aussi dans les processus internes. Avec Skribble, nous pouvons complètement numériser ces processus".
+"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
