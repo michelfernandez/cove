@@ -222,7 +222,7 @@ with legal form requirements or high liability risk.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/helvetia-300w.svg" "Martin Tschopp, Chief Customer Officer of Helvetia Schweiz" >}}
-"At Helvetia, we require 'wet' signatures in many areas; in life insurance, for example, but also in internal processes. With Skribble, we are able to completely digitalise these processes." 
+"At Helvetia, we require 'wet' signatures in many areas; in life insurance, for example, but also in internal processes. With Skribble, we are able to completely digitalise these processes."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
