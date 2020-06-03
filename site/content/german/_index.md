@@ -210,7 +210,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 
 {{< cta
-  bottom=24
+  bottom=12
   label="Erfahre mehr"
   href="/de/signaturstandards/"
   outlined="true"
@@ -223,8 +223,9 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
-"Wir sind stolz, dass das Freizügigkeitskonto bei uns dank Skribble komplett digital eröffnet werden kann. Skribble liefert uns mit der fortgeschrittenen elektronischen Signatur eine sichere Lösung mit hoher Beweiskraft." {{< /testimonial >}}
+{{< testimonial "testimonial/helvetia-300w.svg" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
+"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -236,7 +237,7 @@ zu mehr Beweiskraft
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content top=4 bottom=24 width=narrow display=flex >}}
+{{< content top=4 bottom=18 width=narrow display=flex >}}
 {{< step >}}
 {{< picture "video-ident" 250 "Eine lupe vergrößert das bild eines mannes in einem pass." >}}
 {{% markdown %}}
@@ -268,9 +269,11 @@ Schalten Sie die fortgeschrittene elektronische Signatur (FES) innert weniger Ta
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=4 >}}
 {{< testimonial "testimonial/easyjet-155w.svg" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
 "Im schnelllebigen HR-Umfeld ist es wichtig, so effizient wie möglich zu sein. Das war mit unserem analogen Signaturprozess bisher schwierig, denn ich bin ständig auf Achse zwischen verschiedenen Standorten"
 {{< /testimonial >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

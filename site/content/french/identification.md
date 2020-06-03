@@ -204,7 +204,7 @@ de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identif
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=left top=4 bottom=8 width=narrow >}}
+{{< content text=left top=4 bottom=4 width=narrow >}}
 {{< cta
   label="Télécharger factsheet"
   href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_ID-Options_FR.pdf"
@@ -216,6 +216,14 @@ de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identif
 **Toutes les options d'identification en un coup d'œil.**
 {{% /markdown %}}
 {{< /cta >}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=4 >}}
+{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, responsable TI de la Groupe Mobilière" >}}
+"L'investissement dans Skribble est le complément parfait de notre engagement dans SwissID. Ces deux solutions multiplient leur valeur ajoutée grâce à une intégration d'un seul coup. Une symbiose idéale et un excellent exemple de coopération dans l'écosystème technologique suisse."
+{{< /testimonial >}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

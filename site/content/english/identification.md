@@ -221,6 +221,14 @@ A growing number of people in Europe have a validated electronic identity (e-ID)
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=4 >}}
+{{< testimonial "testimonial/mobiliar-300w.svg" "Thomas Kühne, Head of IT at the Group Mobiliar" >}}
+"The investment in Skribble is the perfect complement to our engagement with SwissID. Both solutions multiply their added value through integration. An ideal symbiosis and prime example of cooperation in the Swiss technology ecosystem."
+{{< /testimonial >}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}

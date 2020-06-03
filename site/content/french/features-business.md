@@ -107,7 +107,7 @@ Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux c
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=4 bottom=8 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
+{{< side-by-side top=4 bottom=16 img=onboarding-seq-fr img-width=380 img-alt="A large contract (QES) with a court" >}}
 {{% markdown %}}
 ## Intégration pour la signature électronique qualifiée (SEQ)
 Services d'identification pour les plus hautes exigences en matière de force probante de la signature. Convient aux contrats avec des exigences formelles.
@@ -120,6 +120,11 @@ Services d'identification pour les plus hautes exigences en matière de force pr
   "outline"
 >}}
 {{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
+"Nous sommes fiers que le compte de libre passage puisse être ouvert entièrement numériquement chez nous grâce à Skribble. Avec sa signature électronique avancée, Skribble nous offre une solution sécurisée à haute force probante". {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
