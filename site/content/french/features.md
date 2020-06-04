@@ -52,6 +52,10 @@ légalement valable, mais aussi simple.
   {{< features-item src="features/assign-signer.svg"
     headline="Assigner les signatures"
     description="Transmettez une invitation de signature reçue aux personnes requises.">}}
+    
+  {{< features-item src="features/filter-search.svg"
+    headline="Recherche de documents"
+    description="Trouvez immédiatement le document que vous recherchez en effectuant une recherche par nom.">}}
 
 {{< /features-container >}}
 
