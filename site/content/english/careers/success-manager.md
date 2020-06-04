@@ -77,7 +77,7 @@ to [answer your questions](https://help.skribble.com/kb-tickets/new).
 {{< content text=center top=6 >}}
 {{< button
   "Apply now"
-  "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
+  "https://diversify.typeform.com/to/Rw5zzu"
   "_blank"
   ""
 >}}

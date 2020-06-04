@@ -77,7 +77,7 @@ gerne zur Verfügung.
 {{< content text=center top=6 >}}
 {{< button
   "Jetzt bewerben"
-  "https://share.hsforms.com/1GDSoid6YS_GylqWhkt0MvA309ws"
+  "https://diversify.typeform.com/to/Rw5zzu"
   "_blank"
   ""
 >}}
