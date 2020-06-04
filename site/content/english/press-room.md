@@ -54,6 +54,13 @@ The Most Important Skribble Branding Assets are right here at hand:
 
 {{< table top=12 width=narrow title="Media releases" >}}
 <tr>
+  <td>28.05.2020</td>
+  <td><strong>Second financing round closed (in German)</strong></td>
+  <td>
+    <a href="downloads/20200528_Medienmitteilung_Abschluss_Finanzierungsrunde_Skribble.pdf" target="_blank">Download</a>
+  </td>
+</tr>
+<tr>
   <td>19.09.2019</td>
   <td><strong>EXPERTsuisse cooperates with Skribble (in German)</strong></td>
   <td>
