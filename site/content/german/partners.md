@@ -38,6 +38,7 @@ die unsere Werte und Ziele teilen.
   {{< partner field="Identifikation & Integration" img=partner-elca href=https://www.elca.ch/de img-width=66 img-alt=ELCA >}}
   {{< partner field=Netzwerk img=partner-swiss-made href=https://www.swissmadesoftware.org/ img-width=100 img-alt=Swissmadesoftware >}}
   {{< partner field=Netzwerk img=partner-sav-fsa href=https://www.sav-fsa.ch/de/home.html img-width=110 img-alt=SAV-FSA >}}
+  {{< partner field="Identifikation & Integration" img=partner-Intrum href=https://www.intrum.ch/ img-width=105 img-alt=Intrum >}}
 {{< /partners >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
