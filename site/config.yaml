@@ -402,8 +402,8 @@ languages:
           url: "/fr/identification/"
           weight: 25
           parent: platforme
-        - name: Maximiser force probante
-          url: "/fr/maximiser-force-probante/"
+        - name: Augmenter force probante
+          url: "/fr/augmenter-force-probante/"
           weight: 30
           parent: platforme
         # Solutions dropdown
@@ -440,8 +440,8 @@ languages:
         - name: Identification
           url: /fr/identification/
           weight: 20
-        - name: Maximiser force probante
-          url: /fr/maximiser-force-probante/
+        - name: Augmenter force probante
+          url: /fr/augmenter-force-probante/
           weight: 25
         - name: SEA pour Business
           url: /fr/identification/sea-pour-business/
@@ -537,7 +537,7 @@ languages:
         text: Identifiez-vous et débloquez une norme de signature électronique plus élevée.
         button:
           label: Augmenter la force probante
-          href: /fr/maximiser-force-probante/
+          href: /fr/augmenter-force-probante/
           target:
       rightSlot:
         title: Entrer en contact?

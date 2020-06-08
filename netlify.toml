@@ -117,6 +117,9 @@
   from = "/fr/carriere/268/sales-consultant/"
   to = "/fr/carriere/"
 
+[[redirects]]
+  from = "/fr/maximiser-force-probante/"
+  to = "/fr/augmenter-force-probante/"
 
 
 

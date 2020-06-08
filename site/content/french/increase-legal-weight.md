@@ -2,14 +2,14 @@
 title: Maximiser la force probante de votre signature électronique
 description: Activez une norme de signature électronique ayant une valeur probante plus élevée. La procédure diffère selon la norme. Choisissez entre SES, SEA et SEQ.
 draft: false
-slug: maximiser-force-probante
+slug: augmenter-force-probante
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-increase-legal-weight.jpg
 ---
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-Maximiser la force probante 
+Augmenter la force probante 
 de votre signature électronique
 ===============	
 Activez une norme de signature électronique ayant une valeur 
