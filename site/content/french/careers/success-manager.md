@@ -69,8 +69,7 @@ You help us grow Skribble in Germany by supporting and advising our customers in
 {{< content text=center top=12 >}}
 {{% markdown %}}
 # Postulez maintenant
-Si vous [avez des questions](https://help.skribble.com/kb-tickets/new), notre responsable du bonheur, Patrick, 
-se fera un plaisir d'y répondre.
+Nous attendons avec impatience de recevoir votre candidature et votre CV. 
 {{% /markdown %}}
 {{< /content >}}
 

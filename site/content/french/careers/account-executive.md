@@ -72,12 +72,13 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 {{< content text=center top=12 >}}
 {{% markdown %}}
 # Postulez maintenant
+Nous attendons avec impatience de recevoir votre candidature et votre CV. 
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content text=center top=4 >}}
 {{< button
-  "Continuer"
+  "Postulez maintenant"
   "https://diversify.typeform.com/to/oTmhoA"
   "_blank"
   ""

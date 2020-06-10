@@ -47,18 +47,6 @@ Job-Beschreibung in Englisch
 
 {{< cta
   label="Mehr Infos"
-  href="/de/karriere/268/sales-consultant/"
-  target=""
-  outlined="true"
->}}
-{{% markdown %}}
-**Sales Consultant Deutschland (60-100%), Zürich**
-Job-Beschreibung in Englisch
-{{% /markdown %}}
-{{< /cta >}}
-
-{{< cta
-  label="Mehr Infos"
   href="/de/karriere/216/success-manager/"
   target=""
   outlined="true"

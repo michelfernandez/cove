@@ -46,17 +46,6 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
-  href="/careers/268/sales-consultant/"
-  target=""
-  outlined="true"
->}}
-{{% markdown %}}
-**Sales Consultant Germany (60-100%), Zurich**
-{{% /markdown %}}
-{{< /cta >}}
-
-{{< cta
-  label="More info"
   href="/careers/216/success-manager/"
   target=""
   outlined="true"

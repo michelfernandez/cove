@@ -70,12 +70,13 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 {{< content text=center top=12 >}}
 {{% markdown %}}
 # Apply now!
+We look forward to receiving your application and your CV. 
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content text=center top=6 >}}
 {{< button
-  "Continue"
+  "Apply now"
   "https://diversify.typeform.com/to/oTmhoA"
   "_blank"
   ""

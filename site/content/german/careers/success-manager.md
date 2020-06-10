@@ -68,9 +68,7 @@ You help us grow Skribble in Germany by supporting and advising our customers in
 {{< content text=center top=12 >}}
 {{% markdown %}}
 # Jetzt bewerben
-Bei [Fragen](https://help.skribble.com/kb-tickets/new) steht dir unser Happiness Manager, Patrick, 
-gerne zur Verfügung.
-
+Wir freuen uns auf Ihre Bewerbung und ihren CV. 
 {{% /markdown %}}
 {{< /content >}}
 
