@@ -23,7 +23,7 @@ mit dem höchsten verfügbaren E-Signatur-Standard (QES).
 
 {{< side-by-side top=24 bottom=12 img=sign-parallel mobile-top=12 mobile-bottom=6 img-width=387 img-alt="Mann signiert mit zwei weiteren Personen einen Vertrag" >}}
 {{% markdown %}}
-## Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
+### Alle Vertragsparteien <br class="hide-for-mobile">signieren digital
 Mehrere Vertragsparteien: Statt Verträge per Post von einer Person zur nächsten zu schicken, signieren alle zeitsparend online.
 
 - **Per E-Mail automatisiert
@@ -39,7 +39,7 @@ wenn der Vertrag signiert wurde**
 
 {{< side-by-side top=12 bottom=12 mobile-top=6 mobile-bottom=6 img=batch-process img-position=right img-width=380 img-alt="Ein Stapel Dokumente werden mit einem Klick signiert" >}}
 {{% markdown %}}
-## Erledigen Sie den Stapel <br class="hide-for-mobile">mit nur einer Signatur
+### Erledigen Sie den Stapel <br class="hide-for-mobile">mit nur einer Signatur
 Digitale Unterschriftsmappe: Sammeln Sie die Verträge digital und signieren Sie diese gleichzeitig mit wenigen Klicks. Einen USB-Stick oder Card-Reader brauchen Sie trotz QES-Standard nicht.
 
 - **Stapelsignatur für beliebige
@@ -54,7 +54,7 @@ keine externe Hardware erforderlich**
 
 {{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=6 img=authorities-input img-width=394 img-alt="Zwei Leute machen Schritt-für Schritt eine Behörden Eingabe" >}}
 {{% markdown %}}
-## Eingaben bei Behörden <br class="hide-for-mobile">machen Sie online
+### Eingaben bei Behörden <br class="hide-for-mobile">machen Sie online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
 
 - **Nahtlose Integration in PrivaSphere (folgt bald)**
@@ -68,7 +68,7 @@ Kanzleien und Behörden/Gerichten in der Schweiz**
 
 {{< side-by-side top=12 bottom=8 mobile-top=6 mobile-bottom=12 img=crm-systeme-lawyer img-position=right img-width=421 img-alt="Signiere aus deinen gewohnten Tools heraus, beispielsweise WinJur oder Vertec." >}}
 {{% markdown %}}
-## Keine neue Software notwendig
+### Keine neue Software notwendig
 Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihrer bestehenden Software heraus.
 
 - **Direkt über den Browser signieren**
@@ -82,7 +82,7 @@ Lösungen einbinden**
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble erfüllen Sie <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozesse
+## Mit Skribble erfüllen Sie <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an Anwalts-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -105,7 +105,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Unser Kunden haben gut lachen {#altenburger}
+## Unser Kunden haben gut lachen {#altenburger}
 Wie wir den Alltag unserer Kunden erleichtern.
 {{% /markdown %}}
 {{< /content >}}
@@ -130,7 +130,7 @@ Wie wir den Alltag unserer Kunden erleichtern.
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# Mit Skribble maximieren Sie die Beweiskraft Ihrer Signatur
+## Mit Skribble maximieren Sie die Beweiskraft Ihrer Signatur
 Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES)
 und der fortgeschrittenen E-Signatur (FES).Die beiden Standards variieren
 punkto Einsatzgebiet und Beweiskraft.
@@ -219,7 +219,7 @@ den Signaturstandards FES und QES wählen.**
 
 {{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Lassen Sie sich identifizieren
+## Lassen Sie sich identifizieren
 Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei.
 Sie benötigen nur ein gültiges Reisedokument (ID oder Pass).
 {{% /markdown %}}
@@ -248,7 +248,7 @@ aus und lassen Sie sich identifizieren**
 
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Alles klar?
+## Alles klar?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -275,7 +275,7 @@ Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Ver
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

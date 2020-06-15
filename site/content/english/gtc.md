@@ -13,7 +13,7 @@ description: General Terms and Conditions (GTC) of Skribble
 
 The following applies to you as customer (You or Customer) of the Skribble e-signing-platform (Skribble Service)and Skribble AG, Fraumünsterstrasse 16, 8001 Zurich, Switzerland, respectively Skribble Deutschland GmbH, Pforzheimer Straße 128a, 76275 Ettlingen, Germany (Skribble):
 
-## A – General Terms
+## A – General Terms
 {{% /markdown %}}
 
 {{% markdown legal %}}
@@ -206,7 +206,7 @@ Skribble Service provides the following accounts:
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

@@ -21,7 +21,7 @@ technological security with simplicity.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-### Use Skribble via your browser or integrate the platform into your existing software environment via API
+#### Use Skribble via your browser or integrate the platform into your existing software environment via API
 {{% /markdown %}}
 {{< /content >}}
 
@@ -56,7 +56,7 @@ technological security with simplicity.
 
 {{< content text=center top=16 bottom=16 width=narrow >}}
 {{% markdown %}}
-# With Skribble you benefit from the highest standards of technology and security
+## With Skribble you benefit from the highest standards of technology and security
 {{% /markdown %}}
 {{< /content >}}
 
@@ -100,7 +100,7 @@ technological security with simplicity.
 
 {{< content text=center top=12 bottom=4 width=narrow >}}
 {{% markdown %}}
-# Try out the API
+## Try out the API
 You can create a demo key in your Skribble Business account.
 {{% /markdown %}}
 {{< /content >}}
@@ -144,7 +144,7 @@ for quality, reliability and precision in software development.
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

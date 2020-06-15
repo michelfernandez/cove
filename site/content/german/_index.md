@@ -42,7 +42,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
-# In 3 Schritten rechtsgültig signieren
+## In 3 Schritten rechtsgültig signieren
 {{% /markdown %}}
 {{< /content >}}
 
@@ -50,7 +50,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 {{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="Eine frau hält ein PDF dokument in den händen und lädt es hoch" >}}
 {{% markdown %}}
-## Dokumente als PDF hochladen
+### Dokumente als PDF hochladen
 Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -59,7 +59,7 @@ Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Si
 
 {{< side-by-side bottom=12 mobile-top=6 mobile-bottom=6 img=image3 img-width=400 img-alt="Ein mann lädt zwei personen zum signieren ein" >}}
 {{% markdown %}}
-## Zum Signieren einladen
+### Zum Signieren einladen
 Laden Sie die signierenden Personen per E-Mail ein und legen Sie die Signatur-Reihenfolge fest.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -68,7 +68,7 @@ Laden Sie die signierenden Personen per E-Mail ein und legen Sie die Signatur-Re
 
 {{< side-by-side top=12 bottom=24 mobile-top=6 mobile-bottom=12 img=image4 img-position=right img-width=391 img-alt="Three people legally sign a document online" >}}
 {{% markdown %}}
-## Rechtsgültig signieren
+### Rechtsgültig signieren
 Signieren Sie per Knopfdruck, unabhängig
 von Zeit und Ort, rechtsgültig nach Schweizer
 und EU-Recht.
@@ -289,7 +289,7 @@ Schalten Sie die fortgeschrittene elektronische Signatur (FES) innert weniger Ta
 
 {{< outro >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

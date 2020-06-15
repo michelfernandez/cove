@@ -126,7 +126,7 @@ Legal security, identity check and authentication methods.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# QES: The same legal validity as signing by hand
+## QES: The same legal validity as signing by hand
 The all-round carefree signature for the highest demands
 {{% /markdown %}}
 {{< /content >}}
@@ -184,7 +184,7 @@ Check whether a document has been signed with QES
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
+## AES: The pragmatic solution <br class="hide-for-mobile">for contracts without <br class="hide-for-mobile">formal requirements
 Instantly operational thanks to lower requirements
 {{% /markdown %}}
 {{< /content >}}
@@ -202,7 +202,7 @@ This applies to most types of contracts, such as rental, purchase or mortgage ag
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# SES: The digital handshake
+## SES: The digital handshake
 The one-click solution for everyday documents
 {{% /markdown %}}
 {{< /content >}}
@@ -220,7 +220,7 @@ It is legally valid for documents where the law does not prescribe a specific fo
 
 {{< content text=center top=24 bottom=6 width=narrow >}}
 {{% markdown %}}
-## QES vs. AES vs. SES at a glance
+### QES vs. AES vs. SES at a glance
 {{% /markdown %}}
 {{< /content >}}
 
@@ -285,7 +285,7 @@ We are happy to help you.**
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

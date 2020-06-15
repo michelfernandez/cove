@@ -20,7 +20,7 @@ today we sign with Skribble.
 
 {{< content top=6 width=narrow >}}
 {{% markdown %}}
-## The typewriter became Microsoft Word, the CD turned into Spotify, the DVD became Netflix.
+### The typewriter became Microsoft Word, the CD turned into Spotify, the DVD became Netflix.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -32,7 +32,7 @@ Digitalisation makes many things faster, cheaper and simpler. This also applies 
 
 The remaining ten percent require a high degree of trust, for example signing employment contracts. Many companies still rely on established analogue processes for this. Because making their digital equivalent compliant with all legal requirements requires an enormous additional expenditure. At least up to now.
 
-## Skribble wants to change this:
+### Skribble wants to change this:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -46,7 +46,7 @@ Skribble is a one-stop shop for electronic signatures that makes signature proce
 
 Security does not come at the expense of simplicity: every company, regardless of size and technological experience, should be able to benefit from the advantages of digital transformation. This is why Skribble can be used securely even without any IT knowledge. 
 
-## And that's just the beginning:
+### And that's just the beginning:
 Building trust in digital business relationships should be as simple and
 intuitive as shaking hands. Since its founding in 2018, a growing team of 
 trust shapers has been working towards this future at Skribble.
@@ -55,7 +55,7 @@ trust shapers has been working towards this future at Skribble.
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

@@ -39,7 +39,7 @@ As a Skribble user, you must comply with the following principles of lawful use:
 
 {{< outro >}}
 {{% markdown center %}}
-# Sign now, legally and electronically!
+## Sign now, legally and electronically!
 No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 

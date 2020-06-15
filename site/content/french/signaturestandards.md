@@ -129,7 +129,7 @@ Sécurité juridique, procédures de vérification et d'authentification de l'id
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# SEQ: La même sécurité juridique que la signature manuscrite
+## SEQ: La même sécurité juridique que la signature manuscrite
 La signature complète et sans souci pour les exigences les plus élevées
 {{% /markdown %}}
 {{< /content >}}
@@ -186,7 +186,7 @@ Vérifiez si un document a été signé avec la SEQ
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# SEA: La solution pragmatique pour les contrats sans exigences formelles
+## SEA: La solution pragmatique pour les contrats sans exigences formelles
 Immédiatement prête à l'emploi grâce à des exigences d'identification réduites
 {{% /markdown %}}
 {{< /content >}}
@@ -204,7 +204,7 @@ C’est le cas pour la plupart des types de contrats, tels que les contrats de l
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-# SES : La poignée de main numérique
+## SES : La poignée de main numérique
 La solution en un seul clic pour les documents de tous les jours
 {{% /markdown %}}
 {{< /content >}}
@@ -222,7 +222,7 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 
 {{< content text=center top=24 bottom=6 width=narrow >}}
 {{% markdown %}}
-## SEQ vs SEA vs SES en un coup d'œil
+### SEQ vs SEA vs SES en un coup d'œil
 {{% /markdown %}}
 {{< /content >}}
 
@@ -285,7 +285,7 @@ Elle est juridiquement valable si la loi ne prescrit pas de forme particulière.
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}

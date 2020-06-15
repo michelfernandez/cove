@@ -91,7 +91,7 @@ Die Beweiskraft Ihrer Signatur wird auf 100% angehoben (QES-Level)
 
 {{< content text=center top=24 bottom=8 >}}
 {{% markdown %}}
-# Standorte für die Identitätsprüfung
+## Standorte für die Identitätsprüfung
 Kommen Sie vorbei und lassen Sie sich kostenlos identifizieren.
 Bringen Sie einen gültigen Pass oder Identitätskarte mit sowie Ihr Mobiltelefon.
 {{% /markdown %}}
@@ -437,7 +437,7 @@ Mo - So: 08.00 - 21.00
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-# Alles klar?
+## Alles klar?
 {{% /markdown %}}
 {{% /content %}}
 
@@ -472,7 +472,7 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 
 {{< outro   >}}
 {{% markdown center %}}
-# Jetzt rechtsgültig elektronisch signieren!
+## Jetzt rechtsgültig elektronisch signieren!
 Keine Kreditkarte, Eintrittsgebühr oder
 Verpflichtung erforderlich.
 {{% /markdown %}}

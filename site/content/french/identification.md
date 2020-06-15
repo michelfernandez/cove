@@ -108,7 +108,7 @@ Quand dois-je utiliser la SEQ, quand la SEA ?
 
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Contrats avec exigences formelles
+## Contrats avec exigences formelles
 Pour les contrats comportant des exigences formelles, la signature électronique qualifiée (SEQ) est généralement utilisée. Avec le SEQ, la loi exige que l'identité du signataire soit vérifiée au préalable via un contact personnel.
 {{% /markdown %}}
 {{< /content >}}
@@ -192,7 +192,7 @@ Laissez-nous vous conseiller et trouver la solution d'identification adaptée à
 {{< content text=center top=12 bottom=4 width=narrow >}}
 
 {{% markdown %}}
-# Identité électronique (e-ID)
+## Identité électronique (e-ID)
 Les personnes qui se connectent à Skribble avec une e-ID vérifiée activent automatiquement la SEQ.
 {{% /markdown %}}
 
@@ -231,7 +231,7 @@ de personnes peuvent signer immédiatement avec la SEQ sans procédure d'identif
 
 {{< content text=center top=12 bottom=8 width=narrow >}}
 {{% markdown %}}
-# Tout va bien?
+## Tout va bien?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -272,7 +272,7 @@ Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection 
 
 {{< outro >}}
 {{% markdown center %}}
-# Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
 Aucune carte de crédit, aucun droit d'entrée
 ou engagement n'est requis.
 {{% /markdown %}}
