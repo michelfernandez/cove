@@ -120,18 +120,21 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/deutsch
           weight: 10
-        - name: API-Ressource
-          url: https://doc.skribble.com/
+        - name: Business-Account
+          url: https://docs.skribble.com/business-admin/
           weight: 15
+        - name: API-Ressource
+          url: https://developers.skribble.com/api/
+          weight: 20
         - name: Signaturstandards
           url: /de/signaturstandards/
-          weight: 20
+          weight: 25
         - name: QES-Validator
           url: /de/qes-validator/
-          weight: 25
+          weight: 30
         - name: Status
           url: /status/
-          weight: 30  
+          weight: 35  
       meta:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
@@ -301,18 +304,21 @@ languages:
         - name: Help-Center
           url: https://help.skribble.com/english
           weight: 10
-        - name: API resource
-          url: https://doc.skribble.com/
+        - name: Business-Account
+          url: https://docs.skribble.com/business-admin/
           weight: 15
+        - name: API resource
+          url: https://developers.skribble.com/api/
+          weight: 20
         - name: Signature standards
           url: /signaturestandards/
-          weight: 20
+          weight: 25
         - name: QES validator
           url: /qes-validator/
-          weight: 25
+          weight: 30
         - name: Status
           url: /status/
-          weight: 30          
+          weight: 35          
       meta:
         - name: Privacy Policy
           url: /privacy/
@@ -482,18 +488,21 @@ languages:
         - name: Centre d'assistance
           url: https://help.skribble.com/francais
           weight: 10
-        - name: API Ressource
-          url: https://doc.skribble.com/
+        - name: Business Account
+          url: https://docs.skribble.com/business-admin/
           weight: 15
+        - name: API Ressource
+          url: https://developers.skribble.com/api/
+          weight: 20
         - name: Normes de signature
           url: /fr/normessignature/
-          weight: 20
+          weight: 25
         - name: Validateur SEQ
           url: /fr/validateur-seq/
-          weight: 25
+          weight: 30
         - name: Status
           url: /status/
-          weight: 30  
+          weight: 35  
       meta:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
