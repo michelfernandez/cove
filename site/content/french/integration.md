@@ -116,7 +116,7 @@ dans votre compte Skribble Business.
 {{< cta-group >}}
 {{< cta
   label="Documentation API"
-  href="https://doc.skribble.com/"
+  href="https://developers.skribble.com/api/"
   outlined="true"
   target="_blank"
 >}}
