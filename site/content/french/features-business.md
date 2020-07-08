@@ -98,7 +98,7 @@ ou à la norme de signature souhaitée.
 
 {{< side-by-side top=8 bottom=12 img-position=right img=onboarding-sea-fr img-width=460 img-alt="Un grand contrat (FES) devant une maison" >}}
 {{% markdown %}}
-## Intégration pour la signature électronique avancée (SEA)
+### Intégration pour la signature électronique avancée (SEA)
 Mise en œuvre à l'échelle de l'organisation en quelques clics. Convient aux contrats sans exigences formelles.
 {{% /markdown %}}
 <br>

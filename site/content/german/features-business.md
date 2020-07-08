@@ -101,7 +101,7 @@ zum elektronischen Signieren. Wählen Sie den Onboarding-Prozess, der zu Ihrem A
 
 {{< side-by-side top=12 bottom=12 img-position=right img=onboarding-fes-de img-width=460 img-alt="Ein grosser Vertrag (FES) vor einem Haus" >}}
 {{% markdown %}}
-## Onboarding für die fortgeschrittene elektronische Signatur (FES)
+### Onboarding für die fortgeschrittene elektronische Signatur (FES)
 Organisationsweite Einführung mit wenigen Klicks.
 Geeignet für Verträge ohne Formvorschrift.
 {{% /markdown %}}
