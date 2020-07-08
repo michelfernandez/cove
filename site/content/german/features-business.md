@@ -49,7 +49,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re AG" >}}
+{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
 "Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
