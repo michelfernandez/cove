@@ -67,10 +67,11 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Apply now!
-We look forward to receiving your application and your CV. 
+We look forward to receiving your application and your CV.
+We are taking a summer break. Please allow 3-4 weeks from receipt of your application for an initial response time.
 {{% /markdown %}}
 {{< /content >}}
 

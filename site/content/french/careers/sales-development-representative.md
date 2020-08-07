@@ -6,7 +6,6 @@ url: /fr/carriere/395/sales-development-representative/
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-career.jpg
 
-
 ---
 
 {{< content text=center top=12 >}}
@@ -66,11 +65,10 @@ You are the first, fantastic contact our future customers will have with Skribbl
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 >}}
+{{< content text=center top=12 width="narrow" >}}
 {{% markdown %}}
 ## Postulez maintenant
-Si vous [avez des questions](https://help.skribble.com/kb-tickets/new), notre responsable du bonheur, Patrick, 
-se fera un plaisir d'y répondre.
+Nous prenons une courte pause estivale. Veuillez prévoir un délai de 3 à 4 semaines à compter de la date de réception de votre demande pour y répondre.
 {{% /markdown %}}
 {{< /content >}}
 
