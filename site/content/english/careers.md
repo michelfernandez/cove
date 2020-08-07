@@ -23,13 +23,25 @@ and to develop Skribble and yourself.
 {{< cta
   title="Open positions"
   label="More info"
+  href="/careers/587/senior-success-manager/"
+  target=""
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Senior Success Manager (80-100%), Zurich**
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="More info"
   href="/careers/395/sales-Development-representative/"
   target=""
   outlined="true"
 >}}
+
 {{% markdown %}}
 **Sales Development Representative (60-100%), Zurich**
-
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -39,6 +51,7 @@ and to develop Skribble and yourself.
   target=""
   outlined="true"
 >}}
+
 {{% markdown %}}
 **Account Executive Germany (60-100%), Zurich**
 {{% /markdown %}}
@@ -50,6 +63,7 @@ and to develop Skribble and yourself.
   target=""
   outlined="true"
 >}}
+
 {{% markdown %}}
 **Success Manager (60-100%), Zurich**
 {{% /markdown %}}
