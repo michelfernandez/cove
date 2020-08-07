@@ -68,10 +68,10 @@ You help us grow Skribble in Germany by consulting enterprises on digital signin
 {{< /content >}}
 
 
-{{< content text=center top=12 >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Jetzt bewerben
-Wir freuen uns auf Ihre Bewerbung und ihren CV. 
+Wir machen eine kurze Sommerpause. Bitte rechne mit einer Reaktionszeit von 3-4 Wochen ab Eingang deiner Bewerbung bei uns.
 {{% /markdown %}}
 {{< /content >}}
 

@@ -1,18 +1,17 @@
 ---
-title: Votre carrière au Skribble
-description: Avec Skribble, les processus de signature sont gérés à 100% numériquement, sur la base de la signature électronique qualifiée "SEQ" – la signature électronique qui équivaut à une signature manuscrite, selon la loi suisse et européenne.
+title: Your career at Skribble
+description: Mit Skribble werden Signaturprozesse 100% digital abgewickelt, basierend auf der qualifizierten elektronischen Signatur “QES” - die e-Unterschrift, die vor Schweizer und EU Gesetz der handschriftlichen Unterschrift gleichgestellt ist.
 draft: false
-url: /fr/carriere/216/success-manager/
+url: /de/karriere/587/senior-success-manager/
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-career.jpg
-
 
 ---
 
 {{< content text=center top=12 >}}
 {{< button
-  "Retour"
-  "fr/carriere/"
+  "Zurück"
+  "de/karriere"
   ""
   "outline"
 >}}
@@ -20,9 +19,9 @@ og_image: og/og-skribble-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Success Manager
+Senior Success Manager
 ===============
-Zurich, 60-100%, illimité
+Zürich, 80-100%, permanent
 {{% /markdown %}}
 {{< /content >}}
 
@@ -52,7 +51,7 @@ You help us grow Skribble in Germany by supporting and advising our customers in
 ### Your Background
 - 2+ years experience in consulting people or organisations - ideally as account manager or customer success manager (B2B SaaS would be perfect, but we’re also interested in other profiles if you have been responsible for a complex product or service in an innovative environment)
 - Friends describe you as honest, communicative, empathetic and pragmatic
-- You’re a team player, motivated by purpose and delivering results
+- You are flexible and enjoy working in a highly dynamic environment
 - German is your native language and you are fluent in English (other languages are a plus)
 
 
@@ -63,37 +62,39 @@ You help us grow Skribble in Germany by supporting and advising our customers in
 - Flexibility in the organisation of your working time, place of work and your devices
 - Office in the heart of Zurich within 2 mins walking distance from the lake
 
+
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 width="narrow" >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
-## Postulez maintenant
-Nous prenons une courte pause estivale. Veuillez prévoir un délai de 3 à 4 semaines à compter de la date de réception de votre demande pour y répondre.
+## Jetzt bewerben
+Wir machen eine kurze Sommerpause. Bitte rechne mit einer Reaktionszeit von 3-4 Wochen ab Eingang deiner Bewerbung bei uns.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=4 >}}
+{{< content text=center top=6 >}}
 {{< button
-  "Postulez maintenant"
-  "https://diversify.typeform.com/to/Rw5zzu"
+  "Jetzt bewerben"
+  "https://app.beapplied.com/apply/7snt6vcos7"
   "_blank"
   ""
 >}}
 {{< /content >}}
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< outro >}}
+{{< outro   >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+## Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
-  "https://my.skribble.com/signup?lang=fr"
+  "Jetzt ausprobieren"
+  "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
 {{< /outro >}}

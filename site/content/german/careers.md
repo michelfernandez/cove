@@ -20,8 +20,21 @@ an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
 {{< picture career 640 "3 Bewerber mit ihren Checklisten" >}}
 
 {{< cta-group >}}
+
 {{< cta
   title="Offene Stellen"
+  label="Mehr Infos"
+  href="/de/karriere/587/senior-success-manager/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Senior Success Manager (80-100%), Zürich**
+Job-Beschreibung in Englisch
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
   label="Mehr Infos"
   href="/de/karriere/395/sales-development-representative/"
   target=""

@@ -65,11 +65,10 @@ You are the first, fantastic contact our future customers will have with Skribbl
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Jetzt bewerben
-Bei [Fragen](https://help.skribble.com/kb-tickets/new) steht dir unser Happiness Manager, Patrick, 
-gerne zur Verfügung.
+Wir machen eine kurze Sommerpause. Bitte rechne mit einer Reaktionszeit von 3-4 Wochen ab Eingang deiner Bewerbung bei uns.
 
 {{% /markdown %}}
 {{< /content >}}

@@ -2,7 +2,7 @@
 title: Your career at Skribble
 description: With Skribble signature processes are 100% digital, based on the qualified electronic signature “QES” - the e-signature, which is equivalent to your hand-written signature according to Swiss and EU law.
 draft: false
-url: /careers/388/account-executive/
+url: /careers/587/senior-success-manager/
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-career.jpg
 
@@ -19,10 +19,9 @@ og_image: og/og-skribble-career.jpg
 
 {{< content text=center top=12 >}}
 {{% markdown %}}
-Account Executive 
-Germany
+Senior Success Manager
 ===============
-Zurich, 60-100%, permanent
+Zurich, 80-100%, permanent
 {{% /markdown %}}
 {{< /content >}}
 
@@ -34,7 +33,7 @@ Zurich, 60-100%, permanent
 
 {{< content top=12 width=narrow >}}
 {{% markdown %}}
-### Be authentic, honest and deliver on your promises the rest will take care of itself. 
+### Be authentic, honest and deliver on your promises - the rest will take care of itself. 
 {{% /markdown %}}
 {{< /content >}}
 
@@ -44,23 +43,21 @@ Zurich, 60-100%, permanent
 Skribble aims to simplify the lives of people and create trust in the digital world. Worldwide. Our mission is to contribute a key element that is intuitive in usage and simple to implement: digital signatures. We advise and support organizations in the implementation of digital signatures, so that we all are better off by trusting more, wasting less time, and safeguarding environmental resources.
 
 ### The Team
-Our team is highly motivated, positive and collaborates closely together. We are growing fast and the next step is to bring Skribble to Europe. We are nice, fun-loving people, working on a non-commission basis and strive to make the world a better place: one signature at a time. We always have each other’s backs - like a family. Off work, we can be found riding bikes, playing video games or chilling with family and friends.
+Our team is highly motivated, positive and and collaborates closely together. We are growing fast and our next step is to bring Skribble to Europe. We are nice, fun-loving people, working on a non-commission basis and strive to make the world a better place: one signature at a time. We always have each other’s backs - like a family. Off work, they can be found riding bikes or indulging life with our families and friends.
 
 ### Your Contribution
-You help us grow Skribble in Germany by consulting enterprises on digital signing and business process digitisation. You are the face and brand of Skribble in the market: You listen to customers, build lasting relationships and suggest solutions tailored to their needs. You focus on large organisations and travel to meet them in person.
+You help us grow Skribble internationally by building and shaping our customer success organisation and processes from the ground up. You balance conceptual and hands-on work as you build-up an effective and scalable organisation. Your goal is to turn customers into fans, who implement Skribble across business units and geographies. You travel occasionally to meet customers in person. You liaise with our other teams in Sales & Marketing to maximise growth and efficiency. You define strategy, processes, set goals, metrics and - above all - lead by example.
 
 ### Your Background
-- 2+ years experience in consulting people or organisations - ideally as sales development representative (inbound/outbound), business development representative, account manager or customer success manager (B2B SaaS would be perfect, but we’re also interested in other profiles if you have been responsible for a complex product or service in an innovative environment)
-- Friends describe you as honest, communicative, empathetic and pragmatic
-- You are flexible and enjoy working in a dynamic environment
-- German is your native language and you are fluent in English (other languages are a plus)
-- You’re a team player, motivated by purpose and delivering results
-- You can imagine to travel between Switzerland and Germany about 30-50% of your work-time
+- 5+ years experience in customer success function in B2B SaaS, ideally leading a customer success organisation
+- Friends describe you as honest, empathetic, creative and ambitious
+- You are flexible and enjoy working in a highly dynamic environment
+- You are fluent in English (at least level C1) and comfortable in German (at least level B2; other languages are a plus)
 
 ### Our Offering
 - Opportunity to be part of a fast growing tech company with an aspiring and experienced team 
 - A job with a purpose: save human and environmental resources by enabling digital signatures #worksmarter
-- Company culture of trust, self-responsibility, and transparency
+- Company culture of trust,self-responsibility and transparency
 - Flexibility in the organisation of your working time, place of work and your devices
 - Office in the heart of Zurich within 2 mins walking distance from the lake
 
@@ -78,7 +75,7 @@ We are taking a summer break. Please allow 3-4 weeks from receipt of your applic
 {{< content text=center top=6 >}}
 {{< button
   "Apply now"
-  "https://diversify.typeform.com/to/oTmhoA"
+  "https://app.beapplied.com/apply/7snt6vcos7"
   "_blank"
   ""
 >}}

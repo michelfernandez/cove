@@ -54,7 +54,7 @@ legally binding in accordance with Swiss & EU law.
 
 {{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=right img-alt="A woman holding a PDF document in her hands and uploading it" >}}
 {{% markdown %}}
-## Upload documents as PDFs
+### Upload documents as PDFs
 Upload the PDF document directly via browser or use Skribble via API from your business software.
 {{% /markdown %}}
 {{< /side-by-side >}}

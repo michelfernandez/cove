@@ -21,8 +21,21 @@ et de développer Skribble et toi-même.
 {{< picture career 640 "3 candidats avec leurs listes de contrôle" >}}
 
 {{< cta-group >}}
+
 {{< cta
   title="Nous recherchons"
+  label="Plus d'info"
+  href="/fr/carriere/587/senior-success-manager/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Senior Success Manager (80-100%), Zurich**
+(Annonce en Anglais)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
   label="Plus d'info"
   href="/fr/carriere/395/sales-development-representative/"
   target=""

@@ -65,11 +65,11 @@ You are the first, fantastic contact our future customers will have with Skribbl
 {{% /markdown %}}
 {{< /content >}}
 
-{{< content text=center top=12 >}}
+{{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## Apply now!
-Our Happiness Manager, Patrick, will be happy 
-to [answer your questions](https://help.skribble.com/kb-tickets/new).
+We look forward to receiving your application and your CV.
+We are taking a summer break. Please allow 3-4 weeks from receipt of your application for an initial response time.
 {{% /markdown %}}
 {{< /content >}}
 
