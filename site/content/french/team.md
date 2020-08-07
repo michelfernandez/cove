@@ -192,6 +192,24 @@ groups:
           regular_landscape: team/roland-jordan-l
           retina_landscape: team/roland-jordan-l@2x
           alt_text:
+      - name: Jonathan Geissberger
+        position: Graphic- / UX-Designer
+        type: 2
+        images:
+          regular_portrait: team/jonathan-geissberger-l
+          retina_portrait: team/jonathan-geissberger-l@2x
+          regular_landscape: team/jonathan-geissberger-l
+          retina_landscape: team/jonathan-geissberger-l@2x
+          alt_text:
+      - name: Emma Kingué
+        position: Customer Hapiness Manager
+        type: 1
+        images:
+          regular_portrait: team/emma-kingue-l
+          retina_portrait: team/emma-kingue-l@2x
+          regular_landscape: team/emma-kingue-l
+          retina_landscape: team/emma-kingue-l@2x
+          alt_text:
   - title: Advisors
     people:
       - name: Karl Kagermeier
