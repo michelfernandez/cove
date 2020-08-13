@@ -193,14 +193,14 @@ Let us advise you and find the right identification solution for your company.
 {{< content text=center top=12 bottom=4 width=narrow >}}
 
 {{% markdown %}}
-## Electronic identity (e-ID)
-People who log on to Skribble with a verified e-ID automatically activate QES.
+## Electronic identity (eID)
+People who log on to Skribble with a verified eID automatically activate QES or FES.
 {{% /markdown %}}
 
-{{< picture e-id-map 810 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
+{{< picture e-id-map 810 "Identification for the QES and the FES. Let us advise you and find the right identification solution for your company." >}}
 
 {{% markdown %}}
-A growing number of people in Europe have a validated electronic identity (e-ID). Skribble works with all of them. This means that millions of people can sign immediately with QES without additional identification procedures.
+A growing number of people in Europe have a verified electronic identity (eID). Skribble integrates these eIDs. This means that millions of people can sign immediately with QES or FES without additional identification procedures.
 {{% /markdown %}}
 {{< /content >}}
 
