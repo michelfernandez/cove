@@ -7,7 +7,7 @@
 var klaroConfig = {
   // You can customize the ID of the DIV element that Klaro will create
   // when starting up. If undefined, Klaro will use 'klaro'.
-  elementID: "klaro",
+  elementID: "klaro-skribble",
 
   // How Klaro should store the user's preferences. It can be either 'cookie'
   // (the default) or 'localStorage'.
@@ -24,7 +24,7 @@ var klaroConfig = {
   // You can change to cookie domain for the consent manager itself.
   // Use this if you want to get consent once for multiple matching domains.
   // If undefined, Klaro will use the current domain.
-  //cookieDomain: '.github.com',
+  cookieDomain: '.skribble.com',
 
   // Put a link to your privacy policy here (relative or absolute).
   privacyPolicy: {
@@ -43,10 +43,10 @@ var klaroConfig = {
 
   // Show "accept all" to accept all apps instead of "ok" that only accepts
   // required and "default: true" apps
-  acceptAll: false,
+  acceptAll: true,
 
   // replace "decline" with cookie manager modal
-  hideDeclineAll: false,
+  hideDeclineAll: true,
 
   // You can define the UI language directly here. If undefined, Klaro will
   // use the value given in the global "lang" variable. If that does
@@ -107,7 +107,7 @@ var klaroConfig = {
         purposes: "Purposes",
         purpose: "Purpose",
       },
-      poweredBy: "Powered by Klaro!",
+      poweredBy: "",
       matomo: {
         description: "Collects visitor statistics",
       },
@@ -154,7 +154,7 @@ var klaroConfig = {
       //   save: "Save",
       decline: "Refuser",
       //   close: "Close",
-      //   acceptAll: "Accept all",
+      acceptAll: "Accepter tous",
       acceptSelected: "Accepter la sélection",
       //   app: {
       //     disableAll: {
@@ -172,7 +172,7 @@ var klaroConfig = {
       //     purposes: "Purposes",
       //     purpose: "Purpose",
       //   },
-      //   poweredBy: "Powered by Klaro!",
+      poweredBy: "",
       matomo: {
         description: "Collecte de statistiques sur les visiteurs",
       },
@@ -218,7 +218,7 @@ var klaroConfig = {
       //   save: "Save",
       decline: "Ablehnen",
       //   close: "Close",
-      //   acceptAll: "Accept all",
+      acceptAll: "Alle akzeptieren",
       acceptSelected: "Auswahl akzeptieren",
       //   app: {
       //     disableAll: {
@@ -236,7 +236,7 @@ var klaroConfig = {
       //     purposes: "Purposes",
       //     purpose: "Purpose",
       //   },
-      //   poweredBy: "Powered by Klaro!",
+      poweredBy: "",
       matomo: {
         description: "Sammeln von Besucherstatistiken",
       },
@@ -264,29 +264,24 @@ var klaroConfig = {
       // Each app should have a unique (and short) name.
       name: "hubspot",
       // The title of you app as listed in the consent modal.
-      title: "Hubspot, Facebook, Bing, Cloudflare",
+      title: "Hubspot, Google Tag Manager, Facebook, Bing, Cloudflare",
       // The purpose(s) of this app. Will be listed on the consent notice.
       // Do not forget to add translations for all purposes you list here.
       purposes: ["advertising", "analytics", "livechat", "security"],
-      // If "default" is set to true, the app will be enabled by default
-      // Overwrites global "default" setting.
-      // We recommend leaving this to "false" for apps that collect
-      // personal information.
-      default: true,
     },
     {
       name: "matomo",
       title: "Matomo",
       purposes: ["analytics"],
-      default: true,
     },
-    {
-      name: "klaro",
-      title: "Klaro",
-      purposes: ["preferences"],
-      // If "required" is set to true, Klaro will not allow this app to
-      // be disabled by the user.
-      required: true,
+    {	
+      name: "klaro",	
+      title: "Klaro",	
+      purposes: ["preferences"],	
+      // If "required" is set to true, Klaro will not allow this app to	
+      // be disabled by the user.	
+      default: true,
+      required: true,	
     },
   ],
 };
