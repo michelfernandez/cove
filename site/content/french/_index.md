@@ -30,12 +30,13 @@ de façon digitale, conformément à la loi suisse et européenne.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< logos-container top=12 bottom=24 width=wide title="Confié par:">}}
-  {{< logos-item src="logos/canon-142w.svg" alt="Canon">}}
-  {{< logos-item src="logos/helvetia-186w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/easyjet-161w.svg" alt="EasyJet">}}
-  {{< logos-item src="logos/kellerhalscarrard-124w.svg" alt="Kellerhals Carrard">}}
-  {{< logos-item src="logos/wincasa-185w.svg" alt="Wincasa">}}
+  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
+  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
