@@ -133,6 +133,20 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=6 bottom=4 text=center width=narrow >}}
+{{% markdown %}}
+&nbsp;
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Thanks to Skribble, we now sign employment contracts and NDAs with the 70 or so external employees, some of whom live abroad, promptly and paper-free at the touch of a button.»
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 ## Always sign with the optimal standard

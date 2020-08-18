@@ -127,6 +127,18 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 {{% /collapsible %}}
 {{< /content >}}
 
+{{< content top=6 bottom=4 text=center width=narrow >}}
+{{% markdown %}}
+&nbsp;
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Dank Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei per Knopfdruck.»
+{{< /testimonial >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=24 text=center width=narrow >}}

@@ -128,6 +128,20 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< content top=6 bottom=4 text=center width=narrow >}}
+{{% markdown %}}
+&nbsp;
+{{% /markdown %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Grâce à Skribble, nous pouvons désormais signer rapidement et sans papier des contrats de travail et des ANP avec les quelque 70 employés externes, dont certains vivent à l'étranger, en appuyant sur un bouton.»
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 Signez toujours 

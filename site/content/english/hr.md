@@ -233,8 +233,8 @@ and get identified**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
-"The electronic signing of documents becomes a core function of trusted digital identities"
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Thanks to Skribble, we now sign employment contracts and NDAs with the 70 or so external employees, some of whom live abroad, promptly and paper-free at the touch of a button. The required double signature and the annual renewal of contracts made the analogue signature process extremely time-consuming and paper-intensive.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

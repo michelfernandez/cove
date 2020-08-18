@@ -218,7 +218,7 @@ den Signaturstandards EES, FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=24 bottom=4 width=narrow >}}
+{{< content text=center top=24 bottom=4width=narrow >}}
 {{% markdown %}}
 ## Lassen Sie sich identifizieren
 Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei.
@@ -241,8 +241,8 @@ aus und lassen Sie sich identifizieren**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
-«Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten»
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Dank Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei per Knopfdruck. Die notwendige Doppelunterschrift und die jährlichen Erneuerung der Verträge machten den analogen Unterschriftsprozess extrem zeitaufwendig und papierlastig.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

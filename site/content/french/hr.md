@@ -245,9 +245,8 @@ et laissez-nous vous identifier**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Fondateur et CEO de Procivis (eID+)" >}}
-"La signature électronique des documents devient une fonction essentielle
-des identités numériques de confiance."
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Grâce à Skribble, nous pouvons désormais signer rapidement et sans papier des contrats de travail et des ANP avec les quelque 70 employés externes, dont certains vivent à l'étranger, en appuyant sur un bouton. La double signature requise et le renouvellement annuel des contrats ont rendu le processus de signature analogique extrêmement long et exigeant en termes de papier.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
