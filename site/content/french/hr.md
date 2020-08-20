@@ -246,7 +246,7 @@ et laissez-nous vous identifier**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Grâce à Skribble, nous pouvons désormais signer rapidement et sans papier des contrats de travail et des ANP avec les quelque 70 employés externes, dont certains vivent à l'étranger, en appuyant sur un bouton. La double signature requise et le renouvellement annuel des contrats ont rendu le processus de signature analogique extrêmement long et exigeant en termes de papier.»
+«L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et lourd en papier. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

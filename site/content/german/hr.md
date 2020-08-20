@@ -242,7 +242,7 @@ aus und lassen Sie sich identifizieren**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Dank Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei per Knopfdruck. Die notwendige Doppelunterschrift und die jährlichen Erneuerung der Verträge machten den analogen Unterschriftsprozess extrem zeitaufwendig und papierlastig.»
+«Mehr Home-Office, regelmässige Erneuerungen der Verträge und die erforderliche Doppelunterschrift machten den analogen Unterschriftsprozess extrem zeitaufwendig und papierlastig. Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
