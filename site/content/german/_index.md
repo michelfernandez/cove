@@ -98,9 +98,9 @@ sparen Sie Zeit im Arbeitsalltag
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
-"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
-den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Mit Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei per Knopfdruck.»
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -135,9 +135,9 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Dank Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei per Knopfdruck.»
-{{< /testimonial >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
+"Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
+den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

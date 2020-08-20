@@ -97,8 +97,9 @@ vous gagnez du temps au travail
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
-"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Nous utilisons désormais Skribble pour signer rapidement et sans papier des contrats de travail et des ANP avec les quelque 70 employés externes, dont certains vivent à l'étranger, en appuyant sur un bouton.»
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -136,9 +137,8 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Grâce à Skribble, nous pouvons désormais signer rapidement et sans papier des contrats de travail et des ANP avec les quelque 70 employés externes, dont certains vivent à l'étranger, en appuyant sur un bouton.»
-{{< /testimonial >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Chef de E-Gouvernement du canton de Fribourg" >}}
+"Grâce à Skribble, nous pouvons numériser les processus administratifs de A à Z. <br class="hide-for-mobile">Cela facilite notre vie quotidienne et celle de nos clients." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

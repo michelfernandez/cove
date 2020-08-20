@@ -101,13 +101,11 @@ you save time at work
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
-"Thanks to Skribble, we can digitize administrative processes from A to Z.
-This makes everyday life easier for
-us and our customers." {{< /testimonial >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"With Skribble we now sign employment contracts and NDAs with the 70 or so external employees, some of whom live abroad, promptly and paper-free at the touch of a button."
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
@@ -141,9 +139,9 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Thanks to Skribble, we now sign employment contracts and NDAs with the 70 or so external employees, some of whom live abroad, promptly and paper-free at the touch of a button.»
-{{< /testimonial >}}
+{{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Head of E-Government, State of Fribourg" >}}
+"Thanks to Skribble, we can digitize administrative processes from A to Z.
+This makes everyday life easier for us and our customers." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

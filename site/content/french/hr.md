@@ -83,6 +83,12 @@ et d'autres solutions sectorielles**
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et lourd en papier. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu.»
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
 ## Avec Skribble, vous répondez aux exigences légales des processus RH
@@ -242,14 +248,6 @@ Cela débloque la norme de signature électronique la plus élevée du marché: 
 et laissez-nous vous identifier**
 {{% /markdown %}}
 {{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et lourd en papier. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu.»
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
