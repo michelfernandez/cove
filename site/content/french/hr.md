@@ -84,7 +84,7 @@ et d'autres solutions sectorielles**
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et lourd en papier. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu.»
+"L’augmentation du télétravail, les renouvellements réguliers des contrats et la double signature requise ont rendu le processus de signature analogique extrêmement long et lourd en papier. Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
