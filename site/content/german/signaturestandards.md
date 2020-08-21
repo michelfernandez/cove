@@ -69,7 +69,7 @@ Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft.
 interner oder informeller Natur mit geringem Haftungsrisiko.
 &nbsp;
 
-**Beispiele:**
+**Beispiele:****
 - Lieferanten-Offerten
 - Bestellungen/Aufträge
 - Organisationsinterne Dokumente
@@ -82,7 +82,7 @@ interner oder informeller Natur mit geringem Haftungsrisiko.
 **Dokumente**
 ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
 
-**Beispiele:**
+**Beispiele:****
 - Mietvertrag 
 - Kaufvertrag
 - Einfacher Arbeitsvertrag
@@ -97,7 +97,7 @@ ohne gesetzliche Formvorschrift mit kalkulierbarem Haftungsrisiko.
 mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko. 
 &nbsp;
 
-**Beispiele:**
+**Beispiele:****
 - Konsumkreditvertrag
 - Leiharbeitsverträge Kader-Arbeitsverträge
 - Revisionsberichte
@@ -105,7 +105,13 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 {{% /markdown %}}
     </td>
   </tr>
-
+  <tr>
+    <th scope="row">
+    </th>
+    <td colspan="3">{{% markdown %}}****Die Wahl des E-Signatur-Standards ist von geltenden Formvorschriften und internen Richtlinien abhängig und kann von den aufgeführten Beispielen abweichen. Konsultieren Sie eine Rechtsberatung für Ihren konkreten Fall.**{{% /markdown %}}</td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 {{< /table >}}
 
