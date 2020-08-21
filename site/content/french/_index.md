@@ -98,7 +98,7 @@ vous gagnez du temps au travail
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Nous utilisons désormais Skribble pour signer rapidement et sans papier des contrats de travail et des ANP avec les quelque 70 employés externes, dont certains vivent à l'étranger, en appuyant sur un bouton."
+"Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
