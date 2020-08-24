@@ -68,7 +68,7 @@ et de force probante.
 **Documents**
 informelles ou internes avec un faible risque de responsabilité.
 
-**Exemples :**
+**Exemples :****
 - Offres des fournisseurs
 - Commandes/ordonnances
 - Documents internes de l'organisation
@@ -82,7 +82,7 @@ informelles ou internes avec un faible risque de responsabilité.
 **Documents**
 sans exigence formelle juridique avec un risque de responsabilité calculable.
 
-**Exemples :**
+**Exemples :****
 - Contrat de location
 - Contrat de vente
 - Contrat de travail simple
@@ -97,7 +97,7 @@ sans exigence formelle juridique avec un risque de responsabilité calculable.
 **Documents**
 avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
-**Exemples :**
+**Exemples :****
 - Contrat de crédit à la consommation
 - Contrats de travail temporaire
 - Contrats de travail de cadres
@@ -106,7 +106,13 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 {{% /markdown %}}
     </td>
   </tr>
-
+  <tr>
+    <th scope="row">
+    </th>
+    <td colspan="3">{{% markdown %}}****Le choix de la norme de signature électronique dépend des exigences formelles applicables et des directives internes et peut différer des exemples donnés. Consultez un conseil juridique pour votre cas précis.**{{% /markdown %}}</td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 {{< /table >}}
 

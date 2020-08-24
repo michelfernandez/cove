@@ -68,7 +68,7 @@ The three standards vary in terms of area of application and legal weight.
 that are informal or internal and have a low liability risk.
 &nbsp;
 
-**Examples:**
+**Examples:****
 - Supplier offer
 - Order
 - Internal document
@@ -80,7 +80,7 @@ that are informal or internal and have a low liability risk.
 **Documents**
 without legal form requirement and with calculable liability risk.
 
-**Examples:**
+**Examples:****
 - Rental agreement
 - Contract of sale
 - Simple employment contract
@@ -94,7 +94,7 @@ without legal form requirement and with calculable liability risk.
 with legal form requirements or high liability risk.
 &nbsp;
 
-**Examples:**
+**Examples:****
 - Consumer credit contract
 - Temporary employment contract
 - Management employment contract
@@ -104,6 +104,13 @@ with legal form requirements or high liability risk.
     </td>
   </tr>
 
+  <tr>
+    <th scope="row">
+    </th>
+    <td colspan="3">{{% markdown %}}****The choice of the e-signature standard depends on applicable formal requirements and internal policies and may differ from the listed examples. Consult a legal advisor for your specific case.**{{% /markdown %}}</td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 {{< /table >}}
 
