@@ -6,42 +6,57 @@ slug: qes-validator
 
 ---
 
-{{< content text=center top=16 bottom=8 width=narrow >}}
+{{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
-# So prüfen Sie, ob Ihr Dokument <br class="hide-for-mobile">mit der QES signiert wurde
-Mit dem Validator der Schweizer Bundesverwaltung können Sie prüfen,
-ob Ihr Dokument mit einer qualifizierten elektronischen Signatur (QES)
-nach Schweizer Recht signiert wurde.*
+# So prüfen Sie, ob Ihr Dokument mit der QES signiert wurde
+Machen Sie den Gültigkeit-Check mit einem unabhängigen Validator.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< picture "qes-pruefen" 474 "Ein Mann lädt ein Dokument in den Validator der Schweizer Bundesverwaltung" >}}
+{{< content width=wide display=flex >}}
 
-{{< content top=6 width=narrow >}}
-{{% markdown %}}
-<small>* funktioniert für QES nach Schweizer Recht, nicht aber nach EU-Recht (eIDAS).</small>
-#### So gehen Sie vor:
-1. **Wählen Sie den Dokument-Typ:**
-Der eigenhändigen Unterschrift gleichgestellte
-qualifizierte elektronische Signatur
-2. **Laden Sie Ihr Dokument hoch**
-3. **Klicken Sie auf Prüfen**
-{{% /markdown %}}
-{{< /content >}}
-
-{{< cta-group >}}
-{{< cta
-  label="Zum QES-Validator"
-  href="https://www.e-service.admin.ch/validator/upload/all/de"
-  target="_blank"
-  outlined="true"
+{{< plan
+  white
+  "EU-Validator"
+  "Für Signaturen nach Europa-Recht"
+  "Zum EU-Validator (eIDAS)"
+  "https://www.signatur.rtr.at/de/vd/Pruefung.html"
+  "_blank"
+  "outline"
 >}}
-{{< picture "ch-logo" 122 >}}
-{{% markdown %}}
-**Ein Service der Schweizer Bundesverwaltung**
-{{% /markdown %}}
-{{< /cta >}}
 
+{{< picture eu-validator 590 "Eine Man mit einer grossen Luppe prüft ein Dokument ob die Signaturen nach Europa-Recht in Ordnung sind." >}}
+
+{{% markdown %}}
+Wir empfehlen den QES-Validator der österreichischen Rundfunk und Telekom Regulierungs-GmbH.
+
+Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach EU-Recht (eIDAS) signiert wurde.
+{{% /markdown %}}
+{{% /plan %}}
+
+{{< plan
+  white
+  "CH-Validator"
+  "Für Signaturen nach Schweizer Recht"
+  "Zum CH-Validator (ZertES)"
+  "https://www.e-service.admin.ch/validator/upload/all/de"
+  "_blank"
+  "outline"
+>}}
+
+{{< picture ch-validator 590 "Eine Man mit einer grossen Luppe prüft ein Dokument ob die Signaturen nach Schweizer-Recht in Ordnung sind." >}}
+
+{{% markdown %}}
+Wir empfehlen den QES-Validator der Eidgenössischen Schweizer Bundesverwaltung.
+
+Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach Schweizer Recht (ZertES) signiert wurde.
+{{% /markdown %}}
+{{% /plan %}}
+{{< /content >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=8 bottom=8 width=narrow >}}
 {{< cta
   label="Mehr erfahren"
   href="de/signaturstandards"
@@ -50,11 +65,10 @@ qualifizierte elektronische Signatur
 >}}
 {{< picture "qes-erklaert" 122 >}}
 {{% markdown %}}
-**Was ist die qualifizierte
-elektronische Signatur (QES)?**
+**Was ist die qualifizierte elektronische Signatur (QES)?**
 {{% /markdown %}}
 {{< /cta >}}
-{{< /cta-group >}}
+{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
