@@ -71,6 +71,13 @@ Stay with familiar tools: sign directly via your browser or from your existing s
 {{% /markdown %}}
 {{< /side-by-side >}}
 
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Moving towards more remote work, regular contract renewals and dual signature requirements resulted in an extremely time-consuming signing process built around a lot of paperwork. Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place.»
+{{< /testimonial >}}
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=12 width=narrow >}}
@@ -231,15 +238,7 @@ and get identified**
 {{% /markdown %}}
 {{< /cta >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, founder and CEO of Procivis (eID+)" >}}
-"The electronic signing of documents becomes a core function of trusted digital identities"
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## All clear?
 {{% /markdown %}}

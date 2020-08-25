@@ -80,9 +80,15 @@ Bei gewohnten Tools bleiben: Signieren Sie direkt über den Browser oder aus Ihr
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"Mehr Home-Office, regelmässige Erneuerungen der Verträge und die erforderliche Doppelunterschrift machten den analogen Unterschriftsprozess extrem zeitaufwendig und papierlastig. Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllen Sie <br class="hide-for-mobile">die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
+## Mit Skribble erfüllen Sie die rechtlichen Anforderungen <br class="hide-for-mobile">an HR-Prozesse
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -218,7 +224,7 @@ den Signaturstandards EES, FES und QES wählen.**
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< content text=center top=24 bottom=4 width=narrow >}}
+{{< content text=center top=24 bottom=4width=narrow >}}
 {{% markdown %}}
 ## Lassen Sie sich identifizieren
 Damit schalten Sie den höchsten verfügbaren E-Signatur-Standard QES frei.
@@ -239,15 +245,7 @@ aus und lassen Sie sich identifizieren**
 {{% /markdown %}}
 {{< /cta >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/procivis-146w.png" "Daniel Gasteiger, Gründer und CEO von Procivis (eID+)" >}}
-«Das elektronische Signieren von Dokumenten wird eine Kernfunktion vertrauenswürdiger digitaler Identitäten»
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Alles klar?
 {{% /markdown %}}
