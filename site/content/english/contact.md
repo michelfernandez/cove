@@ -14,7 +14,7 @@ map:
       picture:
         name: map-zurich
         alt: Map of office location in Zurich
-        url: https://g.page/skribblehq?share
+        url: https://goo.gl/maps/fSxeiZCpQFAFpFc79
       address:
         title: Skribble AG
         full: |
@@ -36,7 +36,7 @@ map:
       picture:
         name: map-karlsruhe
         alt: Map of office location in Karlsruhe
-        url: https://g.page/skribble-ettlingen?share
+        url: https://goo.gl/maps/QpFrgjexRuNYpzm29
       address:
         title: Skribble Deutschland GmbH
         full: |
