@@ -65,7 +65,7 @@ This checks whether a document has been successfully signed via scribble with a 
 
 {{< content text=left width=narrow >}}
 {{% collapsible 10 "What is the qualified electronic signature (QES)?" %}}
-The law distinguishes between the qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES). The three standards vary in terms of area of application and legal weight. Learn more about them under: http://skribble.com/de/signaturstandards/
+The law distinguishes between the qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES). The three standards vary in terms of area of application and legal weight. Learn more about them under: https://www.skribble.com/signaturestandards/
 {{% /collapsible %}}
 
 {{% collapsible 11 "Under which law was my document signed?" %}}
