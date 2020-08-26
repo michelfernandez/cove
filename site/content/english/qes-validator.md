@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{< content text=center top=16 bottom=20 width=narrow >}}
+{{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
 # To verify that your document has been signed with the QES
 Do the validity check with an independent validator.

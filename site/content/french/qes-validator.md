@@ -6,7 +6,7 @@ slug: validateur-seq
 
 ---
 
-{{< content text=center top=16 bottom=20 width=narrow >}}
+{{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Pour vérifier que votre document a été signé avec le SEQ
 Faites le contrôle de validité avec un validateur indépendant.

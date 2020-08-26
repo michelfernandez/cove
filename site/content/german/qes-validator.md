@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{< content text=center top=16 bottom=20 width=narrow >}}
+{{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
 # So prüfen Sie, ob Ihr Dokument mit der QES signiert wurde
 Machen Sie den Gültigkeit-Check mit einem unabhängigen Validator.
