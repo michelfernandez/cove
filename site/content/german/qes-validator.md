@@ -6,7 +6,7 @@ slug: qes-validator
 
 ---
 
-{{< content text=center top=16 bottom=12 width=narrow >}}
+{{< content text=center top=16 bottom=20 width=narrow >}}
 {{% markdown %}}
 # So prüfen Sie, ob Ihr Dokument mit der QES signiert wurde
 Machen Sie den Gültigkeit-Check mit einem unabhängigen Validator.
@@ -56,18 +56,23 @@ Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=8 bottom=8 width=narrow >}}
-{{< cta
-  label="Mehr erfahren"
-  href="de/signaturstandards"
-  target=""
-  outlined="true"
->}}
-{{< picture "qes-erklaert" 122 >}}
+
+{{< content text=center top=20 bottom=8 width=narrow >}}
 {{% markdown %}}
-**Was ist die qualifizierte elektronische Signatur (QES)?**
+## Alles klar?
 {{% /markdown %}}
-{{< /cta >}}
+{{< /content >}}
+
+{{< content text=left width=narrow >}}
+{{% collapsible 10 "Was ist die qualifizierte elektronische Signatur (QES)?" %}}
+Das Gesetz unterscheidet zwischen der qualifizierten E-Signatur (QES),
+der fortgeschrittenen E-Signatur (FES) und der einfachen E-Signatur (EES).
+Die drei Standards variieren punkto Einsatzgebiet und Beweiskraft. Erfahren sie mehr unter: http://skribble.com/de/signaturstandards/
+{{% /collapsible %}}
+
+{{% collapsible 11 "Nach welchem Recht wurde mein Dokument signiert?" %}}
+Der Rechtsraum wird beim Versenden der Signatur-Einladung gewählt und ist auf der visuellen Signatur des signierten Dokuments ersichtlich. 
+{{% /collapsible %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
