@@ -18,8 +18,8 @@ Machen Sie den Gültigkeit-Check mit einem unabhängigen Validator.
 {{< plan
   white
   "EU-Validator"
-  "Für Signaturen nach Europa-Recht"
-  "Zum EU-Validator (eIDAS)"
+  "Für Signaturen nach Europa-Recht (eIDAS)"
+  "Zum EU-Validator"
   "https://www.signatur.rtr.at/de/vd/Pruefung.html"
   "_blank"
   "outline"
@@ -30,15 +30,15 @@ Machen Sie den Gültigkeit-Check mit einem unabhängigen Validator.
 {{% markdown %}}
 Wir empfehlen den QES-Validator der österreichischen Rundfunk und Telekom Regulierungs-GmbH.
 
-Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach EU-Recht (eIDAS) signiert wurde.
+Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach *EU-Recht (eIDAS)* signiert wurde.
 {{% /markdown %}}
 {{% /plan %}}
 
 {{< plan
   white
   "CH-Validator"
-  "Für Signaturen nach Schweizer Recht"
-  "Zum CH-Validator (ZertES)"
+  "Für Signaturen nach Schweizer Recht (ZertES)"
+  "Zum CH-Validator"
   "https://www.e-service.admin.ch/validator/upload/all/de"
   "_blank"
   "outline"
@@ -49,7 +49,7 @@ Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten
 {{% markdown %}}
 Wir empfehlen den QES-Validator der Eidgenössischen Schweizer Bundesverwaltung.
 
-Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach Schweizer Recht (ZertES) signiert wurde.
+Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach *Schweizer Recht (ZertES)* signiert wurde.
 {{% /markdown %}}
 {{% /plan %}}
 {{< /content >}}
