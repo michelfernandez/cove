@@ -18,7 +18,7 @@ Machen Sie den Gültigkeit-Check mit einem unabhängigen Validator.
 {{< plan
   white
   "EU-Validator"
-  "Für Signaturen nach Europa-Recht (eIDAS)"
+  "Für Signaturen nach EU-Recht (eIDAS)"
   "Zum EU-Validator"
   "https://www.signatur.rtr.at/de/vd/Pruefung.html"
   "_blank"
