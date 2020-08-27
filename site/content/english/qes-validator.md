@@ -1,5 +1,5 @@
 ---
-title: Check whether a document has been signed with QES
+title: Check whether a document was signed with QES
 description: The Validator service of the Swiss Federal Administration allows you to check whether your document has been signed with a qualified electronic signature (QES).
 draft: false
 slug: qes-validator
@@ -8,8 +8,8 @@ slug: qes-validator
 
 {{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
-# To verify that your document has been signed with the QES
-Do the validity check with an independent validator.
+# Check whether a document has been signed with QES
+Do a validity check with an independent validator.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -30,7 +30,7 @@ Do the validity check with an independent validator.
 {{% markdown %}}
 We recommend the QES validator of the Austrian Rundfunk und Telekom Regulierungs-GmbH.
 
-This checks whether a document was successfully signed via scribble with a qualified electronic signature (QES) according to *EU law (eIDAS)*.
+It checks whether a document was successfully signed via Skribble with a qualified electronic signature (QES) according to *EU law (eIDAS)*.
 {{% /markdown %}}
 {{% /plan %}}
 
@@ -49,7 +49,7 @@ This checks whether a document was successfully signed via scribble with a quali
 {{% markdown %}}
 We recommend the QES Validator of the Swiss Federal Administration.
 
-This checks whether a document has been successfully signed via scribble with a qualified electronic signature (QES) according to *Swiss law (ZertES)*.
+It checks whether a document was successfully signed via Skribble with a qualified electronic signature (QES) according to *Swiss law (ZertES)*.
 {{% /markdown %}}
 {{% /plan %}}
 {{< /content >}}
@@ -59,7 +59,7 @@ This checks whether a document has been successfully signed via scribble with a 
 
 {{< content text=center top=20 bottom=8 width=narrow >}}
 {{% markdown %}}
-## All right?
+## Questions?
 {{% /markdown %}}
 {{< /content >}}
 
@@ -69,7 +69,7 @@ The law distinguishes between the qualified electronic signature (QES), the adva
 {{% /collapsible %}}
 
 {{% collapsible 11 "Under which law was my document signed?" %}}
-The legal space is selected when sending the signature invitation and is visible on the visual signature of the signed document. 
+The jurisdiction is selected when sending the signature invitation and is visible on the visual signature of the signed document. 
 {{% /collapsible %}}
 {{< /content >}}
 
