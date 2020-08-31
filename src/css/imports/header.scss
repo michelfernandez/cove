@@ -87,7 +87,7 @@
   }
 
   &__nav {
-    @include max-width-md {
+    @include max-width-mobile-navigation {
       display: none;
     }
 
@@ -124,6 +124,17 @@
       color: $c-primary;
     }
 
+    + .header__link {
+      margin-left: 10px;
+      &:before {
+        width: 1px;
+        height: 42px;
+        padding-right: 20px;
+        border-left: 1px solid $c-border;
+        content: '';
+      }
+    }
+
     + .btn {
       margin-left: 20px;
     }
@@ -149,7 +160,7 @@
     margin-left: -10px;
     margin-right: 10px;
     box-sizing: content-box;
-    @include min-width-lg {
+    @include min-width-desktop-navigation {
       display: none;
     }
 

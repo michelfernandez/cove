@@ -156,6 +156,9 @@ languages:
           weight: 20
 
     header:
+      contactSales: 
+        label: Sales kontaktieren
+        href: 
       login:
         label: Login
         href: https://my.skribble.com/login?lang=de
@@ -333,6 +336,9 @@ languages:
           weight: 20
 
     header:
+      contactSales: 
+        label: Contact sales
+        href: 
       login:
         label: Login
         href: https://my.skribble.com/login
@@ -510,6 +516,9 @@ languages:
           weight: 20
 
     header:
+      contactSales: 
+        label: Contacter les ventes
+        href: 
       login:
         label: Login
         href: https://my.skribble.com/login?lang=fr
