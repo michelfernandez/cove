@@ -61,10 +61,6 @@ languages:
         - name: Preise
           url: "/de/preise/"
           weight: 20
-        # Kontakt
-        - name: Kontakt
-          url: "/de/kontakt/"
-          weight: 25
       footer1:
         - name: Features
           url: /de/features/
@@ -164,25 +160,25 @@ languages:
         label: Login
         href: https://my.skribble.com/login?lang=de
       tryItOut:
-        label: Jetzt ausprobieren
+        label: Direkt loslegen
         href: https://my.skribble.com/signup?lang=de
       makeAnAppointment:
         label: Jetzt Termin vereinbaren
         href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       leftSlot:
-        title: Beweiskraft erhöhen?
-        text: Lassen Sie sich identifizieren und schalten Sie einen höheren E-Signatur-Standard frei.
+        title: Identifizieren lassen?
+        text: Lassen Sie sich für einen höheren E-Signatur-Standard (QES) freischalten.
         button:
-          label: Beweiskraft erhöhen
-          href: /de/beweiskraft-erhoehen/
-          target:
+          label: Identifizieren lassen
+          href: https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws
+          target: _blank
       rightSlot:
-        title: Kontakt aufnehmen?
-        text: Gerne beantworten wir Ihre Fragen im persönlichen Kontakt.
+        title: Haben sie Fragen zu Skribble?
+        text: Wir helfen ihnen gerne weiter, um ihre Fragen zu beantworten.
         button:
-          label: Telefonat vereinbaren
-          href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
+          label: Kontakt aufnehmen
+          href: https://share.hsforms.com/1_O5JpbKXTxKeXoQFnf6Obw309ws
           target: _blank
       navigation:
         titleColumn1: Plattform
@@ -242,10 +238,6 @@ languages:
         - name: Pricing
           url: "/pricing/"
           weight: 20
-        # Contact
-        - name: Contact
-          url: "/Contact/"
-          weight: 25
       footer1:
         - name: Features
           url: /features/
@@ -352,18 +344,18 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Want to increase the legal weight?
-        text: Get identified and unlock a higher e-signature standard.
+        title: Get it identified?
+        text: Get unlocked for a higher e-signature standard (QES).
         button:
-          label: Increase legal weight
-          href: /increase-legal-weight/
-          target:
+          label: Getting Identified
+          href: https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws
+          target: _blank
       rightSlot:
-        title: Want to get in touch?
-        text: Skribble will be glad to contact you to answer your questions.
+        title: Do you have questions about Skribble?
+        text: We are happy to help you to answer your questions.
         button:
-          label: Arrange a call
-          href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
+          label: Get in touch
+          href: https://share.hsforms.com/1dmhPMWbMQMWQ_bkUfoU2TQ309ws
           target: _blank
       navigation:
         titleColumn1: Platform
@@ -423,10 +415,6 @@ languages:
         - name: Tarifs
           url: "/fr/tarifs/"
           weight: 25
-        # Contact
-        - name: Contact
-          url: "/fr/Contact/"
-          weight: 35
       footer1:
         - name: Fonctionnalités
           url: /fr/fonctionnalites/
@@ -533,18 +521,18 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: Augmenter la force probante?
-        text: Identifiez-vous et débloquez une norme de signature électronique plus élevée.
+        title: A-t-il été identifié ?
+        text: Obtenez une activation pour une norme de signature électronique (SEQ) plus élevée.
         button:
-          label: Augmenter la force probante
-          href: /fr/augmenter-force-probante/
-          target:
+          label: L'identifier
+          href: https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws
+          target: _blank
       rightSlot:
-        title: Entrer en contact?
-        text: Nous nous ferons un plaisir de vous contacter pour répondre à vos questions.
+        title: Vous avez des questions sur le Skribble ?
+        text: Nous sommes heureux de vous aider à répondre à vos questions.
         button:
-          label: Organiser un appel
-          href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
+          label: Contacter
+          href: https://share.hsforms.com/1-z4iAJzNRMCcmOt9MeTxmg309ws
           target: _blank
       navigation:
         titleColumn1: Plateforme
