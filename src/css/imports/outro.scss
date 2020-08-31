@@ -28,9 +28,10 @@
   }
 
   &__body {;
-    max-width: 606px;
+    max-width: 100%;
     text-align: center;
     @include min-width {
+      max-width: 606px;
       flex: 1 1 100%;
       padding: 0 40px;
     }
