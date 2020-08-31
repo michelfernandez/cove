@@ -171,8 +171,8 @@ languages:
         text: Lassen Sie sich für einen höheren E-Signatur-Standard (QES) freischalten.
         button:
           label: Identifizieren lassen
-          href: https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws
-          target: _blank
+          href: /de/identifikation/
+          target:
       rightSlot:
         title: Haben sie Fragen zu Skribble?
         text: Wir helfen ihnen gerne weiter, um ihre Fragen zu beantworten.
@@ -348,8 +348,8 @@ languages:
         text: Get unlocked for a higher e-signature standard (QES).
         button:
           label: Getting Identified
-          href: https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws
-          target: _blank
+          href: /identification/
+          target:
       rightSlot:
         title: Do you have questions about Skribble?
         text: We are happy to help you to answer your questions.
@@ -525,8 +525,8 @@ languages:
         text: Obtenez une activation pour une norme de signature électronique (SEQ) plus élevée.
         button:
           label: L'identifier
-          href: https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws
-          target: _blank
+          href: /fr/identification/
+          target:
       rightSlot:
         title: Vous avez des questions sur le Skribble ?
         text: Nous sommes heureux de vous aider à répondre à vos questions.

@@ -22,16 +22,16 @@ map:
           CH-8001 Zurich
         email: info@skribble.com
         phone: 
-          title: Phone
+          title: Phone with support?
           text: "+41 44 505 16 64"
         opening_hours:
           title: Opening hours
           text: From 9 to 17
         contact_form:
-          title: Contact 
+          title: Questions for Sales? 
           link:
-            label: Contact by form
-            href: https://help.skribble.com/kb-tickets/new
+            label: Contact sales
+            href: https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws
     - title: Karlsruhe (Ettlingen)
       picture:
         name: map-karlsruhe
