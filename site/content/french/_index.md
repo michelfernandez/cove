@@ -77,7 +77,13 @@ Signez par simple pression d'un bouton, indépendamment de l'heure et du lieu, d
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 text=center width=narrow >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
 En signant avec Skribble, 
 vous gagnez du temps au travail
@@ -98,8 +104,8 @@ vous gagnez du temps au travail
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
+{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
+"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -234,54 +240,6 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 **Sur Skribble, vous pouvez choisir entre les normes de signature SEQ, SEA et SES.**
 {{% /markdown %}}
 {{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
-"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=20 width=narrow >}}
-{{% markdown %}}
-Plus de force probante 
-en quelques clics
-===============
-{{% /markdown %}}
-{{< /content >}}
-
-{{< content top=4 bottom=24 width=narrow display=flex >}}
-{{< step >}}
-{{< picture "video-ident" 250 "Une loupe agrandit l'image d'un homme dans un passeport." >}}
-{{% markdown %}}
-**Identification vidéo**
-Déverrouillez la signature électronique qualifiée (SEQ) depuis votre domicile en vous identifiant en ligne par appel vidéo.
-{{% /markdown %}}
-<br>
-{{< button
-  "En savoir plus"
-  "/fr/debloquez-seq/"
-  ""
-  "outline">}}
-{{< /step >}}
-
-{{< step >}}
-{{< picture "aes-for-biz-home-id" 280 "Une grande flèche, un clic sur une organisation, un immeuble de grande hauteur." >}}
-{{% markdown %}}
-**Implémentation à toute l'organisation**
-Déverrouillez la signature électronique avancée (SEA) pour l'ensemble de votre personnel en quelques jours seulement.
-{{% /markdown %}}
-<br>
-{{< button
-  "En savoir plus"
-  "/fr/identification/sea-pour-business/"
-  ""
-  "outline">}}
-{{< /step >}}
-
-
-{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

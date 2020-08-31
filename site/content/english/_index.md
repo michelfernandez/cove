@@ -82,7 +82,13 @@ Sign at the push of a button, independent of time and place, legally valid accor
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"With Skribble we now sign employment contracts and NDAs with the 70 or so external employees, some of whom live abroad, promptly and paper-free at the touch of a button."
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
 If you sign with Skribble 
 you save time at work
@@ -103,8 +109,8 @@ you save time at work
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"With Skribble we now sign employment contracts and NDAs with the 70 or so external employees, some of whom live abroad, promptly and paper-free at the touch of a button."
+{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer of Helvetia Schweiz" >}}
+"At Helvetia, we require 'wet' signatures in many areas; in life insurance, for example, but also in internal processes. With Skribble, we are able to completely digitalise these processes."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -233,52 +239,6 @@ with legal form requirements or high liability risk.
 **On Skribble you can choose between the signature standards QES, AES and SES.**
 {{% /markdown %}}
 {{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer of Helvetia Schweiz" >}}
-"At Helvetia, we require 'wet' signatures in many areas; in life insurance, for example, but also in internal processes. With Skribble, we are able to completely digitalise these processes."
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=20 width=narrow >}}
-{{% markdown %}}
-More legal weight 
-with just a few clicks
-===============
-{{% /markdown %}}
-{{< /content >}}
-
-{{< content top=4 bottom=24 width=narrow display=flex >}}
-{{< step >}}
-{{< picture "video-ident" 250 "A magnifying glass enlarges the image of a man in a passport." >}}
-{{% markdown %}}
-**Online identification**
-Enable the qualified electronic signature (QES) from home by getting yourself identified via video-call.
-{{% /markdown %}}
-<br>
-{{< button
-  "Learn more"
-  "/enable-qes/"
-  ""
-  "outline">}}
-{{< /step >}}
-
-{{< step >}}
-{{< picture "aes-for-biz-home-id" 280 "A big arrow, clicking on an organization, a high-rise building." >}}
-{{% markdown %}}
-**Organisation-wide implementation**
-Enable the advanced electronic signature (AES) for your entire staff within just a few days.
-{{% /markdown %}}
-<br>
-{{< button
-  "Learn more"
-  "/identification/aes-for-business/"
-  ""
-  "outline">}}
-{{< /step >}}
-{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

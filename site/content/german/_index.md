@@ -78,9 +78,17 @@ und EU-Recht.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
+
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content top=12 bottom=6 text=center width=narrow >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Mit Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei auf Knopfdruck.»
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
+{{< content top=20 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
 Signieren Sie mit Skribble, 
 sparen Sie Zeit im Arbeitsalltag
@@ -100,9 +108,10 @@ sparen Sie Zeit im Arbeitsalltag
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Mit Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei auf Knopfdruck.»
+{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
+"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
 {{< /testimonial >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -236,51 +245,6 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 {{% /markdown %}}
 {{< /cta >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
-"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=20 width=narrow >}}
-{{% markdown %}}
-Mit wenigen Klicks 
-zu mehr Beweiskraft 
-===============
-{{% /markdown %}}
-{{< /content >}}
-
-{{< content top=4 bottom=18 width=narrow display=flex >}}
-{{< step >}}
-{{< picture "video-ident" 250 "Eine lupe vergrößert das bild eines mannes in einem pass." >}}
-{{% markdown %}}
-**Video-Identifikation**
-Schalten Sie die qualifizierte elektronische Signatur (QES) von zu Hause aus frei, in dem Sie sich via Video-Call identifizieren lassen.
-{{% /markdown %}}
-<br>
-{{< button
-  "Mehr erfahren"
-  "/de/qes-freischalten/"
-  ""
-  "outline">}}
-{{< /step >}}
-
-{{< step >}}
-{{< picture "aes-for-biz-home-id" 280 "Ein grosser Pfeil, wie er eine Organsation, ein Hochhaus anklickt." >}}
-{{% markdown %}}
-**Organisationsweite Einführung**
-Schalten Sie die fortgeschrittene elektronische Signatur (FES) innert weniger Tage für die gesamte Mitarbeiterschaft frei.
-{{% /markdown %}}
-<br>
-{{< button
-  "Mehr erfahren"
-  "/de/identifikation/fes-fuer-business/"
-  ""
-  "outline">}}
-{{< /step >}}
-{{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
