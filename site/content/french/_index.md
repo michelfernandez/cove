@@ -17,19 +17,20 @@ Réaliser vos processus de signature simplement et
 de façon digitale, conformément à la loi suisse et européenne.
 {{% /markdown %}}
 {{< button
-  "Essayer maintenant"
+  "Commencez tout de suite"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< intro-partner
-  "image/swisscom.png"
-  "Basé sur les certificats de signature de Swisscom"
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
 >}}
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=8 bottom=24 width=wide title="Trusted by:">}}
+{{< logos-container top=8 bottom=24 width=wide title="Plus de 200 entreprises internationales ont confié à Skribble plus de 30 000 documents :">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
@@ -308,8 +309,18 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Essayer maintenant"
+  "Commencez tout de suite"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+>}}
+{{< content top=6 >}}
+{{% markdown center %}}
+2 signatures par mois sont gratuites.
+{{% /markdown %}}
+{{< /content >}}
 {{< /outro >}}

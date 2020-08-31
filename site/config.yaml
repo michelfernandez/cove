@@ -337,7 +337,7 @@ languages:
         label: Login
         href: https://my.skribble.com/login
       tryItOut:
-        label: Try it now
+        label: Get started
         href: https://my.skribble.com/signup
       makeAnAppointment:
         label: Make an appointment
@@ -514,7 +514,7 @@ languages:
         label: Login
         href: https://my.skribble.com/login?lang=fr
       tryItOut:
-        label: Essayer maintenant
+        label: Commencez tout de suite
         href: https://my.skribble.com/signup?lang=fr
       makeAnAppointment:
         label: Fixer un rendez-vous

@@ -17,19 +17,21 @@ Signaturprozesse einfach digital abwickeln –
 rechtsgültig nach dem Schweizer & EU Gesetz.
 {{% /markdown %}}
 {{< button
-  "Jetzt ausprobieren"
+  "Direkt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< intro-partner
-  "image/swisscom.png"
-  "Basierend auf Signaturzertifikaten der Swisscom"
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
 >}}
+
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=8 bottom=24 width=wide title="Trusted by:">}}
+{{< logos-container top=8 bottom=24 width=wide title="Mehr als 200 internationale Unternehmen vertrauten Skribble mehr als 30’000 Dokumente an:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
@@ -308,8 +310,18 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt ausprobieren"
+  "Direkt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+>}}
+{{< content top=6 >}}
+{{% markdown center %}}
+2 Signaturen sind monatlich kostenlos.
+{{% /markdown %}}
+{{< /content >}}
 {{< /outro >}}

@@ -21,19 +21,21 @@ Easily handle digital signature processes –
 legally binding in accordance with Swiss & EU law.
 {{% /markdown %}}
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup"
   "_blank"
 >}}
-{{< intro-partner
-  "image/swisscom.png"
-  "Based on signature certificates issued by Swisscom"
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
 >}}
+
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=8 bottom=24 width=wide title="Trusted by:">}}
+{{< logos-container top=8 bottom=24 width=wide title="More than 200 international companies entrusted more than 30,000 documents to Skribble:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
@@ -303,8 +305,18 @@ No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+>}}
+{{< content top=6 >}}
+{{% markdown center %}}
+2 signatures are free of charge every month.
+{{% /markdown %}}
+{{< /content >}}
 {{< /outro >}}
