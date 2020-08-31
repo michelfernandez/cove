@@ -276,6 +276,7 @@ ou engagement n'est requis.
   "Contacter les ventes"
   "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
+  outline
 >}}
 {{< content top=6 >}}
 {{% markdown center %}}

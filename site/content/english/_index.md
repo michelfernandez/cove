@@ -274,6 +274,7 @@ No credit card, entrance fee or commitment required.
   "Contact Sales"
   "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
+  outline
 >}}
 {{< content top=6 >}}
 {{% markdown center %}}

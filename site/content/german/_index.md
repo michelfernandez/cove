@@ -283,6 +283,7 @@ Verpflichtung erforderlich.
   "Sales kontaktieren"
   "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
+  outline
 >}}
 {{< content top=6 >}}
 {{% markdown center %}}
