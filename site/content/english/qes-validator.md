@@ -9,7 +9,7 @@ slug: qes-validator
 {{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
 # Check whether a document has been signed with QES
-Do a validity check with an independent validator.
+Perform a validity check with an independent validator.
 {{% /markdown %}}
 {{< /content >}}
 
