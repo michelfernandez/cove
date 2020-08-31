@@ -30,7 +30,7 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=8 bottom=24 width=wide title="Plus de 200 entreprises internationales ont confié à Skribble plus de 30 000 documents :">}}
+{{< logos-container top=12 bottom=24 width=wide title="Plus de 200 entreprises internationales ont confié à Skribble plus de 30 000 documents :">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}

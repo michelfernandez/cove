@@ -35,7 +35,7 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=8 bottom=24 width=wide title="More than 200 international companies entrusted more than 30,000 documents to Skribble:">}}
+{{< logos-container top=12 bottom=24 width=wide title="More than 200 international companies entrusted more than 30,000 documents to Skribble:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}

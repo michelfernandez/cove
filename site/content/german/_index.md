@@ -31,7 +31,7 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=8 bottom=24 width=wide title="Mehr als 200 internationale Unternehmen vertrauten Skribble mehr als 30’000 Dokumente an:">}}
+{{< logos-container top=12 bottom=24 width=wide title="Mehr als 200 internationale Unternehmen vertrauten Skribble mehr als 30’000 Dokumente an:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
