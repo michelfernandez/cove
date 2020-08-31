@@ -29,6 +29,7 @@ legally binding in accordance with Swiss & EU law.
   "Contact Sales"
   "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
+  outline
 >}}
 
 {{< /intro >}}

@@ -25,6 +25,7 @@ de façon digitale, conformément à la loi suisse et européenne.
   "Contacter les ventes"
   "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
+  outline
 >}}
 {{< /intro >}}
 
