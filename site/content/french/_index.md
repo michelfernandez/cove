@@ -250,7 +250,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=20 bottom=18 title="Connu depuis les médias:">}}
+{{< logos-container top=20 bottom=18 title="Plus de 50 médias ont déjà fait des reportages sur Skribble :">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

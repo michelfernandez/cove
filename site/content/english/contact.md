@@ -21,8 +21,10 @@ map:
           Fraumünsterstrasse 16
           CH-8001 Zurich
         email:
-          title: Email 
-          text: info@skribble.com
+          title: E-mail to support?
+          link:
+            label: Contact support
+            href: https://share.hsforms.com/1dmhPMWbMQMWQ_bkUfoU2TQ309ws
         phone: 
           title: Phone with support?
           text: "+41 44 505 16 64"
@@ -45,8 +47,10 @@ map:
           Pforzheimer Str. 128A
           DE-76275 Ettlingen
         email:
-          title: Email 
-          text: info@skribble.com
+          title: E-mail 
+          link:
+            label: info@skribble.com
+            href: "mailto:info@skribble.com"
         opening_hours:
           title: Opening hours
           text: From 9 to 17

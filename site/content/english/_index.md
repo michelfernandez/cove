@@ -249,7 +249,7 @@ with legal form requirements or high liability risk.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=20 bottom=18 title="Skribble in the media:">}}
+{{< logos-container top=20 bottom=18 title="More than 50 media have already reported on Skribble:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}
