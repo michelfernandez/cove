@@ -17,7 +17,7 @@ Réaliser vos processus de signature simplement et
 de façon digitale, conformément à la loi suisse et européenne.
 {{% /markdown %}}
 {{< button
-  "Commencez tout de suite"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
@@ -268,7 +268,7 @@ ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Commencez tout de suite"
+  "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}

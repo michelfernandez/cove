@@ -158,7 +158,7 @@ languages:
     header:
       contactSales: 
         label: Sales kontaktieren
-        href: 
+        href: https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws
       login:
         label: Login
         href: https://my.skribble.com/login?lang=de
@@ -338,7 +338,7 @@ languages:
     header:
       contactSales: 
         label: Contact sales
-        href: 
+        href: https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws
       login:
         label: Login
         href: https://my.skribble.com/login
@@ -518,12 +518,12 @@ languages:
     header:
       contactSales: 
         label: Contacter les ventes
-        href: 
+        href: https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws
       login:
         label: Login
         href: https://my.skribble.com/login?lang=fr
       tryItOut:
-        label: Commencez tout de suite
+        label: Démarrer
         href: https://my.skribble.com/signup?lang=fr
       makeAnAppointment:
         label: Fixer un rendez-vous
