@@ -286,8 +286,8 @@ Verpflichtung erforderlich.
   outline
 >}}
 {{< content top=6 >}}
-{{% markdown center %}}
-2 Signaturen sind monatlich kostenlos.
-{{% /markdown %}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen sind monatlich kostenlos.{{% /small %}} 
+{{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
