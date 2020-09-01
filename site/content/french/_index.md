@@ -279,8 +279,8 @@ ou engagement n'est requis.
   outline
 >}}
 {{< content top=6 >}}
-{{% markdown center %}}
-2 signatures par mois sont gratuites.
-{{% /markdown %}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
