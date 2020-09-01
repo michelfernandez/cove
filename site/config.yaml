@@ -523,7 +523,7 @@ languages:
         label: Login
         href: https://my.skribble.com/login?lang=fr
       tryItOut:
-        label: Commencez tout de suite
+        label: Démarrer
         href: https://my.skribble.com/signup?lang=fr
       makeAnAppointment:
         label: Fixer un rendez-vous
