@@ -20,7 +20,9 @@ map:
         full: |
           Fraumünsterstrasse 16
           CH-8001 Zürich
-        email: info@skribble.com
+        email:
+          title: Email 
+          text: info@skribble.com
         phone: 
           title: Telefon mit Support?
           text: "+41 44 505 16 64"
@@ -42,7 +44,9 @@ map:
         full: |
           Pforzheimer Str. 128
           DE-76275 Ettlingen
-        email: info@skribble.com
+        email:
+          title: Email 
+          text: info@skribble.com
         opening_hours:
           title: Öffnungszeiten
           text: 9 bis 17 Uhr
