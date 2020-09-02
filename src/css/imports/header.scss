@@ -123,6 +123,9 @@
     &:hover {
       color: $c-primary;
     }
+    &--sales .icon {
+      margin-right: 6px;
+    }
 
     + .header__link {
       margin-left: 10px;
