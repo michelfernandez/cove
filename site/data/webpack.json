@@ -4,7 +4,7 @@
     "js": "main.js"
   },
   "": {
-    "keep": "fonts/.keep",
+    "": "fonts/.keep",
     "woff2": [
       "fonts/averta-extra-bold.woff2",
       "fonts/averta-regular.woff2"
