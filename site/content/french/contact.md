@@ -22,20 +22,20 @@ map:
           Fraumünsterstrasse 16
           CH-8001 Zürich
         email:
-          title: E-mail à l'appui ?
+          title: Support
           link:
             label: Contacter l'assistance
             href: https://share.hsforms.com/1-z4iAJzNRMCcmOt9MeTxmg309ws
         phone: 
-          title: Téléphone avec assistance ?
+          title: Téléphone
           text: "+41 44 505 16 64"
         opening_hours:
           title: Horaires d'ouverture
           text: De 9h à 17h
         contact_form:
-          title: Questions pour les ventes ? 
+          title: Ventes 
           link:
-            label: Contacter les ventes
+            label: Prendre contact
             href: https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws
     - title: Karlsruhe (Ettlingen)
       picture:

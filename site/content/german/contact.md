@@ -21,18 +21,18 @@ map:
           Fraumünsterstrasse 16
           CH-8001 Zürich
         email:
-          title: E-Mail an Support?
+          title: Support
           link:
             label: Support kontaktieren
             href: https://share.hsforms.com/1_O5JpbKXTxKeXoQFnf6Obw309ws
         phone: 
-          title: Telefon mit Support?
+          title: Telefon
           text: "+41 44 505 16 64"
         opening_hours:
           title: Öffnungszeiten
           text: 9 bis 17 Uhr
         contact_form:
-          title: Fragen an Sales? 
+          title: Sales
           link:
             label: Sales kontaktieren
             href: https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws

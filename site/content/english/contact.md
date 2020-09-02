@@ -21,20 +21,20 @@ map:
           Fraumünsterstrasse 16
           CH-8001 Zurich
         email:
-          title: E-mail to support?
+          title: Support
           link:
             label: Contact support
             href: https://share.hsforms.com/1dmhPMWbMQMWQ_bkUfoU2TQ309ws
         phone: 
-          title: Phone with support?
+          title: Phone
           text: "+41 44 505 16 64"
         opening_hours:
           title: Opening hours
           text: From 9 to 17
         contact_form:
-          title: Questions for Sales? 
+          title: Sales
           link:
-            label: Contact sales
+            label: Get in touch
             href: https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws
     - title: Karlsruhe (Ettlingen)
       picture:
