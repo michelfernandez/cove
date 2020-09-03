@@ -28,7 +28,7 @@ Perform a validity check with an independent validator.
 {{< picture eu-validator 590 "A man with a big hatch checks a document whether the signatures are in order according to European law." >}}
 
 {{% markdown %}}
-We recommend the QES validator of the Austrian Broadcasting and Telecommunications Regulatory Authority (Rundfunk und Telekom Regulierungs-GmbH).
+We recommend the QES validator of the Austrian Broadcasting and Telecommunications Regulatory Authority.
 
 It checks whether a document has been successfully signed via Skribble with a qualified electronic signature (QES) according to *EU law (eIDAS)*.
 {{% /markdown %}}
