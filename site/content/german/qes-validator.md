@@ -8,8 +8,8 @@ slug: qes-validator
 
 {{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
-# So prüfen Sie, ob Ihr Dokument mit der QES signiert wurde
-Machen Sie den Gültigkeit-Check mit einem unabhängigen Validator.
+# So prüfen Sie, ob Ihr Dokument mit QES signiert wurde
+Machen Sie den Gültigkeits-Check mit einem unabhängigen Validator.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -47,7 +47,7 @@ Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten
 {{< picture ch-validator 590 "Ein Man mit einer grossen Luppe prüft ein Dokument ob die Signaturen nach Schweizer-Recht in Ordnung sind." >}}
 
 {{% markdown %}}
-Wir empfehlen den QES-Validator der Eidgenössischen Schweizer Bundesverwaltung.
+Wir empfehlen den QES-Validator der Schweizer Bundesverwaltung.
 
 Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach *Schweizer Recht (ZertES)* signiert wurde.
 {{% /markdown %}}
