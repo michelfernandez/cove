@@ -8,7 +8,7 @@ slug: qes-validator
 
 {{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Check whether a document has been signed with QES
+# Check whether your document has been signed with QES
 Perform a validity check with an independent validator.
 {{% /markdown %}}
 {{< /content >}}
@@ -17,8 +17,8 @@ Perform a validity check with an independent validator.
 
 {{< plan
   white
-  "EU Validator"
-  "For signatures under European law (eIDAS)"
+  "EU validator"
+  "For documents signed according to European law (eIDAS)"
   "Go to the EU Validator"
   "https://www.signatur.rtr.at/de/vd/Pruefung.html"
   "_blank"
@@ -28,17 +28,17 @@ Perform a validity check with an independent validator.
 {{< picture eu-validator 590 "A man with a big hatch checks a document whether the signatures are in order according to European law." >}}
 
 {{% markdown %}}
-We recommend the QES validator of the Austrian Rundfunk und Telekom Regulierungs-GmbH.
+We recommend the QES validator of the Austrian Broadcasting and Telecommunications Regulatory Authority (Rundfunk und Telekom Regulierungs-GmbH).
 
-It checks whether a document was successfully signed via Skribble with a qualified electronic signature (QES) according to *EU law (eIDAS)*.
+It checks whether a document has been successfully signed via Skribble with a qualified electronic signature (QES) according to *EU law (eIDAS)*.
 {{% /markdown %}}
 {{% /plan %}}
 
 {{< plan
   white
   "Swiss Validator"
-  "For signatures under Swiss law (ZertES)"
-  "Go to the Swiss Validator"
+  "For documents signed according to Swiss law (ZertES)"
+  "To the Swiss Validator"
   "https://www.e-service.admin.ch/validator/upload/all/de"
   "_blank"
   "outline"
@@ -47,9 +47,9 @@ It checks whether a document was successfully signed via Skribble with a qualifi
 {{< picture ch-validator 590 "A man with a big hatch checks a document whether the signatures are in order according to Swiss law." >}}
 
 {{% markdown %}}
-We recommend the QES Validator of the Swiss Federal Administration.
+We recommend the QES validator of the Swiss federal administration.
 
-It checks whether a document was successfully signed via Skribble with a qualified electronic signature (QES) according to *Swiss law (ZertES)*.
+It checks whether a document has been successfully signed via Skribble with a qualified electronic signature (QES) according to *Swiss law (ZertES)*.
 {{% /markdown %}}
 {{% /plan %}}
 {{< /content >}}
