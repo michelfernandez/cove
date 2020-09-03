@@ -29,7 +29,7 @@ Vérifiez la validité de la signature avec un validateur indépendant.
 {{< picture eu-validator 590 "Un homme avec une grande trappe vérifie un document pour s'assurer que les signatures sont conformes au droit européen." >}}
 
 {{% markdown %}}
-Nous recommandons le validateur SEQ de l'Autorité autrichienne de régulation de la radiodiffusion et des télécommunications (Rundfunk und Telekom Regulierungs-GmbH).
+Nous recommandons le validateur SEQ de l'Autorité autrichienne de régulation de la radiodiffusion et des télécommunications.
 
 Ce validateur vérifie si un document a été signé avec succès via Skribble avec une signature électronique qualifiée (SEQ) selon la *loi européenne (eIDAS)*.
 .
