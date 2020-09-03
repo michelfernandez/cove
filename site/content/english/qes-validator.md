@@ -20,7 +20,7 @@ Perform a validity check with an independent validator.
   "EU validator"
   "For documents signed according to European law (eIDAS)"
   "Go to the EU Validator"
-  "https://www.signatur.rtr.at/de/vd/Pruefung.html"
+  "https://www.signatur.rtr.at/en/vd/Pruefung"
   "_blank"
   "outline"
 >}}
