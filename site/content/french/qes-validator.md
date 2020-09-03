@@ -8,8 +8,9 @@ slug: validateur-seq
 
 {{< content text=center top=16 bottom=12 width=narrow >}}
 {{% markdown %}}
-# Pour vérifier que votre document a été signé avec le SEQ
-Faites le contrôle de validité avec un validateur indépendant.
+# Vérifiez si votre document a été signé avec SEQ
+Vérifiez la validité de la signature avec un validateur indépendant.
+
 {{% /markdown %}}
 {{< /content >}}
 
@@ -17,9 +18,9 @@ Faites le contrôle de validité avec un validateur indépendant.
 
 {{< plan
   white
-  "Validateur de l'UE"
-  "Pour les signatures de droit européen (eIDAS)"
-  "À propos du validateur de l'UE"
+  "Validateur UE"
+  "Documents signés selon le droit européen (eIDAS)"
+  "Aller au validateur de l'UE"
   "https://www.signatur.rtr.at/de/vd/Pruefung.html"
   "_blank"
   "outline"
@@ -28,17 +29,18 @@ Faites le contrôle de validité avec un validateur indépendant.
 {{< picture eu-validator 590 "Un homme avec une grande trappe vérifie un document pour s'assurer que les signatures sont conformes au droit européen." >}}
 
 {{% markdown %}}
-Nous recommandons le validateur QES de la Rundfunk und Telekom Regulierungs-GmbH autrichienne.
+Nous recommandons le validateur SEQ de l'Autorité autrichienne de régulation de la radiodiffusion et des télécommunications (Rundfunk und Telekom Regulierungs-GmbH).
 
-Il s'agit de vérifier si un document a été signé avec succès par un gribouillage avec une signature électronique qualifiée (SEQ) conformément *à la loi UE (eIDAS)*.
+Ce validateur vérifie si un document a été signé avec succès via Skribble avec une signature électronique qualifiée (SEQ) selon la *loi européenne (eIDAS)*.
+.
 {{% /markdown %}}
 {{% /plan %}}
 
 {{< plan
   white
-  "Validateur de Suisse"
-  "Pour les signatures de droit suisse (ZertES)"
-  "À propos du validateur suisse"
+  "Validateur suisse"
+  "Documents signés selon le droit Suisse (SCSE)"
+  "Aller au validateur suisse"
   "https://www.e-service.admin.ch/validator/upload/all/de"
   "_blank"
   "outline"
@@ -47,9 +49,9 @@ Il s'agit de vérifier si un document a été signé avec succès par un griboui
 {{< picture ch-validator 590 "Un homme avec une grande trappe vérifie un document pour voir si les signatures sont en règle selon la loi suisse." >}}
 
 {{% markdown %}}
-Nous recommandons le validateur QES de l'administration fédérale suisse.
+Nous recommandons le validateur SEQ de L’administration Fédérale Suisse.
 
-Il s'agit de vérifier si un document a été signé avec succès par un gribouillage avec une signature électronique qualifiée (SEQ) selon la législation suisse (ZertES).
+Ce validateur vérifie si un document a été signé avec succès via Skribble par l'utilisation d'une signature électronique qualifiée (SEQ) selon la *loi Suisse (SCSE)*.
 {{% /markdown %}}
 {{% /plan %}}
 {{< /content >}}
