@@ -1,6 +1,6 @@
 ---
 title: Check whether a document was signed with QES
-description: The Validator service of the Swiss Federal Administration allows you to check whether your document has been signed with a qualified electronic signature (QES).
+description: The validator service of the Swiss Federal Administration allows you to check whether your document has been signed with a qualified electronic signature (QES).
 draft: false
 slug: qes-validator
 
@@ -19,7 +19,7 @@ Perform a validity check with an independent validator.
   white
   "EU validator"
   "For documents signed according to European law (eIDAS)"
-  "To the EU Validator"
+  "To the EU validator"
   "https://www.signatur.rtr.at/en/vd/Pruefung"
   "_blank"
   "outline"
@@ -36,9 +36,9 @@ It checks whether a document has been successfully signed via Skribble with a qu
 
 {{< plan
   white
-  "Swiss Validator"
+  "Swiss validator"
   "For documents signed according to Swiss law (ZertES)"
-  "To the Swiss Validator"
+  "To the Swiss validator"
   "https://www.e-service.admin.ch/validator/upload/all/en"
   "_blank"
   "outline"
