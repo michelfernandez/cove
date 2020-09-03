@@ -47,7 +47,7 @@ Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten
 {{< picture ch-validator 590 "Ein Man mit einer grossen Luppe prüft ein Dokument ob die Signaturen nach Schweizer-Recht in Ordnung sind." >}}
 
 {{% markdown %}}
-Wir empfehlen den QES-Validator der Schweizer Bundesverwaltung.
+Wir empfehlen den QES-Validator der Eidgenössischen Schweizer Bundesverwaltung.
 
 Dieser prüft, ob ein Dokument erfolgreich via Skribble mit einer qualifizierten elektronischen Signatur (QES) nach *Schweizer Recht (ZertES)* signiert wurde.
 {{% /markdown %}}
