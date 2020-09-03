@@ -41,7 +41,7 @@ Ce validateur vérifie si un document a été signé avec succès via Skribble a
   "Validateur suisse"
   "Documents signés selon le droit Suisse (SCSE)"
   "Aller au validateur suisse"
-  "https://www.e-service.admin.ch/validator/upload/all/de"
+  "https://www.e-service.admin.ch/validator/upload/all/en"
   "_blank"
   "outline"
 >}}
