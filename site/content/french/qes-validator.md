@@ -21,7 +21,7 @@ Vérifiez la validité de la signature avec un validateur indépendant.
   "Validateur UE"
   "Documents signés selon le droit européen (eIDAS)"
   "Aller au validateur de l'UE"
-  "https://www.signatur.rtr.at/en/vd/Pruefungl"
+  "https://www.signatur.rtr.at/en/vd/Pruefung"
   "_blank"
   "outline"
 >}}
