@@ -39,7 +39,7 @@ It checks whether a document has been successfully signed via Skribble with a qu
   "Swiss Validator"
   "For documents signed according to Swiss law (ZertES)"
   "To the Swiss Validator"
-  "https://www.e-service.admin.ch/validator/upload/all/de"
+  "https://www.e-service.admin.ch/validator/upload/all/en"
   "_blank"
   "outline"
 >}}
