@@ -45,7 +45,7 @@ Ce validateur vérifie si un document a été signé avec succès via Skribble a
   "outline"
 >}}
 
-{{< picture ch-validator 590 "Un homme avec une grande trappe vérifie un document pour voir si les signatures sont en règle selon la loi suisse." >}}
+{{< picture ch-validator-fr 590 "Un homme avec une grande trappe vérifie un document pour voir si les signatures sont en règle selon la loi suisse." >}}
 
 {{% markdown %}}
 Nous recommandons le validateur SEQ de L’administration Fédérale Suisse.
