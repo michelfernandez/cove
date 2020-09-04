@@ -170,15 +170,15 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
     footer:
       leftSlot:
-        title: Identifizieren lassen?
-        text: Lassen Sie sich für einen höheren E-Signatur-Standard (QES) freischalten.
+        title: QES freischalten?
+        text: Lassen Sie sich identifzieren, um mit maximaler Beweiskraft zu signieren.
         button:
           label: Identifizieren lassen
           href: /de/identifikation/
           target:
       rightSlot:
-        title: Haben sie Fragen zu Skribble?
-        text: Wir helfen ihnen gerne weiter, um ihre Fragen zu beantworten.
+        title: Fragen zu Skribble?
+        text: Erzählen Sie uns von Ihrem Anliegen, wir helfen gerne weiter.
         button:
           label: Kontakt aufnehmen
           href: https://share.hsforms.com/1_O5JpbKXTxKeXoQFnf6Obw309ws
