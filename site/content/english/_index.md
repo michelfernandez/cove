@@ -36,7 +36,7 @@ legally binding in accordance with Swiss & EU law.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="More than 200 international companies entrusted more than 30,000 documents to Skribble:">}}
+{{< logos-container top=12 bottom=24 width=wide title="The first choice of  more than 200 companies with the highest requirements for data protection and security:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
@@ -249,7 +249,7 @@ with legal form requirements or high liability risk.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=20 bottom=18 title="More than 50 media have already reported on Skribble:">}}
+{{< logos-container top=20 bottom=18 title="Skribble in the media:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}

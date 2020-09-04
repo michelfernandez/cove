@@ -31,7 +31,7 @@ de façon digitale, conformément à la loi suisse et européenne.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="Plus de 200 entreprises internationales ont confié à Skribble plus de 30 000 documents :">}}
+{{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 200 entreprises entreprises ayant les plus hauts standards de protection des données et de sécurité :">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
@@ -250,7 +250,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=20 bottom=18 title="Plus de 50 médias ont déjà fait des reportages sur Skribble :">}}
+{{< logos-container top=20 bottom=18 title="Skribble dans les médias:">}}
   {{< logos-item src="logos/srf-logo-180w.svg" alt="SRF-Schweizer Radio und Fernsehen">}}
   {{< logos-item src="logos/handelszeitung-logo-240w.svg" alt="Handelszeitung">}}
   {{< logos-line-break >}}
