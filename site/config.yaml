@@ -530,17 +530,17 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: A-t-il été identifié ?
-        text: Obtenez une activation pour une norme de signature électronique (SEQ) plus élevée.
+        title: Déverrouillez la SEQ?
+        text: Identifiez-vous pour signer avec le maximum de force probante.
         button:
-          label: L'identifier
+          label: S'identifier
           href: /fr/identification/
           target:
       rightSlot:
-        title: Vous avez des questions sur le Skribble ?
-        text: Nous sommes heureux de vous aider à répondre à vos questions.
+        title: Questions sur Skribble?
+        text: Faites-nous part de votre demande, nous serons heureux de vous aider.
         button:
-          label: Contacter
+          label: Prendre contact
           href: https://share.hsforms.com/1-z4iAJzNRMCcmOt9MeTxmg309ws
           target: _blank
       navigation:
