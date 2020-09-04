@@ -530,8 +530,8 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
     footer:
       leftSlot:
-        title: Déverrouillez la SEQ?
-        text: Identifiez-vous pour signer avec le maximum de force probante.
+        title: Déverrouiller la SEQ?
+        text: Laissez-vous identifier pour signer avec une force probante maximale. 
         button:
           label: S'identifier
           href: /fr/identification/
