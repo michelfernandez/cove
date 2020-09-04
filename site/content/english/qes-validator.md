@@ -48,10 +48,12 @@ It checks whether a document has been successfully signed via Skribble with a qu
 
 {{% markdown %}}
 We recommend the QES validator of the Swiss federal administration.
+&nbsp;
 
-It checks whether a document has been successfully signed via Skribble with a qualified electronic signature (QES) according to *Swiss law (ZertES)*.
+<small>It checks whether a document has been successfully signed via Skribble with a qualified electronic signature (QES) according to *Swiss law (ZertES)*.</small>
 {{% /markdown %}}
 {{% /plan %}}
+
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

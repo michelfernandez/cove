@@ -49,6 +49,7 @@ Ce validateur vérifie si un document a été signé avec succès via Skribble a
 
 {{% markdown %}}
 Nous recommandons le validateur SEQ de L’administration Fédérale Suisse.
+&nbsp;
 
 Ce validateur vérifie si un document a été signé avec succès via Skribble par l'utilisation d'une signature électronique qualifiée (SEQ) selon la *loi Suisse (SCSE)*.
 {{% /markdown %}}
