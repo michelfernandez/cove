@@ -278,7 +278,7 @@ No credit card, entrance fee or commitment required.
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures are free of charge every month.{{% /small %}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

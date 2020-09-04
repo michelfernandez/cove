@@ -350,15 +350,15 @@ languages:
         href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
     footer:
       leftSlot:
-        title: Get it identified?
-        text: Get unlocked for a higher e-signature standard (QES).
+        title: Enable QES?
+        text: Get yourself identified to sign with maximum legal weight.
         button:
-          label: Getting Identified
+          label: Get identified
           href: /identification/
           target:
       rightSlot:
-        title: Do you have questions about Skribble?
-        text: We are happy to help you to answer your questions.
+        title: Questions about Skribble?
+        text: Let us know about your request, we will be happy to help you.
         button:
           label: Get in touch
           href: https://share.hsforms.com/1dmhPMWbMQMWQ_bkUfoU2TQ309ws
