@@ -163,7 +163,7 @@ languages:
         label: Login
         href: https://my.skribble.com/login?lang=de
       tryItOut:
-        label: Direkt loslegen
+        label: Jetzt loslegen
         href: https://my.skribble.com/signup?lang=de
       makeAnAppointment:
         label: Jetzt Termin vereinbaren

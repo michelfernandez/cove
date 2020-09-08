@@ -17,7 +17,7 @@ Signaturprozesse einfach digital abwickeln –
 rechtsgültig nach dem Schweizer & EU Gesetz.
 {{% /markdown %}}
 {{< button
-  "Direkt loslegen"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
@@ -275,7 +275,7 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Direkt loslegen"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}

@@ -49,7 +49,7 @@ Verpflichtung erforderlich.
 {{% /markdown %}}
 
 {{< button
-  "Direkt loslegen"
+  "Jetzt loslegen"
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
