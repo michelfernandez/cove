@@ -247,22 +247,6 @@ Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswah
 {{< /content >}}
 
 
-{{< content text=left top=12 bottom=8 width=narrow >}}
-{{< cta
-  label="Telefontermin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für Ihre Firma." >}}
-
-{{% markdown %}}
-**Haben Sie Fragen? Wir helfen Ihnen gerne telefonisch weiter.**
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
 
 {{< outro >}}
 {{% markdown center %}}

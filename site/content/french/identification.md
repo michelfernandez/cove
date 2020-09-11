@@ -253,23 +253,6 @@ Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection 
 
 {{< /content >}}
 
-{{< content text=left top=12 bottom=8 width=narrow >}}
-{{< cta
-  label="Organiser un appel"
-  href="https://help.skribble.com/meetings/patrick182/identification-chez-skribble?pk_vid=9255ddb07f7fc8e515837572965a2471"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
-{{% markdown %}}
-**Vous avez des questions ? Nous vous aiderons volontiers par téléphone.**
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
-
 {{< outro >}}
 {{% markdown center %}}
 ## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!

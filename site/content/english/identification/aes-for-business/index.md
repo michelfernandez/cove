@@ -154,22 +154,6 @@ Skribble's signing platform is designed so that new employees can get started wi
 {{% /markdown %}}
 {{< /content >}}
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< cta
-  label="Arrange a call"
-  href="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
-
-{{% markdown %}}
-**Register now for AES for Business**
-{{% /markdown %}}
-{{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

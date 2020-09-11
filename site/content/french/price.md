@@ -74,7 +74,7 @@ passer à l'un des modèles tarifaires suivants:
   or="Ou"
   comparison-caption="Facturation mensuelle : 100.– CHF par mois avec 50 signatures (toute norme de signature électronique) pour tous les utilisateurs, y compris les parties externes."
   button-text="Obtenir des conseils"
-  button-link="https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  button-link="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   subtext="Résiliable mensuellement ou annuellement"
 >}}
     {{< picture business-visual 270 "" >}}
@@ -206,7 +206,7 @@ passer à l'un des modèles tarifaires suivants:
 >}}Aucune carte de crédit requis<br>Compte supprimable à tout moment</td>
 <td>{{< button
   "Obtenir des conseils"
-  "https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
 >}}Résiliable mensuellement ou anuellement</td>
 </tr>

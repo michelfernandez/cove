@@ -252,22 +252,6 @@ The legal identification requirements are not the same. QES is the highest stand
 
 {{< /content >}}
 
-{{< content text=left top=12 bottom=8 width=narrow >}}
-{{< cta
-  label="Schedule a phone call"
-  href="https://help.skribble.com/meetings/patrick182/skribble-id-zurich?pk_vid=9255ddb07f7fc8e515837572375a2471"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identification for the QES. Let us advise you and find the right identification solution for your company." >}}
-
-{{% markdown %}}
-**Do you have any questions? We will gladly help you on the phone.**
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
 {{< outro >}}
 {{% markdown center %}}
 ## Sign now, legally and electronically!

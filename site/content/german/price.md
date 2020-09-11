@@ -69,7 +69,7 @@ eines der folgenden Modelle umstellen:
   comparison-title="Die Business-Flatrate kostet:"
   comparison-caption="Monatliche Abrechnung: CHF 100.– pro Monat inkl. 50 Signaturen (jeder E-Signatur-Standard) für alle Nutzer inkl. externe Parteien"
   button-text="Jetzt beraten lassen"
-  button-link="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  button-link="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   subtext="Monatlich oder jährlich kündbar"
 >}}
     {{< picture business-visual 270 "" >}}
@@ -208,7 +208,7 @@ eines der folgenden Modelle umstellen:
 >}}Keine Abonnementsverpflichtungen<br>Konto jederzeit löschbar</td>
 <td>{{< button
   "Jetzt beraten lassen"
-  "https://help.skribble.com/meetings/patrick182/call-mit-skribble"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
 >}}Monatlich oder jährlich kündbar</td>
 </tr>

@@ -71,7 +71,7 @@ to one of the following plans at any time:
   comparison-title="The business flat rate costs:"
   comparison-caption="Monthly billing: CHF 100.– per month with 50 signatures (any e-signature standard) for all users including external parties."
   button-text="Get advice now"
-  button-link="https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  button-link="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   subtext="Monthly or yearly termination"
 >}}
   {{< picture business-visual 270 "" >}}
@@ -211,7 +211,7 @@ to one of the following plans at any time:
 >}}No subscription commitment</br>Your account can be deleted at any time</td>
 <td>{{< button
   "Get advice now"
-  "https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
 >}}Monthly or yearly notice</td>
 </tr>
