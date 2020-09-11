@@ -167,9 +167,10 @@ Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 {{< /content >}}
 
 {{< content text=center top=8 width=narrow >}}
+
 {{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Deutsch/Skribble_Overview_Identification.pdf"
+  label="Jetzt kontaktieren"
+  href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   target="_blank"
   outlined="true"
 >}}

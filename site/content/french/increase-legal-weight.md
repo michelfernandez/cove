@@ -151,18 +151,6 @@ Comment déverrouiller la SEQ sur Skribble
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< cta
-  label="Contacter Skribble"
-  href="mailto:info@skribble.com"
-  outlined="true"
->}}
-
-{{< picture "contact" 92 "Vous avez des questions ? Nous nous ferons un plaisir de vous aider." >}}
-
-{{% markdown %}}
-**Vous avez des questions? Nous nous ferons un plaisir de vous aider.**
-{{% /markdown %}}
-{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

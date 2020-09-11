@@ -154,19 +154,6 @@ So schalten Sie die QES auf Skribble frei.
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< cta
-  label="Telefontermin vereinbaren"
-  href="https://help.skribble.com/meetings/patrick182/call-mit-skribble"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
-{{% markdown %}}
-**Haben Sie Fragen? Wir helfen Ihnen gerne telefonisch weiter.**
-{{% /markdown %}}
-{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -175,8 +175,8 @@ Suitable for individual signatories.
 {{< content text=center top=8 width=narrow >}}
 
 {{< cta
-  label="Download Factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf"
+  label="Contact Skribble"
+  href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   target="_blank"
   outlined="true"
 >}}

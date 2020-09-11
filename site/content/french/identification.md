@@ -174,8 +174,8 @@ Convient aux signataires individuels.
 {{< content text=center top=8 width=narrow >}}
 
 {{< cta
-  label="Télécharger factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Overview_Identification_FR.pdf"
+  label="Contactez-nous"
+  href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   target="_blank"
   outlined="true"
 >}}
@@ -267,7 +267,7 @@ ou engagement n'est requis.
 >}}
 {{< button
   "Contacter les ventes"
-  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
   outline
 >}}

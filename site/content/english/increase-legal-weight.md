@@ -149,20 +149,6 @@ This is how you unlock QES on Skribble
 {{% /markdown %}}
 {{< /cta >}}
 
-{{< cta
-  label="Contact Skribble"
-  href="mailto:info@skribble.com"
-  outlined="true"
->}}
-
-{{< picture "contact" 92 "Do you have any questions? We will be happy to help you." >}}
-
-{{% markdown %}}
-**Any questions?
-We are happy to help you.**
-{{% /markdown %}}
-{{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
