@@ -83,7 +83,7 @@ und EU-Recht.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Mit Skribble signieren wir die Arbeitsverträge und NDAs mit den rund 70 externen und teils im Ausland lebenden Mitarbeitenden jetzt zeitnah und papierfrei auf Knopfdruck.»
+«Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

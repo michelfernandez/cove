@@ -84,7 +84,7 @@ Sign at the push of a button, independent of time and place, legally valid accor
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"With Skribble we now sign employment contracts and NDAs with the 70 or so external employees, some of whom live abroad, promptly and paper-free at the touch of a button."
+"Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
