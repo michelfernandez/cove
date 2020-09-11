@@ -166,26 +166,9 @@ Schalten Sie den höchsten E-Signatur-Standard QES von zu Hause aus frei.
 {{% /plan %}}
 {{< /content >}}
 
-{{< content text=center top=8 width=narrow >}}
-
-{{< cta
-  label="Jetzt kontaktieren"
-  href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
-{{% markdown %}}
-**Identifikation für die QES: Skribble macht es einfach**
-Lassen Sie sich beraten und finden Sie die passende Identifikations-Lösung für Ihre Firma.
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
 
 
-{{< content text=center top=16 bottom=4 width=narrow >}}
+{{< content text=center top=20 bottom=4 width=narrow >}}
 {{% markdown %}}
 ## Elektronische Identität (E-ID)
 Personen, die sich mit einer geprüften E-ID bei Skribble anmelden, 

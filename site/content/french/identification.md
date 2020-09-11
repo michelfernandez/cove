@@ -171,25 +171,7 @@ Convient aux signataires individuels.
 {{% /plan %}}
 {{< /content >}}
 
-{{< content text=center top=8 width=narrow >}}
-
-{{< cta
-  label="Contactez-nous"
-  href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
-  target="_blank"
-  outlined="true"
->}}
-
-{{< picture consult 92 "Identifikation für die QES. Lass dich beraten und finde die passende Identifikations-Lösung für deine Firma." >}}
-
-{{% markdown %}}
-**Identification pour la SQE - Skribble facilite les choses**
-Laissez-nous vous conseiller et trouver la solution d'identification adaptée à votre entreprise.
-{{% /markdown %}}
-{{< /cta >}}
-{{< /content >}}
-
-{{< content text=center top=12 bottom=4 width=narrow >}}
+{{< content text=center top=20 bottom=4 width=narrow >}}
 
 {{% markdown %}}
 ## Identité électronique (e-ID)
