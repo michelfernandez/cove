@@ -24,6 +24,7 @@ qu'aux signatures fréquentes
   width=narrow
   title="Free"
   description="<p>Vous signez <strong>gratuitement jusqu'à 2 fois par mois.</strong> Aucune carte de crédit requis.</p>"
+  button-target="_blank"
   button-text="Essayer maintenant"
   button-link="https://my.skribble.com/signup?lang=fr"
   subtext="Le compte peut être supprimé à tout moment. Aucune carte de crédit requis."
@@ -47,6 +48,7 @@ passer à l'un des modèles tarifaires suivants:
   description="<p>Vous signez personnellement ou obtenez <strong>plus de deux signatures par mois.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> par signature</strong></p><p>jusqu'à un plafond de</p><p><strong>CHF <span class='large'>30.-</span> par mois</strong></p>"
   has-comparison="true"
   comparison-caption="Si vous invitez d'autres personnes à signer, un montant supplémentaire de CHF 2.00 à 2.50 par signature est ajouté. Vous pouvez rétrograder au modèle tarifaire Free à tout moment."
+  button-target="_blank"
   button-text="Essayer maintenant"
   button-link="https://my.skribble.com/signup?lang=fr"
   subtext="Aucune obligation d'abonnement. Les deux premières signatures sont gratuites tous les mois."
@@ -73,6 +75,7 @@ passer à l'un des modèles tarifaires suivants:
   comparison-first="<p><strong>Pay-Per-Use</strong></p><p>Pour les employés qui signent <strong>moins</strong> de 12 fois par mois et pour les personnes externes à l'entreprise.</p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</strong></span></p><p> par signature au maximum</p>"
   or="Ou"
   comparison-caption="Facturation mensuelle : 100.– CHF par mois avec 50 signatures (toute norme de signature électronique) pour tous les utilisateurs, y compris les parties externes."
+  button-target="_blank"
   button-text="Obtenir des conseils"
   button-link="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   subtext="Résiliable mensuellement ou annuellement"

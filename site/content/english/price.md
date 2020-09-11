@@ -23,6 +23,7 @@ and frequent signing.
   width=narrow
   title="Free"
   description="<p>You can sign <strong>twice per month free of charge.</strong> No credit card required.</p>"
+  button-target="_blank"
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
   subtext="Your account can be deleted at any time. No credit card required."
@@ -46,6 +47,7 @@ to one of the following plans at any time:
   description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
   has-comparison="true"
   comparison-caption="If you invite other people to sign, an additional amount of CHF 2.00 to 2.50 per signature is added. You can downgrade to the Free plan at any time."
+  button-target="_blank"
   button-text="Try it now"
   button-link="https://my.skribble.com/signup"
   subtext="No subscription commitment. The first two signatures are free each month."
@@ -70,6 +72,7 @@ to one of the following plans at any time:
   has-comparison="true"
   comparison-title="The business flat rate costs:"
   comparison-caption="Monthly billing: CHF 100.– per month with 50 signatures (any e-signature standard) for all users including external parties."
+  button-target="_blank"
   button-text="Get advice now"
   button-link="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   subtext="Monthly or yearly termination"
