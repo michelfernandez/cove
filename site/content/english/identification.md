@@ -138,7 +138,7 @@ by personal contact with the ID app by Swisscom.
   "Identification"
   "Unlimited"
   "Contact Skribble"
-  "https://help.skribble.com/meetings/patrick182/skribble-id-zurich"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
   "outline"
 >}}
