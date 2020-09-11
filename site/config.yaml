@@ -166,8 +166,8 @@ languages:
         label: Jetzt loslegen
         href: https://my.skribble.com/signup?lang=de
       makeAnAppointment:
-        label: Jetzt Termin vereinbaren
-        href: https://help.skribble.com/meetings/patrick182/call-mit-skribble
+        label: Sales kontaktieren
+        href: https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws
     footer:
       leftSlot:
         title: QES freischalten?
@@ -346,8 +346,8 @@ languages:
         label: Get started
         href: https://my.skribble.com/signup
       makeAnAppointment:
-        label: Make an appointment
-        href: https://help.skribble.com/meetings/patrick182/telephone-consultation-skribble
+        label: Contact Sales
+        href: https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws
     footer:
       leftSlot:
         title: Enable QES?
@@ -526,8 +526,8 @@ languages:
         label: Démarrer
         href: https://my.skribble.com/signup?lang=fr
       makeAnAppointment:
-        label: Fixer un rendez-vous
-        href: https://help.skribble.com/meetings/patrick182/consultation-telephone-skribble
+        label: Contacter les ventes
+        href: https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws
     footer:
       leftSlot:
         title: Déverrouiller la SEQ?
