@@ -2,6 +2,9 @@ $ns: card;
 
 .#{$ns} {
   margin-top: 50px;
+  @include max-width {
+    margin-top: 40px;
+  }
 
   &-group {
     &__inner {
@@ -13,6 +16,10 @@ $ns: card;
     .#{$ns} {
       flex: 0 0 33%;
       padding: 0 10px;
+      @include max-width {
+        flex: 0 0 100%;
+        max-width: 400px;
+      }
     }
   }
 
