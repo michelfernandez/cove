@@ -47,6 +47,243 @@ legally binding in accordance with Swiss & EU law.
 
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
+## 3 columns with images 16:9
+Der einfachste Weg zum rechtsgülitigen Signieren von Dokumenten mit und ohne Formvorschrift.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< card-group top=1 bottom=24 width=wide >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Effizienter arbeiten
+Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klichs signieren.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Risiken minimieren
+Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert. Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Kosten um 90% senken
+Das Signieren wird bis zu 90% günstiger durch effizientere Prozesse und geringere Direktkosten.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< /card-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+## 6 columns with images 16:9
+Der einfachste Weg zum rechtsgülitigen Signieren von Dokumenten mit und ohne Formvorschrift.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< card-group top=1 bottom=24 width=wide >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Effizienter arbeiten
+Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klichs signieren.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Kosten um 90% senken
+Das Signieren wird bis zu 90% günstiger durch effizientere Prozesse und geringere Direktkosten.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Risiken minimieren
+Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert. Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Effizienter arbeiten
+Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klichs signieren.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Risiken minimieren
+Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert. Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="api-main" img-width=600 img-alt="" >}}
+{{% markdown %}}
+### Kosten um 90% senken
+Das Signieren wird bis zu 90% günstiger durch effizientere Prozesse und geringere Direktkosten.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< /card-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+## 3 columns with images 1:1
+Der einfachste Weg zum rechtsgülitigen Signieren von Dokumenten mit und ohne Formvorschrift.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< card-group top=1 bottom=24 width=wide >}}
+
+{{< card img="ch-validator" img-width=590 img-alt="" >}}
+{{% markdown %}}
+### Effizienter arbeiten
+Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert. Skribble basiert auf anerkannten Standards und ist weltweit rechtsgültig. Ihre Daten sind auf Bankenlevel in der Schweiz gesichert.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="eu-validator" img-width=590 img-alt="" >}}
+{{% markdown %}}
+### Risiken minimieren
+Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klichs signieren.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card img="ch-validator" img-width=590 img-alt="" >}}
+{{% markdown %}}
+### Kosten um 90% senken
+Das Signieren wird bis zu 90% günstiger durch effizientere Prozesse und geringere Direktkosten.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< /card-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
+## 3 columns with no images and optional a link
+Der einfachste Weg zum rechtsgülitigen Signieren von Dokumenten mit und ohne Formvorschrift.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< card-group top=1 bottom=24 width=wide >}}
+
+{{< card >}}
+{{% markdown %}}
+### Dokumente als PDF hochladen
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card >}}
+{{% markdown %}}
+### Dokumente als PDF hochladen
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card >}}
+{{% markdown %}}
+### Dokumente als PDF hochladen
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card >}}
+{{% markdown %}}
+### Dokumente als PDF hochladen
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+
+[Deshalb können Sie ruhig schlafen](https://www.skrible.com)
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card >}}
+{{% markdown %}}
+### Dokumente als PDF hochladen
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card >}}
+{{% markdown %}}
+### Dokumente als PDF hochladen
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+
+[Deshalb können Sie ruhig schlafen](https://www.skrible.com)
+{{% /markdown %}}
+{{< /card >}}
+
+{{< /card-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content top=12 text=center width=narrow >}}
+{{% markdown %}}
+## 6 columns with icons as svg - optional background
+Der einfachste Weg zum rechtsgülitigen Signieren von Dokumenten mit und ohne Formvorschrift.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< card-group top=1 bottom=24 width=wide >}}
+
+{{< card icon="decline.svg" icon-width=60 icon-background="#eee" >}}
+{{% markdown %}}
+### Hex color background
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="tools.svg" icon-width=80 icon-background=darkseagreen >}}
+{{% markdown %}}
+### Any html color can be a background
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="tools.svg" icon-width=40 icon-background="#E5F1FC" >}}
+{{% markdown %}}
+### Light blue background from Figma
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="tools.svg" icon-width=40 >}}
+{{% markdown %}}
+### Icon without background
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="decline.svg" icon-width=40 >}}
+{{% markdown %}}
+### Reduced margin when icon has no background
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="decline.svg" icon-width=40 >}}
+{{% markdown %}}
+### Reduced margin when icon has no background
+Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder nutzen Sie Skribble via API aus Ihrer Unternehmenssoftware heraus.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< /card-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=12 width=narrow >}}
+{{% markdown %}}
 ## Sign legally in three steps
 {{% /markdown %}}
 {{< /content >}}
