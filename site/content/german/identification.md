@@ -131,7 +131,7 @@ Die QES schalten Sie frei, in dem Sie sich online via Video-Call oder im persön
 
 {{< plan
   white
-  "Identification"
+  "Identifikation"
   "Unlimited"
   "Jetzt kontaktieren"
   "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
@@ -151,7 +151,7 @@ QES-Signierende hinzukommen.
 
 {{< plan
   white
-  "Identification"
+  "Identifikation"
   "Online via Video"
   "Jetzt QES freischalten"
   "/de/qes-freischalten/"
