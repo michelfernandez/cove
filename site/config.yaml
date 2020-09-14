@@ -174,7 +174,7 @@ languages:
         text: Lassen Sie sich identifzieren, um mit maximaler Beweiskraft zu signieren.
         button:
           label: Identifizieren lassen
-          href: /de/identifikation/
+          href: /de/qes-freischalten/
           target:
       rightSlot:
         title: Fragen zu Skribble?
@@ -354,7 +354,7 @@ languages:
         text: Get yourself identified to sign with maximum legal weight.
         button:
           label: Get identified
-          href: /identification/
+          href: /enable-qes/
           target:
       rightSlot:
         title: Questions about Skribble?
@@ -534,7 +534,7 @@ languages:
         text: Laissez-vous identifier pour signer avec une force probante maximale. 
         button:
           label: S'identifier
-          href: /fr/identification/
+          href: /fr/debloquez-seq/
           target:
       rightSlot:
         title: Questions sur Skribble?
