@@ -1,0 +1,25 @@
+<div class="pricing-card">
+  <div class="pricing-card__header">
+    {{ .Inner }}
+  </div>
+  <div class="pricing-card__conditions">
+    <div class="pricing-card__price">
+      {{ if .Get "price" }}
+        <span>{{ .Get "price" }}</span>
+      {{ else if .Get "no-price-text"}}
+        <span>{{ .Get "no-price-text" }}</span>
+      {{ end }}
+      <div class="pricing-card__unit">
+        {{ .Get "currency" }}
+        {{ .Get "period" }}
+      </div>
+    </div>
+    <small class="pricing-card__small">{{ .Get "small" }}</small>
+  </div>
+  <div class="pricing-card__features">
+    <div class="pricing-card__feature-title">{{ .Get "feature" }}</div>
+    <small class="pricing-card__small">{{ .Get "feature-small" }}</small>
+    <a class="pricing-card__cta" href="{{ .Get "cta-href" }}" target="{{.Get "cta-target"}}">{{ .Get "cta-label" }}</a>
+    <button class="pricing-card__more">{{ .Get "cta-more" }}</button>
+  </div>
+</div>
