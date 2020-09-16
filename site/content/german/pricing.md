@@ -6,7 +6,7 @@ slug: preise
 
 ---
 
-{{< content text=center top=16 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Pläne und Preise
 Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgültig, gesichert gemäss höchsten Datenschutzstandards in der Schweiz.
@@ -49,6 +49,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 
 {{< pricing-col >}}
   {{< pricing-card
+    featured=true
     price=85
     currency=CHF
     period=Monat
