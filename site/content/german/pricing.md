@@ -161,7 +161,13 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
         <td>{{< pricing-check >}}</td>
       <tr>
       <tr>
-        <td>Elektronisches Siegel (Organisationssignatur)</td>
+        <td>
+          Elektronisches Siegel (Organisationssignatur)
+          <div class="pricing-table__mobile-details  hide-for-desktop">
+            <span>{{< pricing-info filled="true" >}} <strong>B</strong>: Auf Anfrage</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
+          </div>
+        </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled="true" >}}</span>

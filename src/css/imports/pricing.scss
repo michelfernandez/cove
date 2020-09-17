@@ -43,7 +43,9 @@ $ns: pricing;
         }
       }
       &:nth-child(3) {
-        padding: 0 0 0 20px;
+        @include min-width {
+          padding: 0 0 0 20px;
+        }
       }
     }
   }
@@ -207,6 +209,28 @@ $ns: pricing;
         flex-direction: column;
         font-size: 1.8rem;
         white-space: nowrap;
+      }
+    }
+
+    // On mobile, where there's no space for text, we show it in mobile-details
+    &__mobile-details {
+      display: flex;
+      flex-direction: column;
+      margin-top: 2px;
+
+      strong {
+        color: $c-text-alt;
+      }
+
+      span {
+        display: flex;
+        align-items: center;
+
+        img {
+          width: 20px;
+          height: 20px;
+          margin: 1px 5px 1px 0;
+        }
       }
     }
 
