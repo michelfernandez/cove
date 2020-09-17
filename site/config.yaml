@@ -138,9 +138,12 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
+        - name: Cookies
+          url: /de/cookie-richtlinie/
+          weight: 20
         - name: Impressum
           url: /de/impressum/
-          weight: 20
+          weight: 25
       footermobile:
         - name: Datenschutzbestimmungen
           url: /de/datenschutz/
@@ -151,9 +154,12 @@ languages:
         - name: AGB
           url: /de/agb/
           weight: 15
+        - name: Cookies
+          url: /de/cookie-richtlinie/
+          weight: 20
         - name: Impressum
           url: /de/impressum/
-          weight: 20
+          weight: 25
 
     header:
       contactSales: 
@@ -318,9 +324,12 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 10
+        - name: Cookies
+          url: /cookie-policy/
+          weight: 15
         - name: Imprint
           url: /imprint/
-          weight: 15
+          weight: 20
       footermobile:
         - name: Privacy Policy
           url: /privacy/
@@ -331,9 +340,12 @@ languages:
         - name: GTC
           url: /gtc/
           weight: 15
+        - name: Cookies
+          url: /cookie-policy/
+          weight: 20
         - name: Imprint
           url: /imprint/
-          weight: 20
+          weight: 25
 
     header:
       contactSales: 
@@ -498,9 +510,12 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
+        - name: Cookies
+          url: /fr/politique-relative-aux-cookies/
+          weight: 20
         - name: Impressum
           url: /fr/impressum/
-          weight: 20
+          weight: 25
       footermobile:
         - name: Politique de Confidentialité
           url: /fr/politique-de-confidentialite/
@@ -511,9 +526,12 @@ languages:
         - name: CG
           url: /fr/cg/
           weight: 15
+        - name: Cookies
+          url: /fr/politique-relative-aux-cookies/
+          weight: 20
         - name: Impressum
           url: /fr/impressum/
-          weight: 20
+          weight: 25
 
     header:
       contactSales: 
