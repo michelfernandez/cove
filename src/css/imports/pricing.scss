@@ -219,6 +219,7 @@ $ns: pricing;
       margin-top: 2px;
 
       strong {
+        align-self: flex-start;
         color: $c-text-alt;
       }
 
@@ -302,7 +303,7 @@ $ns: pricing;
       @include max-width {
         padding: 9px 0;
       }
-      &:first-child {
+      &:first-child:not(.#{$ns}-table__plan-title) {
         font-weight: normal;
         text-align: left;
         color: $c-text;
