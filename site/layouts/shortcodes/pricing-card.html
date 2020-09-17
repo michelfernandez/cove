@@ -22,6 +22,6 @@
       <small class="pricing-card__small">{{ .Get "feature-small" }}</small>
     </div>
     <a class="btn {{ cond (eq (.Get "featured") true) "" "btn--outline" }} | pricing-card__cta" href="{{ .Get "cta-href" }}" target="{{.Get "cta-target"}}">{{ .Get "cta-label" }}</a>
-    <a class="pricing-card__more" href="">{{ .Get "more" }}</a>
+    {{ if .Get "more" }}<a class="pricing-card__more" href="">{{ .Get "more" }}</a>{{ end }}
   </div>
 </div>

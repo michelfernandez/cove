@@ -15,7 +15,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< pricing-group >}}
+{{< pricing-group bottom=1 >}}
 
 {{< pricing-col >}}
   {{< pricing-card
@@ -108,4 +108,114 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-pricing-table
+{{< pricing-group top=1 bottom=8 >}}
+{{< pricing-table >}}
+<thead>
+  <tr>
+    <th>Signieren</th>
+    <th>Personal</th>
+    <th>Business</th>
+    <th>Enterprise</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Qualifizierte elektronische Signatur (QES)</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Fortgeschrittene elektronische Signatur (FES)</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Einfache elektronische Signatur (EES)</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Weltweite Rechtsgültigkeit</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Elektronisches Siegel (Organisationssignatur)</td>
+    <td>—</td>
+    <td>Auf Anfrage</td>
+    <td>Auf Anfrage</td>
+  <tr>
+  <tr>
+    <td>Per E-Mail zum Signieren einladen</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Signieren via Smartphone und Desktop</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Externe können ohne Skribble-Konto 
+signieren (EES-Standard) </td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Externe können ohne Skribble-Konto signieren (alle E-Signatur-Standards, mit API-Anbindung)</td>
+    <td>—</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Mehrere Dokumente auf einmal hochladen</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Mehrere Dokumente auf einmal signieren</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Visuelle Signatur gestalten und anbringen</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Signatureinladung ablehnen</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Signatur jemand anderem zuweisen</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr>
+    <td>Fehlende Signierende einladen</td>
+    <td>{{< pricing-check >}}</td>
+    <td>{{< pricing-check filled="true" >}}</td>
+    <td>{{< pricing-check >}}</td>
+  <tr>
+  <tr class="no-border">
+    <td></td>
+    <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
+    <td>{{< button "Jetzt loslegen" >}}</td>
+    <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+  <tr>
+</tbody>
+{{< /pricing-table >}}
+{{< /pricing-group >}}
