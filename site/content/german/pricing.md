@@ -110,112 +110,151 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 
 {{< pricing-group top=1 bottom=8 >}}
 {{< pricing-table >}}
-<thead>
-  <tr>
-    <th>Signieren</th>
-    <th>Personal</th>
-    <th>Business</th>
-    <th>Enterprise</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Qualifizierte elektronische Signatur (QES)</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Fortgeschrittene elektronische Signatur (FES)</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Einfache elektronische Signatur (EES)</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Weltweite Rechtsgültigkeit</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Elektronisches Siegel (Organisationssignatur)</td>
-    <td>—</td>
-    <td>Auf Anfrage</td>
-    <td>Auf Anfrage</td>
-  <tr>
-  <tr>
-    <td>Per E-Mail zum Signieren einladen</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Signieren via Smartphone und Desktop</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Externe können ohne Skribble-Konto 
-signieren (EES-Standard) </td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Externe können ohne Skribble-Konto signieren (alle E-Signatur-Standards, mit API-Anbindung)</td>
-    <td>—</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Mehrere Dokumente auf einmal hochladen</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Mehrere Dokumente auf einmal signieren</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Visuelle Signatur gestalten und anbringen</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Signatureinladung ablehnen</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Signatur jemand anderem zuweisen</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr>
-    <td>Fehlende Signierende einladen</td>
-    <td>{{< pricing-check >}}</td>
-    <td>{{< pricing-check filled="true" >}}</td>
-    <td>{{< pricing-check >}}</td>
-  <tr>
-  <tr class="no-border">
-    <td></td>
-    <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-    <td>{{< button "Jetzt loslegen" >}}</td>
-    <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-  <tr>
-</tbody>
+  <div class="pricing-table__legend hide-for-desktop">
+    <div class="pricing-table__legend-title">Features vergleichen</div>
+    <div class="pricing-table__legend-plans">
+      <span>P - Personal</span>
+      <span>B - Business</span>
+      <span>E - Enterprise</span>
+    </div>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Signieren</th>
+        <th>
+          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-mobile">Personal</span></th>
+        <th>
+          <span class="hide-for-desktop">B</span>
+          <span class="hide-for-mobile">Business</span>
+        </th>
+        <th>
+          <span class="hide-for-desktop">E</span>
+          <span class="hide-for-mobile">Enterprise</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Qualifizierte elektronische Signatur (QES)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Fortgeschrittene elektronische Signatur (FES)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Einfache elektronische Signatur (EES)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Weltweite Rechtsgültigkeit</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Elektronisches Siegel (Organisationssignatur)</td>
+        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled="true" >}}</span>
+          <span class="hide-for-mobile">Auf Anfrage</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">Auf Anfrage</span>
+        </td>
+      <tr>
+      <tr>
+        <td>Per E-Mail zum Signieren einladen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Signieren via Smartphone und Desktop</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Externe können ohne Skribble-Konto 
+    signieren (EES-Standard) </td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Externe können ohne Skribble-Konto signieren (alle E-Signatur-Standards, mit API-Anbindung)</td>
+        <td>—</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Mehrere Dokumente auf einmal hochladen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Mehrere Dokumente auf einmal signieren</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Visuelle Signatur gestalten und anbringen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Signatureinladung ablehnen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Signatur jemand anderem zuweisen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr>
+        <td>Fehlende Signierende einladen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled="true" >}}</td>
+        <td>{{< pricing-check >}}</td>
+      <tr>
+      <tr class="no-border hide-for-mobile">
+        <td></td>
+        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" >}}</td>
+        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+      <tr>
+    </tbody>
+  </table>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Personal</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Business</div>
+    {{< button "Jetzt loslegen" "" "" >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Enterprise</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
