@@ -4,7 +4,7 @@
 title: Skribble – Rechtsgültig elektronisch signieren
 description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
 draft: false
-
+slug: new-home
 ---
 
 
@@ -27,7 +27,6 @@ rechtsgültig nach dem Schweizer & EU Gesetz.
   "_blank"
   outline
 >}}
-
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -79,6 +78,18 @@ und EU-Recht.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=24 img=image2 mobile-top=12 mobile-bottom=6 img-width=416 img-position=left img-alt="" >}}
+{{% markdown %}}
+### «Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit.»
+Simon Wehrli, CTO, Twint
+{{% /markdown %}}
+
+{{< picture twint-logo 150 "Twint" >}}
+{{< /side-by-side >}}
+
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -87,7 +98,6 @@ und EU-Recht.
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
-
 
 {{< content top=20 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
@@ -99,12 +109,15 @@ sparen Sie Zeit im Arbeitsalltag
 
 {{< picture skribble-ui-de 1020 "Skribble plattform - user interface" >}}
 
+
 {{< content bottom=15 text=center >}}
 {{< button
   "Alle Funktionen anzeigen"
   "de/features"
   ""
   "outline">}}
+
+
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
