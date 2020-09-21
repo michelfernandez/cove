@@ -26,9 +26,9 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
     feature="60 Signaturen pro Jahr inklusive"
     feature-small="Zusätzliche Signaturen werden verrechnet mit: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
     cta-label="Jetzt loslegen"
-    cta-href=""
+    cta-href="https://my.skribble.com/signup/?lang=de"
     cta-target=""
-    more="Mehr erfahren"
+    more=""
   >}}
   {{% markdown %}}
   ## Personal
@@ -57,9 +57,9 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
     feature="600 Signaturen pro Jahr inklusive"
     feature-small="Zusätzliche Signaturen werden verrechnet mit: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
     cta-label="Jetzt loslegen"
-    cta-href=""
+    cta-href="https://my.skribble.com/signup/?lang=de"
     cta-target=""
-    more="Mehr erfahren"
+    more=""
   >}}
   {{% markdown %}}
   ## Business
@@ -84,9 +84,9 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
     feature="Individuelle Volumen-Lizenz"
     feature-small="Wird für jeweils 12 Monate abgeschlossen. "
     cta-label="Sales kontaktieren"
-    cta-href=""
-    cta-target=""
-    more="Mehr erfahren"
+    cta-href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+    cta-target="_blank"
+    more=""
   >}}
   {{% markdown %}}
   ## Enterprise
@@ -749,3 +749,28 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 {{< /pricing-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< outro >}}
+{{% markdown center %}}
+## Jetzt rechtsgültig elektronisch signieren!
+Keine Kreditkarte, Eintrittsgebühr oder
+Verpflichtung erforderlich.
+{{% /markdown %}}
+
+{{< button
+  "Jetzt loslegen"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
+{{< /outro >}}

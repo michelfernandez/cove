@@ -5,257 +5,751 @@ draft: false
 slug: pricing
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-mission.jpg
+
 ---
 
-{{< content text=center top=16 width=narrow >}}
+{{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
-Sign economically 
-with the right plan
-===============	
-Skribble is suitable for both occasional
-and frequent signing.
+# Plans and pricing
+With Skribble you sign your contracts within seconds - globally legally valid, secured in accordance with the highest data protection standards in Switzerland.
 {{% /markdown %}}
 {{< /content >}}
-
-{{< action-card
-  top=12
-  bottom=6
-  width=narrow
-  title="Free"
-  description="<p>You can sign <strong>twice per month free of charge.</strong> No credit card required.</p>"
-  button-target="_blank"
-  button-text="Try it now"
-  button-link="https://my.skribble.com/signup"
-  subtext="Your account can be deleted at any time. No credit card required."
->}}
-   {{< picture free-visual 232 "" >}}
-{{< /action-card >}}
-
-{{< content text=center top=12 width=narrow >}}
-{{% markdown %}}
-### Do you sign more frequently?
-After registering, you can switch
-to one of the following plans at any time:
-{{% /markdown %}}
-{{< /content >}}
-
-{{< action-card
-  top=8
-  bottom=6
-  width=narrow
-  title="Fair Flat"
-  description="<p>You sign or request <strong>more than two signatures per month.</strong></p><p class='top-spaced'>Maximum</p><p><strong>CHF <span class='large'>2.50</span> per signature</strong></p><p>up to a maximum of</p><p><strong>CHF <span class='large'>30.-</span> per month</strong></p>"
-  has-comparison="true"
-  comparison-caption="If you invite other people to sign, an additional amount of CHF 2.00 to 2.50 per signature is added. You can downgrade to the Free plan at any time."
-  button-target="_blank"
-  button-text="Try it now"
-  button-link="https://my.skribble.com/signup"
-  subtext="No subscription commitment. The first two signatures are free each month."
->}}
-  {{< picture fair-flat-visual 290 "" >}}
-{{< /action-card >}}
-
-{{< content text=center top=6 width=narrow >}}
-{{% markdown %}}
-### Or
-{{% /markdown %}}
-{{< /content >}}
-
-{{< action-card
-  top=8
-  bottom=6
-  width=narrow
-  title="Business"
-  description="<strong>Skribble for your organisation.</strong> Benefit from centralised user administration and billing by invoice."
-  has-comparison="true"  
-  comparison-single="<p><strong>CHF <span class='large'>85.–</span> per month (yearly billing)</strong></p>and includes 600 signatures per year for all users, including external parties</p><p> (applies to all e-signature standards: SES, AES and QES).</p><h4><strong>Additional signatures are billed according to the Pay-per-use plan:</strong></h4><p><strong>SES:</strong> CHF 1.20</p><p><strong>AES:</strong> CHF 1.70</p><p><strong>QES:</strong> CHF 2.50</p>"
-  has-comparison="true"
-  comparison-title="The business flat rate costs:"
-  comparison-caption="Monthly billing: CHF 100.– per month with 50 signatures (any e-signature standard) for all users including external parties."
-  button-target="_blank"
-  button-text="Get advice now"
-  button-link="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
-  subtext="Monthly or yearly termination"
->}}
-  {{< picture business-visual 270 "" >}}
-{{< /action-card >}}
-
-{{< show-hide-button button-text="Compare plans in detail" >}}
-{{< table-dense id="price-table" >}}
-<thead>
-<tr>
-<th><div class="header-with-image"><h2>Free</h2><span class="header-image">{{< picture free-list 104 "" >}}</span></div></th>
-<th><div class="header-with-image"><h2>Fair Flat</h2><span class="header-image">{{< picture fair-flat-list 131 "" >}}</span></div></th>
-<th><div class="header-with-image"><h2>Business</h2><span class="header-image">{{< picture business-list 120 "" >}}</span></div></th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>You can sign or request a signature twice per month free of charge.</td>
-<td>You sign or request more than two signatures per month.</td>
-<td>You use Skribble in your organisation. The user administration is centrally located.</td>
-</tr>
-
-
-<tr>
-<td><strong>Functions</strong></td>
-<td><strong>Functions</strong></td>
-<td><strong>Functions</strong></td>
-</tr>
-
-<tr>
-<td>Upload PDF via drag & drop</td>
-<td>Upload PDF via drag & drop</td>
-<td>Upload PDF via drag & drop</td>
-</tr>
-
-<tr>
-<td>Invite others to sign</td>
-<td>Invite others to sign</td>
-<td>Invite others to sign</td>
-</tr>
-
-<tr>
-<td>Apply batch signature</td>
-<td>Apply batch signature</td>
-<td>Apply batch signature</td>
-</tr>
-
-<tr>
-<td>Confirm signature on mobile phone</td>
-<td>Confirm signature on mobile phone</td>
-<td>Confirm signature on mobile phone</td>
-</tr>
-
-<tr>
-<td>Decline signature request</td>
-<td>Decline signature request</td>
-<td>Decline signature request</td>
-</tr>
-
-<tr>
-<td></td>
-<td>Billing history</td>
-<td>Billing history</td>
-</tr>
-
-<tr>
-<td></td>
-<td>Direct Sign</td>
-<td>Direct Sign</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Add/remove users</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Activity overview</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Integration via API</td>
-</tr>
-
-<tr>
-<td><strong>Billing</strong></td>
-<td><strong>Billing</strong></td>
-<td><strong>Billing</strong></td>
-</tr>
-
-<tr>
-<td>Free of charge - no billing</td>
-<td>At the end of the month by credit card</td>
-<td>By invoice – the flat rate in advance, additional signatures in the following month.</td>
-</tr>
-
-<tr>
-<td></td>
-<td>For your own and requested signatures</td>
-<td>For your own and requested signatures</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>Joint billing for multiple users</td>
-</tr>
-
-<tr>
-<td><strong>Price range</strong></td>
-<td><strong>Price range</strong></td>
-<td><strong>Price range</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td>CHF 2.– for the SES and the AES or CHF 2.50 for the QES</td>
-<td>CHF 1.20 for the SES, CHF 1.70 for the AES or CHF 2.50 for the QES.</td>
-</tr>
-
-
-<tr>
-<td>{{< button
-  "Try it now"
-  "https://my.skribble.com/signup"
-  "_blank"
->}}No credit card required</br>Your account can be deleted at any time</td>
-<td>{{< button
-  "Try it now"
-  "https://my.skribble.com/signup"
-  "_blank"
->}}No subscription commitment</br>Your account can be deleted at any time</td>
-<td>{{< button
-  "Get advice now"
-  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
-  "_blank"
->}}Monthly or yearly notice</td>
-</tr>
-
-
-</tbody>
-
-{{< /table-dense >}}
-
-{{< /show-hide-button >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< cta-group >}}
-{{< cta
-  label="Learn more"
-  href="/signaturestandards/"
-  outlined="true"
->}}
+{{< pricing-group bottom=1 >}}
 
-{{< picture package-6-1-out 100 "" >}}
+{{< pricing-col >}}
+  {{< pricing-card
+    price=12
+    currency=CHF
+    period=Month
+    small="for annual billing (CHF 144.-/year), for monthly billing: CHF 16.-/month"
+    feature="60 signatures per year included"
+    feature-small="Additional signatures will be charged for: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
+    cta-label="Get started"
+    cta-href="https://my.skribble.com/signup/"
+    cta-target=""
+    more=""
+  >}}
+  {{% markdown %}}
+  ## Personal
+  For individuals, 
+  appreciate efficient work.
+  &nbsp;
+  {{% /markdown %}}
+  {{< /pricing-card >}}
 
-{{% markdown %}}
-**When do you need which signature standard?**
-{{% /markdown %}}
-{{< /cta >}}
+  {{< pricing-highlights title=Highlights >}}
+  {{% markdown %}}
+  - Ready for immediate use on smartphone and desktop
+  - Sign anywhere and without USB stick or smart card
+  - Invite others to sign by e-mail
+  - Sign several documents at once
+  {{% /markdown %}}
+  {{< /pricing-highlights >}}
+{{< /pricing-col >}}
 
-{{< cta
-  label="Learn more"
-  href="/identification/"
-  outlined="true"
->}}
+{{< pricing-col >}}
+  {{< pricing-card
+    featured=true
+    price=85
+    currency=CHF
+    period=Month
+    small="for annual billing (CHF 1,020/year) for monthly billing: CHF 100/month"
+    feature="600 signatures per year included"
+    feature-small="Additional signatures will be charged for: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
+    cta-label="Get started"
+    cta-href="https://my.skribble.com/signup/"
+    cta-target=""
+    more=""
+  >}}
+  {{% markdown %}}
+  ## Business
+  For companies and departments that want to get started immediately.
+  {{% /markdown %}}
+  {{< /pricing-card >}}
 
-{{< picture qes-erklaert 122 "Signiert mit Skribble bedeutet rechtsgültig (QES) signiert nach Schweizer und EU-Gesetz." >}}
+  {{< pricing-highlights title=Highlights >}}
+  {{% markdown %}}
+  - Ready for company-wide use within a few days 
+  - Central administration and membership management
+  - External users can sign without a Skribble account
+  - Sign via browser or connect to own systems via API
+  {{% /markdown %}}
+  {{< /pricing-highlights >}}
+{{< /pricing-col >}}
 
-{{% markdown %}}
-**Are you interested in additional services in the field of identification?**
-{{% /markdown %}}
-{{< /cta >}}
-{{< /cta-group >}}
+{{< pricing-col >}}
+  {{< pricing-card
+    no-price-text="Individual offer"
+    small="Quotation on request - Please contact our sales department."
+    feature="Individual volume license"
+    feature-small="Is concluded for 12 months at a time."
+    cta-label="Contact Sales"
+    cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+    cta-target="_blank"
+    more=""
+  >}}
+  {{% markdown %}}
+  ## Enterprise
+  For large companies who appreciate high service and flexibility.
+  {{% /markdown %}}
+  {{< /pricing-card >}}
+
+  {{< pricing-highlights title=Highlights >}}
+  {{% markdown %}}
+  - Personal Account Executive and Priority Support
+  - Service Level Agreement (SLA) with high availability guarantee
+  - Single-Sign-On for easy access for all employees
+  - Extended options for branding and personalisation
+  {{% /markdown %}}
+  {{< /pricing-highlights >}}
+{{< /pricing-col >}}
+
+{{< /pricing-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< pricing-group top=1 bottom=1 >}}
+{{< pricing-table >}}
+  <div class="pricing-table__legend hide-for-desktop">
+    <div class="pricing-table__legend-title">Features vergleichen</div>
+    <div class="pricing-table__legend-plans">
+      <span>P - Personal</span>
+      <span>B - Business</span>
+      <span>E - Enterprise</span>
+    </div>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Signieren</th>
+        <th>
+          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-mobile">Personal</span></th>
+        <th>
+          <span class="hide-for-desktop">B</span>
+          <span class="hide-for-mobile">Business</span>
+        </th>
+        <th>
+          <span class="hide-for-desktop">E</span>
+          <span class="hide-for-mobile">Enterprise</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Qualifizierte elektronische Signatur (QES)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Fortgeschrittene elektronische Signatur (FES)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Einfache elektronische Signatur (EES)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Weltweite Rechtsgültigkeit</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>
+          Elektronisches Siegel (Organisationssignatur)
+          <div class="pricing-table__mobile-details  hide-for-desktop">
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Auf Anfrage</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
+          </div>
+        </td>
+        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
+          <span class="hide-for-mobile">Auf Anfrage</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">Auf Anfrage</span>
+        </td>
+      </tr>
+      <tr>
+        <td>Per E-Mail zum Signieren einladen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Signieren via Smartphone und Desktop</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Externe können ohne Skribble-Konto signieren (EES-Standard)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Externe können ohne Skribble-Konto signieren (alle E-Signatur-Standards, mit API-Anbindung)</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Mehrere Dokumente auf einmal hochladen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Mehrere Dokumente auf einmal signieren</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Visuelle Signatur gestalten und anbringen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Signatureinladung ablehnen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Signatur jemand anderem zuweisen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Fehlende Signierende einladen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr class="no-border hide-for-mobile">
+        <td></td>
+        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" >}}</td>
+        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+      <tr>
+    </tbody>
+  </table>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Personal</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Business</div>
+    {{< button "Jetzt loslegen" "" "" >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Enterprise</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+{{< /pricing-table >}}
+{{< /pricing-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< pricing-group top=1 bottom=1 >}}
+{{< pricing-table >}}
+  <table>
+    <thead>
+      <tr>
+        <th>Verwalten und integrieren</th>
+        <th>
+          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-mobile">Personal</span></th>
+        <th>
+          <span class="hide-for-desktop">B</span>
+          <span class="hide-for-mobile">Business</span>
+        </th>
+        <th>
+          <span class="hide-for-desktop">E</span>
+          <span class="hide-for-mobile">Enterprise</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Zentrale Mitgliederverwaltung</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Administrationsrechte vergeben</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Aktivitätsübersicht</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Anmelden mit Unternehmenskonto (Single-Sign-On, SSO)</td>
+        <td>—</td>
+        <td>—</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Mitarbeitende automatisch hinzufügen (Managed Domains)</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>API-Anbindung</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>API-Schlüssel selbst generieren</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>API-Testing mit Demo-Account</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr class="no-border hide-for-mobile">
+        <td></td>
+        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" >}}</td>
+        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Personal</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Business</div>
+    {{< button "Jetzt loslegen" "" "" >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Enterprise</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+{{< /pricing-table >}}
+{{< /pricing-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< pricing-group top=1 bottom=1 >}}
+{{< pricing-table >}}
+  <table>
+    <thead>
+      <tr>
+        <th>Personalisieren</th>
+        <th>
+          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-mobile">Personal</span></th>
+        <th>
+          <span class="hide-for-desktop">B</span>
+          <span class="hide-for-mobile">Business</span>
+        </th>
+        <th>
+          <span class="hide-for-desktop">E</span>
+          <span class="hide-for-mobile">Enterprise</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen, Ablehnen</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>
+          Erweiterten Anpassungsmöglichkeiten für visuelle Signatur (z.B. QR-Code entfernen)
+          <div class="pricing-table__mobile-details hide-for-desktop">
+            <span>{{< pricing-info >}} CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+          </div>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">CHF 24.– / Jahr<br>CHF 2.50 / Monat</span>
+        </td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>
+          Visuelles Siegel gestalten und anbringen (Organisationssignatur)
+          <div class="pricing-table__mobile-details hide-for-desktop">
+            <span>{{< pricing-info >}} Coming soon</span>
+          </div>
+        </td>
+        <td>—</td>
+        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">Coming soon</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Company Branding mit eigenem Logo
+          <div class="pricing-table__mobile-details hide-for-desktop">
+            <span>{{< pricing-info filled=true >}} CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+          </div>
+        </td>
+        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
+          <span class="hide-for-mobile">CHF 1’500 / Jahr<br>CHF 150 /Monat</span>
+        </td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td>Automatisierte Löschung finalisierter Dokumente nach benutzerdefinierter Frist</td>
+        <td>—</td>
+        <td>—</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr class="no-border hide-for-mobile">
+        <td></td>
+        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" >}}</td>
+        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Personal</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Business</div>
+    {{< button "Jetzt loslegen" "" "" >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Enterprise</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+{{< /pricing-table >}}
+{{< /pricing-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< pricing-group top=1 bottom=1 >}}
+{{< pricing-table >}}
+  <table>
+    <thead>
+      <tr>
+        <th>Service & Support</th>
+        <th>
+          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-mobile">Personal</span></th>
+        <th>
+          <span class="hide-for-desktop">B</span>
+          <span class="hide-for-mobile">Business</span>
+        </th>
+        <th>
+          <span class="hide-for-desktop">E</span>
+          <span class="hide-for-mobile">Enterprise</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Help Center</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>
+          Technischer Support (E-Mail, Telefon, Chat)
+          <div class="pricing-table__mobile-details  hide-for-desktop">
+            <span>{{< pricing-info >}} <strong>P</strong>: Standard</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Standard</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Priority</span>
+          </div>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">Standard</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
+          <span class="hide-for-mobile">Standard</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">Priority</span>
+        </td>
+      </tr>
+      <tr>
+        <td>Nutzungsanleitung für Administratoren</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Customer Success Team</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td>Dedicated Customer Success Manager</td>
+        <td>—</td>
+        <td>—</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Persönlicher Account Executive</td>
+        <td>—</td>
+        <td>—</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Unterstützung beim Onboarding</td>
+        <td>—</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Service Level Agreement (SLA)</td>
+        <td>—</td>
+        <td>—</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>Benutzerdefinierte Rechnungsstellung (z.B. Währung und Rechnungsperiode)</td>
+        <td>—</td>
+        <td>—</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>
+          Security Audits (z.B. Penetration Test)
+          <div class="pricing-table__mobile-details  hide-for-desktop">
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: Auf Anfrage</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: Auf Anfrage</span>
+          </div>
+        </td>
+        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
+          <span class="hide-for-mobile">Auf Anfrage</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">Auf Anfrage</span>
+        </td>
+      </tr>
+      <tr class="no-border hide-for-mobile">
+        <td></td>
+        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" >}}</td>
+        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Personal</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Business</div>
+    {{< button "Jetzt loslegen" "" "" >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Enterprise</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+{{< /pricing-table >}}
+{{< /pricing-group >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< pricing-group top=1 bottom=1 >}}
+{{< pricing-table >}}
+  <table>
+    <thead>
+      <tr>
+        <th>Identifikationsoptionen und -services</th>
+        <th>
+          <span class="hide-for-desktop">P</span>
+          <span class="hide-for-mobile">Personal</span></th>
+        <th>
+          <span class="hide-for-desktop">B</span>
+          <span class="hide-for-mobile">Business</span>
+        </th>
+        <th>
+          <span class="hide-for-desktop">E</span>
+          <span class="hide-for-mobile">Enterprise</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="pricing-table__plan-title">EES</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>E-mail-Adresse</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td class="pricing-table__plan-title">FES</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Schweizer Mobiltelefonnummer</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>E-IDs (Level of Trust 2)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>
+          Firmen-E-Mail-Adresse (FES für Business)
+          <div class="pricing-table__mobile-details  hide-for-desktop">
+            <span>{{< pricing-info filled=true >}} CHF 890.-, einmalig</span>
+          </div>
+        </td>
+        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
+          <span class="hide-for-mobile">CHF 890.-, einmalig</span>
+        </td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td class="pricing-table__plan-title">QES</td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>E-IDs (Level of Trust 3)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr>
+        <td>
+          Identifikation selbst mit ID-App von Swisscom durchführen
+          <div class="pricing-table__mobile-details  hide-for-desktop">
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 1’900.-, einmalig</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 1’900.-, einmalig</span>
+          </div>
+        </td>
+        <td>—</td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
+          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">CHF 1’900.-, einmalig</span>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Remote Identifikation (z.B. online via Video)
+          <div class="pricing-table__mobile-details  hide-for-desktop">
+            <span>{{< pricing-info >}} <strong>P</strong>: CHF 19.-, einmalig</span>
+            <span>{{< pricing-info filled=true >}} <strong>B</strong>: CHF 19.-, einmalig</span>
+            <span>{{< pricing-info >}} <strong>E</strong>: CHF 19.-, einmalig</span>
+          </div>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
+          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+        </td>
+        <td>
+          <span class="hide-for-desktop">{{< pricing-info >}}</span>
+          <span class="hide-for-mobile">CHF 19.-, einmalig</span>
+        </td>
+      </tr>
+      <tr>
+        <td>Persönliche Identifikation (an einem Identifikationsstandort)</td>
+        <td>{{< pricing-check >}}</td>
+        <td>{{< pricing-check filled=true >}}</td>
+        <td>{{< pricing-check >}}</td>
+      </tr>
+      <tr class="no-border hide-for-mobile">
+        <td></td>
+        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" >}}</td>
+        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Personal</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Business</div>
+    {{< button "Jetzt loslegen" "" "" >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+  <div class="pricing-table__btn hide-for-desktop">
+    <div class="pricing-table__plan-title">Enterprise</div>
+    {{< button "Jetzt loslegen" "" "" outline >}}
+    <a class="pricing-table__more" href="">More</a>
+  </div>
+{{< /pricing-table >}}
+{{< /pricing-group >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
