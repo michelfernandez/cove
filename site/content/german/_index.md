@@ -305,7 +305,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=24 bottom=8 width=narrow >}}
+{{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
 ## Über 200 Unternehmen wollen beides: Einfachheit und Sicherheit
 {{% /markdown %}}
@@ -325,9 +325,9 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+## Signieren Sie schneller und 90% günstiger als auf Papier
+Unterschreiben sie mit wenigen Klicks - weltweit 
+rechtsgültig und sicher in der Schweiz gehosted.
 {{% /markdown %}}
 
 {{< button
@@ -341,9 +341,11 @@ Verpflichtung erforderlich.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 Signaturen pro Monat sind kostenlos. 
+Keine Eintrittsgebühr oder Verpflichtung erforderlich.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
