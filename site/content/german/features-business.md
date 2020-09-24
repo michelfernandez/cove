@@ -158,7 +158,7 @@ Wählen Sie das passende Preismodell für Ihre Organisation
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

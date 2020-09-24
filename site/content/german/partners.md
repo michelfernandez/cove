@@ -47,7 +47,7 @@ die unsere Werte und Ziele teilen.
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

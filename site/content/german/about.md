@@ -55,7 +55,7 @@ Der Aufbau vertrauenswürdiger Geschäftsbeziehungen soll so einfach und intuiti
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

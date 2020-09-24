@@ -205,7 +205,7 @@ Nein. Die FES wird auch freigeschaltet, wenn sich jemand mit einer Schweizer Mob
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

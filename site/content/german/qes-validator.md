@@ -81,7 +81,7 @@ Der Rechtsraum wird beim Versenden der Signatur-Einladung gewählt und ist auf d
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

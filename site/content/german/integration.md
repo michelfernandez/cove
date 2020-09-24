@@ -140,7 +140,7 @@ Swiss made Software, das für Qualität, Zuverlässigkeit und Präzision in der 
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

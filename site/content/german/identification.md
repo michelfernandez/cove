@@ -237,7 +237,7 @@ Bei der EES und der FES sind die Anbieter freier. Skribble achtet bei der Auswah
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

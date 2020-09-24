@@ -82,7 +82,7 @@ Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Da
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

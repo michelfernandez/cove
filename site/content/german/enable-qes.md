@@ -416,7 +416,7 @@ Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

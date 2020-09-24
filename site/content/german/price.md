@@ -10,7 +10,7 @@ slug: preise
 {{% markdown %}}
 Signieren Sie einfacher 
 mit dem passenden Preismodell
-===============	
+---
 Skribble eignet sich sowohl für Einzelpersonen 
 als auch für Organisationen, die häufig signieren. 
 {{% /markdown %}}

@@ -89,7 +89,7 @@ Wir freuen uns auf Deine Bewerbung und Deinen CV.
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

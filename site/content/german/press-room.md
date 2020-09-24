@@ -164,7 +164,7 @@ Die wichtigsten Skribble Branding Assets sind gleich hier griffbereit:
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 

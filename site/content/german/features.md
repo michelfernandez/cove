@@ -110,7 +110,7 @@ Unsere Vision ist gross. Wir entwickeln Skribble Tag für Tag weiter.
 {{% markdown center %}}
 Signieren Sie rechtsgültig 
 mit wenigen Klicks
-===============
+---
 Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
