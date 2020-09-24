@@ -307,9 +307,10 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+Signer légalement et électroniquement 
+grâce à Skribble
+===============
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 
 {{< button
@@ -325,8 +326,8 @@ ou engagement n'est requis.
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{% small %}}Aucune carte de crédit, aucun droit d'entrée 
+ou engagement n'est requis.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
-

@@ -237,9 +237,10 @@ Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection 
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+Signer légalement et électroniquement 
+grâce à Skribble
+===============
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 
 {{< button
@@ -249,13 +250,14 @@ ou engagement n'est requis.
 >}}
 {{< button
   "Contacter les ventes"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
   outline
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{% small %}}Aucune carte de crédit, aucun droit d'entrée 
+ou engagement n'est requis.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
