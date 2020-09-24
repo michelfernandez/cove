@@ -257,7 +257,7 @@ und sind sind für jeden Anwendungsfall gerüstet.
 {{% markdown %}}
 
 **Dokumente**
-interner oder informeller Natur mit geringem Haftungsrisiko.
+ohne gesetzliche Formvorschrift mit geringem Haftungsrisiko.
 &nbsp;
 {{% /markdown %}}
     </td>

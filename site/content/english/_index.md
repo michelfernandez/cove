@@ -262,7 +262,7 @@ and are equipped for every application.
     <td>
 {{% markdown %}}
 **Documents**
-that are informal or internal and have a low liability risk.
+without legal form requirement and with low liability risk.
 &nbsp;
 {{% /markdown %}}
     </td>

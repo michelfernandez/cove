@@ -256,7 +256,7 @@ Différents documents, différentes exigences juridiques - Chez Skribble, vous o
 {{% markdown %}}
 
 **Documents**
-informelles ou internes avec un faible risque de responsabilité.
+sans exigence formelle juridique avec un faible risque de responsabilité.
 
 {{% /markdown %}}
     </td>
