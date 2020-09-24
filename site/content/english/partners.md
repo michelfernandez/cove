@@ -45,8 +45,10 @@ who share our values and goals.
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Sign legally valid with 
+a few clicks
+===============
+Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
@@ -60,9 +62,11 @@ No credit card, entrance fee or commitment required.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures per month are free.{{% /small %}}
+{{% small %}}No credit card, entrance fee or commitment required.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+
