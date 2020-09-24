@@ -96,7 +96,7 @@ Sign legally valid in accordance with EU and Swiss law within seconds, regardles
 {{% markdown %}}
 Signing with Skribble
 is 90% cheaper than on paper
-===============
+---
 {{% /markdown %}}
 {{< /content >}}
 
@@ -210,7 +210,7 @@ This makes everyday life easier for us and our customers." {{< /testimonial >}}
 With Skribble you can sign each 
 document electronically 
 in a legally valid manner
-===============
+---
 Different documents, different legal requirements - 
 at Skribble you get all signature standards from one source 
 and are equipped for every application.

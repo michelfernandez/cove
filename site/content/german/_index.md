@@ -93,7 +93,7 @@ Signieren Sie innert Sekunden rechtsgültig nach EU- und Schweizer Recht, ortsun
 {{% markdown %}}
 Signieren mit Skribble
 ist 90% günstiger als auf Papier
-===============
+---
 Nutzen Sie das Potenzial nahtlos digitaler Prozesse.
 {{% /markdown %}}
 {{< /content >}}
@@ -168,7 +168,7 @@ Sie stellen innert Sekunden fest, ob korrekt signiert wurde, ob die Signatur ech
 {{% markdown %}}
 Mit Skribble erfüllen Sie
 die rechtlichen Anforderungen
-===============
+---
 Signieren Sie rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -205,7 +205,7 @@ den Alltag für uns und unseren Kunden." {{< /testimonial >}}
 {{% markdown %}}
 Mit Skribble können Sie 
 jedes Dokument rechtsgültig elektronisch signieren
-===============
+---
 Verschiedene Dokumente, verschiedene rechtliche Anforderungen – 
 bei Skribble erhalten Sie alle Signaturstandards aus einer Hand 
 und sind sind für jeden Anwendungsfall gerüstet.

@@ -91,7 +91,7 @@ Signez en quelques secondes sur votre smartphone ou votre ordinateur, quel que s
 {{% markdown %}}
 Signer avec Skribble
 est 90 % moins cher que sur le papier
-===============
+---
 Utiliser le potentiel des processus numériques continus.
 {{% /markdown %}}
 {{< /content >}}
@@ -168,7 +168,7 @@ En quelques secondes, vous pouvez déterminer si la signature a été signée co
 {{% markdown %}}
 Avec Skribble, vous remplissez 
 les exigences légales
-===============
+---
 Avec Skribble, vous signez légalement et en toute sécurité
 en remplissant les conditions suivantes:
 {{% /markdown %}}
@@ -206,7 +206,7 @@ Skribble et ses partenaires gèrent leurs données conformément à la loi féd�
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
 Avec Skribble, vous pouvez signer chaque document électroniquement et légalement
-===============
+---
 Différents documents, différentes exigences juridiques - Chez Skribble, vous obtenez toutes les normes de signature d'une seule source et vous êtes préparé pour chaque demande.
 {{% /markdown %}}
 {{< /content >}}
