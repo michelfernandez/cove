@@ -79,9 +79,10 @@ Der Rechtsraum wird beim Versenden der Signatur-Einladung gewählt und ist auf d
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig 
+mit wenigen Klicks
+===============
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
@@ -95,9 +96,10 @@ Verpflichtung erforderlich.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}Keine Eintrittsgebühr oder Verpflichtung erforderlich.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
