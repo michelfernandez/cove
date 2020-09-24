@@ -110,7 +110,7 @@ Notre vision est grande. Nous développons Skribble jour après jour.
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

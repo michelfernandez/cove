@@ -83,7 +83,7 @@ L'espace juridique est sélectionné lors de l'envoi de l'invitation à signer e
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

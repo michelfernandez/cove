@@ -82,7 +82,7 @@ Les droits d'auteur et tous les autres droits sur le contenu, les images, les ph
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

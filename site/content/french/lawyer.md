@@ -317,7 +317,7 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

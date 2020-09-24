@@ -56,7 +56,7 @@ Bâtir la confiance dans les relations d'affaires numériques devrait être auss
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

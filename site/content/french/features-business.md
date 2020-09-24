@@ -154,7 +154,7 @@ Choisissez le bon modèle de prix pour votre organisation.
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

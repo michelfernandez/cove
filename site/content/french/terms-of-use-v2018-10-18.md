@@ -44,7 +44,7 @@ En tant qu'utilisateur du système Skribble, vous devez respecter les conditions
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

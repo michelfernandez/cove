@@ -47,7 +47,7 @@ qui partagent nos valeurs et nos objectifs.
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

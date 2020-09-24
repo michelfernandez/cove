@@ -159,7 +159,7 @@ Comment déverrouiller la SEQ sur Skribble
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

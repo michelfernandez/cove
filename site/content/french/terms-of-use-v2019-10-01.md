@@ -62,7 +62,7 @@ Les présentes Conditions d'Utilisation régissent votre utilisation de la Solut
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

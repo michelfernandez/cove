@@ -418,7 +418,7 @@ L'identification personnelle n'est requise que pour signer avec la norme de sign
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

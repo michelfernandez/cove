@@ -322,7 +322,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

@@ -207,7 +207,7 @@ Non. La SEA est également activée lorsqu'une personne s'inscrit avec un numér
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

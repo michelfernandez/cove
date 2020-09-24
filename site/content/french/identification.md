@@ -239,7 +239,7 @@ Avec la SES et la SEA, les fournisseurs sont plus libres. Lors de la sélection 
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 

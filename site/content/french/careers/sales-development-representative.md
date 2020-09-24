@@ -87,7 +87,7 @@ Nous attendons avec impatience votre candidature et votre CV.
 {{% markdown center %}}
 Signer légalement et électroniquement 
 grâce à Skribble
-===============
+---
 Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 
