@@ -110,7 +110,7 @@ Our vision is great. We develop Skribble day by day.
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

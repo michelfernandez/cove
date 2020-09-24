@@ -82,7 +82,7 @@ The copyright and all other rights to content, images, photos or other files on 
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

@@ -87,7 +87,7 @@ We look forward to receiving your application and your CV.
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

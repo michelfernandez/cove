@@ -313,7 +313,7 @@ Not exclusively. Thanks to the visual signature, it can be seen on the printed c
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

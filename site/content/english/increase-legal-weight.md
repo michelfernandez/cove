@@ -156,7 +156,7 @@ This is how you unlock QES on Skribble
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

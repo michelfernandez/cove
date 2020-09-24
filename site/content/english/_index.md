@@ -325,7 +325,7 @@ with legal form requirements or high liability risk.
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

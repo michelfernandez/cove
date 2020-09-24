@@ -45,7 +45,7 @@ As a Skribble user, you must comply with the following principles of lawful use:
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

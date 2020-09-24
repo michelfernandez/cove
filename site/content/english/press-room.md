@@ -162,7 +162,7 @@ The Most Important Skribble Branding Assets are right here at hand:
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

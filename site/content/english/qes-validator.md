@@ -82,7 +82,7 @@ The jurisdiction is selected when sending the signature invitation and is visibl
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

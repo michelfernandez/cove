@@ -57,7 +57,7 @@ These Terms of Use govern your use of the Skribble Cloud Solution (Skribble Serv
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

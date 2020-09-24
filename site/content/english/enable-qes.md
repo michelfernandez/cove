@@ -419,7 +419,7 @@ Personal identification is only required for signing with the highest e-signatur
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 

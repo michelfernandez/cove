@@ -207,7 +207,7 @@ No. AES can also be activated using a Swiss mobile phone number. This second sol
 {{% markdown center %}}
 Sign legally valid with 
 a few clicks
-===============
+---
 Usable worldwide, hosted in Switzerland.
 {{% /markdown %}}
 
