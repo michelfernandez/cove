@@ -20,7 +20,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 {{< pricing-col >}}
   {{< pricing-card
     price=2.50
-    currency=CHF
+    currency=CHF/
     period=Signatur
     small="bis zu einer Obergrenze von CHF 30.-, zzgl. Signaturen von Externen*."
     feature="2 Signaturen pro Monat kostenlos"
@@ -361,7 +361,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
   <table>
     <thead>
       <tr>
-        <th>Fair Flatisieren</th>
+        <th>Personalisieren</th>
         <th>
           <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>
