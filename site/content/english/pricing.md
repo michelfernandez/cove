@@ -26,7 +26,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     period=signature
     small="up to a maximum of CHF 30.-, plus signatures from external parties*."
     feature="2 signatures/ month free of charge"
-    feature-small="*If you invite other people to sign, an additional amount of CHF 2.00 to 2.50 per signature is added."
+    feature-small="*If you invite other people to sign, an additional CHF 2.00 to 2.50 per signature is added."
     cta-label="Get started"
     cta-href="https://my.skribble.com/signup/"
     cta-target=""
