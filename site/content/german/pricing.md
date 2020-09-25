@@ -9,7 +9,7 @@ slug: preise
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Pläne und Preise
-Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgültig, gesichert gemäss höchsten Datenschutzstandards in der Schweiz.
+Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgültig, gesichert gemäss höchsten Datenschutzstandards in der Schweiz.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -20,7 +20,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 {{< pricing-col >}}
   {{< pricing-card
     price=2.50
-    currency=CHF
+    currency=CHF/
     period=Signatur
     small="bis zu einer Obergrenze von CHF 30.-, zzgl. Signaturen von Externen*."
     feature="2 Signaturen pro Monat kostenlos"
@@ -51,7 +51,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
   {{< pricing-card
     featured=true
     price=85
-    currency=CHF
+    currency=CHF/
     period=Monat
     small="bei jährlicher Abrechnung (CHF 1’020.-/Jahr) bei monatlicher Abrechnung: CHF 100.-/Monat"
     feature="600 Signaturen pro Jahr inklusive"
@@ -361,7 +361,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
   <table>
     <thead>
       <tr>
-        <th>Fair Flatisieren</th>
+        <th>Personalisieren</th>
         <th>
           <span class="hide-for-desktop">F</span>
           <span class="hide-for-mobile">Fair Flat</span></th>

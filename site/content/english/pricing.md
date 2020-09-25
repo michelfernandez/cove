@@ -22,11 +22,11 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
 {{< pricing-col >}}
   {{< pricing-card
     price=2.50
-    currency=CHF
-    period=Signatur
-    small="up to an upper limit of CHF 30, plus signatures from external parties*."
+    currency=CHF/
+    period=signature
+    small="up to a maximum of CHF 30.-, plus signatures from external parties*."
     feature="2 signatures/ month free of charge"
-    feature-small="*If you invite others to sign, a further CHF 2.00 to 2.50 per signature is added."
+    feature-small="*If you invite other people to sign, an additional CHF 2.00 to 2.50 per signature is added."
     cta-label="Get started"
     cta-href="https://my.skribble.com/signup/"
     cta-target=""
@@ -54,7 +54,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   {{< pricing-card
     featured=true
     price=85
-    currency=CHF
+    currency=CHF/
     period=Month
     small="for annual billing (CHF 1,020/year) for monthly billing: CHF 100/month"
     feature="600 signatures per year included"
