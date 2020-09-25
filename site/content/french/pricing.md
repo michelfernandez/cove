@@ -21,19 +21,19 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
 
 {{< pricing-col >}}
   {{< pricing-card
-    price=12
-    currency=CHF
-    period=Mois
-    small="pour la facturation annuelle (CHF 144.-/an), pour la facturation mensuelle : CHF 16.-/mois"
-    feature="60 signatures par an incluses"
-    feature-small="Des signatures supplémentaires sont exigées : CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
+    price=2.50
+    currency=CHF/
+    period=signature
+    small="jusqu'à un plafond de CHF 30.- par mois, plus les signatures des parties externes*."
+    feature="2 signatures par mois gratuites"
+    feature-small="*Si vous invitez d'autres personnes à signer, 2.00 à 2.50 CHF par signature est ajouté."
     cta-label="Démarrer"
     cta-href="https://my.skribble.com/signup/?lang=fr"
     cta-target=""
     more=""
   >}}
   {{% markdown %}}
-  ## Personnel
+  ## Fair Flat
   Pour les particuliers, 
   qui apprécient un travail efficace.
   &nbsp;
@@ -54,8 +54,8 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   {{< pricing-card
     featured=true
     price=85
-    currency=CHF
-    period=Mois
+    currency=CHF/
+    period=mois
     small="pour la facturation annuelle (1 020 CHF/an) pour la facturation mensuelle : 100 CHF/mois"
     feature="600 signatures par an incluses"
     feature-small="Des signatures supplémentaires sont exigées : CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
