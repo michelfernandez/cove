@@ -55,7 +55,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     featured=true
     price=85
     currency=CHF/
-    period=Month
+    period=month
     small="for annual billing (CHF 1,020/year) for monthly billing: CHF 100/month"
     feature="600 signatures per year included"
     feature-small="Additional signatures will be charged for: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
