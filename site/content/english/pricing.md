@@ -21,19 +21,19 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
 
 {{< pricing-col >}}
   {{< pricing-card
-    price=12
+    price=2.50
     currency=CHF
-    period=Month
-    small="for annual billing (CHF 144.-/year), for monthly billing: CHF 16.-/month"
-    feature="60 signatures per year included"
-    feature-small="Additional signatures will be charged for: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
+    period=Signatur
+    small="up to an upper limit of CHF 30, plus signatures from external parties*."
+    feature="2 signatures/ month free of charge"
+    feature-small="*If you invite others to sign, a further CHF 2.00 to 2.50 per signature is added."
     cta-label="Get started"
     cta-href="https://my.skribble.com/signup/"
     cta-target=""
     more=""
   >}}
   {{% markdown %}}
-  ## Personal
+  ## Fair Flat
   For individuals, 
   appreciate efficient work.
   &nbsp;
@@ -59,9 +59,9 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
     small="for annual billing (CHF 1,020/year) for monthly billing: CHF 100/month"
     feature="600 signatures per year included"
     feature-small="Additional signatures will be charged for: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
-    cta-label="Get started"
-    cta-href="https://my.skribble.com/signup/"
-    cta-target=""
+    cta-label="Contact Sales"
+    cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+    cta-target="_blank"
     more=""
   >}}
   {{% markdown %}}
@@ -116,7 +116,7 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
   <div class="pricing-table__legend hide-for-desktop">
     <div class="pricing-table__legend-title">Features vergleichen</div>
     <div class="pricing-table__legend-plans">
-      <span>P - Personal</span>
+      <span>F - Fair Flat</span>
       <span>B - Business</span>
       <span>E - Enterprise</span>
     </div>
@@ -126,8 +126,8 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       <tr>
         <th>Signieren</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -243,26 +243,23 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+        <td>{{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}</td>
       <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    <div class="pricing-table__plan-title">Fair Flat</div>
+    {{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -276,8 +273,8 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       <tr>
         <th>Verwalten und integrieren</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -339,26 +336,23 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    <div class="pricing-table__plan-title">Fair Flat</div>
+    {{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -372,8 +366,8 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       <tr>
         <th>Personalisieren</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -441,26 +435,23 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    <div class="pricing-table__plan-title">Fair Flat</div>
+    {{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -474,8 +465,8 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       <tr>
         <th>Service & Support</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -577,26 +568,23 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    <div class="pricing-table__plan-title">Fair Flat</div>
+    {{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
@@ -610,8 +598,8 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       <tr>
         <th>Identifikationsoptionen und -services</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -727,26 +715,23 @@ With Skribble you sign your contracts within seconds - globally legally valid, s
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
-      </tr>
+        <td>{{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}</td>
+        <td>{{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}</td>
+      <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    <div class="pricing-table__plan-title">Fair Flat</div>
+    {{< button "Get started" "https://my.skribble.com/signup/" "" outline >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Business</div>
-    {{< button "Jetzt loslegen" "" "" >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" >}}
   </div>
   <div class="pricing-table__btn hide-for-desktop">
     <div class="pricing-table__plan-title">Enterprise</div>
-    {{< button "Jetzt loslegen" "" "" outline >}}
-    <a class="pricing-table__more" href="">More</a>
+    {{< button "Contact Sales" "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws" "_blank" outline >}}
   </div>
 {{< /pricing-table >}}
 {{< /pricing-group >}}
