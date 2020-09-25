@@ -24,6 +24,8 @@ $ns: card;
   }
 
   &__img {
+    display: flex;
+    justify-content: center;
     + .#{$ns}__content {
       margin-top: 24px;
     }
