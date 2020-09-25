@@ -19,19 +19,19 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
 
 {{< pricing-col >}}
   {{< pricing-card
-    price=12
+    price=2.50
     currency=CHF
-    period=Monat
-    small="bei jährlicher Abrechnung (CHF 144.-/Jahr), bei monatlicher Abrechnung: CHF 16.-/Monat"
-    feature="60 Signaturen pro Jahr inklusive"
-    feature-small="Zusätzliche Signaturen werden verrechnet mit: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
+    period=Signatur
+    small="bis zu einer Obergrenze von CHF 30.-, zzgl. Signaturen von Externen*."
+    feature="2 Signaturen pro Monat kostenlos"
+    feature-small="*Laden Sie andere zum Signieren ein, kommen weitere CHF 2.00 bis 2.50 pro Signatur hinzu."
     cta-label="Jetzt loslegen"
     cta-href="https://my.skribble.com/signup/?lang=de"
     cta-target=""
     more=""
   >}}
   {{% markdown %}}
-  ## Personal
+  ## Fair Flat
   Für Einzelpersonen, 
   die effiziente Arbeit schätzen.
   {{% /markdown %}}
@@ -56,9 +56,9 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
     small="bei jährlicher Abrechnung (CHF 1’020.-/Jahr) bei monatlicher Abrechnung: CHF 100.-/Monat"
     feature="600 Signaturen pro Jahr inklusive"
     feature-small="Zusätzliche Signaturen werden verrechnet mit: CHF 1.20 (EES), CHF 1.70 (FES), CHF 2.50 (QES)."
-    cta-label="Jetzt loslegen"
-    cta-href="https://my.skribble.com/signup/?lang=de"
-    cta-target=""
+    cta-label="Sales kontaktieren"
+    cta-href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+    cta-target="_blank"
     more=""
   >}}
   {{% markdown %}}
@@ -99,7 +99,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
   - Persönlicher Account Executive und Priority Support
   - Service Level Agreement (SLA) mit Hochverfügbarkeits-Garantie
   - Single-Sign-On für einfachen Zugang aller Mitarbeitenden
-  - Erweiterte Optionen für Branding und Personalisierung
+  - Erweiterte Optionen für Branding und Fair Flatisierung
   {{% /markdown %}}
   {{< /pricing-highlights >}}
 {{< /pricing-col >}}
@@ -113,7 +113,7 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
   <div class="pricing-table__legend hide-for-desktop">
     <div class="pricing-table__legend-title">Features vergleichen</div>
     <div class="pricing-table__legend-plans">
-      <span>P - Personal</span>
+      <span>F - Fair Flat</span>
       <span>B - Business</span>
       <span>E - Enterprise</span>
     </div>
@@ -123,8 +123,8 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       <tr>
         <th>Signieren</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -240,14 +240,14 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" "https://my.skribble.com/signup/?lang=de" "" outline >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" outline >}}</td>
       <tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -273,8 +273,8 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       <tr>
         <th>Verwalten und integrieren</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -336,14 +336,14 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" "https://my.skribble.com/signup/?lang=de" "" outline >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" outline >}}</td>
       </tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -367,10 +367,10 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
   <table>
     <thead>
       <tr>
-        <th>Personalisieren</th>
+        <th>Fair Flatisieren</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -438,14 +438,14 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" "https://my.skribble.com/signup/?lang=de" "" outline >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" outline >}}</td>
       </tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -471,8 +471,8 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       <tr>
         <th>Service & Support</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -574,14 +574,14 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" "https://my.skribble.com/signup/?lang=de" "" outline >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" outline >}}</td>
       </tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -607,8 +607,8 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       <tr>
         <th>Identifikationsoptionen und -services</th>
         <th>
-          <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-desktop">F</span>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -724,14 +724,14 @@ Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgült
       </tr>
       <tr class="no-border hide-for-mobile">
         <td></td>
-        <td>{{< button "Jetzt loslegen" "" "" outline >}}</td>
-        <td>{{< button "Jetzt loslegen" >}}</td>
-        <td>{{< button "Sales kontaktieren" "" "" outline >}}</td>
+        <td>{{< button "Jetzt loslegen" "https://my.skribble.com/signup/?lang=de" "" outline >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" >}}</td>
+        <td>{{< button "Sales kontaktieren" "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws" "_blank" outline >}}</td>
       </tr>
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
