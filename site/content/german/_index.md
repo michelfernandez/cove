@@ -113,7 +113,7 @@ Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion un
 {{< card icon="icons/reduce-cost.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Kosten reduzieren
-Sie senken ihre Ausgaben beim Signieren um bis zu 90% durch effizientere Prozesse und geringere Direktkosten.
+Sie senken Ihre Ausgaben beim Signieren um bis zu 90% durch effizientere Prozesse und geringere Direktkosten.
 {{% /markdown %}}
 {{< /card >}}
 
