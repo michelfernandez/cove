@@ -312,7 +312,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
   {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
-  {{< logos-item src="logos/baggenstos-178w.svg" alt="Baggenstos">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/easyjet-130w.svg" alt="EasyJet">}}
 {{< /logos-container >}}
 
