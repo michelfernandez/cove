@@ -9,7 +9,7 @@ slug: preise
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 # Pläne und Preise
-Mit Skribble signieren Sie ihre Verträge innert Sekunden – global rechtsgültig, gesichert gemäss höchsten Datenschutzstandards in der Schweiz.
+Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgültig, gesichert gemäss höchsten Datenschutzstandards in der Schweiz.
 {{% /markdown %}}
 {{< /content >}}
 
