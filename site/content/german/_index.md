@@ -120,7 +120,7 @@ Sie senken Ihre Ausgaben beim Signieren um bis zu 90% durch effizientere Prozess
 {{< card icon="icons/efficient-signing.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Effizienter arbeiten
-Sie ermöglichen ihren Mitarbeitenden, Kunden und Partnern zeitsparende, papierfreie Prozesse ohne Medienbrüche.
+Sie ermöglichen Ihren Mitarbeitenden, Kunden und Partnern zeitsparende, papierfreie Prozesse ohne Medienbrüche.
 {{% /markdown %}}
 {{< /card >}}
 
