@@ -116,7 +116,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
   <div class="pricing-table__legend hide-for-desktop">
     <div class="pricing-table__legend-title">Features vergleichen</div>
     <div class="pricing-table__legend-plans">
-      <span>P - Personal</span>
+      <span>P - Fair Flat</span>
       <span>B - Business</span>
       <span>E - Enterprise</span>
     </div>
@@ -127,7 +127,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
         <th>Signieren</th>
         <th>
           <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -250,7 +250,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -277,7 +277,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
         <th>Verwalten und integrieren</th>
         <th>
           <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -346,7 +346,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -373,7 +373,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
         <th>Personalisieren</th>
         <th>
           <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -448,7 +448,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -475,7 +475,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
         <th>Service & Support</th>
         <th>
           <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -584,7 +584,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
@@ -611,7 +611,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
         <th>Identifikationsoptionen und -services</th>
         <th>
           <span class="hide-for-desktop">P</span>
-          <span class="hide-for-mobile">Personal</span></th>
+          <span class="hide-for-mobile">Fair Flat</span></th>
         <th>
           <span class="hide-for-desktop">B</span>
           <span class="hide-for-mobile">Business</span>
@@ -734,7 +734,7 @@ Avec Skribble, vous signez vos contrats en quelques secondes - valables légalem
     </tbody>
   </table>
   <div class="pricing-table__btn hide-for-desktop">
-    <div class="pricing-table__plan-title">Personal</div>
+    <div class="pricing-table__plan-title">Fair Flat</div>
     {{< button "Jetzt loslegen" "" "" outline >}}
     <a class="pricing-table__more" href="">More</a>
   </div>
