@@ -68,7 +68,7 @@ Laden Sie das signierbereite PDF-Dokument direkt via Browser hoch oder integrier
 {{< card img="invite" img-width=300 img-alt="Person mit einem Plus zum Einladen" >}}
 {{% markdown %}}
 ### Signierende einladen
-Laden Sie interne oder externe Signierende per E-Mail ein und wählen sie den E-Signatur-Standard, mit dem signiert werden soll.
+Laden Sie interne oder externe Signierende per E-Mail ein und wählen Sie den E-Signatur-Standard, mit dem signiert werden soll.
 {{% /markdown %}}
 {{< /card >}}
 
@@ -126,14 +126,14 @@ Sie ermöglichen Ihren Mitarbeitenden, Kunden und Partnern zeitsparende, papierf
 {{< card icon="icons/minimize-risk.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Risiken minimieren
-Sie arbeiten mit anerkannten, weltweit rechtsgültigen Standards. Ihre Daten sind auf Bankestanlevel in der Schweiz gesichert.
+Sie arbeiten mit anerkannten, weltweit rechtsgültigen Standards. Ihre Daten sind auf Bankenstandard in der Schweiz gesichert.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/responsive.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Überall signieren
-Vom Mitarbeiter im Home Office bis zum Lieferanten in Asien – Sie signieren ortsunabhängig, auf dem Smartphone oder am Computer.
+Vom Mitarbeitenden im Home Office bis zum Lieferanten in Asien – Sie signieren ortsunabhängig auf dem Smartphone oder am Computer.
 {{% /markdown %}}
 {{< /card >}}
 
@@ -178,11 +178,11 @@ Skribble arbeitet mit gesetzlich definierten E-Signatur-Standards: Die qualifizi
 {{% /collapsible %}}
 
 {{% collapsible 2 "Schriftlichkeitserfordernis gemäss BGB/OR" "check" %}}
-Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Signatur gleichgestellt gemäss nationalen Gesetzgebungen in der EU und der Schweizer (z.B. BGB in Deutschland oder OR in der Schweiz).
+Die auf Skribble verfügbare qualifizierte elektronische Signatur (QES) ist der handschriftlichen Unterschrift gleichgestellt gemäss nationalen Gesetzgebungen in der EU und der Schweiz (z.B. BGB in Deutschland oder OR in der Schweiz).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Datenschutz gemäss DSG/DSGVO" "check" %}}
-Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den Datenschutz (DSG) sowie der europäischen Datenschutz-Grundverordnung (DSGVO) und hosten diese in der Schweiz nach Bankenstandard.
+{{% collapsible 3 "Datenschutz gemäss DSG/ DSGVO" "check" %}}
+Skribble sowie Partner verwalten Ihre Daten gemäss der europäischen Datenschutz-Grundverordnung (DSGVO) sowie dem Bundesgesetz über den Datenschutz (DSG) und hosten diese in der Schweiz auf Bankenstandard.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -196,7 +196,7 @@ Skribble sowie Partner verwalten ihre Daten gemäss dem Bundesgesetz über den D
 
 {{< testimonial "testimonial/fr-logo-99w.svg" "Stéphane Schwab, Leiter E-Government, Kanton Freiburg" >}}
 "Dank Skribble können wir Administrationsprozesse von A bis Z digitalisieren. Das erleichtert
-den Alltag für uns und unseren Kunden." {{< /testimonial >}}
+den Alltag für uns und unsere Kunden." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -206,7 +206,7 @@ Mit Skribble können Sie
 jedes Dokument rechtsgültig elektronisch signieren
 ---
 Verschiedene Dokumente, verschiedene rechtliche Anforderungen – 
-bei Skribble erhalten Sie alle Signaturstandards aus einer Hand 
+bei Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand 
 und sind sind für jeden Anwendungsfall gerüstet.
 {{% /markdown %}}
 {{< /content >}}
@@ -289,7 +289,7 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 >}}
 
 {{% markdown %}}
-**Auf Skribble haben Sie die Wahl zwischen den Signaturstandards QES, FES und EES.**
+**Auf Skribble haben Sie die Wahl zwischen den E-Signatur-Standards QES, FES und EES.**
 {{% /markdown %}}
 {{< /cta >}}
 
