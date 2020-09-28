@@ -106,7 +106,7 @@ Nutzen Sie das Potenzial nahtlos digitaler Prozesse.
 {{< card icon="icons/faster-signing.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Schneller abschliessen
-Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klichs signieren.
+Innert Sekunden verfügen alle Beteiligten über die aktuelle Vertragsversion und können sie mit wenigen Klicks signieren.
 {{% /markdown %}}
 {{< /card >}}
 
