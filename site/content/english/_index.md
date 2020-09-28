@@ -45,7 +45,7 @@ Usable worldwide, hosted in Switzerland.
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
@@ -86,9 +86,8 @@ Sign legally valid in accordance with EU and Swiss law within seconds, regardles
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place."
-{{< /testimonial >}}
+{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Skribble has given me enormous peace of mind in my daily work. We can now get contracts with affiliates in Austria, Central & Eastern Europe signed in a timely and more secure manner." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -310,7 +309,7 @@ with legal form requirements or high liability risk.
 {{< /content >}}
 
 {{< logos-container top=12 bottom=24 width=wide title="">}}
-  {{< logos-item src="logos/swisscanto-178w.svg" alt="Swisscanto">}}
+  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
   {{< logos-line-break >}}

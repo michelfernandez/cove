@@ -40,7 +40,7 @@ Utilisable dans le monde entier, hébergé en Suisse.
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
@@ -81,9 +81,8 @@ Signez en quelques secondes sur votre smartphone ou votre ordinateur, quel que s
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-"Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
-{{< /testimonial >}}
+{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Skribble m'a apporté une énorme tranquillité d'esprit dans mon travail quotidien. Nous pouvons désormais obtenir la signature de contrats avec des affiliés en Autriche, en Europe centrale et orientale, en temps voulu et de manière plus sûre" {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
@@ -307,7 +306,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 {{< /content >}}
 
 {{< logos-container top=12 bottom=24 width=wide title="">}}
-  {{< logos-item src="logos/swisscanto-178w.svg" alt="Swisscanto">}}
+  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
   {{< logos-line-break >}}

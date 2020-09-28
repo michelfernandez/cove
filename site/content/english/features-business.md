@@ -50,8 +50,9 @@ Skribble Business customers sign organised as a group - with
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/uniqa-100w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
-"Skribble has given me enormous peace of mind in my daily work. We can now get contracts with affiliates in Austria, Central & Eastern Europe signed in a timely and more secure manner." {{< /testimonial >}}
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place."
+{{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
