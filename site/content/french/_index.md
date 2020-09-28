@@ -88,7 +88,7 @@ Signez par simple pression d’un bouton, indépendamment de l’heure et du lie
 {{< content top=20 bottom=6 text=center width=narrow >}}
 {{% markdown %}}
 Signer avec Skribble
- est 90 % moins cher que sur papier
+est 90 % moins cher que sur papier
 ---
 Utilisez le potentiel des processus numériques continus.
 {{% /markdown %}}
@@ -103,6 +103,7 @@ Utilisez le potentiel des processus numériques continus.
 {{% markdown %}}
 ### Conclure plus rapidement
 En quelques secondes, toutes les parties concernées disposent de la version actuelle du contrat et peuvent le signer en quelques clics.
+{{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/reduce-cost.svg" icon-width=44 >}}
