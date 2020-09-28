@@ -359,13 +359,27 @@ Vous trouverez ci-après un récapitulatif des cookies que nous utilisons ainsi 
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Signer légalement et électroniquement 
+grâce à Skribble
+---
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
-  "https://my.skribble.com/signup?lang=en"
+  "Démarrer"
+  "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
+{{< button
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
+  "_blank"
+  outline
+>}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}Test gratuit, 
+aucun droit d'entrée ou engagement.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}

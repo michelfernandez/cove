@@ -79,8 +79,9 @@ Utilisable dans le monde entier, hébergé en Suisse.
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Aucune carte de crédit, aucun droit d'entrée 
-ou engagement n'est requis.{{% /small %}} 
+{{% small %}}Test gratuit, 
+aucun droit d'entrée ou engagement.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+
