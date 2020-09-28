@@ -149,7 +149,7 @@ Sie stellen innert Sekunden fest, ob korrekt signiert wurde, ob die Signatur ech
 
 {{< content top=10 bottom=20 text=center >}}
 {{< button
-  "Alle Funktionen anzeigen"
+  "Features anzeigen"
   "de/features"
   ""
   "outline">}}
