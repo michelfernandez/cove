@@ -1,7 +1,7 @@
 ---
 # ENGLISH HOME PAGE
 
-title: Skribble – Legally binding electronic signatures with Skribble
+title: Skribble – Legally binding electronic signatures
 description: Easily handle digital signature processes – worldwide usage, hosted in Switzerland
 draft: false
 
@@ -16,8 +16,8 @@ testimonial:
 
 {{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="three people sign an electronic document" >}}
 {{% markdown %}}
-# Legally valid electronic signature with Skribble
-Worldwide usage, hosted in Switzerland
+# Sign electronically with Skribble
+Legally valid worldwide, securely hosted in Switzerland.
 
 **Frequently used for:**
 - Employment contracts
