@@ -2,7 +2,7 @@
 # ENGLISH HOME PAGE
 
 title: Skribble – Legally binding electronic signatures with Skribble
-description: Easily handle digital signature processes – legally binding in accordance with Swiss & EU law.
+description: Easily handle digital signature processes – worldwide usage, hosted in Switzerland
 draft: false
 
 # testimonial component
@@ -17,12 +17,12 @@ testimonial:
 {{< intro top=24 bottom=12 width=wide img=image1 img-width=678 img-alt="three people sign an electronic document" >}}
 {{% markdown %}}
 # Legally valid electronic signature with Skribble
-Usable worldwide, hosted in Switzerland.
+Worldwide usage, hosted in Switzerland
 
-**Commonly used for:**
+**Frequently used for:**
 - Employment contracts
 - Sales contracts
-- Annual accounts
+- Annual financial statements
 {{% /markdown %}}
 {{< button
   "Get started"
@@ -55,8 +55,8 @@ Usable worldwide, hosted in Switzerland.
 {{< content text=center top=12 width=narrow >}}
 {{% markdown %}}
 ## How to sign with Skribble
-The simplest way to legally valid signatures 
-of documents with and without formal requirements.
+The easiest way to legally sign documents,
+with or without formal requirements.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -65,20 +65,20 @@ of documents with and without formal requirements.
 {{< card img="upload" img-width=300 img-alt="PDF Dokument zum Hochladen" >}}
 {{% markdown %}}
 ### Upload documents
-Upload the ready-to-sign PDF document directly via browser or integrate Skribble into your company software via API.
+Upload the PDF document directly via browser or use Skribble via API from your business software.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card img="invite" img-width=300 img-alt="Person mit einem Plus zum Einladen" >}}
 {{% markdown %}}
 ### Invite signers
-Invite internal or external signatories by e-mail and select the e-signature standard to be used for signing.
+Invite internal and external signatories by e-mail and select the e-signature standard to be used for signing.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card img="sign" img-width=300 img-alt="Dokument mit einem Signier-Button" >}}
 {{% markdown %}}
-### Sign with one click
+### Sign at the push of a button
 Sign legally valid in accordance with EU and Swiss law within seconds, regardless of location, on your smartphone or computer.
 {{% /markdown %}}
 {{< /card >}}
@@ -93,9 +93,10 @@ Sign legally valid in accordance with EU and Swiss law within seconds, regardles
 
 {{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
-Signing with Skribble
-is 90% cheaper than on paper
+Sign with Skribble and
+save 90% compared to signing on paper
 ---
+Use the potential of seamless digital processes.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -106,43 +107,43 @@ is 90% cheaper than on paper
 {{< card-group top=1 width=wide >}}
 {{< card icon="icons/faster-signing.svg" icon-width=44 >}}
 {{% markdown %}}
-### Faster completion
-Within seconds, all parties involved have the current version of the contract and can sign it with a few clicks.
+### Get contracts signed faster
+Within seconds, all parties can access the most current version of the contract and sign it with just a few clicks.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/reduce-cost.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Reduce costs
-They reduce their signing expenses by up to 90% through more efficient processes and lower direct costs.
+Thanks to more efficient processes and the reduction of direct costs, the cost for signing documents is reduced by up to 90%.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/efficient-signing.svg" icon-width=44 >}}
 {{% markdown %}}
-### Work more efficient
-They provide their employees, customers and partners with time-saving, paperless processes without media breaks.
+### Work more efficiently
+Enable your employees, customers and partners to save time with paperless processes without media disruption.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/minimize-risk.svg" icon-width=44 >}}
 {{% markdown %}}
-### Minimize risks
-They work with recognised standards that are legally valid worldwide. Your data is secured at banking level in Switzerland.
+### Minimise risks
+We work with e-signature standards that are recognised and legally valid worldwide. Your data is secured at highest security standards in Switzerland.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/responsive.svg" icon-width=44 >}}
 {{% markdown %}}
-### Sign anywhere
-From home office employees to suppliers in Asia - you sign wherever you are, on your smartphone or computer.
+### Sign from anywhere
+From employees in the home office to suppliers in Asia – you can sign anywhere using your smartphone or computer.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/auto-check.svg" icon-width=44 >}}
 {{% markdown %}}
-### Check automatically
-You can check within seconds whether the signature has been signed correctly, whether the signature is genuine and whether the document has not been modified.
+### Instant verification
+You can verify within seconds whether the signature is correct and genuine and whether the document has been altered.
 {{% /markdown %}}
 {{< /card >}}
 {{< /card-group >}}
@@ -175,16 +176,16 @@ to the following requirements:
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "E-signature standards according to eIDAS/ZertES" "check" %}}
+{{% collapsible 1 "E-signature standards according to eIDAS/ ZertES" "check" %}}
 Skribble works with legally defined e-signature standards: The qualified electronic signature (QES), the advanced electronic signature (AES) and the simple electronic signature (SES).
 {{% /collapsible %}}
 
-{{% collapsible 2 "Requirement of written form according to BGB/OR" "check" %}}
+{{% collapsible 2 "Requirement of written form according to BGB/ OR" "check" %}}
 The qualified electronic signature (QES) available on Skribble is legally equivalent to a handwritten signature in the EU and Switzerland (eg. BGB in Germany or OR in Switzerland).
 {{% /collapsible %}}
 
-{{% collapsible 3 "Data protection according to FADP/GDPR" "check" %}}
-Skribble and its signing partner Swisscom commit to manage data in accordance with the Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR). Moreover, all data is hosted in Switzerland according to banking standards.
+{{% collapsible 3 "Data protection according to GDPR/ FADP " "check" %}}
+Skribble and its signing partner Swisscom commit to manage data in accordance with the General Data Protection Regulation (GDPR) and the Federal Act on Data Protection (FADP). Moreover, all data is hosted in Switzerland according to banking standards.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -206,13 +207,11 @@ This makes everyday life easier for us and our customers." {{< /testimonial >}}
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-With Skribble you can sign each 
-document electronically 
-in a legally valid manner
+Wit Skribble, you can
+legally sign any document electronically
 ---
-Different documents, different legal requirements - 
-at Skribble you get all signature standards from one source 
-and are equipped for every application.
+Different documents, different legal requirements –
+at Skribble, you get access to all available e-signature standards from a single source, and you are prepared for every situation.
 
 {{% /markdown %}}
 {{< /content >}}
@@ -290,7 +289,7 @@ with legal form requirements or high liability risk.
 >}}
 
 {{% markdown %}}
-**On Skribble you can choose between the signature standards QES, AES and SES.**
+**On Skribble you can choose between the e-signature standards QES, AES and SES.**
 {{% /markdown %}}
 {{< /cta >}}
 
@@ -304,7 +303,8 @@ with legal form requirements or high liability risk.
 
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
-## Over 250 companies demand both: simplicity and security
+## More than 250 companies want both: Simplicity and security
+
 {{% /markdown %}}
 {{< /content >}}
 
@@ -325,7 +325,7 @@ with legal form requirements or high liability risk.
 Sign legally valid with 
 a few clicks
 ---
-Usable worldwide, hosted in Switzerland.
+Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
@@ -342,8 +342,8 @@ Usable worldwide, hosted in Switzerland.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Try it out for free, 
-without entrance fee or commitment.{{% /small %}} 
+{{% small %}}Try it out for free. 
+No entry fee. No obligation.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
