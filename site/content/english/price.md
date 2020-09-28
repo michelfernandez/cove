@@ -281,7 +281,8 @@ Usable worldwide, hosted in Switzerland.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}No credit card, entrance fee or commitment required.{{% /small %}} 
+{{% small %}}Try it out for free, 
+without entrance fee or commitment.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
