@@ -2,7 +2,7 @@
 # GERMAN HOME PAGE
 
 title: Skribble – Rechtsgültig elektronisch signieren
-description: Signaturprozesse einfach digital abwickeln – Rechtsgültig nach dem Schweizer & EU-Gesetz.
+description: Signaturprozesse nahtlos digital abwickeln – weltweit einsetzbar, gehosted in der Schweiz.
 draft: false
 
 ---
