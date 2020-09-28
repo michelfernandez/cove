@@ -157,9 +157,10 @@ En quelques secondes, vous pouvez déterminer si la signature a été signée co
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
-"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement."
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu."
 {{< /testimonial >}}
+
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -160,8 +160,8 @@ You can check within seconds whether the signature has been signed correctly, wh
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer of Helvetia Schweiz" >}}
-"At Helvetia, we require 'wet' signatures in many areas; in life insurance, for example, but also in internal processes. With Skribble, we are able to completely digitalise these processes."
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+"Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place."
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

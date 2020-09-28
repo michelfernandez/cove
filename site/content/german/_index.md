@@ -157,8 +157,8 @@ Sie stellen innert Sekunden fest, ob korrekt signiert wurde, ob die Signatur ech
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
-"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
+«Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
