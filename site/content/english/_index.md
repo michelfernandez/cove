@@ -152,7 +152,7 @@ You can verify within seconds whether the signature is correct and genuine and w
 
 {{< content top=10 bottom=20 text=center >}}
 {{< button
-  "Show all features"
+  "Show features"
   "features"
   ""
   "outline"
