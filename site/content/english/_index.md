@@ -42,10 +42,10 @@ Usable worldwide, hosted in Switzerland.
 
 {{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 250 companies with the highest requirements for data protection and security:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
@@ -342,7 +342,8 @@ Usable worldwide, hosted in Switzerland.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}No credit card, entrance fee or commitment required.{{% /small %}} 
+{{% small %}}Try it out for free, 
+without entrance fee or commitment.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

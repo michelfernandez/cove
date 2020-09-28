@@ -313,7 +313,8 @@ Weltweit einsetzbar, gehosted in der Schweiz.
 
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Keine Eintrittsgebühr oder Verpflichtung erforderlich.{{% /small %}} 
+{{% small %}}Kostenlos testen, 
+ohne Eintrittsgebühr oder Verpflichtung.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

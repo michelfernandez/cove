@@ -37,10 +37,10 @@ Utilisable dans le monde entier, hébergé en Suisse.
 
 {{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 250 entreprises ayant les plus hauts standards de protection des données et de sécurité :">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
@@ -338,8 +338,8 @@ Utilisable dans le monde entier, hébergé en Suisse.
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}Aucune carte de crédit, aucun droit d'entrée 
-ou engagement n'est requis.{{% /small %}} 
+{{% small %}}Test gratuit, 
+aucun droit d'entrée ou engagement.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
