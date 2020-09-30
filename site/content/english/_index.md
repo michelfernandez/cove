@@ -93,8 +93,8 @@ Sign legally valid in accordance with EU and Swiss law within seconds, regardles
 
 {{< content text=center top=20 width=narrow >}}
 {{% markdown %}}
-Sign with Skribble and
-save 90% compared to signing on paper
+Sign with Skribble and save 90% 
+compared to signing on paper
 ---
 Use the potential of seamless digital processes.
 {{% /markdown %}}
