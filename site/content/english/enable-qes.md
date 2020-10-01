@@ -13,9 +13,7 @@ og_image: og/og-skribble-identification.jpg
 Maximise the legal weight 
 of your electronic signature
 ===============	
-Enable the highest e-signing standard (QES) by getting 
-yourself identified online via video-call or by personal contact 
-with the ID app by Swisscom.
+Enable the highest e-signing standard (QES) by having your identity verified online via video (for signing according to EU law) or face-to-face (for signing according to Swiss law).
 {{% /markdown %}}
 {{< /content >}}
 
@@ -23,7 +21,7 @@ with the ID app by Swisscom.
 
 {{< side-by-side top=12 bottom=24 width=narrow mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 {{% markdown %}}
-Online identification 
+EU: Online identification 
 via video
 ===============
 The identification is offered in cooperation with our partners Swisscom Trust Services and IdentityTM.  
@@ -41,11 +39,11 @@ The identification is offered in cooperation with our partners Swisscom Trust Se
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Identification 
-by personal contact
+Switzerland: Face-to-face
+identification
 ===============
-Enable the highest e-signing standard (QES) by getting yourself identified
-by personal contact with the Swisscom ID app.
+Stop by at one of our locations.
+We will identify you free of charge within a few minutes.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -80,7 +78,7 @@ Get your identitiy verified and the data stored securely
 {{< picture "identification-step-4" 270 "A person holds a legal document in their hands. The Swisscom logo is in the background" >}}
 {{% markdown %}}
 **Step 4**
-The legal weight of your signature is raised to 100% (QES level)
+The QES will be enabled for you on Skribble.
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
@@ -108,21 +106,20 @@ Together with our partner Swisscom Trust Services, we offer a growing number of 
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## All clear?
+## Questions?
 {{% /markdown %}}
 {{< /content >}}
 
 {{< content top=6 width=narrow >}}
-{{% collapsible 1 "Maximise the legal weight of your electronic signature" %}}
-At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For this, the law requires an identity verification through personal contact. Exceptions are financial intermediaries who may carry out identity verification using video identification.{{< /collapsible >}}
+{{% collapsible 1 "Why is identification necessary?" %}}
+At Skribble you sign with the qualified electronic signature (QES). This is [the highest e-signature standard](/signaturestandards). For the QES, the law requires a face-to-face identity verification.{{< /collapsible >}}
 
 {{% collapsible 2 "Do I have to be identified again before each QES signature?" %}}
-No. Your e-ID is valid for 5 years or until the expiry of the document of identification you presented during identification.
+No. Identity verification is performed once and is valid for 5 years or until the identity document used for the identification expires.
 {{< /collapsible >}}
 
-{{% collapsible 3 "Which identification documents can I use for identification?" %}}
-A valid passport or identity card. All other forms of identification
-such as a residence permit or driving licence are not sufficient.
+{{% collapsible 3 "Which identity documents are accepted?" %}}
+A valid passport or an identity card. Documents such as residence permit or driving licence are not accepted.
 {{< /collapsible >}}
 
 {{% collapsible 4 "Where are the data of the identified users stored?" %}}

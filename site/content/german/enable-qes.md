@@ -13,9 +13,7 @@ og_image: og/og-skribble-identification.jpg
 Maximieren Sie die Beweiskraft 
 Ihrer E-Signatur
 ===============
-Die (QES) schalten Sie frei, in dem Sie sich online 
-via Video-Call oder im persönlichen Kontakt 
-mit der ID-App von Swisscom identifizieren lassen.
+Die qualifizierte elektronische Signatur (QES) schalten Sie frei, in dem Sie sich online via Video (zum Signieren nach EU-Recht) oder im persönlichen Kontakt (zum Signieren nach Schweizer Recht) identifizieren lassen.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -23,7 +21,7 @@ mit der ID-App von Swisscom identifizieren lassen.
 
 {{< side-by-side top=12 width=narrow bottom=24 mobile-top=6 mobile-bottom=12 img=qes-increase img-position=left img-width=315 img-alt="A man is sitting in front of a laptop, above him is a software window, where a woman stands out with a big magnifying glass and checks an identity card." >}}
 {{% markdown %}}
-Video-Identifikation 
+EU: Video-Identifikation 
 online
 ===============
 Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Services und IdentityTM angeboten. 
@@ -42,11 +40,11 @@ Die Identifikation wird in Zusammenarbeit mit unseren Partnern Swisscom Trust Se
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-Identifikation 
+Schweiz: Identifikation 
 im persönlichen Kontakt
 ===============
-Die QES schalten Sie frei, in dem Sie sich im persönlichen Kontakt
-mit der ID-App von Swisscom identifizieren lassen.
+Kommen Sie an einem unserer Identifikationsstandorte vorbei.
+Wir identifizieren Sie kostenlos innert weniger Minuten.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -81,7 +79,7 @@ Lassen Sie Ihre Identität überprüfen und die Daten sicher speichern
 {{< picture "identification-step-4" 270 "Eine person hält ein rechtsgültiges dokument in den händen. Im hintergrund befindet sich das swisscom logo" >}}
 {{% markdown %}}
 **Schritt 4**
-Die Beweiskraft Ihrer Signatur wird auf 100% angehoben (QES-Level)
+Die QES wird auf Skribble für Sie freigeschaltet
 {{% /markdown %}}
 {{< /step >}}
 {{< /content >}}
@@ -115,7 +113,7 @@ Zusammen mit unserem Partner Swisscom Trust Services bieten wir eine wachsende Z
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Was bringt mir die Identifikation?" %}}
-Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: Die qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
+Auf Skribble haben Sie die Möglichkeit, mit dem [höchsten verfügbaren E-Signatur-Standard](/de/signaturstandards) zu signieren: der qualifizierten elektronischen Signatur (QES). Diese hat eine Beweiskraft von 100% und kann für Verträge eingesetzt werden, die die Schriftlichkeit verlangen. Für die QES verlangt das Gesetz eine Identitätsprüfung.
 {{% /collapsible %}}
 
 {{% collapsible 2 "Muss ich mich vor jeder QES-Signatur neu identifizieren lassen?" %}}
@@ -123,7 +121,7 @@ Nein. Ihre E-ID ist 5 Jahre lang gültig oder bis zum Ablauf des Ausweises, den 
 {{% /collapsible %}}
 
 {{% collapsible 3 "Welche Ausweisdokumente kann ich für die Identifikation nutzen?" %}}
-Ein gültiger Pass oder eine gültige Identitätskarte. Alle anderen Ausweise wie der Ausländerausweis oder Führerschein reichen nicht aus.
+Ein gültiger Reisepass/Personalausweis oder eine gültige Identitätskarte. Alle anderen Ausweise wie der Ausländerausweis oder Führerschein reichen nicht aus.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Wo werden die Daten der identifizierten Personen gespeichert?" %}}
