@@ -359,13 +359,29 @@ Im Folgenden finden Sie eine Zusammenfassung der von uns verwendeten Cookies, di
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Signieren Sie rechtsgültig 
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
-  "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  "Jetzt loslegen"
+  "https://my.skribble.com/signup?lang=de"
+  ""
 >}}
+{{< button
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "_blank"
+  outline
+>}}
+
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.
+{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}
+

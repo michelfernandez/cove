@@ -359,13 +359,27 @@ The following is a summary of the cookies we use, which should inform you about 
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Sign legally valid with 
+a few clicks
+---
+Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
-  "Try it now"
+  "Get started"
   "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  ""
 >}}
+{{< button
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
+  "_blank"
+  outline
+>}}
+
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
 {{< /outro >}}
