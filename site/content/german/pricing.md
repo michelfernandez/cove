@@ -526,7 +526,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Dedicated Customer Success Manager</td>
+        <td>Persönlicher Customer Success Manager</td>
         <td>—</td>
         <td>—</td>
         <td>{{< pricing-check >}}</td>
