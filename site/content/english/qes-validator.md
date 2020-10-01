@@ -76,8 +76,6 @@ The jurisdiction is selected when sending the signature invitation and is visibl
 {{< /content >}}
 
 
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
 {{< outro >}}
 {{% markdown center %}}
 Sign legally valid with 

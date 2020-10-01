@@ -1,27 +1,24 @@
 ---
-title: Signature électronique pour juristes
-description: Avec Skribble vous signez sans matériel supplémentaire avec la signature électronique qualifiée (SEQ). Toutes les parties contractantes signent en parallèle.
+title: Signature électronique pour les conseillers fiscaux
+description: Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée – du bilan jusqu’aux comptes annuels et à la planification fiscale.
 draft: false
-slug: juristes
+slug: conseillers-fiscaux
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-lawyer.jpg
+og_image: og/og-skribble-tax-advisors.jpg
 
 ---
-
-{{< intro top=24 bottom=12 width=wide img=vertical-lawyer-main img-width=560 img-alt="L'un traite de différents processus contractuels" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Trois femmes tiennent un contrat entre leurs mains" >}}
 {{% markdown %}}
 Signature électronique 
-pour juristes
+pour les conseillers fiscaux
 ===============
-Avec Skribble vous signez sans clé USB ou lecteur de carte
-avec la plus haute norme de signature électronique (SEQ).
+Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée.
 
 **Souvent utilisé pour:**
-- Procurations et accords de confidentialité
-- Traités internationaux
-- Soumissions aux autorités
-
+- Comptes annuels
+- Régime fiscal
+- Contrats clients 
 {{% /markdown %}}
 {{< button
   "Démarrer"
@@ -40,78 +37,64 @@ avec la plus haute norme de signature électronique (SEQ).
 
 {{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 250 entreprises ayant les plus hauts standards de protection des données et de sécurité :">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
-  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
-  {{< logos-line-break >}}
-  {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
+  {{< logos-line-break >}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 img=legal-01 mobile-top=12 mobile-bottom=6 img-position=right img-width=500 img-alt="2 signataires sont invités et peuvent automatiquement signer ensemble." >}}
+{{< side-by-side top=16 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Un contrat et deux personnes signant ensemble." >}}
 {{% markdown %}}
-## Toutes les parties contractantes signent numériquement
-Parties contractantes multiples: au lieu de s'envoyer des contrats par la poste, elles signent toutes en ligne, ce qui leur fait gagner du temps.
+## Plus d'efficacité pour les conseillers fiscaux et leurs clients
+Le détour par l'imprimante et le papier est éliminé: au lieu d'envoyer le bilan et les comptes annuels par la poste, le conseiller fiscal et client signent électroniquement en quelques secondes.
 
-- Inviter à signer automatiquement
-par e-mail (bientôt disponible)
-- Vue d'ensemble de toutes les signatures
-entrantes et sortantes
-- Etre averti automatiquement lorsque
-le contrat a été signé
+- Inviter à signer par e-mail
+- Les clients sans compte Skribble peuvent utiliser le lien d'invitation pour signer
+- Confirmer la signature par téléphone mobile - pas de clé USB ni de Smart Carte requise
+- En quelques secondes, il peut être vérifié s’il a été signé correctement
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=24 mobile-top=6 mobile-bottom=6 img=legal-02 img-width=500 img-alt="Plusieurs documents peuvent être signés en un seul clic." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="Un processus de bout en bout montre qui a signé numériquement quand." >}}
 {{% markdown %}}
-## Complétez la pile avec une seule signature
-Dossier de signature numérique: collectez vos contrats numériquement et signez-les simultanément en quelques clics. Grâce au standard SEQ, vous n'avez pas besoin d'une clé USB ou d'un lecteur de carte.
+## Plus facile qu'avec du papier et un stylo
+Signer avec Skribble est intuitif et se fait en quelques secondes. Vous permettez à vos employés et à vos clients des processus numériques qui permettent d’économiser du temps et de l'argent.
 
-- Signature par lots pour un nombre
-quelconque de contrats
-- Authentification à deux facteurs par téléphone
-mobile – aucun matériel externe requis
-- Indépendamment de l'heure et du lieu
+- Aperçu de toutes les signatures reçues et en suspens
+- Signer en une fois plusieurs documents avec la signature par lots
+- Signez où que vous soyez, sur votre smartphone ou votre ordinateur - au bureau à domicile, en déplacement ou à la maison
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/kellerhalscarrard-124w.svg" "Beat Brechbuehl, Managing Partner Kellerhals Carrhard" >}}
-"Nos clients peuvent être servis plus rapidement et nos avocats gagnent du temps - l'utilisation de la technologie pour améliorer l'efficacité est l'une des priorités des cabinets d'avocats".
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=525 img-alt="Les documents peuvent être soumis aux autorités." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="En fonction de la carte de contrat, la norme de signature appropriée peut être utilisée pour signer." >}}
 {{% markdown %}}
-## Faites des soumissions aux autorités en ligne
-Des modifications du registre du commerce
-aux requêtes judiciaires: il n'est pas nécessaire d'imprimer, d'envoyer ou de scanner.
+## Applicable pour tout document et tout mandat
+Différents documents, différentes exigences juridiques – avec Skribble, tout type de document peut être légalement signé, y compris les comptes annuels, les planifications fiscaux et les déclarations de décharge.
 
-- Intégration parfaite avec PrivaSphere
-(A venir fin 2019)
-- Reconnu pour la communication entre les cabinets d'avocats et les autorités/ tribunaux en Suisse
-- Economiser du temps et de l'argent
+- Légalement valable pour les contrats avec et sans exigence de forme écrite
+- Utilisation interne et externe dans le monde entier
+- Normes de sécurité les plus élevées et protection des données en Suisse à un niveau de sécurité égal à celui des banques.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=legal-04 img-width=500 img-alt="Un cercle montre comment je peux signer à partir de mon nuage." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="Un cercle montre comment je peux signer depuis mon nuage." >}}
 {{% markdown %}}
-## Aucun nouveau logiciel requis
-Restez avec des outils familiers: connectez-vous directement via votre navigateur ou signez
-à partir de vos programmes existants.
+## Restez avec des outils et des processus familiers
+Intégrez Skribble dans le logiciel de votre cabinet ou signez directement par le navigateur. Les clients peuvent signer avec n'importe quel système d'exploitation par un lien d'invitation.
 
-- Signer directement via le navigateur
-- Intégrer Skribble comme plug-in dans
-les solutions sectorielles
-- Intégrer parfaitement via des API modernes
+- Intégration parfaite grâce à des API modernes
+- L'embarquement des employés et des clients est simple et rapide
+- Apparence familière grâce à une signature visuelle personnalisable
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -119,9 +102,9 @@ les solutions sectorielles
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Avec Skribble, vous répondez aux exigences des procédures légales
-Avec Skribble, vous signez légalement et en toute sécurité
-en remplissant les conditions suivantes:
+## Avec Skribble, vous répondez aux exigences légales
+Avec Skribble, vous pouvez signer numériquement et légalement 
+et satisfaire aux exigences légales suivantes:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -135,7 +118,7 @@ La signature électronique qualifiée (SEQ) de Skribble équivaut à la signatur
 {{% /collapsible %}}
 
 {{% collapsible 3 "Protection des données selon RGPD/ LPD" "check" %}}
-Skribble et ses partenaires gèrent leurs données conformément au réglement européen sur la protection des données (RGPD) et à la loi fédérale sur la protection des données (LPD) et les hébergent en Suisse conformément aux normes bancaires.
+Skribble et ses partenaires gèrent leurs données conformément au réglement européen sur la protection des données (RGPD) er à la loi fédérale sur la protection des données (LPD) et les hébergent en Suisse conformément aux normes bancaires.
 {{% /collapsible %}}
 {{< /content >}}
 
@@ -143,33 +126,9 @@ Skribble et ses partenaires gèrent leurs données conformément au réglement e
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Nos clients s'amusent bien
-Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/altenburger-152w.svg" "Roland Köchli, partenaire Altenburger Legal + Tax" >}}
-"L'impression constante de documents et l'obtention de signatures nous coûtent beaucoup de temps et d'argent. La solution de Skribble est parfaite, car elle nous rapproche d'un pas de géant vers une numérisation complète de tous les processus".
-{{< /testimonial >}}
-
-{{< cta
-  label="Télécharger le cas d'utilisation"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/Altenburger_Skribble_Use-Case_FR.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Téléchargez le cas d'utilisation Altenburger:**
-{{% /markdown %}}
-{{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
-{{% markdown %}}
-## Avec Skribble, vous pouvez signer chaque document légalement électroniquement
-Différents documents, différentes exigences juridiques - avec Skribble, vous obtenez toutes les normes de signature d’une seule source et sont équipés pour chaque cas d’utilisation.
+## Toutes les normes de signature d'une seule source
+La loi distingue trois normes de signature électronique. Elles varient
+en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les trois.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -255,7 +214,7 @@ avec exigences formelles juridiques ou avec un risque de responsabilité fort.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=16 bottom=4 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## Est-ce que ça va?
 {{% /markdown %}}
@@ -270,8 +229,8 @@ Le centre de données Skribble est situé en Suisse et est certifié ISO 270001 
 L'identification personnelle n'est requise que pour signer avec la norme de signature électronique (QES) la plus élevée. Si vous n'avez pas encore été identifié en contact personnel, vous signez soit avec une signature électronique simple (SES), soit avec une signature électronique avancée (AES).
 {{% /collapsible %}}
 
-{{% collapsible 12 "Ai-je besoin de matérield'un hardware supplémentaire pour signer avec Skribble?" %}}
-Non. Vous n'avez ni besoin d'une clé USB ni d'un lecteur de carte pour signer avec Skribble. L'authentification à deux facteurs s'effectue avec Skribble via téléphone mobile (Mobile ID ou mot de passe à usage unique).
+{{% collapsible 12 "Est-ce que signer avec Skribble est légalement sécurisé?" %}}
+Oui. Sur Skribble, vous pouvez choisir le standard de signature électronique le plus élevé du marché: la signature électronique qualifiée SEQ. Celle-ci a une valeur probante de 100% devant un tribunal.
 {{% /collapsible %}}
 
 {{% collapsible 13 "Puis-je conserver le contrat signé numériquement sur papier?" %}}
@@ -284,16 +243,15 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 
 {{< outro >}}
 {{% markdown center %}}
-Signer légalement et électroniquement 
-avec Skribble
----
-Utilisable dans le monde entier, hébergé en Suisse.
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
   "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
-  ""
+  "_blank"
 >}}
 {{< button
   "Contacter les ventes"
@@ -301,7 +259,6 @@ Utilisable dans le monde entier, hébergé en Suisse.
   "_blank"
   outline
 >}}
-
 {{< content top=6 >}}
 {{< markdown center >}}
 {{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 

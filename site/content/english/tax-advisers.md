@@ -1,28 +1,26 @@
 ---
-title: Sign electronically in HR with Skribble
-description: With Skribble you sign legally and easily in a digital way – from employment contracts to certificates and wage statements.Finish the pile with only one signature!
+title: Electronic signature for tax advisers
+description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
 draft: false
-slug: hr
+slug: tax-advisers
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-hr.jpg
+og_image: og/og-skribble-tax-advisors.jpg
 
 ---
 
-{{< intro top=24 bottom=12 width=wide img=vertical-hr-main img-width=560 img-alt="Three women holding a document in their hands" >}}
-
+{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Three women hold a contract in their hands" >}}
 {{% markdown %}}
-Sign electronically 
-in HR
+Electronic signature 
+for tax advisers
 ===============
-With Skribble you sign legally and easily in a digital way.
+With Skribble, you and your clients can sign faster and more securely.  
 
 **Frequently used for:**
-- Employment contracts
-- Certificates
-- Hourly wage contracts
+- Financial statements
+- Tax arrangements
+- Client contracts
 {{% /markdown %}}
-
 {{< button
   "Get started"
   "https://my.skribble.com/signup"
@@ -41,79 +39,77 @@ With Skribble you sign legally and easily in a digital way.
 
 {{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 250 companies with the highest requirements for data protection and security:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 img=hr-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Sign multiple documents with one click." >}}
+{{< side-by-side top=16 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="A contract and two people signing together." >}}
 {{% markdown %}}
-## Finish the pile with only one signature
-New employment contracts for everyone: the authorised signatory no longer signs hundreds of contracts by hand, but signs them all at once with Skribble's batch signature.
+## Greater efficiency for tax advisers and their clients
+The printer-and-paper way is no longer necessary: instead of posting annual financial statements and balance sheets back and forth, tax advisers and their clients can sign electronically within seconds. 
 
-- Batch signature for any number of employment contracts
-- Automatically invite employees to sign employment contracts by e-mail
-- Overview of all completed and outstanding signatures
+- Invite to sign by e-mail
+- Clients without Skribble account can use the invitation link to sign
+- Signature confirmation via mobile phone – no USB stick or smart card required
+- Verify in seconds whether the document has been signed correctly
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=16 mobile-top=6 mobile-bottom=6 img=hr-2 img-width=500 img-alt="Collaborate more quickly in the recruitment process, where contracts can be signed immediately." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
 {{% markdown %}}
-## Candidates sign digitally without delay
-Efficient onboarding: you have a better chance of being chosen as an employer and HR administration becomes easier, faster and cheaper.
+## Easier than pen and paper
+Signing with Skribble is intuitive and done in seconds. With Skribble, you enable your employees and clients to seamlessly implement digital processes that save time and money.
 
-- Legally valid for any type of employment contract
-- No loss of time due to postal mailing
-- Get notified automatically when the employment contract has been signed
+- Overview of all received and pending signatures
+- Sign multiple documents at once with batch signature
+- Sign from anywhere using your smartphone or computer – from home, on the go, or in the office
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Moving towards more remote work, regular contract renewals and dual signature requirements resulted in an extremely time-consuming signing process built around a lot of paperwork. Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place.»
-{{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=hr-3 img-position=right img-width=500 img-alt="Increase employee efficiency through digital documents." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
-## Empower employees to work more efficiently
-Digitalisation enabler: HR enables the workforce to sign electronically and can manage their everyday work with less bureaucracy.
+## Suitable for any document and client
+Different documents, different requirements. With Skribble, you can legally sign any type of document – from financial statements to tax arrangements and declarations of consent.
 
-- Digital processing of work reports, lay-offs, applications, etc.
-- Get signatures from authorised signatories via e-mail
-- Download contracts ready for archiving in recognized PDF X/A format
+- Valid for contracts with and without written form requirement
+- Worldwide usage with both internal and external parties
+- Highest security and data protection standards hosted in Switzerland
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=hr-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
-## No new software required
-Stay with familiar tools: sign directly via your browser or from your existing software.
+## Keep your existing tools and workflows
+Integrate Skribble into your law firm software, or sign directly from your browser. Clients can sign using the invitation link in any operating system.
 
-- Sign directly via your browser
-- Integrate Skribble as a plug-in into SAP and other industry solutions
-- Seamless integration via modern APIs
+- Seamless integration through modern API
+- Effortless and fast onboarding of employees and clients
+- Keep the look and feel of your handwritten signature thanks to the customisable visual signature
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=8 botom=24 width=narrow >}}
+{{< content text=center top=16 botom=24 width=narrow >}}
 {{% markdown %}}
-## Skribble complies with the legal requirements for HR processes
-You sign with legal effect and securely in accordance
-with the following requirements:
+Skribble complies with 
+the legal requirements 
+for tax advisers
+===
+With Skribble you sign legally and securely according
+to the following requirements:
 {{% /markdown %}}
 {{< /content >}}
 
@@ -135,35 +131,9 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Our customers have a good time
-How we at Skribble make everyday life easier for our customers.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/easyjet-150w.png" "Sarah Jackson, Country HR & Administration Manager easyJet" >}}
-"In the fast moving HR environment, it is important to be as efficient as possible. Constantly on the move between various locations, working with people who do not always work normal office hours, Skribble has helped a lot."
-{{< /testimonial >}}
-
-{{< cta
-  label="Download use case"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Use%20Cases/asyJet_Skribble_Use-Case_EN.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Download the easyJet use case:**
-{{% /markdown %}}
-{{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-
-{{< content text=center top=16 width=narrow >}}
-{{% markdown %}}
-## Wit Skribble, you can legally sign any document electronically
-Different documents, different legal requirements –
-at Skribble, you get access to all available e-signature standards from a single source, and you are prepared for every situation.
+## All available e-signature standards from a single source
+The law distinguishes between three e-signature standards.
+They vary in terms of area of application and legal weight.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -240,16 +210,13 @@ with legal form requirements or high liability risk.
 
 {{% markdown %}}
 **At Skribble you have the choice
-between the signature standards SES, AES and QES.**
+between the e-signature standards EES, AES and QES.**
 {{% /markdown %}}
-
 {{< /cta >}}
-
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content text=center top=20 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
 ## All clear?
 {{% /markdown %}}
@@ -278,16 +245,14 @@ Not exclusively. Thanks to the visual signature, it can be seen on the printed c
 
 {{< outro >}}
 {{% markdown center %}}
-Sign legally valid with 
-a few clicks
----
-Worldwide usage, hosted in Switzerland.
+## Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
   "Get started"
   "https://my.skribble.com/signup?lang=en"
-  ""
+  "_blank"
 >}}
 {{< button
   "Contact Sales"
@@ -295,10 +260,9 @@ Worldwide usage, hosted in Switzerland.
   "_blank"
   outline
 >}}
-
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures per month are free.{{% /small %}} 
+{{% small %}}2 signatures per month are free.{{% /small %}}
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
