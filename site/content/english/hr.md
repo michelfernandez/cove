@@ -161,7 +161,7 @@ How we at Skribble make everyday life easier for our customers.
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Wit Skribble, you can legally sign any document electronically
+## With Skribble, you can legally sign any document electronically
 Different documents, different legal requirements –
 at Skribble, you get access to all available e-signature standards from a single source, and you are prepared for every situation.
 {{% /markdown %}}
