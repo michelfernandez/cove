@@ -207,7 +207,7 @@ This makes everyday life easier for us and our customers." {{< /testimonial >}}
 
 {{< content top=24 text=center width=narrow >}}
 {{% markdown %}}
-Wit Skribble, you can
+With Skribble, you can
 legally sign any document electronically
 ---
 Different documents, different legal requirements –
