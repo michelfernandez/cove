@@ -15,8 +15,7 @@ og_image: og/og-skribble-lawyer.jpg
 Electronic signature 
 for lawyers
 ===============
-With Skribble you sign without USB stick or card reader
-with the highest e-signing standard (QES).
+With Skribble you sign without USB stick or card reader with the highest e-signing standard (QES).
 
 **Frequently used for:**
 - Powers of attorney and NDA's
