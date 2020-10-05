@@ -423,13 +423,13 @@ with the highest data protection standards in Switzerland.
         <td>
           Company branding with own logo
           <div class="pricing-table__mobile-details hide-for-desktop">
-            <span>{{< pricing-info filled=true >}} CHF 1’500/ year<br>CHF 150/month</span>
+            <span>{{< pricing-info filled=true >}} CHF 1’500/ year</span>
           </div>
         </td>
         <td>—</td>
         <td>
           <span class="hide-for-desktop">{{< pricing-info filled=true >}}</span>
-          <span class="hide-for-mobile">CHF 1’500/ year<br>CHF 150/ month</span>
+          <span class="hide-for-mobile">CHF 1’500/ year</span>
         </td>
         <td>—</td>
       </tr>
