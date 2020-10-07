@@ -36,13 +36,13 @@ Weltweit einsetzbar, gehosted in der Schweiz.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="Die erste Wahl von mehr als 250 Unternehmen mit höchsten Ansprüchen an Datenschutz und Sicherheit:">}}
+{{< logos-container top=12 bottom=24 width=wide title="The first choice of more than 250 companies with the highest requirements for data protection and security:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
+  {{< logos-item src="logos/datev-60w.svg" alt="Datev">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
-  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
+  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
@@ -311,12 +311,12 @@ mit gesetzlicher Formvorschrift oder hohem Haftungsrisiko.
 {{< /content >}}
 
 {{< logos-container top=12 bottom=24 width=wide title="">}}
-  {{< logos-item src="logos/twint-116w.svg" alt="Twint">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
-  {{< logos-line-break >}}
-  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
+  {{< logos-item src="logos/datev-60w.svg" alt="Datev">}}
   {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
+  {{< logos-line-break >}}
+  {{< logos-item src="logos/altenburger-170w.svg" alt="Altenburger">}}
+  {{< logos-item src="logos/kellerhalscarrard-100w.svg" alt="Kellerhals Carrard">}}
   {{< logos-item src="logos/easyjet-130w.svg" alt="EasyJet">}}
 {{< /logos-container >}}
 
