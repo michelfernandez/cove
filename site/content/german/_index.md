@@ -83,7 +83,7 @@ Signieren Sie innerhalb von Sekunden rechtsgültig nach EU- und Schweizer Recht,
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/uniqa-95w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
 "Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

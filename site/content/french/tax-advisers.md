@@ -131,7 +131,7 @@ Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
 {{% /markdown %}}
 {{< /content >}}
 
-{{< testimonial "testimonial/uniqa-95w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
 "Skribble m'a apporté une énorme tranquillité d'esprit dans mon travail quotidien. Nous pouvons désormais obtenir la signature de contrats avec des affiliés en Autriche, en Europe centrale et orientale, en temps voulu et de manière plus sûre" {{< /testimonial >}}
 
 {{< cta
