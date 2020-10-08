@@ -15,7 +15,8 @@ og_image: og/og-skribble-hr.jpg
 Sign electronically 
 in HR
 ===============
-With Skribble you sign legally and easily in a digital way.
+With Skribble you sign legally and easily 
+in a digital way.
 
 **Frequently used for:**
 - Employment contracts
