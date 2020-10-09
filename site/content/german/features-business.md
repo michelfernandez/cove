@@ -42,7 +42,7 @@ mit zentraler Mitgliederverwaltung und gemeinsamer Abrechnung.
     description="Sehen Sie die aktuellen und alle vergangenen Rechnungen jederzeit ein.">}}
 {{< /features-container >}}
 
-{{< content text=center top=4 bottom=12 width=narrow >}}
+{{< content text=center top=4 bottom=8 width=narrow >}}
 {{% markdown %}}
 {{% /markdown %}}
 {{< /content >}}
@@ -89,9 +89,35 @@ Das Onboarding neuer Signierenden ist intuitiv und schnell.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=8 bottom=4 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Organisationsweite Einführung ist einfach und schnell
+## Unser Kunden haben gut lachen {#altenburger}
+Wie wir den Alltag unserer Kunden erleichtern.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
+
+{{< cta
+  label="Download Use-Case"
+  href="https://f.hubspotusercontent40.net/hubfs/5051692/Factstheets/Use%20Cases/UniqaRE_Skribble_Use-Case_DE.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Laden Sie den UNIQA Re Use-Case herunter:**
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 bottom=4 width=narrow >}}
+{{% markdown %}}
+Organisationsweite Einführung 
+ist einfach und schnell
+---
 Befähigen Sie neue und bestehende Mitarbeitende in kürzester Zeit
 zum elektronischen Signieren. Wählen Sie den Onboarding-Prozess, der zu Ihrem Anspruch an Beweiskraft bzw. zum gewünschten Signatur-Standard passt.
 {{% /markdown %}}
@@ -133,25 +159,6 @@ Geeignet für Verträge mit Formvorschrift.
 
 {{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
 "Wir sind stolz, dass das Freizügigkeitskonto bei uns dank Skribble komplett digital eröffnet werden kann. Skribble liefert uns mit der fortgeschrittenen elektronischen Signatur eine sichere Lösung mit hoher Beweiskraft." {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
-{{% markdown %}}
-## Ideales Kosten-Nutzen-Verhältnis
-Wählen Sie das passende Preismodell für Ihre Organisation
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-<br>
-{{< center >}}
-{{< button
-  "Preismodelle vergleichen"
-  "de/preise"
-  ""
-  "outline">}}
-{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

@@ -125,30 +125,6 @@ Skribble sowie Partner verwalten Ihre Daten gemäss der europäischen Datenschut
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Unser Kunden haben gut lachen {#altenburger}
-Wie wir den Alltag unserer Kunden erleichtern.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
-"Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
-
-{{< cta
-  label="Download Use-Case"
-  href="https://f.hubspotusercontent40.net/hubfs/5051692/Factstheets/Use%20Cases/UniqaRE_Skribble_Use-Case_DE.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Laden Sie den UNIQA Re Use-Case herunter:**
-{{% /markdown %}}
-{{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
-{{% markdown %}}
 ## Mit Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand
 Das Gesetz unterscheidet drei E-Signatur-Standards. Sie variieren
 punkto Einsatzgebiet und Beweiskraft. 

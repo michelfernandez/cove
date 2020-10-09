@@ -43,7 +43,7 @@ avec une administration centrale des membres et une facturation commune.
     description="Visualisez les factures actuelles et toutes les factures passées à tout moment.">}}
 {{< /features-container >}}
 
-{{< content text=center bottom=12 width=narrow >}}
+{{< content text=center bottom=8 width=narrow >}}
 {{% markdown %}}
 {{% /markdown %}}
 {{< /content >}}
@@ -85,12 +85,38 @@ L'intégration des nouveaux signataires est intuitive et rapide.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## La mise en œuvre à l'échelle de l'organisation est simple et rapide
-Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration
-qui correspond à vos exigences en matière de force probante
-ou à la norme de signature souhaitée.
+## Nos clients s'amusent bien
+Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Skribble m'a apporté une énorme tranquillité d'esprit dans mon travail quotidien. Nous pouvons désormais obtenir la signature de contrats avec des affiliés en Autriche, en Europe centrale et orientale, en temps voulu et de manière plus sûre" {{< /testimonial >}}
+
+{{< cta
+  label="Télécharger le cas d'utilisation"
+  href="https://f.hubspotusercontent40.net/hubfs/5051692/Factstheets/Use%20Cases/UniqaRE_Skribble_Use-Case_FR.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Téléchargez le cas d'utilisation UNIQA Re:**
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+La mise en œuvre à l'échelle 
+de l'organisation est simple 
+et rapide
+---
+Permettez aux nouveaux employés et aux employés actuels de signer électroniquement dans les plus brefs délais. Choisissez le processus d'intégration qui correspond à vos exigences en matière de force probante ou à la norme 
+de signature souhaitée.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -129,25 +155,6 @@ Services d'identification pour les plus hautes exigences en matière de force pr
 
 {{< testimonial "testimonial/swisscanto-300w.svg" "Swisscanto Freizügigkeits-Stiftungen" >}}
 "Nous sommes fiers que le compte de libre passage puisse être ouvert entièrement numériquement chez nous grâce à Skribble. Avec sa signature électronique avancée, Skribble nous offre une solution sécurisée à haute force probante". {{< /testimonial >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=16 width=narrow >}}
-{{% markdown %}}
-## Rapport coût-bénéfice idéal
-Choisissez le bon modèle de prix pour votre organisation.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-<br>
-{{< center >}}
-{{< button
-  "Comparer les modèles tarifaires"
-  "fr/tarifs"
-  ""
-  "outline">}}
-{{< /center >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 

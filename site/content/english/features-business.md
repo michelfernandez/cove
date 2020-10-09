@@ -43,7 +43,7 @@ Skribble Business customers sign organised as a group - with
     description="View the current and all past invoices at any time.">}}
 {{< /features-container >}}
 
-{{< content text=center top=4 bottom=12 width=narrow >}}
+{{< content text=center top=4 bottom=8 width=narrow >}}
 {{% markdown %}}
 {{% /markdown %}}
 {{< /content >}}
@@ -91,9 +91,35 @@ The onboarding of new signers is intuitive and fast.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< content text=center top=12 width=narrow >}}
+{{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Organisation-wide implementation is simple and fast
+## Our customers have a good time
+How we at Skribble make everyday life easier for our customers.
+{{% /markdown %}}
+{{< /content >}}
+
+{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Skribble has given me enormous peace of mind in my daily work. We can now get contracts with affiliates in Austria, Central & Eastern Europe signed in a timely and more secure manner." {{< /testimonial >}}
+
+{{< cta
+  label="Download use case"
+  href="https://f.hubspotusercontent40.net/hubfs/5051692/Factstheets/Use%20Cases/UniqaRE_Skribble_Use-Case_EN.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Download the UNIQA Re use case:**
+{{% /markdown %}}
+{{< /cta >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=24 width=narrow >}}
+{{% markdown %}}
+Organisation-wide implementation 
+is simple and fast
+---
 Enable new and existing employees to sign electronically
 in the shortest possible time. Choose the onboarding process that fits your requirements for legal weight or the desired signature standard.
 {{% /markdown %}}
@@ -138,25 +164,6 @@ Identification services for highest demands on the legal weight of the signature
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
-{{< content text=center top=16 bottom=8 width=narrow >}}
-{{% markdown %}}
-## Ideal cost-benefit ratio
-Choose the right pricing model for your organization.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< picture preismodelle 590 "Eine Frau mit roten Haaren vergliecht verschiedene Preismodelle." >}}
-<br>
-{{< center >}}
-{{< button
-  "Compare price models"
-  "pricing"
-  ""
-  "outline">}}
-{{< /center >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< outro >}}
 {{% markdown center %}}
