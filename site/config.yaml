@@ -65,6 +65,19 @@ languages:
         - name: Preise
           url: "/de/preise/"
           weight: 20
+          identifier: price
+        - name: Fair-Flat
+          url: "/de/fair-flat/"
+          weight: 15
+          parent: price
+        - name: Business
+          url: "/de/business/"
+          weight: 20
+          parent: price
+        - name: Enterprise
+          url: "/de/enterprise/"
+          weight: 25
+          parent: price
       footer1:
         - name: Features
           url: /de/features/
