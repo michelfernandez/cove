@@ -1,38 +1,30 @@
 ---
-title: Electronic signature for tax advisers
-description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
+title: Elektronische Signatur für Steuerberater von Skribble
+description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
 draft: false
-slug: fair-flat
+slug: enterprise
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-fair-flat.jpg
+og_image: og/og-skribble-enterprise.jpg
 
 ---
-
-{{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
+{{< intro top=24 bottom=12 width=wide img=enterprise-main img-width=600 img-alt="Ein Mann unterschreibt einen Vertrag im Büro mit seinem Notebook." >}}
 {{% markdown %}}
-[EN] 
-Stay in the holiday home
+Führende Technologie kombiniert 
+mit Premium-Service
 ===============
-Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade befinden.
+Mit Skribble Enterprise bringen Sie die Rechtsabteilung, das Business und die IT gleichermassen hinter sich.
 
 **Passend für:**
-- Offerten
-- Bestellungen und Aufträge
-- Behördendokumente
+- Alle E-Signatur-Standards aus einer Hand
+- Weltweit rechtsgültig: eIDAS, ZertES, ESIGN Act 
+- Individuelles Service Level Agreement (SLA)
 {{% /markdown %}}
 {{< button
-  "Get started"
-  "https://my.skribble.com/signup"
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
 >}}
-{{< button
-  "Contact Sales"
-  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
-  "_blank"
-  outline
->}}
-
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -52,31 +44,38 @@ Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade bef
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
 So profitieren Sie 
-von Skribble Fair Flat
+von Skribble Enterprise
 ---
 {{% /markdown %}}
 {{< /content >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 img=fair-flat-01 mobile-top=12 mobile-bottom=6 img-width=460 img-position=right img-alt="Ein Mann unterschreibt einen Vertrag mit dem Mobile Phone" >}}
+{{< side-by-side top=8 bottom=12 img=enterprise-01 mobile-top=12 mobile-bottom=6 img-width=440 img-position=right img-alt="Eine Skribble Success Managerin steht mit ihrem Expertenwissen gerne zur Seite." >}}
 {{% markdown %}}
-Abschlüsse 
-beschleunigen
+Immer persönlich
+für Sie da
 ---
-Sie laden Partner, Kunden oder Lieferanten per E-Mail zum elektronischen Signieren ein.
+Wir stehen Ihnen mit Expertenwissen und zur Seite, von der Evaluation über das Onboarding bis zur Nutzung.
 
-Keine zusätzliche Hardware nötig. 
+- Persönlicher Customer Success Manager
+- Unterstützung beim Onboarding
+- Priority Zugang zum technischen Support (E-Mail, Telefon, Chat)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=fair-flat-02 img-width=460 img-alt="Zwei Leute unterschreiben effizient auf dem Tablet einen Vertrag elektronisch." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=enterprise-02 img-width=510 img-alt="Zwei Personen nutzen Skribble aus ihrem System heraus - nahtlos." >}}
 {{% markdown %}}
-Effizienter arbeiten
+Nahtlos integrierbar
 ---
-Der Umweg über Drucker und Papier entfällt - sie signieren mit wenigen Klicks auf dem Mobiltelefon oder Desktop.
+Sie nutzen Skribble aus Ihren bestehenden Systemen heraus. Sie brauchen weder eine neue Softwareumgebung noch zusätzliche Hardware.
+
+- Anmelden mit Unternehmenskonto Single-Sign-On (SSO)
+- Integration vie technische Schnittstelle inkl. Testing und 
+- Demo-Account (JSON REST API)
+- Mitarbeitende automatisch hinzufügen (Managed Domains)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -88,22 +87,32 @@ Der Umweg über Drucker und Papier entfällt - sie signieren mit wenigen Klicks 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=fair-flat-03 img-width=490 img-position=right img-alt="Eine Frau signiert sofort einen Vertrag auf ihrem Tablet." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=enterprise-04 img-width=490 img-position=right img-alt="Eine Frau passt Skribble mit ihrem Branding an." >}}
 {{% markdown %}}
-Sofort einsatzbereit
+Ihr Brand steht 
+im Vordergrund
 ---
-Sie brauchen nichts zu installieren - einfach online ein Konto eröffnen uns loslegen.
+Bieten Sie Mitarbeitenden, Kunden und Partnern den gewohnten Look and Feel durch erweiterte Branding- und Personalisierungsmöglichkeiten.
+
+- Branding der Signatur-Plattform mit eigenem Logo
+- Erweiterten Anpassungsmöglichkeiten bei der visuellen Signatur (z.B. QR-Code entfernen)
+- Visuelles Siegel gestalten und anbringen (Organisationssignatur via API)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=fair-flat-04 img-width=420 img-alt="Ein Mann kann ohne zusätzliche Hardware auf seinem Mobile Phone elektronisch signieren." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=enterprise-03 img-width=510 img-alt="Ein Mann verwaltet Skribble zentral und hat über alle Signatur-Aktivitäten einen Überblick." >}}
 {{% markdown %}}
-Keine zusätzliche 
-Hardware 
+Zentrale Verwaltung
 ---
-Sie brauchen nur Ihr Mobiltelefon, um zu signieren - weder Smart Card noch USB-Stick sind nötig.
+Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über die Signatur-Aktivitäten.
+
+- Mitarbeitende automatisch hinzufügen (Managed Domains)
+- Externe können ohne Skribble-Konto signieren
+- Administrationsrechte vergeben
+- Aktivitätsübersicht (CSV-Download)
+
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -144,6 +153,27 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 {{% /markdown %}}
 {{< /card >}}
 
+{{< card icon="icons/auto-delete.svg" icon-width=44 >}}
+{{% markdown %}}
+### Automatische Löschung
+Finalisierte Dokumente werden nach einer benutzerdefinierten Frist automatisch gelöscht.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/warranty.svg" icon-width=44 >}}
+{{% markdown %}}
+### Garantierte Verfügbarkeit
+Als Enterprise-Kunde erhalten Sie ein Service Level Agreement mit Hochverfügbarkeits-Garantie.
+{{% /markdown %}}
+{{< /card >}}
+
+{{< card icon="icons/security-audits.svg" icon-width=44 >}}
+{{% markdown %}}
+### Security Audits
+Sie können erweiterte Sicherheitsreports beantragen (z.B. Penetration Testing).
+{{% /markdown %}}
+{{< /card >}}
+
 {{< /card-group >}}
 
 {{< content top=10 bottom=4 text=center width=narrow >}}
@@ -178,32 +208,18 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-
 {{< outro >}}
 {{% markdown center %}}
-Sign legally valid with 
-a few clicks
+Signieren Sie rechtsgültig
+mit wenigen Klicks
 ---
-Worldwide usage, hosted in Switzerland.
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
-  "Get started"
-  "https://my.skribble.com/signup?lang=en"
+  "Sales kontaktieren"
+  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
 >}}
-{{< button
-  "Contact Sales"
-  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
-  "_blank"
-  outline
->}}
-{{< content top=6 >}}
-{{< markdown center >}}
-{{% small %}}2 signatures per month are free.{{% /small %}}
-{{< /markdown >}}
-{{< /content >}}
-{{< /outro >}}
-
 
 

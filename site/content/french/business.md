@@ -16,7 +16,7 @@ L'entreprise au départ
 ===============
 Mit Skribble Business kann Ihr gesamtes Unternehmen innert wenigen Tagen elektronisch signieren.
 
-**Häufig eingesetzt für:**
+**Passend für:**
 - Zentrale Mitgliederverwaltung
 - Einfach integrierbar
 - Mit internen und externen signieren
@@ -183,10 +183,12 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+Signer légalement et électroniquement 
+avec Skribble
+---
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
+
 
 {{< button
   "Démarrer"

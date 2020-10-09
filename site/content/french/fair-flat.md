@@ -15,7 +15,7 @@ Séjour dans le chalet
 ===============
 Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade befinden.
 
-**Häufig eingesetzt für:**
+**Passend für:**
 - Offerten
 - Bestellungen und Aufträge
 - Behördendokumente
@@ -178,10 +178,12 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+Signer légalement et électroniquement 
+avec Skribble
+---
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
+
 
 {{< button
   "Démarrer"

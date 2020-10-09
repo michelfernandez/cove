@@ -244,9 +244,10 @@ Nicht ausschliesslich. Dank der visuellen Signatur ist auf dem ausgedruckten Ver
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button

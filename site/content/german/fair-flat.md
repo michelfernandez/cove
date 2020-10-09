@@ -15,7 +15,7 @@ im Ferienhaus
 ===============
 Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade befinden.
 
-**Häufig eingesetzt für:**
+**Passend für:**
 - Offerten
 - Bestellungen und Aufträge
 - Behördendokumente
@@ -178,9 +178,10 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button

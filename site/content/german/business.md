@@ -15,7 +15,7 @@ Unternehmen am Start
 ===============
 Mit Skribble Business kann Ihr gesamtes Unternehmen innert wenigen Tagen elektronisch signieren.
 
-**Häufig eingesetzt für:**
+**Passend für:**
 - Zentrale Mitgliederverwaltung
 - Einfach integrierbar
 - Mit internen und externen signieren
@@ -182,9 +182,10 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+Signieren Sie rechtsgültig
+mit wenigen Klicks
+---
+Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
