@@ -1,6 +1,6 @@
 ---
-title: Elektronische Signatur für Steuerberater von Skribble
-description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
+title: Signature électronique pour les conseillers fiscaux
+description: Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée – du bilan jusqu’aux comptes annuels et à la planification fiscale.
 draft: false
 slug: fair-flat
 
@@ -10,8 +10,8 @@ og_image: og/og-skribble-fair-flat.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
 {{% markdown %}}
-Bleiben Sie 
-im Ferienhaus
+[FR]
+Séjour dans le chalet
 ===============
 Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade befinden.
 
@@ -21,13 +21,13 @@ Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade bef
 - Behördendokumente
 {{% /markdown %}}
 {{< button
-  "Jetzt loslegen"
-  "https://my.skribble.com/signup?lang=de"
+  "Démarrer"
+  "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
 {{< button
-  "Sales kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
   outline
 >}}
@@ -178,25 +178,26 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt loslegen"
-  "https://my.skribble.com/signup?lang=de"
+  "Démarrer"
+  "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
 {{< button
-  "Sales kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
   outline
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+

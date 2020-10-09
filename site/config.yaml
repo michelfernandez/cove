@@ -66,7 +66,7 @@ languages:
           url: "/de/preise/"
           weight: 20
           identifier: price
-        - name: Fair-Flat
+        - name: Fair Flat
           url: "/de/fair-flat/"
           weight: 15
           parent: price
@@ -271,6 +271,19 @@ languages:
         - name: Pricing
           url: "/pricing/"
           weight: 20
+          identifier: pricing
+        - name: Fair Flat
+          url: "/fair-flat/"
+          weight: 15
+          parent: pricing
+        - name: Business
+          url: "/business/"
+          weight: 20
+          parent: pricing
+        - name: Enterprise
+          url: "/enterprise/"
+          weight: 25
+          parent: pricing
       footer1:
         - name: Features
           url: /features/
@@ -464,6 +477,19 @@ languages:
         - name: Tarifs
           url: "/fr/tarifs/"
           weight: 25
+          identifier: tarifs
+        - name: Fair Flat
+          url: "/fr/fair-flat/"
+          weight: 15
+          parent: tarifs
+        - name: Business
+          url: "/fr/business/"
+          weight: 20
+          parent: tarifs
+        - name: Enterprise
+          url: "/fr/enterprise/"
+          weight: 25
+          parent: tarifs
       footer1:
         - name: Fonctionnalités
           url: /fr/fonctionnalites/

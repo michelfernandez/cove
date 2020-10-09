@@ -1,6 +1,6 @@
 ---
-title: Elektronische Signatur für Steuerberater von Skribble
-description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
+title: Electronic signature for tax advisers
+description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
 draft: false
 slug: fair-flat
 
@@ -8,10 +8,11 @@ slug: fair-flat
 og_image: og/og-skribble-fair-flat.jpg
 
 ---
+
 {{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
 {{% markdown %}}
-Bleiben Sie 
-im Ferienhaus
+[EN] 
+Stay in the holiday home
 ===============
 Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade befinden.
 
@@ -21,16 +22,17 @@ Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade bef
 - Behördendokumente
 {{% /markdown %}}
 {{< button
-  "Jetzt loslegen"
-  "https://my.skribble.com/signup?lang=de"
+  "Get started"
+  "https://my.skribble.com/signup"
   "_blank"
 >}}
 {{< button
-  "Sales kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
   outline
 >}}
+
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -176,27 +178,30 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+## Sign now, legally and electronically!
+No credit card, entrance fee or commitment required.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt loslegen"
-  "https://my.skribble.com/signup?lang=de"
+  "Get started"
+  "https://my.skribble.com/signup?lang=en"
   "_blank"
 >}}
 {{< button
-  "Sales kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "Contact Sales"
+  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
   outline
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 signatures per month are free.{{% /small %}}
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+
+
+
