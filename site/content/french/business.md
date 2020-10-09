@@ -1,6 +1,6 @@
 ---
-title: Elektronische Signatur für Steuerberater von Skribble
-description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
+title: Signature électronique pour les conseillers fiscaux
+description: Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée – du bilan jusqu’aux comptes annuels et à la planification fiscale.
 draft: false
 slug: business
 
@@ -10,8 +10,9 @@ og_image: og/og-skribble-business.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=business-main img-width=600 img-alt="Eine Frau signiert elektronisch auf ihrem Notebook von ihrem Büro aus einen Vertrag." >}}
 {{% markdown %}}
-Sofort das ganze 
-Unternehmen am Start
+[FR]
+Immédiatement, l'ensemble 
+L'entreprise au départ
 ===============
 Mit Skribble Business kann Ihr gesamtes Unternehmen innert wenigen Tagen elektronisch signieren.
 
@@ -21,13 +22,13 @@ Mit Skribble Business kann Ihr gesamtes Unternehmen innert wenigen Tagen elektro
 - Mit internen und externen signieren
 {{% /markdown %}}
 {{< button
-  "Jetzt loslegen"
-  "https://my.skribble.com/signup?lang=de"
-  "_blank"
+  "Démarrer"
+  "https://my.skribble.com/signup?lang=fr"
+  ""
 >}}
 {{< button
-  "Sales kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
   outline
 >}}
@@ -182,25 +183,26 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 {{< outro >}}
 {{% markdown center %}}
-## Jetzt rechtsgültig elektronisch signieren!
-Keine Kreditkarte, Eintrittsgebühr oder
-Verpflichtung erforderlich.
+## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
+Aucune carte de crédit, aucun droit d'entrée
+ou engagement n'est requis.
 {{% /markdown %}}
 
 {{< button
-  "Jetzt loslegen"
-  "https://my.skribble.com/signup?lang=de"
+  "Démarrer"
+  "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
 {{< button
-  "Sales kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
+  "Contacter les ventes"
+  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
   outline
 >}}
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
+

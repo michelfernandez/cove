@@ -4,7 +4,7 @@ description: Skribble is suitable for both occasional and frequent signing. No c
 draft: false
 slug: pricing
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-mission.jpg
+og_image: og/og-skribble-service.jpg
 
 ---
 
@@ -33,6 +33,8 @@ with the highest data protection standards in Switzerland.
     cta-href="https://my.skribble.com/signup/"
     cta-target=""
     more="More infos"
+    more-href="/fair-flat/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Fair Flat
@@ -65,6 +67,8 @@ with the highest data protection standards in Switzerland.
     cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
     cta-target="_blank"
     more="More infos"
+    more-href="/business/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Business
@@ -93,6 +97,8 @@ with the highest data protection standards in Switzerland.
     cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
     cta-target="_blank"
     more="More infos"
+    more-href="/enterprise/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Enterprise
