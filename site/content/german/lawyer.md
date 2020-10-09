@@ -13,8 +13,9 @@ og_image: og/og-skribble-lawyer.jpg
 Elektronische 
 Signatur für Anwälte
 ===============
-Über Skribble signieren Sie ohne USB-Stick oder Card-Reader
-mit dem höchsten verfügbaren E-Signatur-Standard (QES).
+Über Skribble signieren Sie ohne USB-Stick 
+oder Card-Reader mit dem höchsten 
+verfügbaren E-Signatur-Standard (QES).
 
 **Häufig eingesetzt für:**
 - Vollmachten und NDA’s

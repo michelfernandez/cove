@@ -13,7 +13,8 @@ og_image: og/og-skribble-hr.jpg
 Elektronisch 
 signieren im HR
 ===============
-Mit Skribble signieren Sie rechtssicher und einfach auf digitalem Weg.
+Mit Skribble signieren Sie rechtssicher 
+und einfach auf digitalem Weg.
 
 **Häufig eingesetzt für:**
 - Arbeitsverträge

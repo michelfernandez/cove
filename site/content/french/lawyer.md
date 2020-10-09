@@ -14,8 +14,8 @@ og_image: og/og-skribble-lawyer.jpg
 Signature électronique 
 pour juristes
 ===============
-Avec Skribble vous signez sans clé USB ou lecteur de carte
-avec la plus haute norme de signature électronique (SEQ).
+Avec Skribble vous signez sans clé USB ou lecteur 
+de carte avec la plus haute norme de signature électronique (SEQ).
 
 **Souvent utilisé pour:**
 - Procurations et accords de confidentialité

@@ -11,7 +11,7 @@
   &__body {
     @include min-width {
       flex: 1 1 440px;
-      padding: 0 0 0 40px;
+      padding: 0 0 0 50px;
     }
 
     + .hide-for-mobile {
