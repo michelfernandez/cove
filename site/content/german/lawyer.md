@@ -86,7 +86,7 @@ keine externe Hardware erforderlich
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=525 img-alt="Dokumente können Behörden eingegeben werden." >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=550 img-alt="Dokumente können Behörden eingegeben werden." >}}
 {{% markdown %}}
 ## Eingaben bei Behörden machen Sie online
 Von Änderungen am Handelsregister bis Gerichtseingaben: Das Ausdrucken, Versenden und Einscannen entfällt.
