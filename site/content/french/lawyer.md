@@ -87,7 +87,7 @@ mobile – aucun matériel externe requis
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=525 img-alt="Les documents peuvent être soumis aux autorités." >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-position=right img-width=550 img-alt="Les documents peuvent être soumis aux autorités." >}}
 {{% markdown %}}
 ## Faites des soumissions aux autorités en ligne
 Des modifications du registre du commerce

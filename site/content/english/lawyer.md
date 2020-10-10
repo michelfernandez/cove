@@ -86,7 +86,7 @@ no external hardware required
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-width=525 img-position=right img-alt="Documents can be entered into authorities" >}}
+{{< side-by-side top=24 bottom=12 mobile-top=6 mobile-bottom=6 img=legal-03 img-width=550 img-position=right img-alt="Documents can be entered into authorities" >}}
 {{% markdown %}}
 ## Entries with authorities made online
 From changes to the commercial register to court submissions: Printing, sending and scanning are no longer necessary.
