@@ -13,12 +13,11 @@ og_image: og/og-skribble-business.jpg
 Sofort das ganze 
 Unternehmen am Start
 ===============
-Mit Skribble Business kann Ihr gesamtes Unternehmen innert wenigen Tagen elektronisch signieren.
+Mit Skribble Business kann Ihr gesamtes Unternehmen innerhalb von wenigen Tagen elektronisch signieren.
 
-**Passend für:**
 - Zentrale Mitgliederverwaltung
 - Einfach integrierbar
-- Mit internen und externen signieren
+- Mit Internen und Externen signieren
 {{% /markdown %}}
 {{< button
   "Jetzt loslegen"
@@ -62,11 +61,11 @@ von Skribble Business
 Zentrale 
 Verwaltung
 ---
-Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über die Sigantur-Aktivitäten.
+Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über die Signatur-Aktivitäten.
 
 - Mitarbeitende automatisch hinzufügen (Managed Domains)
 - Administrationsrechte vergeben
-- Aktivitätsübersicht
+- Aktivitätsübersicht (inkl. CSV-Download)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -74,11 +73,11 @@ Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über 
 
 {{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img-position=right img-position=right img=business-02 img-width=400 img-alt="Zwei Leute unterschreiben effizient auf dem Tablet einen Vertrag elektronisch." >}}
 {{% markdown %}}
-Alle Vertragsarten 
+Alle Vertragsarten
 abgedeckt
 ---
-Verschiedene Vertragsarten, verschiedene rechtliche Anforderungen - bei Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand und können immer rechtskonform signieren.
-- Qualifizeirte elektronische Signatur (QES), erfüllt Schriftformerfordernis gemäss BGB/ OR
+Verschiedene Vertragsarten, verschiedene rechtliche Anforderungen – bei Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand und signieren immer rechtskonform.
+- Qualifizierte elektronische Signatur (QES), erfüllt Schriftlichkeitserfordernis gemäss BGB/ OR
 - Fortgeschrittene elektronische Signatur (FES) 
 - Einfache elektronische Signatur (EES)
 {{% /markdown %}}
@@ -86,7 +85,7 @@ Verschiedene Vertragsarten, verschiedene rechtliche Anforderungen - bei Skribble
 
 {{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=business-03 img-width=400 img-alt="Ein Mann kann sofort mit seinem Handy die API-Dokumentation studieren und mit externen direkt elektronisch signieren." >}}
 {{% markdown %}}
-Sofort einsatzbereit, 
+Sofort einsatzbereit,
 intern und extern
 ---
 Sie nutzen Skribble direkt via Browser oder integrieren die Plattform via API in Ihre bestehenden Systeme. Sie brauchen weder neue Programme noch neue Hardware zu installieren.
@@ -113,12 +112,12 @@ Sie nutzen Skribble direkt via Browser oder integrieren die Plattform via API in
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Unsere Massnahmen 
+Unsere Massnahmen
 für Sicherheit und Datenschutz
 ---
-Uns ist bewusst, Ihr Unternehmen nur dann von den Vorteile von E-Signing 
-profitieren kann, wenn die Lösung auch aboulut sicher ist. 
-Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
+Uns ist bewusst, dass Ihr Unternehmen nur dann von den Vorteilen von E-Signing
+profitieren kann, wenn die Lösung auch absolut sicher ist.
+Deshalb kombiniert Skribble Einfachheit mit kompromissloser Sicherheit.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -128,7 +127,7 @@ Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
 {{< card icon="icons/data-protection.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Maximaler Datenschutz
-Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzenter ist nach ISO 27001 zertifiziert. 
+Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzentrum ist nach ISO 27001 zertifiziert.
 {{% /markdown %}}
 {{< /card >}}
 
