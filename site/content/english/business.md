@@ -88,8 +88,7 @@ Different legal requirements may apply when it comes to signing contracts electr
 
 {{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=business-03 img-width=400 img-alt="Ein Mann kann sofort mit seinem Handy die API-Dokumentation studieren und mit externen direkt elektronisch signieren." >}}
 {{% markdown %}}
-Ready for immediate use with
-internal and external parties alike
+Ready for immediate use with internal and external parties alike
 ---
 You can use Skribble directly from your browser, or you can integrate the platform into your existing systems via API. No additional programs or hardware needed.
 
