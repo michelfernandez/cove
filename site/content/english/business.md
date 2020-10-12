@@ -37,7 +37,7 @@ With Skribble Business, you can enable your entire company to sign electronicall
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="Die erste Wahl von mehr als 250 Unternehmen mit höchsten Ansprüchen an Datenschutz und Sicherheit:">}}
+{{< logos-container top=12 bottom=24 width=wide title="Trusted by more than 250 companies with the highest requirements for data protection and security:">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/datev-60w.svg" alt="Datev">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
@@ -107,7 +107,7 @@ You can use Skribble directly from your browser, or you can integrate the platfo
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit.»
+«Skribble enables us to sign employment contracts and NDAs in a breeze – paper-free and regardless of time and place.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
