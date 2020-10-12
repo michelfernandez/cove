@@ -11,15 +11,15 @@ og_image: og/og-skribble-business.jpg
 {{< intro top=24 bottom=12 width=wide img=business-main img-width=600 img-alt="Eine Frau signiert elektronisch auf ihrem Notebook von ihrem Büro aus einen Vertrag." >}}
 {{% markdown %}}
 [EN] 
-Immediately the whole 
-Company at the start
+Get your entire company
+up and running in a breeze 
 ===============
-Mit Skribble Business kann Ihr gesamtes Unternehmen innert wenigen Tagen elektronisch signieren.
+With Skribble Business, you can enable your entire company to sign electronically in a few days.
 
-**Passend für:**
-- Zentrale Mitgliederverwaltung
-- Einfach integrierbar
-- Mit internen und externen signieren
+**Highlights:**
+- Centralised member administration
+- Easy integration with existing systems
+- Sign with internal and external parties alike
 {{% /markdown %}}
 {{< button
   "Get started"
@@ -52,8 +52,8 @@ Mit Skribble Business kann Ihr gesamtes Unternehmen innert wenigen Tagen elektro
 
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
-So profitieren Sie 
-von Skribble Business
+Your benefits
+with Skribble Business
 ---
 {{% /markdown %}}
 {{< /content >}}
@@ -62,14 +62,14 @@ von Skribble Business
 
 {{< side-by-side top=8 bottom=12 img=business-01 mobile-top=12 mobile-bottom=6 img-width=470 img-position=left img-alt="Eine Frau verwaltet Skribble auf ihrem Notebook." >}}
 {{% markdown %}}
-Zentrale 
-Verwaltung
+Centralised
+administration
 ---
-Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über die Sigantur-Aktivitäten.
+Create a company account and keep track of how signatures are being used.
 
-- Mitarbeitende automatisch hinzufügen (Managed Domains)
-- Administrationsrechte vergeben
-- Aktivitätsübersicht
+- Add employees automatically (managed domains)
+- Grant and remove administrator rights
+-  Activity overview (available for download in a CSV file)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -77,26 +77,26 @@ Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über 
 
 {{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img-position=right img-position=right img=business-02 img-width=400 img-alt="Zwei Leute unterschreiben effizient auf dem Tablet einen Vertrag elektronisch." >}}
 {{% markdown %}}
-Alle Vertragsarten 
-abgedeckt
+Any type of contract
+covered
 ---
-Verschiedene Vertragsarten, verschiedene rechtliche Anforderungen - bei Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand und können immer rechtskonform signieren.
-- Qualifizeirte elektronische Signatur (QES), erfüllt Schriftformerfordernis gemäss BGB/ OR
-- Fortgeschrittene elektronische Signatur (FES) 
-- Einfache elektronische Signatur (EES)
+Different legal requirements may apply when it comes to signing contracts electronically. At Skribble, you get access to all e-signature standards from a single source that are legally valid around the world.
+- Qualified electronic signature (QES), fulfils the written form requirement according to the BGB (German Civil Code)/ CO (Swiss Code of Obligations)
+- Advanced electronic signature (AES)
+- Simple electronic signature (SES)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 {{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=business-03 img-width=400 img-alt="Ein Mann kann sofort mit seinem Handy die API-Dokumentation studieren und mit externen direkt elektronisch signieren." >}}
 {{% markdown %}}
-Sofort einsatzbereit, 
-intern und extern
+Ready for immediate use with
+internal and external parties alike
 ---
-Sie nutzen Skribble direkt via Browser oder integrieren die Plattform via API in Ihre bestehenden Systeme. Sie brauchen weder neue Programme noch neue Hardware zu installieren.
+You can use Skribble directly from your browser, or you can integrate the platform into your existing systems via API. No additional programs or hardware needed.
 
-- Moderne JSON REST-API inkl. Testing und Demo-Account
-- Plug-in für DMS und Branchenlösungen
-- Externe können ohne Skribble-Konto signieren
+- Modern JSON REST API (inlc. testing and demo accounts)
+- Plug-in for DMS and industry solutions
+- External parties can sign without having a Skribble account
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -116,12 +116,13 @@ Sie nutzen Skribble direkt via Browser oder integrieren die Plattform via API in
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Unsere Massnahmen 
-für Sicherheit und Datenschutz
+Here's what we do
+for your security
 ---
-Uns ist bewusst, Ihr Unternehmen nur dann von den Vorteile von E-Signing 
-profitieren kann, wenn die Lösung auch aboulut sicher ist. 
-Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
+UWe're aware that an e-signing solution must meet the highest security standards 
+for your company to be able to benefit from it.
+That's why Skribble combines ultimate security with simplicity.
+
 {{% /markdown %}}
 {{< /content >}}
 
@@ -130,22 +131,22 @@ Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
 {{< card-group top=1 width=wide >}}
 {{< card icon="icons/data-protection.svg" icon-width=44 >}}
 {{% markdown %}}
-### Maximaler Datenschutz
-Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzenter ist nach ISO 27001 zertifiziert. 
+### Maximum data protection
+Your data is secured according to the highest security standards in Switzerland. The data centre is certified according to ISO 27001.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/legal-protection.svg" icon-width=44 >}}
 {{% markdown %}}
-### Hält vor Gericht stand
-Skribble arbeitet ausschliesslich mit gesetzlich geregelten Standards und ist bei allen Verträgen gültig.
+### Legally valid and binding
+Skribble only works with e-signature standards that are regulated by law and valid for any type of contract.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/krypto-encrypt.svg" icon-width=44 >}}
 {{% markdown %}}
-### Kryptographisch verschlüsselt
-Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitlesen, auch Skribble nicht.
+### Cryptography-based data security
+We encrypt the data traffic with AES-256 encryption. Nobody can read along, not even Skribble.
 {{% /markdown %}}
 {{< /card >}}
 
