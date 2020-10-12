@@ -11,7 +11,7 @@ og_image: og/og-skribble-enterprise.jpg
 {{< intro top=24 bottom=12 width=wide img=enterprise-main img-width=600 img-alt="Ein Mann unterschreibt einen Vertrag im Büro mit seinem Notebook." >}}
 {{% markdown %}}
 Führende Technologie kombiniert mit
-mit Premium-Service
+Premium-Service
 ===============
 Mit Skribble Enterprise bringen Sie die Rechtsabteilung, das Business und die IT gleichermassen hinter sich.
 
@@ -220,4 +220,3 @@ Weltweit einsetzbar, gehosted in der Schweiz.
   "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
 >}}
-
