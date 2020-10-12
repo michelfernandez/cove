@@ -10,7 +10,6 @@ og_image: og/og-skribble-enterprise.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=enterprise-main img-width=600 img-alt="Ein Mann unterschreibt einen Vertrag im Büro mit seinem Notebook." >}}
 {{% markdown %}}
-[FR]
 Une technologie de pointe combinée à un
 service de qualité supérieure
 ===============
