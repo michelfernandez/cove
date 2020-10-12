@@ -156,15 +156,15 @@ Nous cryptons le trafic de données par un système de cryptage (AES-256). Perso
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
-"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
+"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
-## Über 250 Unternehmen wollen beides: Einfachheit und Sicherheit
+## Plus de 250 entreprises veulent les deux: simplicité et sécurité
 {{% /markdown %}}
 {{< /content >}}
 
