@@ -117,9 +117,7 @@ You can use Skribble directly from your browser, or you can integrate the platfo
 Here's what we do
 for your security
 ---
-UWe're aware that an e-signing solution must meet the highest security standards 
-for your company to be able to benefit from it.
-That's why Skribble combines ultimate security with simplicity.
+We're aware that an e-signing solution must meet the highest security standards for your company to be able to benefit from it. That's why Skribble combines ultimate security with simplicity.
 
 {{% /markdown %}}
 {{< /content >}}
