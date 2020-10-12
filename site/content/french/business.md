@@ -16,6 +16,7 @@ immédiatementL'entreprise au départ
 ===============
 Avec Skribble Business, l'ensemble de votre entreprise peut signer électroniquement en quelques jours.
 
+**Points forts:**
 - Administration centrale des membres
 - Facile à intégrer
 - Signer avec des interlocuteurs internes et externes
