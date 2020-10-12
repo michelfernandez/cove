@@ -15,6 +15,7 @@ Unternehmen am Start
 ===============
 Mit Skribble Business kann Ihr gesamtes Unternehmen innerhalb von wenigen Tagen elektronisch signieren.
 
+**Highlights:**
 - Zentrale Mitgliederverwaltung
 - Einfach integrierbar
 - Mit Internen und Externen signieren
