@@ -11,15 +11,15 @@ og_image: og/og-skribble-enterprise.jpg
 {{< intro top=24 bottom=12 width=wide img=enterprise-main img-width=600 img-alt="Ein Mann unterschreibt einen Vertrag im Büro mit seinem Notebook." >}}
 {{% markdown %}}
 [FR]
-Une technologie de pointe combinée 
-avec service premium
+Une technologie de pointe combinée à un
+service de qualité supérieure
 ===============
-Mit Skribble Enterprise bringen Sie die Rechtsabteilung, das Business und die IT gleichermassen hinter sich.
+Avec Skribble Enterprise, vous pouvez mettre le service juridique, les affaires et l'informatique à égalité derrière vous.
 
-**Passend für:**
-- Alle E-Signatur-Standards aus einer Hand
-- Weltweit rechtsgültig: eIDAS, ZertES, ESIGN Act 
-- Individuelles Service Level Agreement (SLA)
+**Points forts:**
+- Toutes les normes de signature électronique d'une seule source
+- Valable dans le monde entier: eIDAS, SCSE, ESIGN Act
+- Accord individuel de niveau de service (ANS)
 {{% /markdown %}}
 {{< button
   "Contacter les ventes"
@@ -44,8 +44,8 @@ Mit Skribble Enterprise bringen Sie die Rechtsabteilung, das Business und die IT
 
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
-So profitieren Sie 
-von Skribble Enterprise
+Volià comment bénéficier
+de Skribble Enterprise
 ---
 {{% /markdown %}}
 {{< /content >}}
@@ -54,14 +54,14 @@ von Skribble Enterprise
 
 {{< side-by-side top=8 bottom=12 img=enterprise-01 mobile-top=12 mobile-bottom=6 img-width=440 img-position=right img-alt="Eine Skribble Success Managerin steht mit ihrem Expertenwissen gerne zur Seite." >}}
 {{% markdown %}}
-Immer persönlich
-für Sie da
+Toujours à
+votre écoute
 ---
-Wir stehen Ihnen mit Expertenwissen und zur Seite, von der Evaluation über das Onboarding bis zur Nutzung.
+Nous vous apportons notre expertise et notre assistance, de l'évaluation à l’introduction et à l'utilisation.
 
-- Persönlicher Customer Success Manager
-- Unterstützung beim Onboarding
-- Priority Zugang zum technischen Support (E-Mail, Telefon, Chat)
+- Interlocuteur attitré pour le service après-vente
+- Soutien lors de l’introduction
+- Accès prioritaire au support technique (e-mail, téléphone, chat)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -69,14 +69,13 @@ Wir stehen Ihnen mit Expertenwissen und zur Seite, von der Evaluation über das 
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=enterprise-02 img-width=510 img-alt="Zwei Personen nutzen Skribble aus ihrem System heraus - nahtlos." >}}
 {{% markdown %}}
-Nahtlos integrierbar
+Une intégration sans faille
 ---
-Sie nutzen Skribble aus Ihren bestehenden Systemen heraus. Sie brauchen weder eine neue Softwareumgebung noch zusätzliche Hardware.
+Vous utilisez Skribble à partir de vos systèmes existants. Vous n'avez pas besoin d'un nouvel environnement logiciel ou de hardware supplémentaire.
 
-- Anmelden mit Unternehmenskonto Single-Sign-On (SSO)
-- Integration vie technische Schnittstelle inkl. Testing und 
-- Demo-Account (JSON REST API)
-- Mitarbeitende automatisch hinzufügen (Managed Domains)
+- AConnectez-vous avec le compte de l'entreprise (authentification unique, SSO)
+- Intégration à travers interface technique, y compris les tests et le compte de démonstration (JSON REST API)
+- Rajouter automatiquement des collaborateurs (managed domains)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -90,14 +89,14 @@ Sie nutzen Skribble aus Ihren bestehenden Systemen heraus. Sie brauchen weder ei
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=enterprise-04 img-width=490 img-position=right img-alt="Eine Frau passt Skribble mit ihrem Branding an." >}}
 {{% markdown %}}
-Ihr Brand steht 
-im Vordergrund
+Votre marque au
+cœur de l'action
 ---
-Bieten Sie Mitarbeitenden, Kunden und Partnern den gewohnten Look and Feel durch erweiterte Branding- und Personalisierungsmöglichkeiten.
+Offrez aux employés, aux clients et aux partenaires l'apparence et l'impression auxquelles ils sont habitués grâce à des options de marque et de personnalisation élargies.
 
-- Branding der Signatur-Plattform mit eigenem Logo
-- Erweiterten Anpassungsmöglichkeiten bei der visuellen Signatur (z.B. QR-Code entfernen)
-- Visuelles Siegel gestalten und anbringen (Organisationssignatur via API)
+- Identité visuelle avec logo
+- Possibilités d’adaptation élargies pour la signature visuelle (p. ex. suppression du QR-Code)
+- Définir et placer la signature visuelle du sceau électronique (signature d’entreprise via l'API)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -105,14 +104,14 @@ Bieten Sie Mitarbeitenden, Kunden und Partnern den gewohnten Look and Feel durch
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=enterprise-03 img-width=510 img-alt="Ein Mann verwaltet Skribble zentral und hat über alle Signatur-Aktivitäten einen Überblick." >}}
 {{% markdown %}}
-Zentrale Verwaltung
+Administration centrale
 ---
-Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über die Signatur-Aktivitäten.
+Vous créez un compte d'entreprise qui vous permet de toujours avoir une vue d'ensemble des activités de signature.
 
-- Mitarbeitende automatisch hinzufügen (Managed Domains)
-- Externe können ohne Skribble-Konto signieren
-- Administrationsrechte vergeben
-- Aktivitätsübersicht (CSV-Download)
+- Rajouter automatiquement des collaborateurs (managed domains)
+- Les personnes externes peuvent signer sans compte Skribble (toutes les normes de signature électronique, avec connexion API)
+- Déléguer des droits d'administration
+- Aperçu des activités (téléchargement en format CSV)
 
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -121,12 +120,13 @@ Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über 
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Unsere Massnahmen 
-für Sicherheit und Datenschutz
+Nos mesures de sécurité
+et de protection des données
 ---
-Uns ist bewusst, Ihr Unternehmen nur dann von den Vorteile von E-Signing 
-profitieren kann, wenn die Lösung auch aboulut sicher ist. 
-Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
+Nous sommes conscients que votre entreprise ne peut bénéficier des avantages de la signature électronique 
+que si la solution est également sécurisée sans compromis.
+Pour nos clients du plan Enterprise, nous nous efforçons d'aller toujours plus loin.
+
 {{% /markdown %}}
 {{< /content >}}
 
@@ -135,43 +135,43 @@ Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
 {{< card-group top=1 width=wide >}}
 {{< card icon="icons/data-protection.svg" icon-width=44 >}}
 {{% markdown %}}
-### Maximaler Datenschutz
-Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzenter ist nach ISO 27001 zertifiziert. 
+### Protection maximale des données
+Vos données sont sécurisées au niveau des banques en Suisse. Le centre de données est certifié selon la norme ISO 27001.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/legal-protection.svg" icon-width=44 >}}
 {{% markdown %}}
-### Hält vor Gericht stand
-Skribble arbeitet ausschliesslich mit gesetzlich geregelten Standards und ist bei allen Verträgen gültig.
+### Compliance globale
+Skribble travaille exclusivement avec des normes légalement réglementées et est valable pour tous les contrats.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/krypto-encrypt.svg" icon-width=44 >}}
 {{% markdown %}}
-### Kryptographisch verschlüsselt
-Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitlesen, auch Skribble nicht.
+### Cryptographiquement chiffré
+Nous cryptons le trafic de données par un système de cryptage (AES-256). Personne ne sait lire, pas même Skribble.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/auto-delete.svg" icon-width=44 >}}
 {{% markdown %}}
-### Automatische Löschung
-Finalisierte Dokumente werden nach einer benutzerdefinierten Frist automatisch gelöscht.
+### Suppression automatique
+Les documents finalisés sont automatiquement supprimés après une période définie par l'utilisateur.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/warranty.svg" icon-width=44 >}}
 {{% markdown %}}
-### Garantierte Verfügbarkeit
-Als Enterprise-Kunde erhalten Sie ein Service Level Agreement mit Hochverfügbarkeits-Garantie.
+### Disponibilité garantie
+En tant que client Enterprise, vous recevez un accord de service avec une garantie de haute disponibilité (SLA).
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/security-audits.svg" icon-width=44 >}}
 {{% markdown %}}
-### Security Audits
-Sie können erweiterte Sicherheitsreports beantragen (z.B. Penetration Testing).
+### Audits de sécurité
+Vous pouvez demander des rapports de sécurité étendus (par exemple, des tests de pénétration).
 {{% /markdown %}}
 {{< /card >}}
 
@@ -185,15 +185,15 @@ Sie können erweiterte Sicherheitsreports beantragen (z.B. Penetration Testing).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
-"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
+"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
-## Über 250 Unternehmen wollen beides: Einfachheit und Sicherheit
+## Plus de 250 entreprises veulent les deux: simplicité et sécurité
 {{% /markdown %}}
 {{< /content >}}
 
