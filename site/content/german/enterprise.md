@@ -10,14 +10,14 @@ og_image: og/og-skribble-enterprise.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=enterprise-main img-width=600 img-alt="Ein Mann unterschreibt einen Vertrag im Büro mit seinem Notebook." >}}
 {{% markdown %}}
-Führende Technologie kombiniert 
+Führende Technologie kombiniert
 mit Premium-Service
 ===============
 Mit Skribble Enterprise bringen Sie die Rechtsabteilung, das Business und die IT gleichermassen hinter sich.
 
-**Passend für:**
+**Highlights:**
 - Alle E-Signatur-Standards aus einer Hand
-- Weltweit rechtsgültig: eIDAS, ZertES, ESIGN Act 
+- Weltweit rechtsgültig: eIDAS, ZertES, ESIGN Act
 - Individuelles Service Level Agreement (SLA)
 {{% /markdown %}}
 {{< button
@@ -43,7 +43,7 @@ Mit Skribble Enterprise bringen Sie die Rechtsabteilung, das Business und die IT
 
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
-So profitieren Sie 
+So profitieren Sie
 von Skribble Enterprise
 ---
 {{% /markdown %}}
@@ -73,8 +73,7 @@ Nahtlos integrierbar
 Sie nutzen Skribble aus Ihren bestehenden Systemen heraus. Sie brauchen weder eine neue Softwareumgebung noch zusätzliche Hardware.
 
 - Anmelden mit Unternehmenskonto Single-Sign-On (SSO)
-- Integration vie technische Schnittstelle inkl. Testing und 
-- Demo-Account (JSON REST API)
+- Integration via technische Schnittstelle inkl. Testing und Demo-Account (JSON REST API)
 - Mitarbeitende automatisch hinzufügen (Managed Domains)
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -89,13 +88,13 @@ Sie nutzen Skribble aus Ihren bestehenden Systemen heraus. Sie brauchen weder ei
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=enterprise-04 img-width=490 img-position=right img-alt="Eine Frau passt Skribble mit ihrem Branding an." >}}
 {{% markdown %}}
-Ihr Brand steht 
-im Vordergrund
+Ihr Brand steht
+im Zentrum
 ---
 Bieten Sie Mitarbeitenden, Kunden und Partnern den gewohnten Look and Feel durch erweiterte Branding- und Personalisierungsmöglichkeiten.
 
-- Branding der Signatur-Plattform mit eigenem Logo
-- Erweiterten Anpassungsmöglichkeiten bei der visuellen Signatur (z.B. QR-Code entfernen)
+- Branding der Signatur-Plattform mit eigenem Logo (Company Branding)
+- Erweiterte Anpassungsmöglichkeiten bei der visuellen Signatur (z.B. QR-Code entfernen)
 - Visuelles Siegel gestalten und anbringen (Organisationssignatur via API)
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -111,7 +110,7 @@ Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über 
 - Mitarbeitende automatisch hinzufügen (Managed Domains)
 - Externe können ohne Skribble-Konto signieren
 - Administrationsrechte vergeben
-- Aktivitätsübersicht (CSV-Download)
+- Aktivitätsübersicht (inkl. CSV-Download)
 
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -120,12 +119,12 @@ Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über 
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Unsere Massnahmen 
+Unsere Massnahmen
 für Sicherheit und Datenschutz
 ---
-Uns ist bewusst, Ihr Unternehmen nur dann von den Vorteile von E-Signing 
-profitieren kann, wenn die Lösung auch aboulut sicher ist. 
-Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
+Uns ist bewusst, dass Ihr Unternehmen nur dann von den Vorteilen von E-Signing profitieren kann
+wenn die Lösung auch kompromisslos sicher ist.
+Für unsere Enterprise-Kunden gehen wir dabei jede Extra-Meile.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -135,13 +134,13 @@ Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
 {{< card icon="icons/data-protection.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Maximaler Datenschutz
-Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzenter ist nach ISO 27001 zertifiziert. 
+Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzentrum ist nach ISO 27001 zertifiziert. 
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/legal-protection.svg" icon-width=44 >}}
 {{% markdown %}}
-### Hält vor Gericht stand
+### Globale Compliance
 Skribble arbeitet ausschliesslich mit gesetzlich geregelten Standards und ist bei allen Verträgen gültig.
 {{% /markdown %}}
 {{< /card >}}
@@ -156,7 +155,7 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 {{< card icon="icons/auto-delete.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Automatische Löschung
-Finalisierte Dokumente werden nach einer benutzerdefinierten Frist automatisch gelöscht.
+Erledigte Dokumente werden nach einer benutzerdefinierten Frist automatisch gelöscht.
 {{% /markdown %}}
 {{< /card >}}
 
