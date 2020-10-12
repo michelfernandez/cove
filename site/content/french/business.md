@@ -75,7 +75,7 @@ Vous créez un compte d'entreprise qui vous permet de toujours avoir une vue d'e
 {{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img-position=right img-position=right img=business-02 img-width=400 img-alt="Zwei Leute unterschreiben effizient auf dem Tablet einen Vertrag elektronisch." >}}
 {{% markdown %}}
 Fonctionne avec
-tous les types de contratsabgedeckt
+tous les types de contrats
 ---
 Différents types de contrats, différentes exigences juridiques - chez Skribble, vous obtenez toutes les normes de signature électronique d'une seule source et vous signez toujours dans le respect de la loi.
 - Signature électronique qualifiée (QES), remplit l'exigence de la forme écrite dans l'UE et en Suisse
@@ -86,8 +86,7 @@ Différents types de contrats, différentes exigences juridiques - chez Skribble
 
 {{< side-by-side top=16 bottom=12 mobile-top=6 mobile-bottom=6 img=business-03 img-width=400 img-alt="Ein Mann kann sofort mit seinem Handy die API-Dokumentation studieren und mit externen direkt elektronisch signieren." >}}
 {{% markdown %}}
-Prêt pour une utilisation immédiate,
-vers l’interne et l’externe
+Prêt pour une utilisation immédiate, vers l’interne et l’externe
 ---
 Vous utilisez Skribble directement via le navigateur ou vous intégrez la plateforme dans vos systèmes existants via l'API. Vous n'avez pas besoin d'installer de nouveaux programmes ou de nouveaux matériels.
 
@@ -106,19 +105,17 @@ Vous utilisez Skribble directement via le navigateur ou vous intégrez la platef
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit.»
+«Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Nos mesures de sécurité et
-de protection des données
+Nos mesures de sécurité et de
+protection des données
 ---
-Nous sommes conscients que votre entreprise ne peut bénéficier des avantages de
-la signature électronique que si la solution est également sécurisée sans compromis.
-Pour nos clients du plan Enterprise, nous nous efforçons d'aller toujours plus loin.
+Nous sommes conscients que votre entreprise ne peut bénéficier des avantages de la signature électronique que si la solution est également sécurisée sans compromis. Pour nos clients du plan Enterprise, nous nous efforçons d'aller toujours plus loin.
 {{% /markdown %}}
 {{< /content >}}
 
