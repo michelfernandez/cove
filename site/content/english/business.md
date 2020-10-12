@@ -10,7 +10,6 @@ og_image: og/og-skribble-business.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=business-main img-width=600 img-alt="Eine Frau signiert elektronisch auf ihrem Notebook von ihrem Büro aus einen Vertrag." >}}
 {{% markdown %}}
-[EN] 
 Get your entire company
 up and running in a breeze 
 ===============
@@ -210,6 +209,5 @@ Worldwide usage, hosted in Switzerland.
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
-
 
 
