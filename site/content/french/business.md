@@ -10,9 +10,8 @@ og_image: og/og-skribble-business.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=business-main img-width=600 img-alt="Eine Frau signiert elektronisch auf ihrem Notebook von ihrem Büro aus einen Vertrag." >}}
 {{% markdown %}}
-[FR]
-Toute l'entreprise prête à démarrer
-immédiatementL'entreprise au départ
+Toute l'entreprise
+prête à démarrer immédiatement
 ===============
 Avec Skribble Business, l'ensemble de votre entreprise peut signer électroniquement en quelques jours.
 
