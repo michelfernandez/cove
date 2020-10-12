@@ -123,7 +123,7 @@ Wann Sie welchen E-Signatur-Standard verwenden.
 {{< content text=center top=16 bottom=8 width=narrow >}}
 {{% markdown %}}
 ## Verträge mit Formvorschrift
-Für Verträge mit Formvorschrift oder hohem Abspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Die Identifikationsanforderungen bei der QES sind hoch, die Prüfung muss persönlich oder online via Video stattfinden.
+Für Verträge mit Formvorschrift oder hohem Anspruch an Beweiskraft wird typischerweise die qualifizierte elektronische Signatur (QES) eingesetzt. Die Identifikationsanforderungen bei der QES sind hoch, die Prüfung muss persönlich oder online via Video stattfinden.
 {{% /markdown %}}
 {{< /content >}}
 
