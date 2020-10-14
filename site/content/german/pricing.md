@@ -29,7 +29,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     cta-label="Jetzt loslegen"
     cta-href="https://my.skribble.com/signup/?lang=de"
     cta-target=""
-    more="Mehr infos"
+    more="Mehr erfahren"
     more-href="/de/fair-flat/"
     more-target=""
   >}}
@@ -62,7 +62,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     cta-label="Sales kontaktieren"
     cta-href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
     cta-target="_blank"
-    more="Mehr infos"
+    more="Mehr erfahren"
     more-href="/de/business/"
     more-target=""
   >}}
@@ -91,7 +91,7 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     cta-label="Sales kontaktieren"
     cta-href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
     cta-target="_blank"
-    more="Mehr infos"
+    more="Mehr erfahren"
     more-href="/de/enterprise/"
     more-target=""
   >}}
