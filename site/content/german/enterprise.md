@@ -122,9 +122,7 @@ Sie richten sich ein Unternehmenskonto ein und haben stets den Überblick über 
 Unsere Massnahmen
 für Sicherheit und Datenschutz
 ---
-Uns ist bewusst, dass Ihr Unternehmen nur dann von den Vorteilen von E-Signing profitieren kann
-wenn die Lösung auch kompromisslos sicher ist.
-Für unsere Enterprise-Kunden gehen wir dabei jede Extra-Meile.
+Uns ist bewusst, dass Ihr Unternehmen nur dann von den Vorteilen von E-Signing profitieren kann wenn die Lösung auch kompromisslos sicher ist. Für unsere Enterprise-Kunden gehen wir dabei jede Extra-Meile.
 {{% /markdown %}}
 {{< /content >}}
 
