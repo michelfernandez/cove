@@ -1,6 +1,6 @@
 ---
-title: Elektronische Signatur für Steuerberater von Skribble
-description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
+title: Skribble Fair Flat
+description: Signieren Sie Ihre Dokumente rechtsgültig digital – egal wo Sie sich gerade aufhalten.
 draft: false
 slug: fair-flat
 
