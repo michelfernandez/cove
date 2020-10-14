@@ -1,6 +1,6 @@
 ---
-title: Signature électronique pour les conseillers fiscaux
-description: Avec Skribble, vous et vos clients signez plus rapidement et de manière plus sécurisée – du bilan jusqu’aux comptes annuels et à la planification fiscale.
+title: Skribble Business
+description: Avec Skribble Business, l'ensemble de votre entreprise peut signer électroniquement en quelques jours.
 draft: false
 slug: business
 
