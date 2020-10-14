@@ -11,14 +11,15 @@ og_image: og/og-skribble-fair-flat.jpg
 {{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
 {{% markdown %}}
 [FR]
-Séjour dans le chalet
+Restez dans la
+maison de vacances
 ===============
-Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade befinden.
+Signez vos documents numériquement de manière juridiquement valable, où que vous soyez.
 
-**Passend für:**
-- Offerten
-- Bestellungen und Aufträge
-- Behördendokumente
+**Souvent utilisé pour:**
+- Offres
+- Commandes et ordres
+- Document des autorités
 {{% /markdown %}}
 {{< button
   "Démarrer"
@@ -49,8 +50,8 @@ Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade bef
 
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
-So profitieren Sie 
-von Skribble Fair Flat
+Voilà comment vous
+bénéficiez de Skribble Fair Flat
 ---
 {{% /markdown %}}
 {{< /content >}}
@@ -59,12 +60,13 @@ von Skribble Fair Flat
 
 {{< side-by-side top=8 bottom=12 img=fair-flat-01 mobile-top=12 mobile-bottom=6 img-width=460 img-position=right img-alt="Ein Mann unterschreibt einen Vertrag mit dem Mobile Phone" >}}
 {{% markdown %}}
-Abschlüsse 
-beschleunigen
+Travailler plus efficacement 
 ---
-Sie laden Partner, Kunden oder Lieferanten per E-Mail zum elektronischen Signieren ein.
+Le détour par l'imprimante et le papier n’est nécessaire. Vous signez en quelques secondes en appuyant sur un bouton, même avec les personnes externes.
 
-Keine zusätzliche Hardware nötig. 
+- Inviter à signer par e-mail
+- Signer en une fois plusieurs documents
+- Ajouter un message personnel lors des invitations, attributions, refus
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -72,25 +74,33 @@ Keine zusätzliche Hardware nötig.
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=fair-flat-02 img-width=460 img-alt="Zwei Leute unterschreiben effizient auf dem Tablet einen Vertrag elektronisch." >}}
 {{% markdown %}}
-Effizienter arbeiten
+Utiliser immédiatement
 ---
-Der Umweg über Drucker und Papier entfällt - sie signieren mit wenigen Klicks auf dem Mobiltelefon oder Desktop.
+Vous n'avez pas besoin d'installer quoi que ce soit –  il vous suffit d'ouvrir un compte Skribble en ligne et de commencer.
+
+- Signer à partir d'un smartphone et d'un ordinateur
+- Pas de carte à puce ni de clé USB nécessaires
+- Les personnes externes peuvent signer sans compte Skribble (norme SES)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/twint-150w.png" "Simon Wehrli, CTO, Twint" >}}
-«Mit Skribble signieren wir die Arbeitsverträge und NDAs papierfrei auf Knopfdruck – unabhängig von Ort und Zeit.»
+«Avec Skribble, nous signons les contrats de travail et les accords de confidentialité sans papier, en appuyant sur un bouton – quels que soient l'heure et le lieu.»
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=fair-flat-03 img-width=490 img-position=right img-alt="Eine Frau signiert sofort einen Vertrag auf ihrem Tablet." >}}
 {{% markdown %}}
-Sofort einsatzbereit
+Fonctionne avec tous les types de contrats
 ---
-Sie brauchen nichts zu installieren - einfach online ein Konto eröffnen uns loslegen.
+Différents types de contrats, différentes exigences juridiques – chez Skribble, vous obtenez toutes les normes de signature électronique d'une seule source et vous signez toujours de manière conforme à la loi.
+
+- Signature électronique qualifiée (QES), remplit l'exigence de la forme écrite dans l'UE et en Suisse
+- Signature électronique avancée (SEA)
+- Signature électronique simple (SES)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -98,10 +108,13 @@ Sie brauchen nichts zu installieren - einfach online ein Konto eröffnen uns los
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=fair-flat-04 img-width=420 img-alt="Ein Mann kann ohne zusätzliche Hardware auf seinem Mobile Phone elektronisch signieren." >}}
 {{% markdown %}}
-Keine zusätzliche 
-Hardware 
+Personnaliser et appliquer la signature visuelle
 ---
-Sie brauchen nur Ihr Mobiltelefon, um zu signieren - weder Smart Card noch USB-Stick sind nötig.
+Créez l'aspect et la sensation familière d'un document manuscrit signé en ajoutant une signature visuelle au document signé. 
+
+- Téléchargez et enregistrez l'image de votre signature manuscrite
+- Faites glisser à l'endroit souhaité dans le document avant de le signer
+- Déclenchez la signature et recevez le document dans l’aspect familier
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -109,12 +122,10 @@ Sie brauchen nur Ihr Mobiltelefon, um zu signieren - weder Smart Card noch USB-S
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Unsere Massnahmen 
-für Sicherheit und Datenschutz
+Nos mesures de sécurité et
+de protection des données
 ---
-Uns ist bewusst, Ihr Unternehmen nur dann von den Vorteile von E-Signing 
-profitieren kann, wenn die Lösung auch aboulut sicher ist. 
-Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
+Nous sommes conscients que votre entreprise ne peut bénéficier des avantages de la signature électronique que si la solution est absolument sécurisée. C’est pourquoi Skribble combine simplicité et sécurité sans compromis.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -123,22 +134,22 @@ Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
 {{< card-group top=1 width=wide >}}
 {{< card icon="icons/data-protection.svg" icon-width=44 >}}
 {{% markdown %}}
-### Maximaler Datenschutz
-Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzenter ist nach ISO 27001 zertifiziert. 
+### Protection maximale des données
+Vos données sont sécurisées au niveau bancaire Suisse. Le centre de données est certifié selon la norme ISO 27001.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/legal-protection.svg" icon-width=44 >}}
 {{% markdown %}}
-### Hält vor Gericht stand
-Skribble arbeitet ausschliesslich mit gesetzlich geregelten Standards und ist bei allen Verträgen gültig.
+### Valable devant un tribunal
+Skribble travaille exclusivement avec des normes légalement réglementées et est valable pour tous les contrats.
 {{% /markdown %}}
 {{< /card >}}
 
 {{< card icon="icons/krypto-encrypt.svg" icon-width=44 >}}
 {{% markdown %}}
-### Kryptographisch verschlüsselt
-Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitlesen, auch Skribble nicht.
+### Cryptographiquement chiffré
+Nous cryptons le trafic de données par un système de cryptage (AES-256). Personne ne peut lire, même pas Skribble.
 {{% /markdown %}}
 {{< /card >}}
 
@@ -152,15 +163,15 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
-"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer de l'Helvetia Schweiz" >}}
+"Chez Helvetia, de nombreux secteurs nécessitent encore des signatures manuscrites, par exemple dans l’assurance vie et dans les procédures internes. Skribble nous permet de les numériser intégralement." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
-## Über 250 Unternehmen wollen beides: Einfachheit und Sicherheit
+## Plus de 250 entreprises veulent les deux: simplicité et sécurité
 {{% /markdown %}}
 {{< /content >}}
 
