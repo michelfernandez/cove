@@ -32,7 +32,7 @@ with the highest data protection standards in Switzerland.
     cta-label="Get started"
     cta-href="https://my.skribble.com/signup/"
     cta-target=""
-    more="More infos"
+    more="Learn more"
     more-href="/fair-flat/"
     more-target=""
   >}}
@@ -66,7 +66,7 @@ with the highest data protection standards in Switzerland.
     cta-label="Contact Sales"
     cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
     cta-target="_blank"
-    more="More infos"
+    more="Learn more"
     more-href="/business/"
     more-target=""
   >}}
@@ -96,7 +96,7 @@ with the highest data protection standards in Switzerland.
     cta-label="Contact Sales"
     cta-href="https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
     cta-target="_blank"
-    more="More infos"
+    more="Learn more"
     more-href="/enterprise/"
     more-target=""
   >}}
