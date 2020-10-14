@@ -30,7 +30,8 @@ Signez vos documents numériquement de manière juridiquement valable, où que v
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="Die erste Wahl von mehr als 250 Unternehmen mit höchsten Ansprüchen an Datenschutz und Sicherheit:">}}
+{{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 250 entreprises avec les normes les plus élevées en matière de protection des données et de sécurité:
+">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/datev-60w.svg" alt="Datev">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
