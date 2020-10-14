@@ -157,14 +157,14 @@ We encrypt the data traffic with AES-256 encryption. Nobody can read along, not 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
-"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+"At Helvetia, we require 'wet' signatures in many areas; in life insurance, for example, but also in internal processes. With Skribble, we are able to completely digitalise these processes." 
 {{< /testimonial >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
-## Über 250 Unternehmen wollen beides: Einfachheit und Sicherheit
+## More than 250 companies want both: Simplicity and security
 {{% /markdown %}}
 {{< /content >}}
 
