@@ -10,7 +10,6 @@ og_image: og/og-skribble-fair-flat.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
 {{% markdown %}}
-[FR]
 Restez dans la
 maison de vacances
 ===============
