@@ -49,7 +49,7 @@ Avec Skribble Business, l'ensemble de votre entreprise peut signer électronique
 
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
-Comment bénéficier
+Voilà comment vous bénéficier
 de Skribble Business
 ---
 {{% /markdown %}}
