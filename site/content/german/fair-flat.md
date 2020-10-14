@@ -25,12 +25,7 @@ Signieren Sie Ihre Dokumente rechtsgültig digital – egal wo Sie sich gerade a
   "https://my.skribble.com/signup?lang=de"
   "_blank"
 >}}
-{{< button
-  "Sales kontaktieren"
-  "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
-  "_blank"
-  outline
->}}
+
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
