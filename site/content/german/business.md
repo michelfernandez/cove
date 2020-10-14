@@ -1,6 +1,6 @@
 ---
-title: Elektronische Signatur für Steuerberater von Skribble
-description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
+title: Skribble Business
+description: Mit Skribble Business kann Ihr gesamtes Unternehmen innerhalb von wenigen Tagen elektronisch signieren.
 draft: false
 slug: business
 
