@@ -30,7 +30,7 @@ Signez vos documents numériquement de manière juridiquement valable, où que v
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 250 entreprises avec les normes les plus élevées en matière de protection des données et de sécurité:
+{{< logos-container top=12 bottom=24 width=wide title="Le premier choix de plus de 250 entreprises avec les normes les plus élevées en matière de protection des données et de sécurité:">}}
 ">}}
   {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/datev-60w.svg" alt="Datev">}}
@@ -208,4 +208,3 @@ Utilisable dans le monde entier, hébergé en Suisse.
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}
-
