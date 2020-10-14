@@ -1,6 +1,6 @@
 ---
-title: Electronic signature for tax advisers
-description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
+title: Skribble Fair Flat
+description: Sign your documents digitally and legally valid from anywhere, and on any device.
 draft: false
 slug: fair-flat
 
