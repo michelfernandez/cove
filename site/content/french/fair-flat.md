@@ -25,12 +25,7 @@ Signez vos documents numériquement de manière juridiquement valable, où que v
   "https://my.skribble.com/signup?lang=fr"
   "_blank"
 >}}
-{{< button
-  "Contacter les ventes"
-  "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
-  "_blank"
-  outline
->}}
+
 {{< /intro >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
