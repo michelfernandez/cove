@@ -1,6 +1,6 @@
 ---
-title: Electronic signature for tax advisers
-description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
+title: Skribble Business
+description: With Skribble Business, you can enable your entire company to sign electronically in a few days.
 draft: false
 slug: business
 
