@@ -12,7 +12,7 @@ og_image: og/og-skribble-fair-flat.jpg
 {{% markdown %}}
 Home Office oder Ferienhaus?
 ===============
-Signieren Sie Ihre Dokumente rechtsgültig digital – egal wo Sie sich gerade aufhalten.
+Mit Skribble signieren Sie Ihre Dokumente rechtsgültig digital – egal wo Sie sich gerade aufhalten.
 
 **Häufig eingesetzt für:**
 - Offerten
