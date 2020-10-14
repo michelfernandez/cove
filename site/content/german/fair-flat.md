@@ -10,12 +10,12 @@ og_image: og/og-skribble-fair-flat.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
 {{% markdown %}}
-Bleiben Sie 
+Bleiben Sie
 im Ferienhaus
 ===============
-Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade befinden.
+Signieren Sie Ihre Dokumente rechtsgültig digital – egal wo Sie sich gerade aufhalten.
 
-**Passend für:**
+**Häufig eingesetzt für:**
 - Offerten
 - Bestellungen und Aufträge
 - Behördendokumente
@@ -49,7 +49,7 @@ Signieren Sie Ihre Dokumente rechtsgültig digital - egal wo Sie sich gerade bef
 
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
-So profitieren Sie 
+So profitieren Sie
 von Skribble Fair Flat
 ---
 {{% /markdown %}}
@@ -59,12 +59,12 @@ von Skribble Fair Flat
 
 {{< side-by-side top=8 bottom=12 img=fair-flat-01 mobile-top=12 mobile-bottom=6 img-width=460 img-position=right img-alt="Ein Mann unterschreibt einen Vertrag mit dem Mobile Phone" >}}
 {{% markdown %}}
-Abschlüsse 
-beschleunigen
+Effizienter arbeiten
 ---
-Sie laden Partner, Kunden oder Lieferanten per E-Mail zum elektronischen Signieren ein.
-
-Keine zusätzliche Hardware nötig. 
+Der Umweg über Drucker und Papier entfällt. Sie signieren innerhalb von Sekunden auf Knopfdruck, alleine oder mit weiteren Parteien.
+- Per E-Mail zum Signieren einladen
+- Mehrere Dokumente auf einmal signieren
+- Hinzufügen einer persönlichen Nachricht beim Einladen, Zuweisen, Ablehnen
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -72,9 +72,12 @@ Keine zusätzliche Hardware nötig.
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=fair-flat-02 img-width=460 img-alt="Zwei Leute unterschreiben effizient auf dem Tablet einen Vertrag elektronisch." >}}
 {{% markdown %}}
-Effizienter arbeiten
+Sofort einsatzbereit
 ---
-Der Umweg über Drucker und Papier entfällt - sie signieren mit wenigen Klicks auf dem Mobiltelefon oder Desktop.
+Sie brauchen weder etwas zu installieren noch zusätzlich Hardware – einfach online ein Skribble-Konto erstellen und loslegen.
+- Signieren via Smartphone und Desktop
+- Keine Smartcard und kein USB-Stick notwendig
+- Externe können ohne Skribble-Konto signieren (EES-Standard)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -88,9 +91,12 @@ Der Umweg über Drucker und Papier entfällt - sie signieren mit wenigen Klicks 
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=fair-flat-03 img-width=490 img-position=right img-alt="Eine Frau signiert sofort einen Vertrag auf ihrem Tablet." >}}
 {{% markdown %}}
-Sofort einsatzbereit
+Alle Vertragsarten abgedeckt
 ---
-Sie brauchen nichts zu installieren - einfach online ein Konto eröffnen uns loslegen.
+Verschiedene Vertragsarten, verschiedene rechtliche Anforderungen – bei Skribble erhalten Sie alle E-Signatur-Standards aus einer Hand und signieren immer rechtskonform.
+- Qualifizierte elektronische Signatur (QES), erfüllt Schriftlichkeitserfordernis gemäss BGB/ OR
+- Fortgeschrittene elektronische Signatur (FES)
+- Einfache elektronische Signatur (EES)
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -98,10 +104,12 @@ Sie brauchen nichts zu installieren - einfach online ein Konto eröffnen uns los
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=fair-flat-04 img-width=420 img-alt="Ein Mann kann ohne zusätzliche Hardware auf seinem Mobile Phone elektronisch signieren." >}}
 {{% markdown %}}
-Keine zusätzliche 
-Hardware 
+Visuelle Signatur personalisieren und anbringen
 ---
-Sie brauchen nur Ihr Mobiltelefon, um zu signieren - weder Smart Card noch USB-Stick sind nötig.
+Stellen Sie das gewohnte Look & Feel eines handschriftlich unterzeichneten Dokuments her, indem Sie dem signierten Dokument eine visuelle Signatur hinzufügen. 
+- Bild Ihrer handschriftlichen Unterschrift einmalig hochladen und speichern
+- Vor dem Signieren an die gewünschte Stelle im Dokument ziehen
+- Signatur auslösen und Dokument im gewohnten Look & Feel herunterladen
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -109,12 +117,10 @@ Sie brauchen nur Ihr Mobiltelefon, um zu signieren - weder Smart Card noch USB-S
 
 {{< content top=20 text=center width=narrow >}}
 {{% markdown %}}
-Unsere Massnahmen 
-für Sicherheit und Datenschutz
+Unsere Massnahmen für
+Sicherheit und Datenschutz
 ---
-Uns ist bewusst, Ihr Unternehmen nur dann von den Vorteile von E-Signing 
-profitieren kann, wenn die Lösung auch aboulut sicher ist. 
-Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
+Uns ist bewusst, dass Ihr Unternehmen nur dann von den Vorteilen von E-Signing profitieren kann, wenn die Lösung auch absolut sicher ist. Deshalb kombiniert Skribble Einfachheit mit kompromissloser Sicherheit.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -124,7 +130,7 @@ Deshalb kombiniert Skribble Einfachheit mit kommpromissloser Sicherheit.
 {{< card icon="icons/data-protection.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Maximaler Datenschutz
-Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzenter ist nach ISO 27001 zertifiziert. 
+Ihre Daten sind auf Banken-Level in der Schweiz gesichert. Das Rechenzentrum ist nach ISO 27001 zertifiziert. 
 {{% /markdown %}}
 {{< /card >}}
 
