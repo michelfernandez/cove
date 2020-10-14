@@ -43,7 +43,7 @@ Avec Skribble Enterprise, vous pouvez mettre le service juridique, les affaires 
 
 {{< content text=center top=8 bottom=16 width=narrow >}}
 {{% markdown %}}
-Volià comment bénéficier
+Voilà comment vous bénéficiez
 de Skribble Enterprise
 ---
 {{% /markdown %}}
