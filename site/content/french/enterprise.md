@@ -149,7 +149,7 @@ Skribble travaille exclusivement avec des normes légalement réglementées et e
 {{< card icon="icons/krypto-encrypt.svg" icon-width=44 >}}
 {{% markdown %}}
 ### Cryptographiquement chiffré
-Nous cryptons le trafic de données par un système de cryptage (AES-256). Personne ne sait lire, pas même Skribble.
+Nous cryptons le trafic de données par un système de cryptage (AES-256). Personne ne peut lire, même pas Skribble.
 {{% /markdown %}}
 {{< /card >}}
 
