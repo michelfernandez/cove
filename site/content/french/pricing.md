@@ -30,7 +30,9 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
     cta-label="Démarrer"
     cta-href="https://my.skribble.com/signup/?lang=fr"
     cta-target=""
-    more=""
+    more="En savoir plus"
+    more-href="/fr/fair-flat/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Fair Flat
@@ -62,7 +64,9 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
     cta-label="Contacter les ventes"
     cta-href="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
     cta-target="_blank"
-    more=""
+    more="En savoir plus"
+    more-href="/fr/business/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Business
@@ -90,7 +94,9 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
     cta-label="Contacter les ventes"
     cta-href="https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
     cta-target="_blank"
-    more=""
+    more="En savoir plus"
+    more-href="/fr/enterprise/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Enterprise

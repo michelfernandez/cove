@@ -3,6 +3,7 @@ title: Alle Pläne und Preise von Skribble
 description: Skribble eignet sich sowohl für gelegentliches wie auch für häufiges Signieren. Finden Sie das passende Preismodell für Ihre Anwendung.
 draft: false
 slug: preise
+og_image: og/og-skribble-service.jpg
 
 ---
 
@@ -28,7 +29,9 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     cta-label="Jetzt loslegen"
     cta-href="https://my.skribble.com/signup/?lang=de"
     cta-target=""
-    more=""
+    more="Mehr erfahren"
+    more-href="/de/fair-flat/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Fair Flat
@@ -59,7 +62,9 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     cta-label="Sales kontaktieren"
     cta-href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
     cta-target="_blank"
-    more=""
+    more="Mehr erfahren"
+    more-href="/de/business/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Business
@@ -86,7 +91,9 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
     cta-label="Sales kontaktieren"
     cta-href="https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
     cta-target="_blank"
-    more=""
+    more="Mehr erfahren"
+    more-href="/de/enterprise/"
+    more-target=""
   >}}
   {{% markdown %}}
   ## Enterprise

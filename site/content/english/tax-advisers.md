@@ -131,30 +131,6 @@ Skribble and its signing partner Swisscom commit to manage data in accordance wi
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Our customers have a good time
-How we at Skribble make everyday life easier for our customers.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
-"Skribble has given me enormous peace of mind in my daily work. We can now get contracts with affiliates in Austria, Central & Eastern Europe signed in a timely and more secure manner." {{< /testimonial >}}
-
-{{< cta
-  label="Download use case"
-  href="https://f.hubspotusercontent40.net/hubfs/5051692/Factstheets/Use%20Cases/UniqaRE_Skribble_Use-Case_EN.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Download the UNIQA Re use case:**
-{{% /markdown %}}
-{{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
-{{% markdown %}}
 ## All available e-signature standards from a single source
 The law distinguishes between three e-signature standards.
 They vary in terms of area of application and legal weight.
@@ -269,14 +245,16 @@ Not exclusively. Thanks to the visual signature, it can be seen on the printed c
 
 {{< outro >}}
 {{% markdown center %}}
-## Sign now, legally and electronically!
-No credit card, entrance fee or commitment required.
+Sign legally valid with 
+a few clicks
+---
+Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
   "Get started"
   "https://my.skribble.com/signup?lang=en"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contact Sales"
@@ -284,9 +262,10 @@ No credit card, entrance fee or commitment required.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
-{{% small %}}2 signatures per month are free.{{% /small %}}
+{{% small %}}2 signatures per month are free.{{% /small %}} 
 {{< /markdown >}}
 {{< /content >}}
 {{< /outro >}}

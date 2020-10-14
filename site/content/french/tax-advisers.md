@@ -126,30 +126,6 @@ Skribble et ses partenaires gèrent leurs données conformément au réglement e
 
 {{< content text=center top=24 width=narrow >}}
 {{% markdown %}}
-## Nos clients s'amusent bien
-Comment nous, chez Skribble, facilitons la vie quotidienne de nos clients.
-{{% /markdown %}}
-{{< /content >}}
-
-{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
-"Skribble m'a apporté une énorme tranquillité d'esprit dans mon travail quotidien. Nous pouvons désormais obtenir la signature de contrats avec des affiliés en Autriche, en Europe centrale et orientale, en temps voulu et de manière plus sûre" {{< /testimonial >}}
-
-{{< cta
-  label="Télécharger le cas d'utilisation"
-  href="https://f.hubspotusercontent40.net/hubfs/5051692/Factstheets/Use%20Cases/UniqaRE_Skribble_Use-Case_FR.pdf"
-  outlined="true"
-  target="_blank"
->}}
-
-{{% markdown %}}
-**Téléchargez le cas d'utilisation UNIQA Re:**
-{{% /markdown %}}
-{{< /cta >}}
-
-[//]: # (--------------------------------------------------------------------------------------------------------------)
-
-{{< content text=center top=24 width=narrow >}}
-{{% markdown %}}
 ## Toutes les normes de signature d'une seule source
 La loi distingue trois normes de signature électronique. Elles varient
 en termes de domaine d'application et de force probante. Sur Skribble, vous pouvez choisir entre les trois.
@@ -267,15 +243,16 @@ Pas uniquement. Grâce à la signature visuelle, on peut voir sur le contrat imp
 
 {{< outro >}}
 {{% markdown center %}}
-## Signer légalement <br class="hide-for-mobile">et numériquement maintenant!
-Aucune carte de crédit, aucun droit d'entrée
-ou engagement n'est requis.
+Signer légalement et électroniquement 
+avec Skribble
+---
+Utilisable dans le monde entier, hébergé en Suisse.
 {{% /markdown %}}
 
 {{< button
   "Démarrer"
   "https://my.skribble.com/signup?lang=fr"
-  "_blank"
+  ""
 >}}
 {{< button
   "Contacter les ventes"
@@ -283,6 +260,7 @@ ou engagement n'est requis.
   "_blank"
   outline
 >}}
+
 {{< content top=6 >}}
 {{< markdown center >}}
 {{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
