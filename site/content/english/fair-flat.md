@@ -25,12 +25,6 @@ Sign your documents digitally and legally valid from anywhere, and on any device
   "https://my.skribble.com/signup"
   "_blank"
 >}}
-{{< button
-  "Contact Sales"
-  "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
-  "_blank"
-  outline
->}}
 
 {{< /intro >}}
 
