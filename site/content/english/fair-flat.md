@@ -11,9 +11,9 @@ og_image: og/og-skribble-fair-flat.jpg
 
 {{< intro top=24 bottom=12 width=wide img=fair-flat-main img-width=540 img-alt="Ein Mann signiert elektronisch auf seinem Notebook von Zuhause aus einen Vertrag." >}}
 {{% markdown %}}
-Sign electronically from the comfort of your holiday home
+Working from home or need to sign on the go?
 ===============
-Sign your documents digitally and legally valid from anywhere, and on any device. 
+With Skribble, you can sign your documents digitally and legally valid from anywhere, and on any device.
 
 **Frequently used for:**
 - Quotations
@@ -92,7 +92,7 @@ Any type of contract covered
 ---
 Different legal requirements may apply when it comes to signing contracts electronically. At Skribble, you get access to all e-signature standards from a single source that are legally valid around the world. 
 
-- Qualified electronic signature (QES), fulfils the written form requirement according to the BGB (German Civil Code)/ CO (Swiss Code of Obligations)
+- Qualified electronic signature (QES) - fulfils the written form requirement according to the BGB (German Civil Code) and CO (Swiss Code of Obligations)
 - Advanced electronic signature (AES)
 - Simple electronic signature (SES)
 {{% /markdown %}}
