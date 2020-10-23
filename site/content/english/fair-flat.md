@@ -163,6 +163,22 @@ We encrypt the data traffic with AES-256 encryption. Nobody can read along, not 
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=20 bottom=12 img=preismodelle img-width=590 img-alt="Woman with red hair compares different price plans." >}}
+{{% markdown %}}
+## Compare plans
+All plans, prices and features at a glance.
+{{% /markdown %}}
+<br>
+{{< button
+  "Compare now"
+  "/pricing/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
 ## More than 250 companies want both: Simplicity and security

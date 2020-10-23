@@ -162,6 +162,21 @@ Wir verschlüsseln den Datenverkehr kryptographisch (AES-256). Niemand kann mitl
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=20 bottom=12 img=preismodelle img-width=590 img-alt="Frau mit roten Haare vergleicht verchiedenen Preis-Pläne." >}}
+{{% markdown %}}
+## Pläne vergleichen
+Alle Pläne, Preise und Features im Überblick 
+{{% /markdown %}}
+<br>
+{{< button
+  "Jetzt vergleichen"
+  "/de/preise/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
 ## Über 250 Unternehmen wollen beides: Einfachheit und Sicherheit

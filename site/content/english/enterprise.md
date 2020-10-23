@@ -189,6 +189,21 @@ Extended security reports are available upon request (e.g. penetration tests).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=20 bottom=12 img=preismodelle img-width=590 img-alt="Woman with red hair compares different price plans." >}}
+{{% markdown %}}
+## Compare plans
+All plans, prices and features at a glance.
+{{% /markdown %}}
+<br>
+{{< button
+  "Compare now"
+  "/pricing/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
 ## More than 250 companies want both: Simplicity and security
@@ -216,11 +231,20 @@ Worldwide usage, hosted in Switzerland.
 {{% /markdown %}}
 
 {{< button
+  "Get started"
+  "https://my.skribble.com/signup?lang=en"
+  "_blank"
+>}}
+{{< button
   "Contact Sales"
   "https://share.hsforms.com/1eikgwNSWS9aCXBpqMVvrtQ309ws"
   "_blank"
-
+  outline
 >}}
-
-
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures per month are free.{{% /small %}}
+{{< /markdown >}}
+{{< /content >}}
+{{< /outro >}}
 

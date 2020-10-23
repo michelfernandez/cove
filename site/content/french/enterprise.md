@@ -190,6 +190,21 @@ Vous pouvez demander des rapports de sécurité étendus (par exemple, des tests
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=20 bottom=12 img=preismodelle img-width=590 img-alt="Une femme aux cheveux roux compare différents plans tarifaires." >}}
+{{% markdown %}}
+## Comparer les plans
+Tous les plans, prix et fonctionnalités en un coup d'œil.
+{{% /markdown %}}
+<br>
+{{< button
+  "Comparer maintenant"
+  "/fr/tarifs/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
 ## Plus de 250 entreprises veulent les deux: simplicité et sécurité
@@ -218,7 +233,19 @@ Utilisable dans le monde entier, hébergé en Suisse.
 
 
 {{< button
+  "Démarrer"
+  "https://my.skribble.com/signup?lang=fr"
+  "_blank"
+>}}
+{{< button
   "Contacter les ventes"
   "https://share.hsforms.com/1JHPHJU3QQz2TlyX14QDdKg309ws"
   "_blank"
+  outline
 >}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 signatures par mois sont gratuites.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
+{{< /outro >}}
