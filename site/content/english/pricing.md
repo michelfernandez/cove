@@ -527,13 +527,13 @@ with the highest data protection standards in Switzerland.
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Customer Success Team</td>
+        <td>Onboarding support</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Onboarding support</td>
+        <td>Customer Success Team</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>

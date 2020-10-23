@@ -524,13 +524,13 @@ Mit Skribble signieren Sie Ihre Verträge innert Sekunden – global rechtsgült
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Customer Success Team</td>
+        <td>Unterstützung beim Onboarding</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Unterstützung beim Onboarding</td>
+        <td>Customer Success Team</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
