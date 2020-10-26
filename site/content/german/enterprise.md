@@ -187,6 +187,21 @@ Sie können erweiterte Sicherheitsreports beantragen (z.B. Penetration Testing).
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=20 bottom=12 img=preismodelle img-width=590 img-alt="Frau mit roten Haare vergleicht verchiedenen Preis-Pläne." >}}
+{{% markdown %}}
+## Pläne vergleichen
+Alle Pläne, Preise und Features im Überblick.
+{{% /markdown %}}
+<br>
+{{< button
+  "Jetzt vergleichen"
+  "/de/preise/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
 ## Über 250 Unternehmen wollen beides: Einfachheit und Sicherheit
@@ -214,7 +229,19 @@ Weltweit einsetzbar, gehosted in der Schweiz.
 {{% /markdown %}}
 
 {{< button
+  "Jetzt loslegen"
+  "https://my.skribble.com/signup?lang=de"
+  "_blank"
+>}}
+{{< button
   "Sales kontaktieren"
   "https://share.hsforms.com/1gxsCjIJRQhaM4GEcCmL7QQ309ws"
   "_blank"
+  outline
 >}}
+{{< content top=6 >}}
+{{< markdown center >}}
+{{% small %}}2 Signaturen pro Monat sind kostenlos.{{% /small %}} 
+{{< /markdown >}}
+{{< /content >}}
+{{< /outro >}}

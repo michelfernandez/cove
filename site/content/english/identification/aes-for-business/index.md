@@ -9,15 +9,6 @@ og_image: og/og-skribble-aes-for-business.jpg
 
 ---
 
-{{< content text=center top=12 >}}
-{{< button
-  "Go back"
-  "identification"
-  ""
-  "outline"
->}}
-{{< /content >}}
-
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # AES for Business: Organisation-wide implementation within just a few days

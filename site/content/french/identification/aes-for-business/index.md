@@ -9,15 +9,6 @@ og_image: og/og-skribble-aes-for-business.jpg
 
 ---
 
-{{< content text=center top=12 >}}
-{{< button
-  "Retour"
-  "fr/identification"
-  ""
-  "outline"
->}}
-{{< /content >}}
-
 {{< content text=center top=16 bottom=4 width=narrow >}}
 {{% markdown %}}
 # SEA pour Business : Implémentation à toute l’organisation en quelques jours seulement

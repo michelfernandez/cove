@@ -39,6 +39,7 @@ qui partagent nos valeurs et nos objectifs.
   {{< partner field=Réseau img=partner-swiss-made href=https://www.swissmadesoftware.org/en/home/home.html img-width=100 img-alt=Swissmadesoftware >}}
   {{< partner field=Réseau img=partner-sav-fsa href=https://www.sav-fsa.ch/fr/home.html img-width=110 img-alt=SAV-FSA >}}
   {{< partner field="Identification & Intégration" img=partner-Intrum href=https://www.intrum.ch/ img-width=105 img-alt=Intrum >}}
+  {{< partner field=Réseau img=partner-digital-chameleon href=https://www.digital-chameleon.ch/ img-width=109 img-alt=Digital-Chameleon >}}
 {{< /partners >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)

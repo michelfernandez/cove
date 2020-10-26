@@ -159,6 +159,21 @@ Nous cryptons le trafic de données par un système de cryptage (AES-256). Perso
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< side-by-side top=20 bottom=12 img=preismodelle img-width=590 img-alt="Une femme aux cheveux roux compare différents plans tarifaires." >}}
+{{% markdown %}}
+## Comparer les plans
+Tous les plans, prix et fonctionnalités en un coup d'œil.
+{{% /markdown %}}
+<br>
+{{< button
+  "Comparer maintenant"
+  "/fr/tarifs/"
+  ""
+  "outline">}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< content text=center top=24 bottom=2 width=narrow >}}
 {{% markdown %}}
 ## Plus de 250 entreprises veulent les deux: simplicité et sécurité

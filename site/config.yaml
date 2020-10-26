@@ -47,36 +47,40 @@ languages:
         # Solutions dropdown
         - name: Lösungen
           url: "/de/hr/"
-          weight: 15
+          weight: 10
           identifier: solutions
         - name: HR
           url: "/de/hr/"
-          weight: 10
+          weight: 15
           parent: solutions
         - name: Anwälte
           url: "/de/anwaelte/"
-          weight: 15
+          weight: 20
           parent: solutions
         - name: Steuerberater
           url: "/de/steuerberater/"
-          weight: 20
+          weight: 25
           parent: solutions
         # Preise
-        - name: Preise
+        - name: Pläne & Preise
           url: "/de/preise/"
-          weight: 20
+          weight: 15
           identifier: price
+        - name: Pläne vergleichen
+          url: "/de/preise/"
+          weight: 5
+          parent: price
         - name: Fair Flat
           url: "/de/fair-flat/"
-          weight: 15
+          weight: 10
           parent: price
         - name: Business
           url: "/de/business/"
-          weight: 20
+          weight: 15
           parent: price
         - name: Enterprise
           url: "/de/enterprise/"
-          weight: 25
+          weight: 20
           parent: price
       footer1:
         - name: Features
@@ -268,21 +272,25 @@ languages:
           weight: 25
           parent: solutions
         # Pricing
-        - name: Pricing
+        - name: Plans & pricing
+          url: "/pricing/"
+          weight: 15
+          identifier: pricing
+        - name: Compare plans
           url: "/pricing/"
           weight: 20
-          identifier: pricing
+          parent: pricing
         - name: Fair Flat
           url: "/fair-flat/"
-          weight: 15
+          weight: 25
           parent: pricing
         - name: Business
           url: "/business/"
-          weight: 20
+          weight: 30
           parent: pricing
         - name: Enterprise
           url: "/enterprise/"
-          weight: 25
+          weight: 35
           parent: pricing
       footer1:
         - name: Features
@@ -474,21 +482,25 @@ languages:
           weight: 25
           parent: solutions
         # Tarifs
-        - name: Tarifs
+        - name: Plans & tarifs
           url: "/fr/tarifs/"
-          weight: 25
+          weight: 15
           identifier: tarifs
+        - name: Comparer les plans
+          url: "/fr/tarifs/"
+          weight: 30
+          parent: tarifs
         - name: Fair Flat
           url: "/fr/fair-flat/"
-          weight: 15
+          weight: 35
           parent: tarifs
         - name: Business
           url: "/fr/business/"
-          weight: 20
+          weight: 40
           parent: tarifs
         - name: Enterprise
           url: "/fr/enterprise/"
-          weight: 25
+          weight: 45
           parent: tarifs
       footer1:
         - name: Fonctionnalités

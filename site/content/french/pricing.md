@@ -527,13 +527,13 @@ Skribble permet de signer vos contrats en un clin d’œil – Validité mondial
         <td>{{< pricing-check >}}</td>
       </tr>
       <tr>
-        <td>Service après-vente</td>
+        <td>Soutien lors de l'introduction</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
       </tr>
-      <tr>
-        <td>Soutien lors de l'introduction</td>
+       <tr>
+        <td>Service après-vente</td>
         <td>—</td>
         <td>{{< pricing-check filled=true >}}</td>
         <td>{{< pricing-check >}}</td>
