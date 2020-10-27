@@ -237,7 +237,7 @@ groups:
           retina_landscape: team/sina-burmeister-l@2x
           alt_text:
       - name: Johanna Seeliger
-        position: Human Ressource & Recruiting
+        position: Head of People
         type: 0
         images:
           regular_portrait: team/johanna-seeliger-l
@@ -246,7 +246,7 @@ groups:
           retina_landscape: team/johanna-seeliger-l@2x
           alt_text:
       - name: Serna Rico
-        position: Customer Success Managerin
+        position: Customer Success Manager
         type: 0
         images:
           regular_portrait: team/serena-rico-l
