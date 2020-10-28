@@ -175,7 +175,7 @@ groups:
           retina_landscape: team/maxim-markert-l@2x
           alt_text:
       - name: Jevgenija Litvina
-        position: Content & Communication
+        position: Content & Communications
         type: 1
         images:
           regular_portrait: team/jevgenija-litvina-l
@@ -256,7 +256,7 @@ groups:
           retina_landscape: team/serena-rico-l@2x
           alt_text:
       - name: Sara Leidinger
-        position: Customer Success Managerin
+        position: Customer Success Manager
         type: 2
         images:
           regular_portrait: team/sara-leidinger-l
