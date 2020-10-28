@@ -22,7 +22,7 @@ groups:
           retina_landscape: team/philipp-dick-l@2x
           alt_text:
       - name: Michel Fernandez
-        position: CXD & Co-Founder
+        position: CXO & Co-Founder
         type: 1
         images:
           regular_portrait: team/michel-fernandez-l
@@ -158,7 +158,7 @@ groups:
           alt_text:
       - name: Soraya Kohler
         position: Customer Happiness Manager
-        type: 0
+        type: 2
         images:
           regular_portrait: team/soraya-kohler-l
           retina_portrait: team/soraya-kohler-l@2x
@@ -175,7 +175,7 @@ groups:
           retina_landscape: team/maxim-markert-l@2x
           alt_text:
       - name: Jevgenija Litvina
-        position: Content & Communication
+        position: Content & Communications
         type: 1
         images:
           regular_portrait: team/jevgenija-litvina-l
@@ -203,12 +203,84 @@ groups:
           alt_text:
       - name: Emma Kingué
         position: Customer Hapiness Manager
-        type: 1
+        type: 0
         images:
           regular_portrait: team/emma-kingue-l
           retina_portrait: team/emma-kingue-l@2x
           regular_landscape: team/emma-kingue-l
           retina_landscape: team/emma-kingue-l@2x
+          alt_text:
+      - name: Stefano Anzolut
+        position: Engineering
+        type: 1
+        images:
+          regular_portrait: team/stefano-anzolut-l
+          retina_portrait: team/stefano-anzolut-l@2x
+          regular_landscape: team/stefano-anzolut-l
+          retina_landscape: team/stefano-anzolut-l@2x
+          alt_text:
+      - name: Andreas Ellison
+        position: Engineering
+        type: 0
+        images:
+          regular_portrait: team/andreas-ellison-l
+          retina_portrait: team/andreas-ellison-l@2x
+          regular_landscape: team/andreas-ellison-l
+          retina_landscape: team/andreas-ellison-l@2x
+          alt_text:
+      - name: Sina Burmeister
+        position: Account Executive
+        type: 1
+        images:
+          regular_portrait: team/sina-burmeister-l
+          retina_portrait: team/sina-burmeister-l@2x
+          regular_landscape: team/sina-burmeister-l
+          retina_landscape: team/sina-burmeister-l@2x
+          alt_text:
+      - name: Johanna Seeliger
+        position: Head of People
+        type: 0
+        images:
+          regular_portrait: team/johanna-seeliger-l
+          retina_portrait: team/johanna-seeliger-l@2x
+          regular_landscape: team/johanna-seeliger-l
+          retina_landscape: team/johanna-seeliger-l@2x
+          alt_text:
+      - name: Serna Rico
+        position: Customer Success Manager
+        type: 0
+        images:
+          regular_portrait: team/serena-rico-l
+          retina_portrait: team/serena-rico-l@2x
+          regular_landscape: team/serena-rico-l
+          retina_landscape: team/serena-rico-l@2x
+          alt_text:
+      - name: Sara Leidinger
+        position: Customer Success Manager
+        type: 2
+        images:
+          regular_portrait: team/sara-leidinger-l
+          retina_portrait: team/sara-leidinger-l@2x
+          regular_landscape: team/sara-leidinger-l
+          retina_landscape: team/sara-leidinger-l@2x
+          alt_text:
+      - name: Katina Barbara Strimer
+        position: Account Executive
+        type: 2
+        images:
+          regular_portrait: team/katina-strimer-l
+          retina_portrait: team/katina-strimer-l@2x
+          regular_landscape: team/katina-strimer-l
+          retina_landscape: team/katina-strimer-l@2x
+          alt_text:
+      - name: Lucie Benz
+        position: Account Executive
+        type: 1
+        images:
+          regular_portrait: team/lucie-benz-l
+          retina_portrait: team/lucie-benz-l@2x
+          regular_landscape: team/lucie-benz-l
+          retina_landscape: team/lucie-benz-l@2x
           alt_text:
   - title: Advisors
     people:
