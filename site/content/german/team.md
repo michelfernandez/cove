@@ -174,7 +174,7 @@ groups:
           retina_landscape: team/maxim-markert-l@2x
           alt_text:
       - name: Jevgenija Litvina
-        position: Content & Communication
+        position: Content & Communications
         type: 1
         images:
           regular_portrait: team/jevgenija-litvina-l
@@ -201,7 +201,7 @@ groups:
           retina_landscape: team/jonathan-geissberger-l@2x
           alt_text:
       - name: Emma Kingué
-        position: Customer Hapiness Managerin
+        position: Customer Hapiness Manager
         type: 0
         images:
           regular_portrait: team/emma-kingue-l
