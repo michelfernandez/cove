@@ -201,7 +201,7 @@ groups:
           regular_landscape: team/jonathan-geissberger-l
           retina_landscape: team/jonathan-geissberger-l@2x
           alt_text:
-      - name: Emma Kingué
+      - name: Emma Knobel
         position: Customer Hapiness Manager
         type: 0
         images:
