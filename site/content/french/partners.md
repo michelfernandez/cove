@@ -40,7 +40,7 @@ qui partagent nos valeurs et nos objectifs.
   {{< partner field=Réseau img=partner-sav-fsa href=https://www.sav-fsa.ch/fr/home.html img-width=110 img-alt=SAV-FSA >}}
   {{< partner field="Identification & Intégration" img=partner-Intrum href=https://www.intrum.ch/ img-width=105 img-alt=Intrum >}}
   {{< partner field=Réseau img=partner-digital-chameleon href=https://www.digital-chameleon.ch/ img-width=109 img-alt=Digital-Chameleon >}}
-  {{< partner field=Integration img=partner-decentage href=https://decentage.io/ img-width=112 img-alt=Decentage >}}
+  {{< partner field=Intégration img=partner-decentage href=https://decentage.io/ img-width=112 img-alt=Decentage >}}
 {{< /partners >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
