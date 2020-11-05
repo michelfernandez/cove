@@ -5,20 +5,20 @@ draft: false
 slug: einkauf
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-tax-advisors.jpg
+og_image: og/og-skribble-procurement.jpg
 
 ---
-{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-procurement-main img-width=580 img-alt="Eine Frau signiert einen Vertrag auf ihrem Notebook und kauft online etwas." >}}
 {{% markdown %}}
-Elektronische Signatur 
-für Steuerberater
+Elektronisch signieren
+im Einkauf
 ===============
-Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer.
+Verwenden Sie Ihre Ressourcen für die Wahl des richtigen Lieferanten statt für Papierkrieg.
 
 **Häufig eingesetzt für:**
-- Bilanz & Jahresabschlüsse
-- Mandantenverträge
-- Freigabeerklärungen
+- Bestellungen
+- Geheimhaltungsvereinbarungen (NDA)
+- Werkverträgen
 {{% /markdown %}}
 {{< button
   "Jetzt loslegen"
@@ -49,13 +49,13 @@ Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer.
 
 {{< side-by-side top=8 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
 {{% markdown %}}
-## Mehr Effizienz für Steuerberater und Ihre Mandanten
-Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresabschluss per Post hin- und herzuschicken, signieren Steuerberater und Mandant innert Sekunden elektronisch. 
+## Maximale Effizienz im Einkaufsprozess
+Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freigaben hin- und her zu schicken, signieren alle Beteiligten in Sekundenschnelle elektronisch.
 
-- Per E-Mail zum Signieren einladen
-- Mandanten können ohne Skribble-Konto via Einladungslink signieren
-- Signatur via Handy bestätigen – ganz ohne USB-Stick oder Smart Card
-- In Sekundenschnelle prüfbar, ob korrekt signiert wurde
+-  Per E-Mail zum Signieren einladen
+-  Signaturen anderen zuweisen, Signaturen ablehnen
+-  Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
+-  Übersicht über alle eingegangenen und ausstehenden Signaturen
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -63,12 +63,14 @@ Der Umweg über Drucker und Papier entfällt: Statt die Bilanz und den Jahresabs
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
 {{% markdown %}}
-## Einfacher als Papier und Füller
-Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen Ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
+## Begeisterte Einkäufer und Lieferanten
+Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: Das Signieren in Sekundenschnelle erledigt.
 
-- Übersicht über alle eingegangenen und ausstehenden Signaturen
-- Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
-- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro
+- Intuitive Nutzung
+- Hinzufügen persönlicher Nachricht beim Einladen, 
+- Zuweisen und Ablehnen von Signaturen
+- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur und Company Branding
+- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro 
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -76,12 +78,12 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
-## Für jedes Dokument und jedes Mandat einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können Sie jede Art Dokument rechtsgültig signieren – von Abschlüssen über Gestaltungen bis hin zu Freigabeerklärungen.
+## Für jede Vereinbarung im Kaufprozess einsetzbar
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Freigaben über Lieferantenverträge bis Werkverträge.
 
-- Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
-- Weltweit intern und extern einsetzbar
-- Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
+-  Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
+-  Weltweit intern und extern einsetzbar
+-  Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -89,12 +91,12 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können Sie jed
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
-## Bei gewohnten Tools und Prozessen bleiben
-Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt über den Browser. Mandanten können mit jedem Betriebssystem via Einladungslink signieren.
+## Nahtlos integrierbar in bestehende Systeme
+Integrieren Sie Skribble in Ihre Einkaufs-Software oder signieren Sie direkt über den Browser. Lieferanten können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.
 
-- Nahtlose Integration via moderne API
-- Mitarbeitende und Mandanten mühelos und innert kürzester Zeit onboarden
-- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur
+-  Nahtlose Integration via moderne API
+-  Lieferanten können auch ohne Skribble-Konto via Einladungslink signieren
+-  Wachsende Anzahl Plugins für die direkte Integration in Einkaufs-Software, DMS und CRM
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -102,7 +104,10 @@ Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt übe
 
 {{< content text=center top=16 width=narrow >}}
 {{% markdown %}}
-## Mit Skribble erfüllen Sie die rechtlichen Anforderungen an Steuerberater
+Mit Skribble erfüllen Sie 
+die rechtlichen Anforderungen 
+an den Einkäufer
+===
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
 {{< /content >}}
@@ -225,8 +230,8 @@ den E-Signatur-Standards EES, FES und QES wählen.**
 Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifiziert (Hosting nach Bankenstandard).
 {{% /collapsible %}}
 
-{{% collapsible 11 "Was, wenn ich noch nicht persönlich identifiziert wurde?" %}}
-Die persönliche Identifikation wird nur für das Signieren mit dem höchsten E-Signatur-Standard (QES) vorausgesetzt. Wurden Sie noch nicht persönlich identifiziert, signieren Sie entweder mit einer einfachen (EES) oder fortgeschrittenen elektronischen Signatur (FES).
+{{% collapsible 11 "Was, wenn mein Lieferant nicht Skribble nutzt?" %}}
+Ihre Lieferanten brauchen kein Skribble-Konto, um via Einladungslink mit Skribble zu signieren. Möchte Ihr Lieferant sein eigenes Signatur-Tool verwenden, können Sie von Ihrer Seite mit Skribble signieren und das signierte Dokument via Skribble oder per E-Mail an Ihren Lieferanten senden. Dieser kann es dann mit seinem eigenen Tool signieren und an Sie zurücksenden (oder umgekehrt).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}

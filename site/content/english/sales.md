@@ -5,11 +5,11 @@ draft: false
 slug: sales
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-tax-advisors.jpg
+og_image: og/og-skribble-sales.jpg
 
 ---
 
-{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Three women hold a contract in their hands" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-sales-main img-width=580 img-alt="A woman at a notebook signs a contract with the sales department." >}}
 {{% markdown %}}
 Electronic signature 
 for tax advisers
@@ -51,13 +51,14 @@ With Skribble, you and your clients can sign faster and more securely.
 
 {{< side-by-side top=16 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="A contract and two people signing together." >}}
 {{% markdown %}}
-## Greater efficiency for tax advisers and their clients
-The printer-and-paper way is no longer necessary: instead of posting annual financial statements and balance sheets back and forth, tax advisers and their clients can sign electronically within seconds. 
+## Deals schneller unter Dach und Fach
+Der Umweg über Drucker und Papier entfällt: Statt Angebote und Kaufverträge per Post hin- und her zu schicken, signieren Ihre Vertriebsmitarbeitenden und 
+Käufer in Sekundenschnelle elektronisch. 
 
-- Invite to sign by e-mail
-- Clients without Skribble account can use the invitation link to sign
-- Signature confirmation via mobile phone – no USB stick or smart card required
-- Verify in seconds whether the document has been signed correctly
+-  Per E-Mail zum Signieren einalden
+-  Signaturen anderen zuweisen, Signaturen ablehnen
+-  Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
+-  Übersicht über alle eingegangenen und ausstehenden Signaturen
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -65,12 +66,13 @@ The printer-and-paper way is no longer necessary: instead of posting annual fina
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
 {{% markdown %}}
-## Easier than pen and paper
-Signing with Skribble is intuitive and done in seconds. With Skribble, you enable your employees and clients to seamlessly implement digital processes that save time and money.
+## Begeisterte Kunden und Vertriebsmitarbeitende
+Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen Ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
 
-- Overview of all received and pending signatures
-- Sign multiple documents at once with batch signature
-- Sign from anywhere using your smartphone or computer – from home, on the go, or in the office
+- Intuitive Nutzung
+- Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen und Ablehnen von Signaturen
+- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur und Company Branding
+- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro 
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -78,12 +80,13 @@ Signing with Skribble is intuitive and done in seconds. With Skribble, you enabl
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
-## Suitable for any document and client
-Different documents, different requirements. With Skribble, you can legally sign any type of document – from financial statements to tax arrangements and declarations of consent.
+## Für jede Vereinbarung im Sales-Prozess einsetzbar
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Kaufverträgen über Datenverarbeitungsvereinbarungen bis Leasingverträge.
 
-- Valid for contracts with and without written form requirement
-- Worldwide usage with both internal and external parties
-- Highest security and data protection standards hosted in Switzerland
+- Rechtsgültig für Verträge mit- und ohne 
+- Schriftformerfordernis
+- Weltweit intern und extern einsetzbar
+- Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -91,12 +94,12 @@ Different documents, different requirements. With Skribble, you can legally sign
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
-## Keep your existing tools and workflows
-Integrate Skribble into your law firm software, or sign directly from your browser. Clients can sign using the invitation link in any operating system.
+## Nahtlos integrierbar in bestehende Systeme
+Integrieren Sie Skribble in Ihre Sales-Software oder signieren Sie direkt über den Browser. Kunden können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.
 
-- Seamless integration through modern API
-- Effortless and fast onboarding of employees and clients
-- Keep the look and feel of your handwritten signature thanks to the customisable visual signature
+- Nahtlose Integration via moderne API
+- Kunden können auch ohne Skribble-Konto •  via Einladungslink signieren
+- Wachsende Anzahl Plugins für die direkte Integration in Sales-Software, CRM-Systeme und DMS.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -105,8 +108,7 @@ Integrate Skribble into your law firm software, or sign directly from your brows
 {{< content text=center top=16 botom=24 width=narrow >}}
 {{% markdown %}}
 Skribble complies with 
-the legal requirements 
-for tax advisers
+the legal requirements for sales
 ===
 With Skribble you sign legally and securely according
 to the following requirements:
@@ -227,9 +229,9 @@ between the e-signature standards EES, AES and QES.**
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}
 
-{{% collapsible 11 "What if I haven't been identified yet?" %}}
-Personal identification is only required for signing with the highest e-signature standard (QES). If you have not yet been identified in personal contact, you sign either with a simple (SES) or an advanced electronic signature (AES).
-{{< /collapsible >}}
+{{% collapsible 11 "Müssen meine Kunden über ein Skribble-Konto verfügen, um zu signieren?" %}}
+Nein. Sie können Ihre Kunden via Einladungslink zum Signieren einladen. Nach dem Klick auf den Link kann Ihr Kunde das signierbereite Dokument direkt anschauen und signieren, ohne sich registrieren zu müssen.
+{{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
 Yes. On Skribble you can choose the highest e-signature standard available: the qualified electronic signature (QES). It has the highest legal weight in court.
