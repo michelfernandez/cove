@@ -49,7 +49,7 @@ With Skribble, you and your clients can sign faster and more securely.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=16 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="A contract and two people signing together." >}}
+{{< side-by-side top=16 bottom=12 img=procurement-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="A contract and two people signing together." >}}
 {{% markdown %}}
 ## Maximale Effizienz im Einkaufsprozess
 Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freigaben hin- und her zu schicken, signieren alle Beteiligten in Sekundenschnelle elektronisch.
@@ -63,7 +63,7 @@ Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freig
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-2 img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
 {{% markdown %}}
 ## Begeisterte Einkäufer und Lieferanten
 Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: Das Signieren in Sekundenschnelle erledigt.
@@ -78,7 +78,7 @@ Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, di
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
 ## Für jede Vereinbarung im Kaufprozess einsetzbar
 Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Freigaben über Lieferantenverträge bis Werkverträge.
@@ -91,7 +91,7 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Ar
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=procurement-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
 ## Nahtlos integrierbar in bestehende Systeme
 Integrieren Sie Skribble in Ihre Einkaufs-Software oder signieren Sie direkt über den Browser. Lieferanten können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.

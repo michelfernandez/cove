@@ -49,7 +49,7 @@ Machen Sie es Ihren Vertriebsmitarbeitenden und Kunden einfach, Geschäfte zu ma
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 img=tax-consultant-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
+{{< side-by-side top=8 bottom=12 img=sales-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
 {{% markdown %}}
 ## Deals schneller unter Dach und Fach
 Der Umweg über Drucker und Papier entfällt: Statt Angebote und Kaufverträge per Post hin- und her zu schicken, signieren Ihre Vertriebsmitarbeitenden und 
@@ -64,7 +64,7 @@ Käufer in Sekundenschnelle elektronisch.
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=sales-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
 {{% markdown %}}
 ## Begeisterte Kunden und Vertriebsmitarbeitende
 Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen Ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
@@ -78,7 +78,7 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=sales-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jede Vereinbarung im Sales-Prozess einsetzbar
 Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Kaufverträgen über Datenverarbeitungsvereinbarungen bis Leasingverträge.
@@ -92,7 +92,7 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Ar
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
-{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=tax-consultant-4 img-width=500 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=sales-4 img-width=500 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
 ## Nahtlos integrierbar in bestehende Systeme
 Integrieren Sie Skribble in Ihre Sales-Software oder signieren Sie direkt über den Browser. Kunden können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.
