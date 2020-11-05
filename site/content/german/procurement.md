@@ -2,7 +2,7 @@
 title: Elektronische Signatur für Steuerberater von Skribble
 description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
 draft: false
-slug: vertrieb
+slug: einkauf
 
 # opengraph image (for facebook and twitter)
 og_image: og/og-skribble-tax-advisors.jpg

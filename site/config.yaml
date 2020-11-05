@@ -61,9 +61,13 @@ languages:
           url: "/de/steuerberater/"
           weight: 25
           parent: solutions
-        - name: Sales
-          url: "/de/sales/"
+        - name: Vertrieb
+          url: "/de/vertrieb/"
           weight: 30
+          parent: solutions
+        - name: Einkauf
+          url: "/de/einkauf/"
+          weight: 35
           parent: solutions
         # Preise
         - name: Pläne & Preise
@@ -118,9 +122,12 @@ languages:
         - name: Steuerberater
           url: /de/steuerberater/
           weight: 15
-        - name: Sales
-          url: /de/sales/
+        - name: Vertrieb
+          url: /de/vertrieb/
           weight: 20
+        - name: Einkauf
+          url: /de/einkauf/
+          weight: 25
       footer3:
         - name: Mission
           url: /de/ueber-uns/
@@ -282,6 +289,10 @@ languages:
           url: "/sales/"
           weight: 30
           parent: solutions
+        - name: Procurement
+          url: "/procurement/"
+          weight: 35
+          parent: solutions
         # Pricing
         - name: Plans & pricing
           url: "/pricing/"
@@ -338,6 +349,9 @@ languages:
         - name: Sales
           url: /sales/
           weight: 20
+        - name: Procurement
+          url: /procurement/
+          weight: 25
       footer3:
         - name: Mission
           url: /about/
@@ -494,10 +508,6 @@ languages:
         - name: Conseillers fiscaux
           url: "/fr/conseillers-fiscaux/"
           weight: 25
-          parent: solutions
-        - name: Distribution
-          url: "/fr/distribution/"
-          weight: 30
           parent: solutions
         # Tarifs
         - name: Plans & tarifs
