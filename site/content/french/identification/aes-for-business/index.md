@@ -20,7 +20,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
 
 {{< cta
   label="Télécharger factsheet"
-  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/Skribble_Identification_Organisation_SEA_FR.pdf"
+  href="https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/Fran%C3%A7ais/SEA_pour_Business_Onboarding_FR.pdf"
   target="_blank"
   outlined="true"
 >}}
@@ -41,7 +41,7 @@ Permettez à l'ensemble de votre personnel de signer avec la signature électron
 
 {{< content top=4 bottom=6 width=narrow >}}
 {{% markdown %}}
-Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith @ votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre compte Business peut signer avec SEA sans autre mesure.
+Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.com) permet la signature. Toute personne qui s'inscrit sur Skribble (par exemple john.smith @ votreentreprise.com) avec une adresse e-mail de votre organisation et qui est membre de votre Skribble Business peut signer avec SEA sans autre mesure.
 {{% /markdown %}}
 {{< /content >}}
 
@@ -57,7 +57,7 @@ Avec SEA for Business, le domaine de votre entreprise (par ex. votreentreprise.c
 
 {{< content top=8 bottom=6 width=narrow >}}
 {{% markdown %}}
-Vous pouvez faire une demande de SEA pour Business directement depuis votre compte Skribble Business. Nous aurons besoin des informations suivantes de votre part:
+Vous pouvez faire une demande de SEA pour Business directement depuis votre Skribble Business. Nous aurons besoin des informations suivantes de votre part:
 
 - Domaine qui doit permettre de signer avec AES (par ex. votreentreprise.com)
 - Numéro de registre du commerce de votre organisation
@@ -159,7 +159,7 @@ Les questions et réponses les plus importantes
 
 {{< content top=6 width=narrow >}}
 {{% collapsible 1 "Dois-je identifier manuellement tous mes employés pour leur permettre de signer?" %}}
-Non. L'adresse e-mail de l'entreprise sert de moyen d'identification: toute personne de votre compte Business ayant une adresse e-mail de votre organisation peut signer avec la SEA. La condition préalable est que votre organisation ait vérifié une fois le passeport ou la carte d'identité des employés (par exemple lors du processus d'embauche).
+Non. L'adresse e-mail de l'entreprise sert de moyen d'identification: toute personne de votre Skribble Business ayant une adresse e-mail de votre organisation peut signer avec la SEA. La condition préalable est que votre organisation ait vérifié une fois le passeport ou la carte d'identité des employés (par exemple lors du processus d'embauche).
 {{% /collapsible %}}
 
 {{% collapsible 2 "Dans quels pays puis-je utiliser SEA pour Business?" %}}
@@ -167,7 +167,7 @@ EA pour Business peut être utilisée globalement.
 {{% /collapsible %}}
 
 {{% collapsible 3 "Quels contrats puis-je signer avec la SEA?" %}}
-La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique, tels que les contrats de location, d'achat ou d'hypothèque.
+La signature électronique avancée (SEA) est juridiquement valable pour tous les contrats pour lesquels la loi ne prescrit pas de forme spécifique. Pour plus d'informations, consultez le site https://www.skribble.com/fr/normessignature/.
 {{% /collapsible %}}
 
 {{% collapsible 4 "Puis-je combiner la SEA et la SEQ dans mon entreprise?" %}}
@@ -182,12 +182,8 @@ Cela est généralement possible avec une étape de contrôle supplémentaire pe
 Les certificats de signature sur lesquels Skribble SEA pour Business est basé proviennent de GMO GlobalSign, Ltd, une autorité de certification européenne.
 {{% /collapsible %}}
 
-{{% collapsible 7 "Ai-je besoin d'un compte Skribble Business pour utiliser SEA pour Business?" %}}
-Oui, cette offre est exclusivement disponible pour les clients de Skribble Business.
-{{% /collapsible %}}
-
-{{% collapsible 8 "L'adresse e-mail de l'entreprise est-elle la seule méthode d'identification pour la SEA?" %}}
-Non. La SEA est également activée lorsqu'une personne s'inscrit avec un numéro de téléphone portable suisse. Cette deuxième solution est indépendante de SEA pour Business et est basée sur une collaboration avec Swisscom.
+{{% collapsible 7 "L'adresse e-mail de l'entreprise est-elle la seule méthode d'identification pour la SEA?" %}}
+Non. Il existe différentes options d'identification pour l'SEA. Pour plus d'informations, consultez le site https://www.skribble.com/fr/identification/. 
 {{% /collapsible %}}
 {{< /content >}}
 
