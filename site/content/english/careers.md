@@ -35,6 +35,18 @@ and to develop Skribble and yourself.
 
 {{< cta
   label="More info"
+  href="/careers/924/partnership-management/"
+  target=""
+  outlined="true"
+>}}
+
+{{% markdown %}}
+**Partnership Management (80-100%), Zurich**
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="More info"
   href="/careers/395/sales-Development-representative/"
   target=""
   outlined="true"

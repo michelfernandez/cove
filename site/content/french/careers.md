@@ -37,6 +37,18 @@ et de développer Skribble et toi-même.
 
 {{< cta
   label="Plus d'info"
+  href="/fr/carriere/924/partnership-management/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Partnerschip Management (80-100%), Zurich**
+(Annonce en Anglais)
+{{% /markdown %}}
+{{< /cta >}}
+
+{{< cta
+  label="Plus d'info"
   href="/fr/carriere/395/sales-development-representative/"
   target=""
   outlined="true"

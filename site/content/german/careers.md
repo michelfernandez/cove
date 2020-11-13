@@ -21,6 +21,7 @@ an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
 
 {{< cta-group >}}
 
+
 {{< cta
   title="Offene Stellen"
   label="Mehr Infos"
@@ -33,6 +34,20 @@ an Herausforderungen zu wachsen und Erfolge gebührend zu feiern.
 Job-Beschreibung in Englisch
 {{% /markdown %}}
 {{< /cta >}}
+
+{{< cta
+  label="Mehr Infos"
+  href="/de/karriere/924/partnership-management/"
+  target=""
+  outlined="true"
+>}}
+{{% markdown %}}
+**Partnership Management (80-100%), Zürich**
+Job-Beschreibung in Englisch
+{{% /markdown %}}
+{{< /cta >}}
+
+
 
 {{< cta
   label="Mehr Infos"
