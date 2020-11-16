@@ -1,6 +1,6 @@
 ---
-title: Electronic signature for tax advisers
-description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
+title: Electronic signature for procurement
+description: Use your resources wisely – leave manual paperwork behind and focus on finding the right supplier.
 draft: false
 slug: procurement
 
@@ -11,15 +11,14 @@ og_image: og/og-skribble-procurement.jpg
 
 {{< intro top=24 bottom=12 width=wide img=vertical-procurement-main img-width=580 img-alt="A woman signs a contract on her notebook and buys something online." >}}
 {{% markdown %}}
-Electronic signature 
-for tax advisers
+Accelerate procurement cycles with electronic signatures
 ===============
-With Skribble, you and your clients can sign faster and more securely.  
+Use your resources wisely – leave manual paperwork behind and focus on finding the right supplier.
 
 **Frequently used for:**
-- Financial statements
-- Tax arrangements
-- Client contracts
+- Purchase orders
+- Non-disclosure agreements (NDA)
+- Service agreements
 {{% /markdown %}}
 {{< button
   "Get started"
@@ -51,13 +50,13 @@ With Skribble, you and your clients can sign faster and more securely.
 
 {{< side-by-side top=16 bottom=12 img=procurement-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="A contract and two people signing together." >}}
 {{% markdown %}}
-## Maximale Effizienz im Einkaufsprozess
-Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freigaben hin- und her zu schicken, signieren alle Beteiligten in Sekundenschnelle elektronisch.
+## Speed up your procurement process
+The printer-and-paper way is no longer necessary: instead of posting purchase offers, NDAs and approvals back and forth, enable all parties to sign electronically in just a few seconds.
 
--  Per E-Mail zum Signieren einladen
--  Signaturen anderen zuweisen, Signaturen ablehnen
--  Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
--  Übersicht über alle eingegangenen und ausstehenden Signaturen
+-  Invite to sign by e-mail
+-  Decline or assign signatures to someone else
+-  Sign multiple documents at once with batch signature
+-  Keep track of completed and pending signatures
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -65,14 +64,13 @@ Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freig
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-2 img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
 {{% markdown %}}
-## Begeisterte Einkäufer und Lieferanten
-Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: Das Signieren in Sekundenschnelle erledigt.
+## Satisfied buyers make satisfied suppliers
+Enable your buyers and suppliers alike with seamless digital processes that save time rather than generate extra work, and get contracts signed in just a few seconds.
 
-- Intuitive Nutzung
-- Hinzufügen persönlicher Nachricht beim Einladen, 
-- Zuweisen und Ablehnen von Signaturen
-- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur und Company Branding
-- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro 
+- Intuitive user interface
+- Add a personal message to a signature invitation or when assigning or declining signatures
+- Familiar look and feel thanks to customisable visual signature and company branding
+- Sign from anywhere using your smartphone, tablet or computer – from home, on the go, or in the office
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -80,12 +78,12 @@ Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, di
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
-## Für jede Vereinbarung im Kaufprozess einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Freigaben über Lieferantenverträge bis Werkverträge.
+## Suitable for any agreement in the procurement process
+Different legal requirements may apply when it comes to signing documents electronically. With Skribble, you can legally sign any document – from approvals and supplier contracts to service agreements.
 
--  Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
--  Weltweit intern und extern einsetzbar
--  Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
+-  Legally valid for contracts with and without written form requirement
+-  Worldwide usage with both internal and external parties
+-  Highest security and data protection standards hosted in Switzerland
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -93,12 +91,12 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Ar
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=procurement-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
-## Nahtlos integrierbar in bestehende Systeme
-Integrieren Sie Skribble in Ihre Einkaufs-Software oder signieren Sie direkt über den Browser. Lieferanten können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.
+## Seamless integration with existing systems
+Integrate Skribble with your procurement software, or sign directly from your browser. Suppliers can either use the invitation link or their own tools to sign.
 
--  Nahtlose Integration via moderne API
--  Lieferanten können auch ohne Skribble-Konto via Einladungslink signieren
--  Wachsende Anzahl Plugins für die direkte Integration in Einkaufs-Software, DMS und CRM
+-  Seamless integration via modern API
+-  Customers can sign without having a Skribble account
+-  Various plug-ins available for direct integration with sales software, CRM systems and DMS.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -229,8 +227,8 @@ between the e-signature standards EES, AES and QES.**
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}
 
-{{% collapsible 11 "Was, wenn mein Lieferant nicht Skribble nutzt?" %}}
-Ihre Lieferanten brauchen kein Skribble-Konto, um via Einladungslink mit Skribble zu signieren. Möchte Ihr Lieferant sein eigenes Signatur-Tool verwenden, können Sie von Ihrer Seite mit Skribble signieren und das signierte Dokument via Skribble oder per E-Mail an Ihren Lieferanten senden. Dieser kann es dann mit seinem eigenen Tool signieren und an Sie zurücksenden (oder umgekehrt).
+{{% collapsible 11 "What if my supplier doesn't use Skribble?" %}}
+Your suppliers don't need a Skribble account to sign using an invitation link. If your suppliers have their own signing tools in place, you can send the document signed with Skribble directly from our platform or by e-mail to your supplier. They can then sign it with their tool and return it to you or vice versa.
 {{< /collapsible >}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
