@@ -1,5 +1,5 @@
 ---
-title: Electronic signature for tax advisers
+title: Electronic signature for sales teams
 description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
 draft: false
 slug: sales
@@ -11,15 +11,14 @@ og_image: og/og-skribble-sales.jpg
 
 {{< intro top=24 bottom=12 width=wide img=vertical-sales-main img-width=580 img-alt="A woman at a notebook signs a contract with the sales department." >}}
 {{% markdown %}}
-Electronic signature 
-for tax advisers
+Electronic signature for sales teams
 ===============
-With Skribble, you and your clients can sign faster and more securely.  
+Enable your sales staff and prospects to speed up the sales process. 
 
 **Frequently used for:**
-- Financial statements
-- Tax arrangements
-- Client contracts
+- Quotations and offers
+- Leasing contracts
+- Franchise and distribution agreements
 {{% /markdown %}}
 {{< button
   "Get started"
@@ -51,14 +50,13 @@ With Skribble, you and your clients can sign faster and more securely.
 
 {{< side-by-side top=16 bottom=12 img=sales-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="A contract and two people signing together." >}}
 {{% markdown %}}
-## Deals schneller unter Dach und Fach
-Der Umweg über Drucker und Papier entfällt: Statt Angebote und Kaufverträge per Post hin- und her zu schicken, signieren Ihre Vertriebsmitarbeitenden und 
-Käufer in Sekundenschnelle elektronisch. 
+## Close deals faster
+The printer-and-paper way is no longer necessary: instead of posting quotations and purchase contracts back and forth, your sales staff and potential customers can sign electronically in just a few seconds.
 
--  Per E-Mail zum Signieren einalden
--  Signaturen anderen zuweisen, Signaturen ablehnen
--  Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
--  Übersicht über alle eingegangenen und ausstehenden Signaturen
+-  Invite to sign by e-mail
+-  Decline or assign signatures to someone else
+-  Sign multiple documents at once with batch signature
+-  Keep track of completed and pending signatures
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -66,13 +64,13 @@ Käufer in Sekundenschnelle elektronisch.
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=sales-2 img-width=530 img-alt="An end-to-end process shows who has digitally signed when." >}}
 {{% markdown %}}
-## Begeisterte Kunden und Vertriebsmitarbeitende
-Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen Ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
+## Satisfied sales staff make satisfied customers
+Make it easy for your sales staff and customers to do business with seamless digital workflows that save time rather than generate extra work.
 
-- Intuitive Nutzung
-- Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen und Ablehnen von Signaturen
-- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur und Company Branding
-- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro 
+- Intuitive user interface
+- Add a personal message to a signature invitation or when assigning or declining signatures
+- Familiar look and feel thanks to customisable visual signature and company branding
+- Sign from anywhere using your smartphone, tablet or computer – from home, on the go, or in the office
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -80,13 +78,13 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=sales-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
-## Für jede Vereinbarung im Sales-Prozess einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Kaufverträgen über Datenverarbeitungsvereinbarungen bis Leasingverträge.
+## Suitable for any agreement in the sales process
+Different legal requirements may apply when it comes to signing documents electronically. With Skribble, you can legally sign any document – from purchase and leasing contracts to data processing agreements.
 
-- Rechtsgültig für Verträge mit- und ohne 
+- Legally valid for contracts with and without written form requirement
 - Schriftformerfordernis
-- Weltweit intern und extern einsetzbar
-- Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
+- Worldwide usage with both internal and external parties
+- Highest security and data protection standards hosted in Switzerland
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -94,12 +92,12 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Ar
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=sales-4 img-width=500 img-alt="A circle shows how I can sign from my cloud." >}}
 {{% markdown %}}
-## Nahtlos integrierbar in bestehende Systeme
-Integrieren Sie Skribble in Ihre Sales-Software oder signieren Sie direkt über den Browser. Kunden können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.
+## Seamless integration with existing systems
+Integrate Skribble with your sales software, or sign directly from your browser. Your customers can either use the invitation link or their own tools to sign.
 
-- Nahtlose Integration via moderne API
-- Kunden können auch ohne Skribble-Konto •  via Einladungslink signieren
-- Wachsende Anzahl Plugins für die direkte Integration in Sales-Software, CRM-Systeme und DMS.
+- Seamless integration via modern API
+- Customers can sign without having a Skribble account
+- Various plug-ins available for direct integration with sales software, CRM systems and DMS.
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -229,8 +227,8 @@ between the e-signature standards EES, AES and QES.**
 Skribble' s data centre is located in Switzerland and is ISO 270001 certified (according to banking standards).
 {{% /collapsible %}}
 
-{{% collapsible 11 "Müssen meine Kunden über ein Skribble-Konto verfügen, um zu signieren?" %}}
-Nein. Sie können Ihre Kunden via Einladungslink zum Signieren einladen. Nach dem Klick auf den Link kann Ihr Kunde das signierbereite Dokument direkt anschauen und signieren, ohne sich registrieren zu müssen.
+{{% collapsible 11 "Do my customers need to have a Skribble account to sign?" %}}
+No. You can send your customers an invitation link to sign. After clicking on it, they will be able to view and sign the document without having to create an account. 
 {{% /collapsible %}}
 
 {{% collapsible 12 "Is signing with Skribble legally binding?" %}}
