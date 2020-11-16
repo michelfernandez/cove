@@ -105,7 +105,7 @@ Integrieren Sie Skribble in Ihre Einkaufs-Software oder signieren Sie direkt üb
 {{% markdown %}}
 Mit Skribble erfüllen Sie 
 die rechtlichen Anforderungen 
-an den Einkäufer
+an den Einkauf
 ===
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
