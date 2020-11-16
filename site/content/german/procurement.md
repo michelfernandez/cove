@@ -1,6 +1,6 @@
 ---
-title: Elektronische Signatur für Steuerberater von Skribble
-description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
+title: Elektronisch signieren im Einkauf mit Skribble
+description: Setzen Sie Ihre Ressourcen für die Wahl des richtigen Lieferanten ein statt für Papierkrieg.
 draft: false
 slug: einkauf
 
@@ -13,12 +13,12 @@ og_image: og/og-skribble-procurement.jpg
 Elektronisch signieren
 im Einkauf
 ===============
-Verwenden Sie Ihre Ressourcen für die Wahl des richtigen Lieferanten statt für Papierkrieg.
+Setzen Sie Ihre Ressourcen für die Wahl des richtigen Lieferanten ein statt für Papierkrieg.
 
 **Häufig eingesetzt für:**
 - Bestellungen
 - Geheimhaltungsvereinbarungen (NDA)
-- Werkverträgen
+- Werkverträge
 {{% /markdown %}}
 {{< button
   "Jetzt loslegen"
@@ -49,7 +49,7 @@ Verwenden Sie Ihre Ressourcen für die Wahl des richtigen Lieferanten statt für
 
 {{< side-by-side top=8 bottom=12 img=procurement-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
 {{% markdown %}}
-## Maximale Effizienz im Einkaufsprozess
+## Beschleunigen Sie den Einkaufsprozess
 Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freigaben hin- und her zu schicken, signieren alle Beteiligten in Sekundenschnelle elektronisch.
 
 -  Per E-Mail zum Signieren einladen
@@ -63,14 +63,14 @@ Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freig
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
 {{% markdown %}}
-## Begeisterte Einkäufer und Lieferanten
-Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: Das Signieren in Sekundenschnelle erledigt.
+## Gute Zusammenarbeit als Erfolgsfaktor
+Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: so sind Vereinbarungen in Sekundenschnelle abegeschlossen.
 
-- Intuitive Nutzung
-- Hinzufügen persönlicher Nachricht beim Einladen, 
-- Zuweisen und Ablehnen von Signaturen
-- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur und Company Branding
-- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro 
+- Intuitive Nutzerführung
+- Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen und Ablehnen von Signaturen
+- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur
+ und Company Branding
+- Ortsunabhängig auf dem Smartphone, Tablet oder Computer signieren – im Home-Office, unterwegs oder im Büro
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -79,9 +79,9 @@ Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, di
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jede Vereinbarung im Kaufprozess einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Freigaben über Lieferantenverträge bis Werkverträge.
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble signieren Sie jede Art Dokument rechtsgültig – von Freigaben über Lieferantenverträge bis hin zu Werkverträgen.
 
--  Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
+-  Rechtsgültig für Verträge mit und ohne Schriftformerfordernis
 -  Weltweit intern und extern einsetzbar
 -  Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
 {{% /markdown %}}
@@ -92,9 +92,9 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Ar
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=procurement-4 img-width=500 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
 ## Nahtlos integrierbar in bestehende Systeme
-Integrieren Sie Skribble in Ihre Einkaufs-Software oder signieren Sie direkt über den Browser. Lieferanten können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.
+Integrieren Sie Skribble in Ihre Einkaufs-Software oder signieren Sie direkt über den Browser. Lieferanten signieren via Einladungslink oder nutzen ihr eigenes Signatur-Tool.
 
--  Nahtlose Integration via moderne API
+-  Integration via moderne API
 -  Lieferanten können auch ohne Skribble-Konto via Einladungslink signieren
 -  Wachsende Anzahl Plugins für die direkte Integration in Einkaufs-Software, DMS und CRM
 {{% /markdown %}}
@@ -231,7 +231,7 @@ Das Datenzentrum von Skribble ist in der Schweiz und nach ISO 270001 zertifizier
 {{% /collapsible %}}
 
 {{% collapsible 11 "Was, wenn mein Lieferant nicht Skribble nutzt?" %}}
-Ihre Lieferanten brauchen kein Skribble-Konto, um via Einladungslink mit Skribble zu signieren. Möchte Ihr Lieferant sein eigenes Signatur-Tool verwenden, können Sie von Ihrer Seite mit Skribble signieren und das signierte Dokument via Skribble oder per E-Mail an Ihren Lieferanten senden. Dieser kann es dann mit seinem eigenen Tool signieren und an Sie zurücksenden (oder umgekehrt).
+Ihre Lieferanten brauchen kein Skribble-Konto, um via Einladungslink mit Skribble zu signieren. Möchte Ihr Lieferant sein eigenes Signatur-Tool verwenden, schicken Sie das mit Skribble signierte Dokument direkt aus der Plattform oder per E-Mail an Ihren Lieferanten. Dieser kann es dann mit seinem eigenen Tool signieren und an Sie retournieren (oder umgekehrt).
 {{% /collapsible %}}
 
 {{% collapsible 12 "Ist das Signieren mit Skribble rechtssicher?" %}}
