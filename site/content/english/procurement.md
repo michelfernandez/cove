@@ -11,7 +11,7 @@ og_image: og/og-skribble-procurement.jpg
 
 {{< intro top=24 bottom=12 width=wide img=vertical-procurement-main img-width=580 img-alt="A woman signs a contract on her notebook and buys something online." >}}
 {{% markdown %}}
-Accelerate procurement cycles with electronic signatures
+Electronic signature for procurement
 ===============
 Use your resources wisely – leave manual paperwork behind and focus on finding the right supplier.
 
@@ -77,7 +77,7 @@ Enable your buyers and suppliers alike with seamless digital processes that save
 
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
-## Suitable for any agreement in the procurement process
+## Suitable for any procurement agreement
 Different legal requirements may apply when it comes to signing documents electronically. With Skribble, you can legally sign any document – from approvals and supplier contracts to service agreements.
 
 -  Legally valid for contracts with and without written form requirement
