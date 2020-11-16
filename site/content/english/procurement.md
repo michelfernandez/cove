@@ -67,8 +67,7 @@ The printer-and-paper way is no longer necessary: instead of posting purchase of
 ## Satisfied buyers make satisfied suppliers
 Enable your buyers and suppliers alike with seamless digital processes that save time rather than generate extra work, and get contracts signed in just a few seconds.
 
-- Intuitive user interface
-- Add a personal message to a signature invitation or when assigning or declining signatures
+- Send one document to multiple internal and external parties to sign electronically, and add a personal message, if necessary.
 - Familiar look and feel thanks to customisable visual signature and company branding
 - Sign from anywhere using your smartphone, tablet or computer – from home, on the go, or in the office
 {{% /markdown %}}
