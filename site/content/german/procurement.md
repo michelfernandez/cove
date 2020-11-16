@@ -64,11 +64,10 @@ Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freig
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=procurement-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
 {{% markdown %}}
 ## Gute Zusammenarbeit als Erfolgsfaktor
-Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: so sind Vereinbarungen in Sekundenschnelle abegeschlossen.
+Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: so sind Vereinbarungen in Sekundenschnelle abgeschlossen.
 
 - Laden Sie mehrere interne und externe Parteien zum Signieren eines Dokuments ein und fügen Sie eine persönliche Nachricht hinzu
-- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur
- und Company Branding
+- Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur und Company Branding
 - Ortsunabhängig auf dem Smartphone, Tablet oder Computer signieren – im Home-Office, unterwegs oder im Büro
 {{% /markdown %}}
 {{< /side-by-side >}}
