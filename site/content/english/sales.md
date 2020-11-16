@@ -13,7 +13,7 @@ og_image: og/og-skribble-sales.jpg
 {{% markdown %}}
 Electronic signature for sales teams
 ===============
-Enable your reps and prospects to speed up the sales process. 
+Enable your sales reps and prospects to speed up the sales process. 
 
 **Frequently used for:**
 - Quotations and offers
