@@ -1,6 +1,6 @@
 ---
-title: Electronic signature for sales teams
-description: With Skribble, you and your clients can sign faster and more securely – from balance sheets to financial statements and tax arrangements.
+title: Electronic signature for sales teams with Skribble
+description: Enable your sales team to close deals faster.   
 draft: false
 slug: sales
 
@@ -13,7 +13,7 @@ og_image: og/og-skribble-sales.jpg
 {{% markdown %}}
 Electronic signature for sales teams
 ===============
-Enable your sales team and prospects to speed up the sales process. 
+Enable your reps and prospects to speed up the sales process. 
 
 **Frequently used for:**
 - Quotations and offers
