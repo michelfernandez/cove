@@ -1,6 +1,6 @@
 ---
-title: Elektronische Signatur für Steuerberater von Skribble
-description: Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer, von Jahresabschlüssen über Mandandenverträge bis Freigabeerklärungen.
+title: Elektronisch Signieren im Vertrieb mit Skribble
+description: Machen Sie es Ihren Vertriebsmitarbeitenden und Kunden einfach, Geschäfte zu machen.
 draft: false
 slug: vertrieb
 
@@ -10,14 +10,13 @@ og_image: og/og-skribble-sales.jpg
 ---
 {{< intro top=24 bottom=12 width=wide img=vertical-sales-main img-width=580 img-alt="Eine Frau an einem Notebook signiert einen  Vertrag mit dem Vertrieb." >}}
 {{% markdown %}}
-Elektronisch Signieren 
+Elektronisch Signieren
 im Vertrieb
 ===============
-Bringen Sie Ihre Deals schneller unter Dach und Fach.
-Machen Sie es Ihren Vertriebsmitarbeitenden und Kunden einfach, Geschäfte zu machen.
+Machen Sie es Ihren Vertriebsmitarbeitenden und Kunden einfach, Geschäfte zu machen. 
 
 **Häufig eingesetzt für:**
-- Offerten & Angebote
+- Offerten und Angebote
 - Leasingverträge
 - Franchise- & Distributionsverträge
 
@@ -51,12 +50,11 @@ Machen Sie es Ihren Vertriebsmitarbeitenden und Kunden einfach, Geschäfte zu ma
 
 {{< side-by-side top=8 bottom=12 img=sales-1 mobile-top=12 mobile-bottom=6 img-width=500 img-position=right img-alt="Ein Vertrag und zwei Personen, die gemeinsam unterschreiben." >}}
 {{% markdown %}}
-## Deals schneller unter Dach und Fach
-Der Umweg über Drucker und Papier entfällt: Statt Angebote und Kaufverträge per Post hin- und her zu schicken, signieren Ihre Vertriebsmitarbeitenden und 
-Käufer in Sekundenschnelle elektronisch. 
+## Deals schneller unter Dach und Fach 
+Der Umweg über Drucker und Papier entfällt: Statt Angebote und Kaufverträge per Post hin- und her zu schicken, signieren Ihre Vertriebsmitarbeitenden und Käufer in Sekundenschnelle elektronisch.
 
--  Per E-Mail zum Signieren einalden
--  Signaturen anderen zuweisen, Signaturen ablehnen
+-  Per E-Mail zum Signieren einladen
+-  Signaturen ablehnen oder anderen zuweisen
 -  Mit der Stapelsignatur mehrere Dokumente auf einmal signieren
 -  Übersicht über alle eingegangenen und ausstehenden Signaturen
 {{% /markdown %}}
@@ -67,12 +65,12 @@ Käufer in Sekundenschnelle elektronisch.
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=sales-2 img-width=530 img-alt="Ein End-to-End-Prozess zeigt, wer wann digital unterschrieben hat." >}}
 {{% markdown %}}
 ## Begeisterte Kunden und Vertriebsmitarbeitende
-Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie ermöglichen Ihren Mitarbeitenden und Mandanten nahtlos digitale Prozesse, die Zeit und Geld sparen.
+Machen Sie es Ihren Vertriebsmitarbeitenden und Kunden einfach, Geschäfte zu machen: Ermöglichen Sie ihnen nahtlos digitale Prozesse, die Zeit sparen statt zusätzliche Arbeit verursachen.
 
-- Intuitive Nutzung
+- Intuitive Nutzerführung
 - Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen und Ablehnen von Signaturen
 - Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur und Company Branding
-- Ortsunabhängig auf dem Smartphone oder Computer signieren – im Home Office, unterwegs oder im Büro 
+- Ortsunabhängig auf dem Smartphone,Tablet oder Computer signieren – im Home Office, unterwegs oder im Büro
 {{% /markdown %}}
 {{< /side-by-side >}}
 
@@ -81,10 +79,9 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=sales-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jede Vereinbarung im Sales-Prozess einsetzbar
-Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Art Dokument rechtsgültig signieren – von Kaufverträgen über Datenverarbeitungsvereinbarungen bis Leasingverträge.
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble signieren Sie jede Art Dokument rechtsgültig – von Kaufverträgen über Datenverarbeitungs-Vereinbarungen bis hin zu Leasingverträgen.
 
-- Rechtsgültig für Verträge mit- und ohne 
-- Schriftformerfordernis
+- Rechtsgültig für Verträge mit und ohne Schriftformerfordernis
 - Weltweit intern und extern einsetzbar
 - Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
 {{% /markdown %}}
@@ -95,10 +92,10 @@ Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können jede Ar
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=12 img=sales-4 img-width=500 img-alt="Verbindung der unterschiedlichen Beteiligten bei Gebrauch von Skribble aus einem HRM visuell dargestellt" >}}
 {{% markdown %}}
 ## Nahtlos integrierbar in bestehende Systeme
-Integrieren Sie Skribble in Ihre Sales-Software oder signieren Sie direkt über den Browser. Kunden können via Einladungslink signieren oder Ihr eigenes Signatur-Tool nutzen.
+Integrieren Sie Skribble in Ihre Sales-Software oder signieren Sie direkt über den Browser. Kunden signieren via Einladungslink oder nutzen ihr eigenes Signatur-Tool. 
 
-- Nahtlose Integration via moderne API
-- Kunden können auch ohne Skribble-Konto •  via Einladungslink signieren
+- Integration via moderne API
+- Kunden können auch ohne Skribble-Konto via Einladungslink signieren
 - Wachsende Anzahl Plugins für die direkte Integration in Sales-Software, CRM-Systeme und DMS.
 {{% /markdown %}}
 {{< /side-by-side >}}
@@ -109,7 +106,7 @@ Integrieren Sie Skribble in Ihre Sales-Software oder signieren Sie direkt über 
 {{% markdown %}}
 Mit Skribble erfüllen Sie 
 die rechtlichen Anforderungen 
-für den Vertrieb
+an den Vertrieb
 ===
 Sie signieren rechtsgültig und sicher gemäss folgenden Erfordernissen:
 {{% /markdown %}}
