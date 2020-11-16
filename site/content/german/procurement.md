@@ -66,8 +66,7 @@ Der Umweg über Drucker und Papier entfällt: Statt Bestellungen, NDAs und Freig
 ## Gute Zusammenarbeit als Erfolgsfaktor
 Sie ermöglichen Ihren Einkäufern und Lieferanten nahtlos digitale Prozesse, die Zeit sparen statt Arbeit verursachen: so sind Vereinbarungen in Sekundenschnelle abegeschlossen.
 
-- Intuitive Nutzerführung
-- Hinzufügen persönlicher Nachricht beim Einladen, Zuweisen und Ablehnen von Signaturen
+- Laden Sie mehrere interne und externe Parteien zum Signieren eines Dokuments ein und fügen Sie eine persönliche Nachricht hinzu
 - Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur
  und Company Branding
 - Ortsunabhängig auf dem Smartphone, Tablet oder Computer signieren – im Home-Office, unterwegs oder im Büro
