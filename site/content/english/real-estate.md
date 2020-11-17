@@ -9,17 +9,17 @@ og_image: og/og-skribble-tax-advisors.jpg
 
 ---
 
-{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Three women hold a contract in their hands" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-real-estate-main img-width=640 img-alt="A man manages his houses" >}}
 {{% markdown %}}
 Electronic signature 
 for real estate
 ===============
-With Skribble, you and your clients can sign faster and more securely.  
+Vermieten Sie Ihre Objekte schneller und bieten Sie ein zeitgemässes Kundenerlebnis.
 
 **Frequently used for:**
-- Financial statements
-- Tax arrangements
-- Client contracts
+- Mietverträge
+- Kautionen
+- Kündigungen
 {{% /markdown %}}
 {{< button
   "Get started"
@@ -38,12 +38,12 @@ With Skribble, you and your clients can sign faster and more securely.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< logos-container top=12 bottom=24 width=wide title="Trusted by more than 250 companies with the highest requirements for data protection and security:">}}
-  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/datev-60w.svg" alt="Datev">}}
-  {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
+  {{< logos-item src="logos/flatfox-115w.svg" alt="Flatfox">}}
+  {{< logos-item src="logos/verit-95w.svg" alt="Verit Immobilien">}}
+  {{< logos-item src="logos/wincasa-150w.svg" alt="Wincasa">}}
   {{< logos-line-break >}}
   {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
-  {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
+  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
   {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
 {{< /logos-container >}}
 
@@ -76,6 +76,12 @@ Signing with Skribble is intuitive and done in seconds. With Skribble, you enabl
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/verit-150w.svg" "Martin Frei, Chief Digital Officer von VERIT" >}}
+“Was vorher Tage dauerte, ist heute in Minuten erledigt – auch, wenn drei, vier oder mehr Parteien unterschreiben.”
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Depending on the contract card, the appropriate signature standard can be used to sign." >}}
 {{% markdown %}}
 ## Suitable for any document and client
@@ -99,6 +105,54 @@ Integrate Skribble into your law firm software, or sign directly from your brows
 - Keep the look and feel of your handwritten signature thanks to the customisable visual signature
 {{% /markdown %}}
 {{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< testimonial "testimonial/flatfox-150w.svg" "Silvan Spross, Mitgründer von Flatfox" >}}
+“Die E-Signatur war das fehlende Puzzleteil zur Verwirklichung unseres Anspruchs: die nahtlos digitale Abwicklung der Vermietung, von der Ausschreibung bis zum Vertragsabschluss”
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
+{{% markdown %}}
+## Für jedes Dokument und jedes Mandat einsetzbar
+Verschiedene Dokumente, verschiedene Anforderungen. Mit Skribble können Sie jede Art Dokument rechtsgültig signieren – von Abschlüssen über Gestaltungen bis hin zu Freigabeerklärungen.
+
+- Rechtsgültig für Verträge mit- und ohne Schriftformerfordernis
+- Weltweit intern und extern einsetzbar
+- Höchste Sicherheits- und Datenschutz-Standards mit Hosting auf Banken-Level in der Schweiz
+{{% /markdown %}}
+{{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
+Flatfox und VERIT beschleunigen 
+die Vermietung von Wohnobjekten 
+durch eine nahtlos digitale Abwicklung von Mietverträgen
+===
+{{% /markdown %}}
+{{< /content >}}
+
+{{< testimonial "testimonial/flatfox-150w.svg" "Silvan Spross, Mitgründer von Flatfox" >}}
+“Für uns kam nur eine Lösung in Frage, die beweiskräftig, auf höchstem Datenschutz-Level und gleichzeitig absolut benutzerfreundlich ist.”
+{{< /testimonial >}}
+
+{{< cta
+  label="Use Case anschauen"
+  href=""
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Mehr zum Use Case von Flatfox und VERIT:**
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
