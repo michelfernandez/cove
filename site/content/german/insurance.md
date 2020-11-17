@@ -5,20 +5,20 @@ draft: false
 slug: versicherungen
 
 # opengraph image (for facebook and twitter)
-og_image: og/og-skribble-tax-advisors.jpg
+og_image: og/og-skribble-insurance.jpg
 
 ---
-{{< intro top=24 bottom=12 width=wide img=vertical-tax-consultant-main img-width=520 img-alt="Drei Frauen halten einen Vertrag in der Hand" >}}
+{{< intro top=24 bottom=12 width=wide img=vertical-insurance-main img-width=600 img-alt="Eine Frau sitzt mit ihrem Notebook." >}}
 {{% markdown %}}
 Elektronische Signatur 
 für Versicherungen
 ===============
-Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer.
+Mehr Effizienz dank nahtlos digitalen Prozessen - vom Antrag bis zur Police. Im Einsatz bei Versicherungen und Rückversicherungen.
 
-**Häufig eingesetzt für:**
-- Bilanz & Jahresabschlüsse
-- Mandantenverträge
-- Freigabeerklärungen
+**Beliebt für:**
+- Anträge
+- Policen
+- Versicherungsverträge
 {{% /markdown %}}
 {{< button
   "Jetzt loslegen"
@@ -36,13 +36,13 @@ Mit Skribble signieren Sie und Ihre Mandanten schneller und sicherer.
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
 {{< logos-container top=12 bottom=24 width=wide title="Die erste Wahl von mehr als 250 Unternehmen mit höchsten Ansprüchen an Datenschutz und Sicherheit:">}}
-  {{< logos-item src="logos/canon-116w.svg" alt="Canon">}}
-  {{< logos-item src="logos/datev-60w.svg" alt="Datev">}}
+  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
+  {{< logos-item src="logos/uniqa-re-100w.svg" alt="Uniqa RE">}}
+  {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
   {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
   {{< logos-line-break >}}
-  {{< logos-item src="logos/helvetia-150w.svg" alt="Helvetia Versicherung">}}
   {{< logos-item src="logos/seg-120w.svg" alt="SEG Automotive">}}
-  {{< logos-item src="logos/mobiliar-144w.svg" alt="Mobiliar">}}
+  {{< logos-item src="logos/easyjet-132w.svg" alt="EasyJet">}}
 {{< /logos-container >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
@@ -74,6 +74,12 @@ Das Signieren mit Skribble ist intuitiv und in Sekundenschnelle erledigt. Sie er
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
+{{< testimonial "testimonial/helvetia-150w.png" "Martin Tschopp, Chief Customer Officer von Helvetia Schweiz" >}}
+"Bei Helvetia sind in vielen Bereichen ‹nasse› Unterschriften nötig, zum Beispiel in der Lebensversicherung, aber auch in internen Prozessen. Mit Skribble können wir diese Prozesse komplett digitalisieren." 
+{{< /testimonial >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
 {{< side-by-side top=8 bottom=12 mobile-top=6 mobile-bottom=6 img=tax-consultant-3 img-width=500 img-position=right img-alt="Ein Kreis zeigt, wie ich von meiner Cloud heraus aus unterschreiben kann." >}}
 {{% markdown %}}
 ## Für jedes Dokument und jedes Mandat einsetzbar
@@ -97,6 +103,29 @@ Integrieren Sie Skribble in Ihre Kanzlei-Software oder signieren Sie direkt übe
 - Gewohntes Erscheinungsbild dank personalisierbarer visueller Signatur
 {{% /markdown %}}
 {{< /side-by-side >}}
+
+[//]: # (--------------------------------------------------------------------------------------------------------------)
+
+{{< content text=center top=16 width=narrow >}}
+{{% markdown %}}
+## UNIQA Re schliesst Verträge mit zentral- & osteuropäischen Tochtergesellschaften schneller ab
+{{% /markdown %}}
+{{< /content >}}
+
+{{< testimonial "testimonial/uniqa-200w.png" "Jaroslav Molik, Reinsurance Manager, UNIQA Re" >}}
+"Dank Skribble bin ich bei meiner täglichen Arbeit deutlich gelassener, da wir Verträge mit Tochtergesellschaften in Österreich, Mittel- und Osteuropa heute deutlich schneller und sicherer abschliessen können." {{< /testimonial >}}
+
+{{< cta
+  label="Download Use-Case"
+  href="https://f.hubspotusercontent40.net/hubfs/5051692/Factstheets/Use%20Cases/UniqaRE_Skribble_Use-Case_DE.pdf"
+  outlined="true"
+  target="_blank"
+>}}
+
+{{% markdown %}}
+**Laden Sie den UNIQA Re Use-Case herunter:**
+{{% /markdown %}}
+{{< /cta >}}
 
 [//]: # (--------------------------------------------------------------------------------------------------------------)
 
